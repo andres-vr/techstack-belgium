@@ -1,0 +1,33 @@
+{
+  "companyName": "Craftcode",
+  "website": "https://craftcode.be",
+  "locations": [
+    {
+      "province": "antwerp",
+      "municipality": "edegem",
+      "address": "Prins Boudewijnlaan 43 2650 Edegem BE",
+      "coords": [
+        4.436157,
+        51.14866
+      ]
+    }
+  ],
+  "techStack": [
+    "Java",
+    "Kotlin",
+    "AWS",
+    "Azure",
+    "GCP",
+    "React",
+    "Angular",
+    "Vue",
+    "Node.js",
+    "Spring Boot"
+  ],
+  "proofUrls": [
+    "https://craftcode.be/"
+  ],
+  "cbe": "1011.008.828",
+  "employees": 13,
+  "founded": 2024
+}
