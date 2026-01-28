@@ -1,0 +1,31 @@
+{
+  "companyName": "Jstack",
+  "website": "https://jstack.eu",
+  "locations": [
+    {
+      "province": "antwerp",
+      "municipality": "kontich",
+      "address": "Veldkant 33 B 2550 Kontich BE",
+      "coords": [
+        4.442747,
+        51.142439
+      ]
+    }
+  ],
+  "techStack": [
+    "Angular",
+    "React",
+    "Node.js",
+    "Java",
+    "AWS",
+    "Azure",
+    "MongoDB",
+    "PostgreSQL"
+  ],
+  "proofUrls": [
+    "https://jstack.eu/onze-aanpak"
+  ],
+  "cbe": "0656.936.854",
+  "employees": 10,
+  "founded": 2016
+}
