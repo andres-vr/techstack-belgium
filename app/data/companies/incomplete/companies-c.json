@@ -9765,26 +9765,6 @@
     "proof": []
   },
   {
-    "cbe": "1011.008.828",
-    "name": "Craftcode",
-    "site": "",
-    "locations": [
-      {
-        "province": "antwerp",
-        "municipality": "edegem",
-        "address": "Prins Boudewijnlaan 43 2650 Edegem BE",
-        "coords": [
-          4.436157,
-          51.14866
-        ]
-      }
-    ],
-    "tech": [],
-    "employees": 13,
-    "founded": 2024,
-    "proof": []
-  },
-  {
     "cbe": "0877.035.297",
     "name": "Clickworks",
     "site": "",
