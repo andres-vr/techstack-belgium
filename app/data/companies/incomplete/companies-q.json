@@ -1,0 +1,1296 @@
+[
+  {
+    "cbe": "0430.817.382",
+    "name": "Q2c",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "brugge",
+        "address": "Baron Ruzettelaan 240 8310 Brugge BE",
+        "coords": [
+          3.233797,
+          51.184926
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 20,
+    "founded": 1987,
+    "proof": []
+  },
+  {
+    "cbe": "0447.433.680",
+    "name": "Quod Bonum, Felix Faustumque Sit",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "evergem",
+        "address": "Vurstjen 4-8 9940 Evergem BE",
+        "coords": [
+          3.700124,
+          51.105334
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 1992,
+    "proof": []
+  },
+  {
+    "cbe": "0458.335.589",
+    "name": "Quadrature",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "charleroi",
+        "address": "Rue Auguste Piccard 20 6041 Charleroi BE",
+        "coords": [
+          4.462904,
+          50.469856
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 1996,
+    "proof": []
+  },
+  {
+    "cbe": "0460.993.587",
+    "name": "Quality Control",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "Wolvenstraat(Kor) 23 8500 Kortrijk BE",
+        "coords": [
+          3.266289,
+          50.816586
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 1997,
+    "proof": []
+  },
+  {
+    "cbe": "0464.789.554",
+    "name": "Qastan",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kuurne",
+        "address": "Brugsesteenweg 48 8520 Kuurne BE",
+        "coords": [
+          3.269849,
+          50.847429
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 1998,
+    "proof": []
+  },
+  {
+    "cbe": "0465.918.219",
+    "name": "Quinta Essentia Software Development",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0474.936.348",
+    "name": "Qsolutions",
+    "site": "www.qsolutions.be",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "heusden-zolder",
+        "address": "O.L. Vrouwstraat 155 3550 Heusden-Zolder BE",
+        "coords": [
+          5.271962,
+          51.011761
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Kempische steenweg 303 200 3500 Hasselt BE",
+        "coords": [
+          5.35093,
+          50.95385
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0502.988.154",
+    "name": "Qite",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Overzet 16 A 9000 Gent BE",
+        "coords": [
+          3.698725,
+          51.052379
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0536.354.570",
+    "name": "Qbit",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "beernem",
+        "address": "Knesselarestraat 185 8730 Beernem BE",
+        "coords": [
+          3.37666,
+          51.15469
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "beernem",
+        "address": "Bruggestraat 200 8730 Beernem BE",
+        "coords": [
+          3.292447,
+          51.187233
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0559.981.592",
+    "name": "Qompium",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Kempische steenweg 303 27 3500 Hasselt BE",
+        "coords": [
+          5.35093,
+          50.95385
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 17,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0567.741.889",
+    "name": "Q1.6",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Turnhoutsebaan 139A 2140 Antwerpen BE",
+        "coords": [
+          4.434479,
+          51.215322
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0642.664.095",
+    "name": "Qollabi",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Quellinstraat 49 2018 Antwerpen BE",
+        "coords": [
+          4.416087,
+          51.215276
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-joost-ten-node",
+        "address": "Square Victoria Régina 1 1210 Saint-Josse-ten-Noode BE",
+        "coords": [
+          4.363285,
+          50.855718
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0650.939.878",
+    "name": "Qover",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue du Commerce 31 1000 Bruxelles BE",
+        "coords": [
+          4.368068,
+          50.840885
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 108,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0654.846.901",
+    "name": "Quandyga Engineering",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "ottignies-louvain-la-neuve",
+        "address": "Chemin du Cyclotron 6 1348 Ottignies-Louvain-la-Neuve BE",
+        "coords": [
+          4.62368,
+          50.66513
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0656.636.352",
+    "name": "Q-matic Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Excelsiorlaan 3 1930 Zaventem BE",
+        "coords": [
+          4.455712,
+          50.881069
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0660.744.006",
+    "name": "Quasydoc",
+    "site": "www.quasydoc.eu",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Herkenrodesingel 4 2 3500 Hasselt BE",
+        "coords": [
+          5.318619,
+          50.939807
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 18,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0677.625.469",
+    "name": "Qteal",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Eglantierlaan 122 2610 Antwerpen BE",
+        "coords": [
+          4.394561,
+          51.182899
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "herentals",
+        "address": "Diamantstraat 8 2200 Herentals BE",
+        "coords": [
+          4.80594,
+          51.15922
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0688.926.959",
+    "name": "Qinexo",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0698.761.175",
+    "name": "Qtd Interieurarchitecten",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "brecht",
+        "address": "Hogebaan 46 2960 Brecht BE",
+        "coords": [
+          4.564772,
+          51.296269
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0727.542.461",
+    "name": "Qubix",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0745.421.244",
+    "name": "Qweekle",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "genappe",
+        "address": "Avenue Dame Berthe 11 1470 Genappe BE",
+        "coords": [
+          4.527813,
+          50.641506
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0756.857.445",
+    "name": "Qabotics",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Louise 251 4 1050 Ixelles BE",
+        "coords": [
+          4.355166,
+          50.817496
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 22,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0757.695.209",
+    "name": "Quickwin-it Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "jodoigne",
+        "address": "Rue des Prés 30 1370 Jodoigne BE",
+        "coords": [
+          4.882585,
+          50.738064
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0772.640.434",
+    "name": "Qargo Tech",
+    "site": "www.qargo.io",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Gaston Crommenlaan 4 9050 Gent BE",
+        "coords": [
+          3.73576,
+          51.036865
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 28,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0776.635.943",
+    "name": "Qonic",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Koning Albertlaan 140 9000 Gent BE",
+        "coords": [
+          3.71049,
+          51.040103
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0783.340.623",
+    "name": "Quivvy Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Poortakkerstraat 57 9051 Gent BE",
+        "coords": [
+          3.68657,
+          51.02941
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0792.503.559",
+    "name": "Quest-tek Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Aarschotsesteenweg 777 3012 Leuven BE",
+        "coords": [
+          4.733823,
+          50.93812
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue des Colonies 11 1000 Bruxelles BE",
+        "coords": [
+          4.35963,
+          50.84641
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0795.115.928",
+    "name": "Quickstream",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "erpe-mere",
+        "address": "Oudebaan 15 9420 Erpe-Mere BE",
+        "coords": [
+          3.935198,
+          50.917924
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0816.729.013",
+    "name": "Quantum Leap Development",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "grimbergen",
+        "address": "Kruipstraat 13 1850 Grimbergen BE",
+        "coords": [
+          4.364327,
+          50.939854
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0822.522.980",
+    "name": "Quarks",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "modave",
+        "address": "Rue de la Charmille 2B 4577 Modave BE",
+        "coords": [
+          5.318298,
+          50.504996
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0822.741.924",
+    "name": "Qualifio",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "ottignies-louvain-la-neuve",
+        "address": "Avenue Athéna 1 1348 Ottignies-Louvain-la-Neuve BE",
+        "coords": [
+          4.61082,
+          50.67515
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 55,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0832.270.193",
+    "name": "Qubris",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "geel",
+        "address": "Kleinhoefstraat 5 2440 Geel BE",
+        "coords": [
+          4.965464,
+          51.161716
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0840.884.387",
+    "name": "Qaelum",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Kolonel Begaultlaan 1 B 3012 Leuven BE",
+        "coords": [
+          4.705635,
+          50.888721
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 25,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0846.474.557",
+    "name": "Qplox Engineering",
+    "site": "www.qplox.com",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Interleuvenlaan 62 3001 Leuven BE",
+        "coords": [
+          4.73638,
+          50.84936
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 30,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0849.774.042",
+    "name": "Questi",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "geel",
+        "address": "Winkelomseheide 233 8 2440 Geel BE",
+        "coords": [
+          5.018972,
+          51.120389
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0863.751.544",
+    "name": "Qorvo Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "zele",
+        "address": "Spinnerijstraat 14 9240 Zele BE",
+        "coords": [
+          4.04855,
+          51.0725
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 33,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0881.486.906",
+    "name": "Q-top",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "houthalen-helchteren",
+        "address": "Kiezelweg 6 3530 Houthalen-Helchteren BE",
+        "coords": [
+          5.374452,
+          51.029778
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0899.772.988",
+    "name": "Qmino",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "bierbeek",
+        "address": "Nieuwstraat 28 3360 Bierbeek BE",
+        "coords": [
+          4.756035,
+          50.865204
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0477.374.216",
+    "name": "Quinaptis",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Neerlandweg 17 2610 Antwerpen BE",
+        "coords": [
+          4.389491,
+          51.159304
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2002,
+    "proof": []
+  },
+  {
+    "cbe": "0548.988.128",
+    "name": "Quadata",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 B 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0555.907.097",
+    "name": "Quasas",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "buggenhout",
+        "address": "Maalderijstraat 13-15 9255 Buggenhout BE",
+        "coords": [
+          4.203077,
+          51.013584
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0607.977.786",
+    "name": "Qfirst",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "westerlo",
+        "address": "Schietboomstraat 33 2260 Westerlo BE",
+        "coords": [
+          4.874023,
+          51.090256
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0628.573.163",
+    "name": "Quantacorp",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Gaston Crommenlaan 8 9050 Gent BE",
+        "coords": [
+          3.734646,
+          51.036383
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0673.871.668",
+    "name": "Queensberg",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "wavre",
+        "address": "Avenue de l'Etang 31 1300 Wavre BE",
+        "coords": [
+          4.619668,
+          50.710324
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0682.709.853",
+    "name": "Quorum Analytics Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Square de Meeûs 35 1000 Bruxelles BE",
+        "coords": [
+          4.369375,
+          50.840738
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0687.629.832",
+    "name": "Quantive",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Philipssite 5 1 3001 Leuven BE",
+        "coords": [
+          4.712963,
+          50.867016
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0688.699.802",
+    "name": "Quest Studio",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "merelbeke-melle",
+        "address": "Hoorndriesstraat 84 9820 Merelbeke-Melle BE",
+        "coords": [
+          3.72548,
+          50.973741
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0720.512.337",
+    "name": "Qbd Wallonia",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "charleroi",
+        "address": "Rue Clément Ader 10 6041 Charleroi BE",
+        "coords": [
+          4.466763,
+          50.470586
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 19,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0728.898.679",
+    "name": "Queaso Services",
+    "site": "www.queaso.be",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "destelbergen",
+        "address": "Dendermondesteenweg 530 A 9070 Destelbergen BE",
+        "coords": [
+          3.807144,
+          51.056991
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 30,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0742.565.880",
+    "name": "Qustomdot",
+    "site": "www.qustomdot.be",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Technologiepark-Zwijnaarde 66 9052 Gent BE",
+        "coords": [
+          3.709667,
+          51.008427
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 35,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0750.474.746",
+    "name": "Qonqord Belux",
+    "site": "www.woodwing.com",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "temse",
+        "address": "Luxemburgstraat 20 9140 Temse BE",
+        "coords": [
+          4.186226,
+          51.142996
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0764.939.822",
+    "name": "Quatre Mains",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "bornem",
+        "address": "Kapelstraat 10 A 2880 Bornem BE",
+        "coords": [
+          4.235926,
+          51.098779
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "bornem",
+        "address": "Stationsstraat 1 2880 Bornem BE",
+        "coords": [
+          4.236057,
+          51.099644
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0787.821.726",
+    "name": "Quarian",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "frameries",
+        "address": "Route de Bavay 56 7080 Frameries BE",
+        "coords": [
+          3.921664,
+          50.408054
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0812.098.450",
+    "name": "Quest For People",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kapellen",
+        "address": "Bosruiterlei 7 2950 Kapellen BE",
+        "coords": [
+          4.479539,
+          51.344988
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0825.302.031",
+    "name": "Quendra",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "nivelles",
+        "address": "Avenue Robert Schuman 12 1400 Nivelles BE",
+        "coords": [
+          4.328261,
+          50.620203
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0838.540.254",
+    "name": "Qbd Group",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Groenenborgerlaan 16 2610 Antwerpen BE",
+        "coords": [
+          4.40224,
+          51.17399
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 222,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0840.183.415",
+    "name": "Quicktyp",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "tienen",
+        "address": "Houtemstraat 418 3300 Tienen BE",
+        "coords": [
+          4.951847,
+          50.823582
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0842.678.491",
+    "name": "Quanteam",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue Joseph Stevens 7 1000 Bruxelles BE",
+        "coords": [
+          4.352477,
+          50.841326
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0847.306.777",
+    "name": "Qadvice",
+    "site": "www.qadvice.be",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zemst",
+        "address": "Eetveldstraat 17 1980 Zemst BE",
+        "coords": [
+          4.448528,
+          50.962005
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0871.373.962",
+    "name": "Quest Computers",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "blankenberge",
+        "address": "Brugse Steenweg 72 8370 Blankenberge BE",
+        "coords": [
+          3.146786,
+          51.300833
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0887.377.180",
+    "name": "Qframe",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 39,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0898.204.558",
+    "name": "Quality Training",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "uccle",
+        "address": "Rue du Coq 51 1180 Uccle BE",
+        "coords": [
+          4.336015,
+          50.7951
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2008,
+    "proof": []
+  }
+]

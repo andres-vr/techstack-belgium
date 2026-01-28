@@ -1,0 +1,31 @@
+import type { Municipality } from "~~/types"
+
+export const walloonBrabant: Municipality[] = [
+  { id: "beauvechain", province: "walloon-brabant", names: { nl: "Bevekom", fr: "Beauvechain", de: "Beauvechain", en: "Beauvechain" } },
+  { id: "braine-lalleud", province: "walloon-brabant", names: { nl: "Eigenbrakel", fr: "Braine-l'Alleud", de: "Braine-l'Alleud", en: "Braine-l'Alleud" } },
+  { id: "braine-le-chateau", province: "walloon-brabant", names: { nl: "Kasteelbrakel", fr: "Braine-le-Château", de: "Braine-le-Château", en: "Braine-le-Château" } },
+  { id: "chastre", province: "walloon-brabant", names: { nl: "Chastre", fr: "Chastre", de: "Chastre", en: "Chastre" } },
+  { id: "chaumont-gistoux", province: "walloon-brabant", names: { nl: "Chaumont-Gistoux", fr: "Chaumont-Gistoux", de: "Chaumont-Gistoux", en: "Chaumont-Gistoux" } },
+  { id: "court-saint-etienne", province: "walloon-brabant", names: { nl: "Court-Saint-Étienne", fr: "Court-Saint-Étienne", de: "Court-Saint-Étienne", en: "Court-Saint-Étienne" } },
+  { id: "genappe", province: "walloon-brabant", names: { nl: "Genepiën", fr: "Genappe", de: "Genappe", en: "Genappe" } },
+  { id: "grez-doiceau", province: "walloon-brabant", names: { nl: "Graven", fr: "Grez-Doiceau", de: "Grez-Doiceau", en: "Grez-Doiceau" } },
+  { id: "helecine", province: "walloon-brabant", names: { nl: "Heylissem", fr: "Hélécine", de: "Hélécine", en: "Hélécine" } },
+  { id: "incourt", province: "walloon-brabant", names: { nl: "Incourt", fr: "Incourt", de: "Incourt", en: "Incourt" } },
+  { id: "ittre", province: "walloon-brabant", names: { nl: "Itter", fr: "Ittre", de: "Ittre", en: "Ittre" } },
+  { id: "jodoigne", province: "walloon-brabant", names: { nl: "Geldenaken", fr: "Jodoigne", de: "Jodoigne", en: "Jodoigne" } },
+  { id: "la-hulpe", province: "walloon-brabant", names: { nl: "Terhulpen", fr: "La Hulpe", de: "La Hulpe", en: "La Hulpe" } },
+  { id: "lasne", province: "walloon-brabant", names: { nl: "Lasne", fr: "Lasne", de: "Lasne", en: "Lasne" } },
+  { id: "mont-saint-guibert", province: "walloon-brabant", names: { nl: "Mont-Saint-Guibert", fr: "Mont-Saint-Guibert", de: "Mont-Saint-Guibert", en: "Mont-Saint-Guibert" } },
+  { id: "nivelles", province: "walloon-brabant", names: { nl: "Nijvel", fr: "Nivelles", de: "Nivelles", en: "Nivelles" } },
+  { id: "orp-jauche", province: "walloon-brabant", names: { nl: "Adorp-Geten", fr: "Orp-Jauche", de: "Orp-Jauche", en: "Orp-Jauche" } },
+  { id: "ottignies-louvain-la-neuve", province: "walloon-brabant", names: { nl: "Ottignies-Louvain-la-Neuve", fr: "Ottignies-Louvain-la-Neuve", de: "Ottignies-Louvain-la-Neuve", en: "Ottignies-Louvain-la-Neuve" } },
+  { id: "perwez", province: "walloon-brabant", names: { nl: "Perwijs", fr: "Perwez", de: "Perwez", en: "Perwez" } },
+  { id: "ramillies", province: "walloon-brabant", names: { nl: "Ramillies", fr: "Ramillies", de: "Ramillies", en: "Ramillies" } },
+  { id: "rebecq", province: "walloon-brabant", names: { nl: "Rebecq", fr: "Rebecq", de: "Rebecq", en: "Rebecq" } },
+  { id: "rixensart", province: "walloon-brabant", names: { nl: "Rixensart", fr: "Rixensart", de: "Rixensart", en: "Rixensart" } },
+  { id: "tubize", province: "walloon-brabant", names: { nl: "Tubeke", fr: "Tubize", de: "Tubize", en: "Tubize" } },
+  { id: "villers-la-ville", province: "walloon-brabant", names: { nl: "Villers-la-Ville", fr: "Villers-la-Ville", de: "Villers-la-Ville", en: "Villers-la-Ville" } },
+  { id: "walhain", province: "walloon-brabant", names: { nl: "Walhain", fr: "Walhain", de: "Walhain", en: "Walhain" } },
+  { id: "waterloo", province: "walloon-brabant", names: { nl: "Waterloo", fr: "Waterloo", de: "Waterloo", en: "Waterloo" } },
+  { id: "wavre", province: "walloon-brabant", names: { nl: "Waver", fr: "Wavre", de: "Wavre", en: "Wavre" } }
+]

@@ -1,0 +1,1148 @@
+[
+  {
+    "cbe": "0431.840.337",
+    "name": "Jointmedia",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "pittem",
+        "address": "Tieltstraat 167 8740 Pittem BE",
+        "coords": [
+          3.305109,
+          50.996201
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 1987,
+    "proof": []
+  },
+  {
+    "cbe": "0436.236.318",
+    "name": "Jaja",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Muinklaan 6 9000 Gent BE",
+        "coords": [
+          3.729575,
+          51.042689
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 1988,
+    "proof": []
+  },
+  {
+    "cbe": "0460.831.756",
+    "name": "Jd Soft",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "brecht",
+        "address": "Vaartstraat 17 2960 Brecht BE",
+        "coords": [
+          4.642426,
+          51.347167
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 1997,
+    "proof": []
+  },
+  {
+    "cbe": "0462.146.107",
+    "name": "Jabbla",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Foreestelaan 3 9000 Gent BE",
+        "coords": [
+          3.733038,
+          51.030266
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 1997,
+    "proof": []
+  },
+  {
+    "cbe": "0463.244.284",
+    "name": "Jorosoft",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "knokke-heist",
+        "address": "Boudewijnlaan 14 8300 Knokke-Heist BE",
+        "coords": [
+          3.289492,
+          51.34257
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 1998,
+    "proof": []
+  },
+  {
+    "cbe": "0472.540.745",
+    "name": "Juniper Networks Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "Hermeslaan 1 1831 Machelen BE",
+        "coords": [
+          4.44701,
+          50.88308
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0527.984.757",
+    "name": "Jvdm Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "etterbeek",
+        "address": "Rue des Pères Blancs 4 1040 Etterbeek BE",
+        "coords": [
+          4.400036,
+          50.826661
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0635.872.810",
+    "name": "Jl-projects",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "stekene",
+        "address": "Nieuwdorp 62 9190 Stekene BE",
+        "coords": [
+          3.997424,
+          51.224059
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0656.936.854",
+    "name": "Jstack",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 B 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0659.954.940",
+    "name": "Jams Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Place Sainte-Catherine 13 1000 Bruxelles BE",
+        "coords": [
+          4.348074,
+          50.851046
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0665.683.284",
+    "name": "Joyn4local",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Ilgatlaan 9 3 3500 Hasselt BE",
+        "coords": [
+          5.354289,
+          50.922248
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0672.517.133",
+    "name": "Joda Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "zele",
+        "address": "Rinkhout 156 9240 Zele BE",
+        "coords": [
+          4.058399,
+          51.069146
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0674.669.444",
+    "name": "J Square Studio",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "mont-saint-guibert",
+        "address": "Rue Haute 44 a 1435 Mont-Saint-Guibert BE",
+        "coords": [
+          4.65153,
+          50.647426
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "ottignies-louvain-la-neuve",
+        "address": "Place de l'Université 25 5 1348 Ottignies-Louvain-la-Neuve BE",
+        "coords": [
+          4.615556,
+          50.670216
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 20,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0675.441.088",
+    "name": "Jetpack",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "etterbeek",
+        "address": "Avenue Victor Jacobs 78 1040 Etterbeek BE",
+        "coords": [
+          4.382078,
+          50.829965
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Esplanade Simone VEIL 1 4000 Liège BE",
+        "coords": [
+          5.571249,
+          50.626293
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Luchthaven Brussel Nationaal 1M 1930 Zaventem BE",
+        "coords": [
+          4.48426,
+          50.89838
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 21,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0684.939.269",
+    "name": "Jimber",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "oostkamp",
+        "address": "Legeweg 157 D 8020 Oostkamp BE",
+        "coords": [
+          3.247777,
+          51.171999
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 27,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0686.792.761",
+    "name": "Josworld",
+    "site": "www.josworld.org",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue de Laeken 99 1000 Bruxelles BE",
+        "coords": [
+          4.352023,
+          50.853897
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0697.724.067",
+    "name": "Jigso",
+    "site": "jigso.com",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Antwerpsesteenweg 61 2660 Antwerpen BE",
+        "coords": [
+          4.35345,
+          51.17823
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0741.769.490",
+    "name": "Joule Assets Europe",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "schaerbeek",
+        "address": "Rue Royale 261 1030 Schaerbeek BE",
+        "coords": [
+          4.368322,
+          50.857801
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0775.584.086",
+    "name": "Ju L’idee",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "andenne",
+        "address": "Rue Is. Parmentier 305 5300 Andenne BE",
+        "coords": [
+          5.097089,
+          50.489266
+        ]
+      },
+      {
+        "province": "namur",
+        "municipality": "andenne",
+        "address": "Rue Brun 7 5300 Andenne BE",
+        "coords": [
+          5.097388,
+          50.488937
+        ]
+      },
+      {
+        "province": "namur",
+        "municipality": "ciney",
+        "address": "Rue du Centre 39 5590 Ciney BE",
+        "coords": [
+          5.101753,
+          50.296885
+        ]
+      },
+      {
+        "province": "namur",
+        "municipality": "eghezee",
+        "address": "Chaussée de Louvain 51 5310 Eghezée BE",
+        "coords": [
+          4.90883,
+          50.59466
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0795.149.085",
+    "name": "Juwin-s",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "schoten",
+        "address": "Metropoolstraat 30 UNIT 3.2 2900 Schoten BE",
+        "coords": [
+          4.466057,
+          51.240329
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0810.416.786",
+    "name": "Jcon",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "beerse",
+        "address": "Bremstraat 1 2340 Beerse BE",
+        "coords": [
+          4.863715,
+          51.313205
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0811.369.762",
+    "name": "Jhunting",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "mons",
+        "address": "Rue des Bruyères 210 7034 Mons BE",
+        "coords": [
+          4.033144,
+          50.482616
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0812.704.701",
+    "name": "Jobco",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "stekene",
+        "address": "Nieuwstraat 115 A 9190 Stekene BE",
+        "coords": [
+          4.055753,
+          51.204959
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0829.147.585",
+    "name": "J&i Consult",
+    "site": "www.ji-consult.be",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "temse",
+        "address": "Georges Van Dammeplein 1 9140 Temse BE",
+        "coords": [
+          4.209042,
+          51.122345
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0832.146.469",
+    "name": "Jfk Computers",
+    "site": "www.jfkcomputers.be",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "beernem",
+        "address": "N. Fonteynestraat 47 8730 Beernem BE",
+        "coords": [
+          3.32788,
+          51.16929
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "gistel",
+        "address": "Tempelhofstraat 6 1 8470 Gistel BE",
+        "coords": [
+          2.962332,
+          51.156139
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "veurne",
+        "address": "Lindendreef 28 8630 Veurne BE",
+        "coords": [
+          2.66342,
+          51.06958
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0846.759.718",
+    "name": "Joyn",
+    "site": "www.joyn.eu",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Ilgatlaan 9 3 3500 Hasselt BE",
+        "coords": [
+          5.354289,
+          50.922248
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0893.232.814",
+    "name": "J.d.-consult",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "keerbergen",
+        "address": "Krekelweg 2 3140 Keerbergen BE",
+        "coords": [
+          4.692184,
+          50.996309
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "heist-op-den-berg",
+        "address": "Industriepark 4 10 2220 Heist-op-den-Berg BE",
+        "coords": [
+          4.715343,
+          51.06083
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 28,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0895.096.895",
+    "name": "Jvs",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "braine-lalleud",
+        "address": "Rue Pierre Flamand 39 1420 Braine-l'Alleud BE",
+        "coords": [
+          4.370848,
+          50.686178
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0405.035.970",
+    "name": "Janic",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "sint-niklaas",
+        "address": "Heidebaan 43 9100 Sint-Niklaas BE",
+        "coords": [
+          4.179918,
+          51.169509
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 23,
+    "founded": 1954,
+    "proof": []
+  },
+  {
+    "cbe": "0426.808.215",
+    "name": "Joseph Baijot Et Fils",
+    "site": "www.maisonsbaijot.be",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "gedinne",
+        "address": "Rue de Malvoisin, Pat. 38 5575 Gedinne BE",
+        "coords": [
+          4.950903,
+          49.999723
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 35,
+    "founded": 1985,
+    "proof": []
+  },
+  {
+    "cbe": "0445.416.971",
+    "name": "Jkw",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "putte",
+        "address": "Saffraanbergen 3 A 2580 Putte BE",
+        "coords": [
+          4.646226,
+          51.023733
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 1991,
+    "proof": []
+  },
+  {
+    "cbe": "0479.594.130",
+    "name": "Jd. Systems",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "menen",
+        "address": "Ieperstraat 203 8930 Menen BE",
+        "coords": [
+          3.109704,
+          50.799869
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2003,
+    "proof": []
+  },
+  {
+    "cbe": "0507.615.549",
+    "name": "Jworks",
+    "site": "www.jworks.be",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "malmedy",
+        "address": "Rue Joseph Werson 28 A4 4960 Malmedy BE",
+        "coords": [
+          6.036068,
+          50.423905
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0507.743.629",
+    "name": "Jobtoolz",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "President Kennedypark 16 B 8500 Kortrijk BE",
+        "coords": [
+          3.27177,
+          50.799699
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0552.628.004",
+    "name": "Juyo",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Avenue Louise 231 1050 Bruxelles BE",
+        "coords": [
+          4.355166,
+          50.817496
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "tervuren",
+        "address": "Oudergemse weg 25 3080 Tervuren BE",
+        "coords": [
+          4.536767,
+          50.852127
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0552.742.721",
+    "name": "John Doe Group",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "lasne",
+        "address": "Route de Genval 32 1380 Lasne BE",
+        "coords": [
+          4.471631,
+          50.705521
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0642.930.747",
+    "name": "Jak Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "anderlecht",
+        "address": "Boulevard Industriel 65 1070 Anderlecht BE",
+        "coords": [
+          4.308222,
+          50.822025
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "wemmel",
+        "address": "Avenue Reine Astrid 59A 1780 Wemmel BE",
+        "coords": [
+          4.314598,
+          50.897003
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0666.960.518",
+    "name": "Jvb Technics",
+    "site": "www.jvbtechnics.be",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "ans",
+        "address": "Avenue de l'Energie 25 G1 4432 Ans BE",
+        "coords": [
+          5.53422,
+          50.67585
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0715.548.016",
+    "name": "Jt Securite",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "herstal",
+        "address": "En Hurbise 153 4040 Herstal BE",
+        "coords": [
+          5.628192,
+          50.687648
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0741.487.202",
+    "name": "J-crafters",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 31 2550 Kontich BE",
+        "coords": [
+          4.443344,
+          51.142801
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 19,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0755.527.357",
+    "name": "Jarviss",
+    "site": "www.jarviss.be",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "lochristi",
+        "address": "Antwerpse Steenweg 19 9080 Lochristi BE",
+        "coords": [
+          3.820201,
+          51.092312
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0775.406.716",
+    "name": "Just Connect",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "anzegem",
+        "address": "Statiestraat 10 A 8570 Anzegem BE",
+        "coords": [
+          3.482581,
+          50.831903
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0776.989.992",
+    "name": "Jov",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "vorst",
+        "address": "Rue des Carburants 42/44 1190 Forest BE",
+        "coords": [
+          4.319265,
+          50.814035
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0787.447.186",
+    "name": "June20 Digital",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Bisschoppenhoflaan 88 2100 Antwerpen BE",
+        "coords": [
+          4.447624,
+          51.230159
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0792.600.658",
+    "name": "Jm Mediapro",
+    "site": "jm-tech.be",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "roosdaal",
+        "address": "Omer De Vidtslaan 14 1760 Roosdaal BE",
+        "coords": [
+          4.087006,
+          50.835338
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "mons",
+        "address": "Rue d'Havré 9 7000 Mons BE",
+        "coords": [
+          3.95287,
+          50.453949
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-jans-molenbeek",
+        "address": "Rue de l'Indépendance 66 14 1080 Molenbeek-Saint-Jean BE",
+        "coords": [
+          4.33105,
+          50.85143
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0808.622.781",
+    "name": "Juvo",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "herentals",
+        "address": "Augustijnenlaan 2 A 2200 Herentals BE",
+        "coords": [
+          4.83569,
+          51.17934
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 23,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0812.392.222",
+    "name": "Justcob",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Gebroeders Vandeveldestraat 68 9000 Gent BE",
+        "coords": [
+          3.717416,
+          51.050322
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0862.964.458",
+    "name": "Jpl Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Luchthavenlei 7C 2100 Antwerpen BE",
+        "coords": [
+          4.4505,
+          51.190455
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0882.566.277",
+    "name": "Jacobson",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "bredene",
+        "address": "Driftweg 117 401 8450 Bredene BE",
+        "coords": [
+          2.955281,
+          51.245547
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0894.231.221",
+    "name": "Jpf Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "colfontaine",
+        "address": "Rue du Grand Passage 9 7340 Colfontaine BE",
+        "coords": [
+          3.850706,
+          50.403285
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0894.248.245",
+    "name": "Jaan",
+    "site": "www.jaan.be",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "assenede",
+        "address": "Zelzatestraat 61 9960 Assenede BE",
+        "coords": [
+          3.77523,
+          51.20466
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "zelzate",
+        "address": "Kanaalstraat 17 9060 Zelzate BE",
+        "coords": [
+          3.80644,
+          51.20118
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2007,
+    "proof": []
+  }
+]

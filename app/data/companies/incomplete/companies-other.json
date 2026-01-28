@@ -1,0 +1,1239 @@
+[
+  {
+    "cbe": "0431.926.152",
+    "name": "4. St Services Systems Software Support Technologies Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Romeinse straat 10 3001 Leuven BE",
+        "coords": [
+          4.736049,
+          50.845153
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 1987,
+    "proof": []
+  },
+  {
+    "cbe": "0451.393.656",
+    "name": "4 Business Software",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "duffel",
+        "address": "Nijverheidsstraat 37 2570 Duffel BE",
+        "coords": [
+          4.550263,
+          51.11019
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 22,
+    "founded": 1993,
+    "proof": []
+  },
+  {
+    "cbe": "0465.755.594",
+    "name": "3e",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Quai à la Chaux 6 1000 Bruxelles BE",
+        "coords": [
+          4.347466,
+          50.855069
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "jodoigne",
+        "address": "Rue du Grand Moulin(Jod.) 11 1370 Jodoigne BE",
+        "coords": [
+          4.864946,
+          50.727056
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 82,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0465.842.993",
+    "name": "72dpi",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "evere",
+        "address": "Av. L. Mommaerts 24 1140 Evere BE",
+        "coords": [
+          4.411234,
+          50.855887
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0472.000.119",
+    "name": "3g-plus",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "tervuren",
+        "address": "Moorselstraat 189 3080 Tervuren BE",
+        "coords": [
+          4.53708,
+          50.85552
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "zemst",
+        "address": "Brusselsesteenweg 420 1980 Zemst BE",
+        "coords": [
+          4.454836,
+          50.962534
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "beauvechain",
+        "address": "Rue de la Comtesse Alpayde 2 1320 Beauvechain BE",
+        "coords": [
+          4.72003,
+          50.77567
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Moorselsteenweg 83 1933 Zaventem BE",
+        "coords": [
+          4.526543,
+          50.860902
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0526.824.024",
+    "name": "2tt",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "oud-heverlee",
+        "address": "Ijzerenwegstraat 53 3051 Oud-Heverlee BE",
+        "coords": [
+          4.649199,
+          50.810268
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "oud-heverlee",
+        "address": "Sint-Annastraat 42 3050 Oud-Heverlee BE",
+        "coords": [
+          4.66273,
+          50.830262
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0536.451.174",
+    "name": "#nicecom",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-lambrechts-woluwe",
+        "address": "Boulevard de la Woluwe 46 1 1200 Woluwe-Saint-Lambert BE",
+        "coords": [
+          4.43505,
+          50.83932
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "overijse",
+        "address": "Sint-Hubertusdreef 14 3090 Overijse BE",
+        "coords": [
+          4.468794,
+          50.787472
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0537.939.729",
+    "name": "8trust",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Chaussée de Boondael 365 A 1050 Ixelles BE",
+        "coords": [
+          4.386426,
+          50.817731
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0597.918.094",
+    "name": "3d-side",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "mont-saint-guibert",
+        "address": "Rue André Dumont 5 1435 Mont-Saint-Guibert BE",
+        "coords": [
+          4.627201,
+          50.657148
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 20,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0647.827.762",
+    "name": "24sea",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "asse",
+        "address": "Doornveld 120 1731 Asse BE",
+        "coords": [
+          4.261838,
+          50.891563
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0668.801.142",
+    "name": "Popkorn",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "temse",
+        "address": "Heistraat 41 9140 Temse BE",
+        "coords": [
+          4.204817,
+          51.163475
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0669.623.860",
+    "name": "4ps Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Pauline Van Pottelsberghelaan 12 9051 Gent BE",
+        "coords": [
+          3.68853,
+          51.02889
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Kempische steenweg 293 38 3500 Hasselt BE",
+        "coords": [
+          5.35241,
+          50.95315
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 30,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0672.757.455",
+    "name": "5a",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Place Jean Jacobs 10 5 1000 Bruxelles BE",
+        "coords": [
+          4.35269,
+          50.83535
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0673.857.416",
+    "name": "5th Floor Software",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "watermaal-bosvoorde",
+        "address": "Boulevard du Souverain 24 1170 Watermael-Boitsfort BE",
+        "coords": [
+          4.423575,
+          50.802635
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "la-hulpe",
+        "address": "Avenue Reine Astrid 92 1310 La Hulpe BE",
+        "coords": [
+          4.472177,
+          50.727053
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 145,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0674.498.210",
+    "name": "\"keen & Wise\"",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Coremansstraat 34 2 2600 Antwerpen BE",
+        "coords": [
+          4.417191,
+          51.188749
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 32,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0674.596.297",
+    "name": "2grow",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Krevelstraat 18/102 9000 Gent BE",
+        "coords": [
+          3.737536,
+          51.042117
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0683.698.164",
+    "name": "2ememain Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Avenue des Arts 44 12 1040 Bruxelles BE",
+        "coords": [
+          4.367686,
+          50.842928
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0717.701.317",
+    "name": "''g.s.i. Engineering''",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "huy",
+        "address": "Plaine de la Sarte 33 4500 Huy BE",
+        "coords": [
+          5.25407,
+          50.513737
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0729.721.003",
+    "name": "3d Aim Trainer",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "dendermonde",
+        "address": "Fabriekstraat 37 9200 Dendermonde BE",
+        "coords": [
+          4.17829,
+          51.03015
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0743.573.591",
+    "name": "3jinant",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "dinant",
+        "address": "Rue Saint-Jacques 333A 5500 Dinant BE",
+        "coords": [
+          4.933692,
+          50.265424
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0765.734.628",
+    "name": "3dtechlab",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "gembloux",
+        "address": "Chaussée Romaine,Sauv. 77 5030 Gembloux BE",
+        "coords": [
+          4.695588,
+          50.585228
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0772.614.502",
+    "name": "3jcourt",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Rue d'Ans 140 4000 Liège BE",
+        "coords": [
+          5.540889,
+          50.671028
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0775.918.638",
+    "name": "42secure",
+    "site": "www.42secure.com",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "lier",
+        "address": "Guido Gezellelaan 11 2500 Lier BE",
+        "coords": [
+          4.538829,
+          51.144891
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0776.502.618",
+    "name": "7c7 Engineering",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "Sionlaan 5 8500 Kortrijk BE",
+        "coords": [
+          3.292315,
+          50.819837
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "Doorniksewijk 133 a 8500 Kortrijk BE",
+        "coords": [
+          3.27009,
+          50.818536
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0802.522.966",
+    "name": "3ops",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "zottegem",
+        "address": "Grotenbergestraat 143 2 9620 Zottegem BE",
+        "coords": [
+          3.826808,
+          50.873034
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0819.211.520",
+    "name": "2improveit",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Heerstraat 167 3511 Hasselt BE",
+        "coords": [
+          5.27881,
+          50.946001
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Nellepetinstraat 1 0.3 3500 Hasselt BE",
+        "coords": [
+          5.3544,
+          50.90917
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0847.961.528",
+    "name": "87 Seconds",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Avenue du Port 86C 9A 1000 Bruxelles BE",
+        "coords": [
+          4.348862,
+          50.86495
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0862.692.858",
+    "name": "@ipower",
+    "site": "www.iPower.eu",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Bisschoppenhoflaan 380 2100 Antwerpen BE",
+        "coords": [
+          4.466197,
+          51.233654
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0863.563.383",
+    "name": "4infinity",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "geel",
+        "address": "Bell-Telephonelaan 2 2D/2 2440 Geel BE",
+        "coords": [
+          4.95511,
+          51.12672
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0887.344.419",
+    "name": "@tune",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "steenokkerzeel",
+        "address": "Vinkenbaan 22 1820 Steenokkerzeel BE",
+        "coords": [
+          4.494457,
+          50.928509
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "1003.580.905",
+    "name": "2serve Ict",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "zoersel",
+        "address": "Raymond Delbekestraat 101 2980 Zoersel BE",
+        "coords": [
+          4.623733,
+          51.277113
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0448.896.697",
+    "name": "4it Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "deinze",
+        "address": "Vosselarestraat 73 16 9850 Deinze BE",
+        "coords": [
+          3.568615,
+          51.046775
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 43,
+    "founded": 1992,
+    "proof": []
+  },
+  {
+    "cbe": "0471.533.628",
+    "name": "@ Assist",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "aartselaar",
+        "address": "Boomsesteenweg 71 2630 Aartselaar BE",
+        "coords": [
+          4.376577,
+          51.127992
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0475.480.736",
+    "name": "3p",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Verviersstraat 1 2000 Antwerpen BE",
+        "coords": [
+          4.38678,
+          51.20925
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "De Villermontstraat 9 2550 Kontich BE",
+        "coords": [
+          4.441435,
+          51.139875
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 49,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0477.456.269",
+    "name": "4d Vision",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Borsbeeksebrug 34 1 2600 Antwerpen BE",
+        "coords": [
+          4.434024,
+          51.199956
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Oktrooiplein 1 9000 Gent BE",
+        "coords": [
+          3.73953,
+          51.057631
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2002,
+    "proof": []
+  },
+  {
+    "cbe": "0525.745.641",
+    "name": "3d Cadworks",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "hoogstraten",
+        "address": "Veilingstraat 7 2320 Hoogstraten BE",
+        "coords": [
+          4.749148,
+          51.390633
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0551.954.942",
+    "name": "3sign",
+    "site": "3sign.com",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Jules De Cocklaan 65 A 9050 Gent BE",
+        "coords": [
+          3.751571,
+          51.025311
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 20,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0560.720.871",
+    "name": "2cereus",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kalmthout",
+        "address": "Franseweg 31 2920 Kalmthout BE",
+        "coords": [
+          4.500749,
+          51.365634
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0632.976.369",
+    "name": "2grips",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "turnhout",
+        "address": "Rubensstraat 104 12 2300 Turnhout BE",
+        "coords": [
+          4.943017,
+          51.315861
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0637.991.863",
+    "name": "&koo",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0647.959.604",
+    "name": "360-it",
+    "site": "www.360it.be",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "sint-martens-latem",
+        "address": "Kortrijksesteenweg 205 4 9830 Sint-Martens-Latem BE",
+        "coords": [
+          3.630642,
+          51.007189
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0650.717.075",
+    "name": "2commit",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "edegem",
+        "address": "Prins Boudewijnlaan 43 2650 Edegem BE",
+        "coords": [
+          4.436157,
+          51.14866
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0655.848.276",
+    "name": "0101",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Elektriciteitstraat 2 2800 Mechelen BE",
+        "coords": [
+          4.473016,
+          51.037443
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0685.928.669",
+    "name": "[partners Through Innovation]²",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-joost-ten-node",
+        "address": "Place Charles Rogier 11 1210 Saint-Josse-ten-Noode BE",
+        "coords": [
+          4.35921,
+          50.856232
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 117,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0686.923.217",
+    "name": "3df",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Hessenplein 2 2000 Antwerpen BE",
+        "coords": [
+          4.40935,
+          51.226689
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0689.861.822",
+    "name": "2valorise Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "amel",
+        "address": "Born,Holzstraße 5 4770 Amel BE",
+        "coords": [
+          6.08511,
+          50.33554
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0803.144.360",
+    "name": "3point",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Broederminstraat 9 1 2018 Antwerpen BE",
+        "coords": [
+          4.393136,
+          51.203168
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0810.567.434",
+    "name": "2invision Managed Services Belgie",
+    "site": "www.2invision.eu",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "herentals",
+        "address": "Diamantstraat 8 316 2200 Herentals BE",
+        "coords": [
+          4.80594,
+          51.15922
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0812.318.580",
+    "name": "@ Fee Du Pc",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "anderlues",
+        "address": "Rue Jolibois 13 1 6150 Anderlues BE",
+        "coords": [
+          4.287133,
+          50.405276
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 27,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0839.993.571",
+    "name": "2sky",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 35A 2550 Kontich BE",
+        "coords": [
+          4.442414,
+          51.141467
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0841.680.876",
+    "name": "26lights",
+    "site": "www.26lights.com",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "vorst",
+        "address": "Avenue Brugmann 63 1190 Forest BE",
+        "coords": [
+          4.351956,
+          50.820452
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 28,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0847.436.540",
+    "name": "24pm",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "rebecq",
+        "address": "Grand-Place 16 1430 Rebecq BE",
+        "coords": [
+          4.158068,
+          50.670664
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "lasne",
+        "address": "Avenue du Bois de Chapelle 2 1380 Lasne BE",
+        "coords": [
+          4.500288,
+          50.701118
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0863.686.416",
+    "name": "@quico",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue Charles Demeer 21 A 1020 Bruxelles BE",
+        "coords": [
+          4.345784,
+          50.871197
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0888.727.559",
+    "name": "3it",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 35 C 2550 Kontich BE",
+        "coords": [
+          4.4424,
+          51.141844
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0890.734.964",
+    "name": "4inch",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "enghien",
+        "address": "Rue Jean Burgers 2 7850 Enghien BE",
+        "coords": [
+          4.028058,
+          50.682542
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0898.973.234",
+    "name": "3d-ict",
+    "site": "www.3d-ict.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Verschansingstraat 48 2000 Antwerpen BE",
+        "coords": [
+          4.389936,
+          51.208443
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 2008,
+    "proof": []
+  }
+]

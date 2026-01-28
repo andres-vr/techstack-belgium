@@ -1,0 +1,5 @@
+# Submissions Directory
+
+This directory stores temporary JSON payload files created by the server when a submission or update is made.
+
+**Files in this directory are temporary and will be removed after processing.**

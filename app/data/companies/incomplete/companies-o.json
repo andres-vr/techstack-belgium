@@ -1,0 +1,3667 @@
+[
+  {
+    "cbe": "0417.186.112",
+    "name": "Organi",
+    "site": "www.organi.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Dynamicalaan 15 2610 Antwerpen BE",
+        "coords": [
+          4.377192,
+          51.155631
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 83,
+    "founded": 1977,
+    "proof": []
+  },
+  {
+    "cbe": "0418.049.511",
+    "name": "Ordiges",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "braine-lalleud",
+        "address": "Chaussée de Nivelles 81 1420 Braine-l'Alleud BE",
+        "coords": [
+          4.403408,
+          50.684375
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 33,
+    "founded": 1977,
+    "proof": []
+  },
+  {
+    "cbe": "0425.381.820",
+    "name": "Onafhankelijke Software Groep",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Herman De Nayerstraat 1A 101 2550 Kontich BE",
+        "coords": [
+          4.449969,
+          51.10337
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 1984,
+    "proof": []
+  },
+  {
+    "cbe": "0428.200.461",
+    "name": "Odyssey Financial Technologies",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "la-hulpe",
+        "address": "Avenue Reine Astrid 92 1310 La Hulpe BE",
+        "coords": [
+          4.472177,
+          50.727053
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 1985,
+    "proof": []
+  },
+  {
+    "cbe": "0432.761.738",
+    "name": "O.a.c.",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kasterlee",
+        "address": "Villapark 10 2460 Kasterlee BE",
+        "coords": [
+          4.906897,
+          51.203478
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "herentals",
+        "address": "Dikberd(HRT) 34 13B 2200 Herentals BE",
+        "coords": [
+          4.850742,
+          51.165461
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 1987,
+    "proof": []
+  },
+  {
+    "cbe": "0437.071.112",
+    "name": "Offshore",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "namur-city",
+        "address": "Rue de Dave(JB) 87 2 5100 Namur BE",
+        "coords": [
+          4.870116,
+          50.4535
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 1989,
+    "proof": []
+  },
+  {
+    "cbe": "0438.031.907",
+    "name": "Open Products, Networks & Software",
+    "site": "www.opns.be",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-gillis",
+        "address": "Rue Théodore Verhaegen 196 1060 Saint-Gilles BE",
+        "coords": [
+          4.334989,
+          50.831074
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 1989,
+    "proof": []
+  },
+  {
+    "cbe": "0440.966.354",
+    "name": "Oracle Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "vilvoorde",
+        "address": "Medialaan 50 1800 Vilvoorde BE",
+        "coords": [
+          4.394936,
+          50.914647
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 179,
+    "founded": 1990,
+    "proof": []
+  },
+  {
+    "cbe": "0446.822.877",
+    "name": "Onespan",
+    "site": "www.onespan.com",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "aalst",
+        "address": "Nachtegaalstraat 10 3 9320 Aalst BE",
+        "coords": [
+          4.05705,
+          50.91182
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 127,
+    "founded": 1992,
+    "proof": []
+  },
+  {
+    "cbe": "0458.980.046",
+    "name": "Objective Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "wichelen",
+        "address": "Meerbos 2 9260 Wichelen BE",
+        "coords": [
+          3.960836,
+          51.011364
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 32,
+    "founded": 1996,
+    "proof": []
+  },
+  {
+    "cbe": "0459.288.169",
+    "name": "Odyssee Mobile",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Avenue de Stalingrad 100 1000 Bruxelles BE",
+        "coords": [
+          4.342734,
+          50.840014
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 1996,
+    "proof": []
+  },
+  {
+    "cbe": "0460.265.889",
+    "name": "Ortec Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "boortmeerbeek",
+        "address": "Leuvensesteenweg 350 3190 Boortmeerbeek BE",
+        "coords": [
+          4.571785,
+          50.966817
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 41,
+    "founded": 1997,
+    "proof": []
+  },
+  {
+    "cbe": "0463.174.208",
+    "name": "Orbid",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "merelbeke-melle",
+        "address": "Guldensporenpark 29 C 9820 Merelbeke BE",
+        "coords": [
+          3.755473,
+          51.005312
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "zele",
+        "address": "Drukkerijstraat 11 9240 Zele BE",
+        "coords": [
+          4.049806,
+          51.074344
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "geel",
+        "address": "Liesdonk 5 2440 Geel BE",
+        "coords": [
+          4.948236,
+          51.130195
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "nivelles",
+        "address": "Rue de la Technique 15 1400 Nivelles BE",
+        "coords": [
+          4.36639,
+          50.585484
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 134,
+    "founded": 1998,
+    "proof": []
+  },
+  {
+    "cbe": "0464.744.519",
+    "name": "Organica",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "uccle",
+        "address": "Avenue De Fré 219 11 1180 Uccle BE",
+        "coords": [
+          4.359328,
+          50.803742
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 1998,
+    "proof": []
+  },
+  {
+    "cbe": "0465.730.751",
+    "name": "Object",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "tessenderlo-ham",
+        "address": "Transportstraat 1A 3980 Tessenderlo-Ham BE",
+        "coords": [
+          5.142784,
+          51.072057
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "boortmeerbeek",
+        "address": "Leuvensesteenweg 354 A 3190 Boortmeerbeek BE",
+        "coords": [
+          4.573831,
+          50.966273
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "aartselaar",
+        "address": "Boomsesteenweg 20 2630 Aartselaar BE",
+        "coords": [
+          4.375126,
+          51.135277
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Genkersteenweg 203 3500 Hasselt BE",
+        "coords": [
+          5.358802,
+          50.943144
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "geel",
+        "address": "Antwerpseweg 29 2440 Geel BE",
+        "coords": [
+          4.96914,
+          51.15103
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 35,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0467.036.984",
+    "name": "Onlyhumans",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Borsbeeksebrug 28 6 2600 Antwerpen BE",
+        "coords": [
+          4.434907,
+          51.199098
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 36,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0473.579.932",
+    "name": "Onepoint Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Chaussée de La Hulpe 120 1000 Bruxelles BE",
+        "coords": [
+          4.399058,
+          50.796955
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "zele",
+        "address": "Nachtegaalstraat 8 w3 9240 Zele BE",
+        "coords": [
+          4.050595,
+          51.068777
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "tournai",
+        "address": "Chaussée de Lille(OR) 479 2 7501 Tournai BE",
+        "coords": [
+          3.34857,
+          50.60403
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 44,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0474.674.844",
+    "name": "Oodrive Be",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Avenue Louise 380 1050 Bruxelles BE",
+        "coords": [
+          4.370929,
+          50.820571
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0475.304.156",
+    "name": "Openway Europe",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "mont-saint-guibert",
+        "address": "Rue Emile Francqui 3 1435 Mont-Saint-Guibert BE",
+        "coords": [
+          4.62376,
+          50.657394
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 42,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0476.056.402",
+    "name": "Ometa",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "wommelgem",
+        "address": "Uilenbaan 59 2160 Wommelgem BE",
+        "coords": [
+          4.508783,
+          51.21255
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0477.525.753",
+    "name": "Octopus",
+    "site": "WWW.octopus.be",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Brusselsesteenweg 708 9050 Gent BE",
+        "coords": [
+          3.76901,
+          51.027175
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2002,
+    "proof": []
+  },
+  {
+    "cbe": "0477.725.790",
+    "name": "Obelisk",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Grauwmeer 1 3001 Leuven BE",
+        "coords": [
+          4.721144,
+          50.848877
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Belpairestraat 39 2600 Antwerpen BE",
+        "coords": [
+          4.41819,
+          51.1983
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 18,
+    "founded": 2002,
+    "proof": []
+  },
+  {
+    "cbe": "0478.889.493",
+    "name": "Onetec",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Leuvensesteenweg 542 C 4 1930 Zaventem BE",
+        "coords": [
+          4.493635,
+          50.873428
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 29,
+    "founded": 2002,
+    "proof": []
+  },
+  {
+    "cbe": "0480.737.938",
+    "name": "Officinall",
+    "site": "www.officinall.be",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Brouwerijstraat 1 3A 9031 Gent BE",
+        "coords": [
+          3.622398,
+          51.038086
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2003,
+    "proof": []
+  },
+  {
+    "cbe": "0523.932.236",
+    "name": "Open Up Media",
+    "site": "openup.media",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Napelsstraat 8 2000 Antwerpen BE",
+        "coords": [
+          4.41084,
+          51.23416
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0524.869.077",
+    "name": "Optimact",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Interleuvenlaan 62 8 3001 Leuven BE",
+        "coords": [
+          4.73638,
+          50.84936
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "grez-doiceau",
+        "address": "Le Misseau 9 1390 Grez-Doiceau BE",
+        "coords": [
+          4.667044,
+          50.724277
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0535.701.405",
+    "name": "One2three",
+    "site": "www.one2three.be",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Cantersteen 47 1000 Bruxelles BE",
+        "coords": [
+          4.358233,
+          50.845598
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "duffel",
+        "address": "Mijlstraat 153 2570 Duffel BE",
+        "coords": [
+          4.55301,
+          51.098118
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0546.732.184",
+    "name": "Objective",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "wichelen",
+        "address": "Meerbos 2 9260 Wichelen BE",
+        "coords": [
+          3.960836,
+          51.011364
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0550.416.701",
+    "name": "Offimed",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "namur-city",
+        "address": "Rue des Dames Blanches 1 / B 5000 Namur BE",
+        "coords": [
+          4.868516,
+          50.466858
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0629.718.060",
+    "name": "Optios",
+    "site": "www.optios.net",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "lochristi",
+        "address": "Antwerpse Steenweg 19 9080 Lochristi BE",
+        "coords": [
+          3.820201,
+          51.092312
+        ]
+      },
+      {
+        "province": "namur",
+        "municipality": "namur-city",
+        "address": "Avenue des Dessus de Lives 2 5101 Namur BE",
+        "coords": [
+          4.923718,
+          50.46173
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 22,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0629.720.139",
+    "name": "Olmatech",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "frasnes-lez-anvaing",
+        "address": "Rue Henri Lemaire 20A 7911 Frasnes-lez-Anvaing BE",
+        "coords": [
+          3.609584,
+          50.664705
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0645.917.753",
+    "name": "Overloop",
+    "site": "overloop.com",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "etterbeek",
+        "address": "Rue des Pères Blancs 4 1040 Etterbeek BE",
+        "coords": [
+          4.400036,
+          50.826661
+        ]
+      },
+      {
+        "province": "namur",
+        "municipality": "assesse",
+        "address": "Rue St Joseph 14 5332 Assesse BE",
+        "coords": [
+          4.962359,
+          50.348619
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0674.630.248",
+    "name": "Out2send",
+    "site": "www.out2send.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "brecht",
+        "address": "Vaartstraat 213 2960 Brecht BE",
+        "coords": [
+          4.656611,
+          51.339171
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "malle",
+        "address": "Delften 23 6 2390 Malle BE",
+        "coords": [
+          4.711348,
+          51.285129
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0687.631.911",
+    "name": "Octiva Development",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Interleuvenlaan 46 3001 Leuven BE",
+        "coords": [
+          4.735591,
+          50.846224
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 21,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0691.913.569",
+    "name": "One Source Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "evere",
+        "address": "Avenue Jules Bordet 13 1140 Evere BE",
+        "coords": [
+          4.415953,
+          50.872992
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "bierbeek",
+        "address": "Waversesteenweg 126 3360 Bierbeek BE",
+        "coords": [
+          4.79413,
+          50.81353
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 41,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0696.779.209",
+    "name": "On-hertz",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "kraainem",
+        "address": "Avenue Saint Pancrace 18 8 1950 Kraainem BE",
+        "coords": [
+          4.46475,
+          50.85987
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "mons",
+        "address": "Rue des Canadiens 214 7022 Mons BE",
+        "coords": [
+          3.951413,
+          50.430086
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 203161,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0699.854.109",
+    "name": "Oakfields",
+    "site": "oakfields.be/",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mol",
+        "address": "Postelarenweg 34 2400 Mol BE",
+        "coords": [
+          5.112969,
+          51.194815
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0699.934.875",
+    "name": "Offiservices",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "brecht",
+        "address": "Smederijstraat 32 15 2960 Brecht BE",
+        "coords": [
+          4.550098,
+          51.299842
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0700.442.443",
+    "name": "Okko",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "dalhem",
+        "address": "Chemin des Moulyniers 34 4607 Dalhem BE",
+        "coords": [
+          5.709649,
+          50.70325
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0700.976.438",
+    "name": "Ocuco Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "aartselaar",
+        "address": "Langlaarsteenweg 168 2630 Aartselaar BE",
+        "coords": [
+          4.376198,
+          51.125003
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0702.850.518",
+    "name": "Outy Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "oudergem",
+        "address": "Avenue Herrmann-Debroux 54 1160 Auderghem BE",
+        "coords": [
+          4.433946,
+          50.813733
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 27,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0715.997.085",
+    "name": "Okappi",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Veemarkt 37 A/3 2800 Mechelen BE",
+        "coords": [
+          4.483125,
+          51.029627
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0719.676.454",
+    "name": "Oper Credits",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Lange Gasthuisstraat 29 2000 Antwerpen BE",
+        "coords": [
+          4.40539,
+          51.21481
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0721.976.641",
+    "name": "O2do",
+    "site": "o2do.be",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "nivelles",
+        "address": "Rue de l'Industrie 20 1400 Nivelles BE",
+        "coords": [
+          4.355127,
+          50.586382
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0727.644.510",
+    "name": "Oracle Global Services Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "vilvoorde",
+        "address": "Medialaan 50 1800 Vilvoorde BE",
+        "coords": [
+          4.394936,
+          50.914647
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 54,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0735.795.577",
+    "name": "Ooho",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Diestsevest 14 5B 3000 Leuven BE",
+        "coords": [
+          4.713467,
+          50.883105
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0741.542.333",
+    "name": "Omnito",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "beveren-kruibeke-zwijndrecht",
+        "address": "Burchtstraat 190 9150 Beveren-Kruibeke-Zwijndrecht BE",
+        "coords": [
+          4.320435,
+          51.184276
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0741.578.955",
+    "name": "Onedge",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0743.386.224",
+    "name": "Otiv",
+    "site": "www.otiv.ai",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Nieuwewandeling 62 9000 Gent BE",
+        "coords": [
+          3.706755,
+          51.055235
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 26,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0743.913.586",
+    "name": "Opticlibre Group",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Boulevard Bischoffsheim 39 4 1000 Bruxelles BE",
+        "coords": [
+          4.36652,
+          50.85256
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0753.456.903",
+    "name": "Ornibird",
+    "site": "www.ornibird.com",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "beauraing",
+        "address": "rue de Wellin 6 B 5574 Beauraing BE",
+        "coords": [
+          4.99474,
+          50.09888
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0759.891.466",
+    "name": "Orion Intelligence",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Minderbroedersstraat 17 2 3000 Leuven BE",
+        "coords": [
+          4.693755,
+          50.87721
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0764.944.671",
+    "name": "O-range Technologies",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "genk",
+        "address": "Seinhuisstraat 3 8 3600 Genk BE",
+        "coords": [
+          5.48033,
+          51.000755
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0766.893.183",
+    "name": "Otamiser Holdings",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Sint-Salvatorstraat 18B 102 9000 Gent BE",
+        "coords": [
+          3.72983,
+          51.06558
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0769.360.448",
+    "name": "Optimus It Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Frans De Vriendtstraat 34 80 2600 Antwerpen BE",
+        "coords": [
+          4.443804,
+          51.204146
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue des Colonies 11 1000 Bruxelles BE",
+        "coords": [
+          4.35963,
+          50.84641
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0769.443.788",
+    "name": "Outkept",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "brakel",
+        "address": "Boekendries 28 9660 Brakel BE",
+        "coords": [
+          3.761565,
+          50.8305
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0770.612.243",
+    "name": "One16",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "bornem",
+        "address": "Industrieweg 3 2880 Bornem BE",
+        "coords": [
+          4.261021,
+          51.090812
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0777.667.311",
+    "name": "Oxylum",
+    "site": "www.oxylum.com",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "schilde",
+        "address": "Rodedreef 34 2970 Schilde BE",
+        "coords": [
+          4.556408,
+          51.225194
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Olieweg 97 2020 Antwerpen BE",
+        "coords": [
+          4.361974,
+          51.190407
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0780.554.248",
+    "name": "Ouitransform",
+    "site": "www.ouitransform.com",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Louise 231 1050 Ixelles BE",
+        "coords": [
+          4.355166,
+          50.817496
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0784.425.340",
+    "name": "Oxygenius",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "fontaine-leveque",
+        "address": "Rue Belle Vue 14 6141 Fontaine-l'Evêque BE",
+        "coords": [
+          4.326157,
+          50.430246
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0784.885.495",
+    "name": "Optioryx",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Sint-Pietersnieuwstraat 11 9000 Gent BE",
+        "coords": [
+          3.72733,
+          51.04836
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0793.549.971",
+    "name": "Organimmo",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "zedelgem",
+        "address": "Torhoutsesteenweg 160 8210 Zedelgem BE",
+        "coords": [
+          3.154448,
+          51.126457
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0793.858.589",
+    "name": "Oiot",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Da Vincilaan 1 1930 Zaventem BE",
+        "coords": [
+          4.460156,
+          50.887966
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0794.360.021",
+    "name": "Octave Agency",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "flemalle",
+        "address": "Place Emile Vinck 1/7 4400 Flémalle BE",
+        "coords": [
+          5.446472,
+          50.602445
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0803.931.347",
+    "name": "One2treat",
+    "site": "www.one2treat.com",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "ottignies-louvain-la-neuve",
+        "address": "Boulevard Baudouin 1er 25 1348 Ottignies-Louvain-la-Neuve BE",
+        "coords": [
+          4.617002,
+          50.659709
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0805.971.317",
+    "name": "Oktow",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "izegem",
+        "address": "Leenstraat 25 8870 Izegem BE",
+        "coords": [
+          3.196328,
+          50.912667
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "hooglede",
+        "address": "Roger Deceuninckstraat 8 8830 Hooglede BE",
+        "coords": [
+          3.10937,
+          50.97477
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0807.297.148",
+    "name": "One Two Concept",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "moorslede",
+        "address": "Sparrestraat 1 8890 Moorslede BE",
+        "coords": [
+          3.066017,
+          50.889741
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0811.437.464",
+    "name": "Octiva Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Interleuvenlaan 46 3001 Leuven BE",
+        "coords": [
+          4.735591,
+          50.846224
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0817.701.288",
+    "name": "Onyx Virtual Academy",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "hamme",
+        "address": "Stationsstraat 16 9220 Hamme BE",
+        "coords": [
+          4.129484,
+          51.096947
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0817.780.373",
+    "name": "Open-future",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Leuvensesteenweg 643 1930 Zaventem BE",
+        "coords": [
+          4.504161,
+          50.877855
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0824.055.778",
+    "name": "Optimy",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "watermaal-bosvoorde",
+        "address": "Chaussée de La Hulpe 166 1170 Watermael-Boitsfort BE",
+        "coords": [
+          4.404433,
+          50.796288
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 30,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0836.138.020",
+    "name": "Ontoforce",
+    "site": "www.ontoforce.com",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Moutstraat 108-110 9000 Gent BE",
+        "coords": [
+          3.777327,
+          51.103529
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 30,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0837.751.980",
+    "name": "Oetang",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Platteberg 8 9000 Gent BE",
+        "coords": [
+          3.728274,
+          51.048805
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0844.057.970",
+    "name": "Opengraphy",
+    "site": "www.opengraphy.com/",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "schaerbeek",
+        "address": "Square Eugène Plasky 92 1030 Schaerbeek BE",
+        "coords": [
+          4.396404,
+          50.851265
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0845.741.317",
+    "name": "Objective7",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "edegem",
+        "address": "Prins Boudewijnlaan 218A 2650 Edegem BE",
+        "coords": [
+          4.430783,
+          51.155393
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Lange Gasthuisstraat 29 2000 Antwerpen BE",
+        "coords": [
+          4.40539,
+          51.21481
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0846.838.803",
+    "name": "Ouat !",
+    "site": "www.ouat.eu",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue d'Alost 7 1000 Bruxelles BE",
+        "coords": [
+          4.342188,
+          50.852442
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0847.237.491",
+    "name": "Ologram",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "chaudfontaine",
+        "address": "Voie de l'Ardenne 134 6 4053 Chaudfontaine BE",
+        "coords": [
+          5.609097,
+          50.587758
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0861.960.113",
+    "name": "On It Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "malle",
+        "address": "Nijverheidsstraat 8 2390 Malle BE",
+        "coords": [
+          4.71157,
+          51.294673
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "sint-niklaas",
+        "address": "Gentse Baan 66 203 9100 Sint-Niklaas BE",
+        "coords": [
+          4.125954,
+          51.148188
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "Kwekerijstraat 3 1830 Machelen BE",
+        "coords": [
+          4.446739,
+          50.917944
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "zedelgem",
+        "address": "Torhoutsesteenweg 160 8210 Zedelgem BE",
+        "coords": [
+          3.154448,
+          51.126457
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Jan van Gentstraat 7 302 2000 Antwerpen BE",
+        "coords": [
+          4.38777,
+          51.20558
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 32,
+    "founded": 2003,
+    "proof": []
+  },
+  {
+    "cbe": "0862.881.415",
+    "name": "Ockham",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Sint-Hubertusstraat 60 2600 Antwerpen BE",
+        "coords": [
+          4.413694,
+          51.19588
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0866.381.630",
+    "name": "Open Real Estate Information Services Afgekort Oris",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Kortrijksesteenweg 1005 9000 Gent BE",
+        "coords": [
+          3.706846,
+          51.024381
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 18,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0870.133.352",
+    "name": "Open Eye Information And Communication Technology",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "kampenhout",
+        "address": "Haachtsesteenweg 322 C 1910 Kampenhout BE",
+        "coords": [
+          4.560267,
+          50.941243
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0876.855.551",
+    "name": "Office-it",
+    "site": "www.office-it.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "olen",
+        "address": "Lammerdries-Zuid 17D 2250 Olen BE",
+        "coords": [
+          4.906077,
+          51.150135
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Buizerdlaan 20 2100 Antwerpen BE",
+        "coords": [
+          4.483926,
+          51.222821
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "mortsel",
+        "address": "Armand Segerslei 118 2640 Mortsel BE",
+        "coords": [
+          4.443818,
+          51.16857
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0879.481.380",
+    "name": "Omninet Technologies",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Diestsevest 32 2A 3000 Leuven BE",
+        "coords": [
+          4.713303,
+          50.883436
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0880.394.071",
+    "name": "Oretikon",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Oudeleeuwenrui 7-11 16 2000 Antwerpen BE",
+        "coords": [
+          4.405956,
+          51.227292
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0881.564.110",
+    "name": "Objectway",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Zandvoortstraat 45 C 2800 Mechelen BE",
+        "coords": [
+          4.444331,
+          51.054624
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 40,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0885.087.584",
+    "name": "Optimizer",
+    "site": "www.optimizer.be",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "wevelgem",
+        "address": "Bissegemstraat 33 8560 Wevelgem BE",
+        "coords": [
+          3.206063,
+          50.842188
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0886.847.541",
+    "name": "Ovarro",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "waterloo",
+        "address": "Drève Richelle 161 35 1410 Waterloo BE",
+        "coords": [
+          4.409568,
+          50.708427
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 19,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0892.855.801",
+    "name": "Ov Informatique",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "welkenraedt",
+        "address": "Route d'Aubel 21 4841 Welkenraedt BE",
+        "coords": [
+          5.924285,
+          50.677836
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "welkenraedt",
+        "address": "Route d'Aubel 23 4841 Welkenraedt BE",
+        "coords": [
+          5.924035,
+          50.677895
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0895.561.309",
+    "name": "Oniryx",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "gembloux",
+        "address": "Chaussée de Charleroi 63 5030 Gembloux BE",
+        "coords": [
+          4.689565,
+          50.564894
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 55,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0895.599.911",
+    "name": "Octopix",
+    "site": "octopix.be/",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "soignies",
+        "address": "Chaussée de Bruxelles 86 7061 Soignies BE",
+        "coords": [
+          4.007684,
+          50.511209
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0898.325.413",
+    "name": "Optimal Computing",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "mons",
+        "address": "Rue de la Vignette 36 7034 Mons BE",
+        "coords": [
+          4.011851,
+          50.496538
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0899.380.436",
+    "name": "Oran It",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "deinze",
+        "address": "Bruggenhoofdstraat 4 9800 Deinze BE",
+        "coords": [
+          3.572163,
+          50.982997
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "1005.511.007",
+    "name": "Oopo",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "namur-city",
+        "address": "Rue de Maizeret 166 5101 Namur BE",
+        "coords": [
+          4.96318,
+          50.45718
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2024,
+    "proof": []
+  },
+  {
+    "cbe": "1008.543.345",
+    "name": "Oqcam",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Bomastraat 10 9000 Gent BE",
+        "coords": [
+          3.730689,
+          51.061719
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2024,
+    "proof": []
+  },
+  {
+    "cbe": "0418.868.863",
+    "name": "Offimac",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Heerstraat 86 3510 Hasselt BE",
+        "coords": [
+          5.272514,
+          50.945049
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 19,
+    "founded": 1978,
+    "proof": []
+  },
+  {
+    "cbe": "0428.145.033",
+    "name": "Office De Services Et D'ingenierie Pour La Realisation Et L'integration Des Systemes En Informatique",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "hannuit",
+        "address": "Rue du Luxembourg 6 A 4280 Hannut BE",
+        "coords": [
+          5.088315,
+          50.676954
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 1985,
+    "proof": []
+  },
+  {
+    "cbe": "0435.288.983",
+    "name": "Okapi",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "willebroek",
+        "address": "Stationsstraat 96 3 2830 Willebroek BE",
+        "coords": [
+          4.35894,
+          51.06508
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 1988,
+    "proof": []
+  },
+  {
+    "cbe": "0435.397.861",
+    "name": "Orban 45",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Quai Orban 45 1 4020 Liège BE",
+        "coords": [
+          5.578027,
+          50.633658
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 1988,
+    "proof": []
+  },
+  {
+    "cbe": "0453.257.244",
+    "name": "Orange Business Digital Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "evere",
+        "address": "Avenue du Bourget 3 1140 Evere BE",
+        "coords": [
+          4.41426,
+          50.87642
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 284,
+    "founded": 1994,
+    "proof": []
+  },
+  {
+    "cbe": "0463.415.025",
+    "name": "Overstijns Network Consultants",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "beauvechain",
+        "address": "Rue du Village 24 B 1320 Beauvechain BE",
+        "coords": [
+          4.774833,
+          50.785237
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 1998,
+    "proof": []
+  },
+  {
+    "cbe": "0465.990.770",
+    "name": "Outwares",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "wavre",
+        "address": "Quai du Trompette 75 1300 Wavre BE",
+        "coords": [
+          4.6146,
+          50.7173
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0466.148.346",
+    "name": "Oak Fever",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "harelbeke",
+        "address": "Generaal Deprezstraat 2 8530 Harelbeke BE",
+        "coords": [
+          3.30707,
+          50.835345
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0466.437.960",
+    "name": "Orac Holding",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "oostende",
+        "address": "Biekorfstraat 32 8400 Oostende BE",
+        "coords": [
+          2.957581,
+          51.215485
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0475.537.154",
+    "name": "Ordi.com",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Rue de l'Aunaie 20 4031 Liège BE",
+        "coords": [
+          5.56977,
+          50.58738
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0475.716.011",
+    "name": "Onemind Technologies",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "uccle",
+        "address": "Avenue Molière 349 6 1180 Uccle BE",
+        "coords": [
+          4.361869,
+          50.815692
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 47,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0476.335.227",
+    "name": "Open Engineering",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Allée des Noisetiers 2 4031 Liège BE",
+        "coords": [
+          5.57092,
+          50.5993
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0476.437.274",
+    "name": "Onetowin",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Hurstweg 8 9000 Gent BE",
+        "coords": [
+          3.723171,
+          51.074086
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 17,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0477.472.701",
+    "name": "Odoo",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "ramillies",
+        "address": "Chaussée de Namur 40 1367 Ramillies BE",
+        "coords": [
+          4.863669,
+          50.635225
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "ottignies-louvain-la-neuve",
+        "address": "Rue Laid Burniat 5 1348 Ottignies-Louvain-la-Neuve BE",
+        "coords": [
+          4.636805,
+          50.666306
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "ramillies",
+        "address": "Rue des Bourlottes 9 1367 Ramillies BE",
+        "coords": [
+          4.863309,
+          50.629845
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Roderveldlaan 3 2600 Antwerpen BE",
+        "coords": [
+          4.438468,
+          51.19084
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "ramillies",
+        "address": "Rue de Ramillies 1 1367 Ramillies BE",
+        "coords": [
+          4.869296,
+          50.632561
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 1142,
+    "founded": 2002,
+    "proof": []
+  },
+  {
+    "cbe": "0477.501.504",
+    "name": "Ocular",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "wingene",
+        "address": "Flandria 1 8750 Wingene BE",
+        "coords": [
+          3.227167,
+          51.036921
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2002,
+    "proof": []
+  },
+  {
+    "cbe": "0477.675.114",
+    "name": "Oxya Consulting Benelux",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "President Kennedypark 3 A 8500 Kortrijk BE",
+        "coords": [
+          3.27428,
+          50.80258
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 37,
+    "founded": 2002,
+    "proof": []
+  },
+  {
+    "cbe": "0479.419.926",
+    "name": "Orange Cyberdefense Belgium",
+    "site": "orangecyberdefense.com/be/",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "wijnegem",
+        "address": "Stokerijstraat 35 2110 Wijnegem BE",
+        "coords": [
+          4.546558,
+          51.223108
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Maaltebruggestraat 178 9000 Gent BE",
+        "coords": [
+          3.709722,
+          51.029073
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "rotselaar",
+        "address": "Wingepark 5B 102 3110 Rotselaar BE",
+        "coords": [
+          4.74318,
+          50.940155
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "evere",
+        "address": "Avenue du Bourget 3 1140 Evere BE",
+        "coords": [
+          4.41426,
+          50.87642
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 229,
+    "founded": 2003,
+    "proof": []
+  },
+  {
+    "cbe": "0544.538.994",
+    "name": "Oak",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "halle",
+        "address": "Kasteelbrakelsesteenweg 445 1502 Halle BE",
+        "coords": [
+          4.250145,
+          50.703481
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0553.882.767",
+    "name": "Online Marketing Monkey",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "de-haan",
+        "address": "Ringlaan 11 8420 De Haan BE",
+        "coords": [
+          3.08479,
+          51.301504
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "brugge",
+        "address": "Baron Ruzettelaan 1 1/1 8310 Brugge BE",
+        "coords": [
+          3.23117,
+          51.19912
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0634.925.673",
+    "name": "Ob-v-us",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "ranst",
+        "address": "Oostmalsesteenweg 14 2520 Ranst BE",
+        "coords": [
+          4.599848,
+          51.162402
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0644.744.251",
+    "name": "Offix Payroll",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "aarschot",
+        "address": "Nieuwlandlaan 111 101 3200 Aarschot BE",
+        "coords": [
+          4.818015,
+          50.985176
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0645.633.285",
+    "name": "Oliver Wyman",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "oudergem",
+        "address": "Avenue Herrmann-Debroux 2 1160 Auderghem BE",
+        "coords": [
+          4.427483,
+          50.812208
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 23,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0645.890.039",
+    "name": "Opal Solutions",
+    "site": "opalsolutions.be",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "mont-saint-guibert",
+        "address": "Rue André Dumont 7 1435 Mont-Saint-Guibert BE",
+        "coords": [
+          4.627552,
+          50.657322
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "schaerbeek",
+        "address": "Boulevard Auguste Reyers 80 1030 Schaerbeek BE",
+        "coords": [
+          4.4019,
+          50.85109
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0648.966.820",
+    "name": "Osmosis Advisory",
+    "site": "www.silverback-it.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "edegem",
+        "address": "Prins Boudewijnlaan 41 2650 Edegem BE",
+        "coords": [
+          4.436466,
+          51.147455
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0674.857.209",
+    "name": "Oanna",
+    "site": "www.oanna.be",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "nandrin",
+        "address": "Route du Condroz 323 a 4550 Nandrin BE",
+        "coords": [
+          5.418365,
+          50.522356
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0681.407.974",
+    "name": "Oquila",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Ottergemsesteenweg-Zuid 713 9000 Gent BE",
+        "coords": [
+          3.741924,
+          51.017437
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0688.633.583",
+    "name": "O2be",
+    "site": "o2be.be",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "frameries",
+        "address": "Rue du Centre 79 7080 Frameries BE",
+        "coords": [
+          3.875536,
+          50.390511
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0711.973.169",
+    "name": "Oeco Groep",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0718.718.233",
+    "name": "Okioki",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "haaltert",
+        "address": "Hofstraat 58 9451 Haaltert BE",
+        "coords": [
+          3.983574,
+          50.882946
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "mont-saint-guibert",
+        "address": "Rue Emile Francqui 7 1435 Mont-Saint-Guibert BE",
+        "coords": [
+          4.623433,
+          50.658405
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Brouwersvliet 4 2000 Antwerpen BE",
+        "coords": [
+          4.40231,
+          51.22681
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0735.910.096",
+    "name": "Opt8mise",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Louise 367 1050 Ixelles BE",
+        "coords": [
+          4.36941,
+          50.82083
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0750.682.109",
+    "name": "Orion Pr",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "kruisem",
+        "address": "Waregemsesteenweg 186 9770 Kruisem BE",
+        "coords": [
+          3.49272,
+          50.89822
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0753.565.878",
+    "name": "Omnirack",
+    "site": "www.omnirack.be",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Drieselstraat 150 3 9041 Gent BE",
+        "coords": [
+          3.79273,
+          51.08449
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0759.987.575",
+    "name": "Olymp Advisors",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-pieters-woluwe",
+        "address": "Avenue du Chant d'Oiseau 80 3 1150 Woluwe-Saint-Pierre BE",
+        "coords": [
+          4.41407,
+          50.823891
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0760.689.935",
+    "name": "Odase",
+    "site": "www.odase.io",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Square de Meeûs 38-40 1000 Bruxelles BE",
+        "coords": [
+          4.369896,
+          50.839633
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0763.806.605",
+    "name": "Optiflux",
+    "site": "www.optiflux.world",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "houthalen-helchteren",
+        "address": "Centrum-Zuid 1111 3530 Houthalen-Helchteren BE",
+        "coords": [
+          5.37237,
+          51.02563
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0764.818.175",
+    "name": "Optiwire",
+    "site": "www.optiwire.be",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "enghien",
+        "address": "Rue de Coquiane 115 7850 Enghien BE",
+        "coords": [
+          4.076655,
+          50.702078
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0776.511.229",
+    "name": "On It",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Jan van Gentstraat 7 302 2000 Antwerpen BE",
+        "coords": [
+          4.38777,
+          51.20558
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0784.984.079",
+    "name": "Orderlemon",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kasterlee",
+        "address": "Retiesebaan 7 1 2460 Kasterlee BE",
+        "coords": [
+          4.96928,
+          51.24105
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0787.351.968",
+    "name": "Onetouch Technology",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "merelbeke-melle",
+        "address": "Wilgenstraat 38 9820 Merelbeke-Melle BE",
+        "coords": [
+          3.733357,
+          50.983604
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0787.367.608",
+    "name": "Occepi",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "pont-a-celles",
+        "address": "Rue de Petit-Roeulx 24 6230 Pont-à-Celles BE",
+        "coords": [
+          4.326367,
+          50.540526
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0789.832.396",
+    "name": "Omniconsulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "wezembeek-oppem",
+        "address": "Avenue de l'Europe 19 2 1970 Wezembeek-Oppem BE",
+        "coords": [
+          4.487201,
+          50.845231
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0793.760.106",
+    "name": "Opteamal",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Ambachtenlaan 14 9 3001 Leuven BE",
+        "coords": [
+          4.716515,
+          50.850919
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0798.812.717",
+    "name": "One Solution Group Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "vosselaar",
+        "address": "Dennendreef 5 2350 Vosselaar BE",
+        "coords": [
+          4.8767,
+          51.309581
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0803.996.772",
+    "name": "Octoo",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "Lucky Lukestraat 6 8500 Kortrijk BE",
+        "coords": [
+          3.258278,
+          50.83116
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 19,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0806.572.519",
+    "name": "Oz Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "huy",
+        "address": "Bois des Rois 98 4500 Huy BE",
+        "coords": [
+          5.239636,
+          50.513287
+        ]
+      },
+      {
+        "province": "namur",
+        "municipality": "andenne",
+        "address": "Chaussée Moncheur 122 5300 Andenne BE",
+        "coords": [
+          5.12359,
+          50.49767
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0810.758.860",
+    "name": "Ocit",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "waterloo",
+        "address": "Drève Richelle 161 O 91 1410 Waterloo BE",
+        "coords": [
+          4.409568,
+          50.708427
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0818.347.131",
+    "name": "Oxygen Group",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 35 B 2550 Kontich BE",
+        "coords": [
+          4.4424,
+          51.141844
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0820.251.596",
+    "name": "Orca Solutions",
+    "site": "www.orcasolutions.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "duffel",
+        "address": "Mechelsebaan 205 2570 Duffel BE",
+        "coords": [
+          4.494504,
+          51.079301
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Borsbeeksebrug 34 2600 Antwerpen BE",
+        "coords": [
+          4.434024,
+          51.199956
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0821.802.905",
+    "name": "Opens",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "braine-le-chateau",
+        "address": "Rue Landuyt 89 1440 Braine-le-Château BE",
+        "coords": [
+          4.278617,
+          50.691059
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "tubize",
+        "address": "Avenue Léon Champagne 3 1480 Tubize BE",
+        "coords": [
+          4.175095,
+          50.709034
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 26,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0822.654.327",
+    "name": "Ortho-realisation",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "eghezee",
+        "address": "Rue de la Vallée,Hanret 44 5310 Eghezée BE",
+        "coords": [
+          4.954226,
+          50.590997
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0827.697.040",
+    "name": "Oz Information Technology",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "charleroi",
+        "address": "Rue Masses Diarbois 52 6043 Charleroi BE",
+        "coords": [
+          4.47132,
+          50.45274
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "chatelet",
+        "address": "Rue de Loverval 2A 6200 Châtelet BE",
+        "coords": [
+          4.501514,
+          50.392662
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0830.389.581",
+    "name": "Optim@trans",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "grez-doiceau",
+        "address": "Chaussée de Wavre 202 1390 Grez-Doiceau BE",
+        "coords": [
+          4.67771,
+          50.743493
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0839.030.402",
+    "name": "Open Air Consult",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "sint-niklaas",
+        "address": "Damstraat 27 9100 Sint-Niklaas BE",
+        "coords": [
+          4.171096,
+          51.155413
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0861.307.441",
+    "name": "Orbital",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "ham-sur-heure-nalinnes",
+        "address": "Rue de Marbaix 25 6120 Ham-sur-Heure-Nalinnes BE",
+        "coords": [
+          4.384551,
+          50.322329
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2003,
+    "proof": []
+  },
+  {
+    "cbe": "0866.285.026",
+    "name": "Open2",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "ninove",
+        "address": "Leopoldlaan 114 9400 Ninove BE",
+        "coords": [
+          4.020713,
+          50.825645
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0870.195.512",
+    "name": "Optima",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "kampenhout",
+        "address": "Haachtsesteenweg 378 1910 Kampenhout BE",
+        "coords": [
+          4.566383,
+          50.943669
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0872.350.989",
+    "name": "Oxygis Partners",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "dilbeek",
+        "address": "Eikelenbergstraat 20 1700 Dilbeek BE",
+        "coords": [
+          4.27662,
+          50.852328
+        ]
+      },
+      {
+        "province": "luxembourg",
+        "municipality": "chiny",
+        "address": "Les Croisettes,Suxy 4 6812 Chiny BE",
+        "coords": [
+          5.41678,
+          49.723135
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0872.553.404",
+    "name": "One-d",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Avenue des Arts 24 11 1000 Bruxelles BE",
+        "coords": [
+          4.369217,
+          50.845816
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0883.267.944",
+    "name": "Ods Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "essen",
+        "address": "Peepolderlaan 21 2910 Essen BE",
+        "coords": [
+          4.503459,
+          51.446254
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 21,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0884.757.982",
+    "name": "One-it",
+    "site": "www.one-it.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Edward Pecherstraat 30 2000 Antwerpen BE",
+        "coords": [
+          4.38948,
+          51.20697
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0885.391.353",
+    "name": "Orkhon",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "charleroi",
+        "address": "Rue de Lodelinsart 1 55 6000 Charleroi BE",
+        "coords": [
+          4.450783,
+          50.424046
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0886.336.312",
+    "name": "Ovinto",
+    "site": "www.ovinto.com",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "aalter",
+        "address": "Brug-Zuid 29 9880 Aalter BE",
+        "coords": [
+          3.431724,
+          51.105766
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0887.865.447",
+    "name": "Optis",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 20,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0892.334.573",
+    "name": "Omygod",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "dendermonde",
+        "address": "Zwijvickstraat 11 9200 Dendermonde BE",
+        "coords": [
+          4.101365,
+          51.027668
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0894.635.750",
+    "name": "Objective International",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "wichelen",
+        "address": "Meerbos 2 9260 Wichelen BE",
+        "coords": [
+          3.960836,
+          51.011364
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0898.192.482",
+    "name": "One-consultants",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "diest",
+        "address": "Kleine Schaluinweg 5 3290 Diest BE",
+        "coords": [
+          5.045203,
+          50.992409
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0898.862.475",
+    "name": "Opmaakstudio Adforma",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "turnhout",
+        "address": "Graatakker 103 2300 Turnhout BE",
+        "coords": [
+          4.950446,
+          51.316324
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "1003.047.009",
+    "name": "Opalys",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "waterloo",
+        "address": "Chaussée de Bruxelles 1 D 1410 Waterloo BE",
+        "coords": [
+          4.39725,
+          50.73381
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "1011.008.630",
+    "name": "Oncore",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "Lucky Lukestraat 6 8500 Kortrijk BE",
+        "coords": [
+          3.258278,
+          50.83116
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 2024,
+    "proof": []
+  }
+]

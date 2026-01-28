@@ -1,0 +1,6561 @@
+[
+  {
+    "cbe": "0403.471.005",
+    "name": "Tokheim Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "turnhout",
+        "address": "Everdongenlaan 31 2300 Turnhout BE",
+        "coords": [
+          4.935951,
+          51.298931
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 64,
+    "founded": 1921,
+    "proof": []
+  },
+  {
+    "cbe": "0733.609.812",
+    "name": "The Space Behind",
+    "site": "www.thespacebehind.com",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Filip Williotstraat 9 2600 Antwerpen BE",
+        "coords": [
+          4.43569,
+          51.18698
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0422.813.892",
+    "name": "Tensen Et Huon",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-jans-molenbeek",
+        "address": "Boulevard Léopold II 166 1080 Molenbeek-Saint-Jean BE",
+        "coords": [
+          4.336751,
+          50.861061
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 1982,
+    "proof": []
+  },
+  {
+    "cbe": "0431.215.973",
+    "name": "Top System",
+    "site": "www.topsystem.be",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "schaerbeek",
+        "address": "Boulevard Lambermont 112 1030 Schaerbeek BE",
+        "coords": [
+          4.379458,
+          50.872948
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 1987,
+    "proof": []
+  },
+  {
+    "cbe": "0433.435.491",
+    "name": "Techniques Et Produits Informatiques",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "moeskroen",
+        "address": "Chaussée des Ballons(H) 11 7712 Mouscron BE",
+        "coords": [
+          3.222003,
+          50.719265
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 1988,
+    "proof": []
+  },
+  {
+    "cbe": "0433.512.893",
+    "name": "Tradecom",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "aalst",
+        "address": "Burgemeester De Cocklaan 10 1 9320 Aalst BE",
+        "coords": [
+          4.055424,
+          50.918403
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 1988,
+    "proof": []
+  },
+  {
+    "cbe": "0436.193.459",
+    "name": "Tomtom Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Gaston Crommenlaan 4 0501 9050 Gent BE",
+        "coords": [
+          3.73576,
+          51.036865
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 177,
+    "founded": 1988,
+    "proof": []
+  },
+  {
+    "cbe": "0438.282.424",
+    "name": "Td Synnex Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "aalst",
+        "address": "Korte Keppestraat 19 9320 Aalst BE",
+        "coords": [
+          4.04087,
+          50.915885
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "IJzerenpoortkaai 3 2000 Antwerpen BE",
+        "coords": [
+          4.388607,
+          51.210365
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "aalst",
+        "address": "Tragel 47 9300 Aalst BE",
+        "coords": [
+          4.034875,
+          50.950517
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Excelsiorlaan 6/8 1930 Zaventem BE",
+        "coords": [
+          4.457452,
+          50.882041
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 343,
+    "founded": 1989,
+    "proof": []
+  },
+  {
+    "cbe": "0439.034.371",
+    "name": "Trac",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Romboutsstraat 5 4 1932 Zaventem BE",
+        "coords": [
+          4.46376,
+          50.87278
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "donceel",
+        "address": "Rue des Combattants 34 2 4357 Donceel BE",
+        "coords": [
+          5.312617,
+          50.660685
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 1989,
+    "proof": []
+  },
+  {
+    "cbe": "0442.082.745",
+    "name": "Twin Development",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "gerpinnes",
+        "address": "Rue des Flaches(GER) 125 6280 Gerpinnes BE",
+        "coords": [
+          4.489778,
+          50.340147
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 1990,
+    "proof": []
+  },
+  {
+    "cbe": "0444.345.716",
+    "name": "Thomas & Piron Ict",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "namur-city",
+        "address": "Rue du Fort d'Andoy(WD) 5 5100 Namur BE",
+        "coords": [
+          4.923118,
+          50.437592
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 33,
+    "founded": 1991,
+    "proof": []
+  },
+  {
+    "cbe": "0446.780.020",
+    "name": "Tata Consultancy Services Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Lenneke Marelaan 6 1932 Zaventem BE",
+        "coords": [
+          4.44866,
+          50.85543
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 331,
+    "founded": 1992,
+    "proof": []
+  },
+  {
+    "cbe": "0447.647.179",
+    "name": "Tradeware",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "waterloo",
+        "address": "Drève Richelle 153 14 1410 Waterloo BE",
+        "coords": [
+          4.416162,
+          50.704919
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 1992,
+    "proof": []
+  },
+  {
+    "cbe": "0448.227.991",
+    "name": "The Computer Store",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "nazareth-de-pinte",
+        "address": "Biezenstraat 11 9810 Nazareth-De Pinte BE",
+        "coords": [
+          3.604831,
+          50.978966
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 1992,
+    "proof": []
+  },
+  {
+    "cbe": "0448.424.268",
+    "name": "Trustteam Wallonie",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "wavre",
+        "address": "Avenue Einstein 6 1300 Wavre BE",
+        "coords": [
+          4.58876,
+          50.730509
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "tournai",
+        "address": "Rue du Progrès(FRY) 31 1 7503 Tournai BE",
+        "coords": [
+          3.33904,
+          50.61718
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 57,
+    "founded": 1992,
+    "proof": []
+  },
+  {
+    "cbe": "0450.257.964",
+    "name": "Techwin Software",
+    "site": "www.techwin.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "De Regenboog 11 2800 Mechelen BE",
+        "coords": [
+          4.463049,
+          51.006994
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 1993,
+    "proof": []
+  },
+  {
+    "cbe": "0451.638.433",
+    "name": "The Concept Group",
+    "site": "www.tcog.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "turnhout",
+        "address": "Steenweg op Zevendonk 149 2300 Turnhout BE",
+        "coords": [
+          4.950975,
+          51.305784
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 52,
+    "founded": 1994,
+    "proof": []
+  },
+  {
+    "cbe": "0453.002.668",
+    "name": "Tresco Engineering",
+    "site": "www.tresco.eu",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Vosseschijnstraat 43B1 2030 Antwerpen BE",
+        "coords": [
+          4.407423,
+          51.26108
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 1994,
+    "proof": []
+  },
+  {
+    "cbe": "0453.138.765",
+    "name": "The Wave",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "watermaal-bosvoorde",
+        "address": "Rue Middelbourg 66 1170 Watermael-Boitsfort BE",
+        "coords": [
+          4.418014,
+          50.795659
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 1994,
+    "proof": []
+  },
+  {
+    "cbe": "0453.591.301",
+    "name": "Threon",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Kortrijksesteenweg 1097 A 9051 Gent BE",
+        "coords": [
+          3.706998,
+          51.024765
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 62,
+    "founded": 1994,
+    "proof": []
+  },
+  {
+    "cbe": "0454.613.660",
+    "name": "Tauris",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "zulte",
+        "address": "Waalbeekstraat 20 9870 Zulte BE",
+        "coords": [
+          3.463215,
+          50.920397
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 1995,
+    "proof": []
+  },
+  {
+    "cbe": "0455.520.908",
+    "name": "Toptech Systems",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "beveren-kruibeke-zwijndrecht",
+        "address": "Nieuwe Weg 1 2070 Beveren-Kruibeke-Zwijndrecht BE",
+        "coords": [
+          4.317577,
+          51.243814
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 17,
+    "founded": 1995,
+    "proof": []
+  },
+  {
+    "cbe": "0459.971.228",
+    "name": "The Stepstone Group Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue aux Laines 70 1000 Bruxelles BE",
+        "coords": [
+          4.352987,
+          50.836089
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 92,
+    "founded": 1997,
+    "proof": []
+  },
+  {
+    "cbe": "0462.985.255",
+    "name": "Twinvest",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "zandhoven",
+        "address": "Liersebaan 123 2240 Zandhoven BE",
+        "coords": [
+          4.64718,
+          51.204574
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "izegem",
+        "address": "Ambachtenstraat 6 8870 Izegem BE",
+        "coords": [
+          3.195746,
+          50.91653
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 1998,
+    "proof": []
+  },
+  {
+    "cbe": "0463.407.701",
+    "name": "Twelve",
+    "site": "www.twelve.be",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "beernem",
+        "address": "Weg naar St. Kruis 12 8730 Beernem BE",
+        "coords": [
+          3.31291,
+          51.186385
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 1998,
+    "proof": []
+  },
+  {
+    "cbe": "0465.538.731",
+    "name": "Trace It",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "herzele",
+        "address": "Gentweg 10 9550 Herzele BE",
+        "coords": [
+          3.856473,
+          50.854816
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0465.967.313",
+    "name": "Tam Tam Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "herentals",
+        "address": "Atealaan(HRT) 34 A 2200 Herentals BE",
+        "coords": [
+          4.788028,
+          51.1643
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0466.474.483",
+    "name": "Temenos Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "la-hulpe",
+        "address": "Avenue Reine Astrid 92 1310 La Hulpe BE",
+        "coords": [
+          4.472177,
+          50.727053
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0466.701.444",
+    "name": "Trustbuilder Corporation",
+    "site": "www.trustbuilder.com",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Poortakkerstraat 93 9051 Gent BE",
+        "coords": [
+          3.68815,
+          51.03127
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0468.278.683",
+    "name": "The Parking Lot",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Uitbreidingstraat 66 36 2600 Antwerpen BE",
+        "coords": [
+          4.415849,
+          51.192779
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0471.174.233",
+    "name": "Tactics",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kapellen",
+        "address": "Starrenhoflaan 14 2950 Kapellen BE",
+        "coords": [
+          4.408343,
+          51.327382
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0471.970.128",
+    "name": "Trinetx Europe",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "sint-martens-latem",
+        "address": "Kortrijksesteenweg 214 3 9830 Sint-Martens-Latem BE",
+        "coords": [
+          3.621888,
+          51.004592
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 19,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0473.093.051",
+    "name": "Tmssoftware.com",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "wevelgem",
+        "address": "Roeselarestraat 180 8560 Wevelgem BE",
+        "coords": [
+          3.17981,
+          50.81731
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0473.402.956",
+    "name": "The Crew",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "halle",
+        "address": "Nijverheidsstraat 24 1500 Halle BE",
+        "coords": [
+          4.241273,
+          50.732856
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Louise 251 1050 Ixelles BE",
+        "coords": [
+          4.355166,
+          50.817496
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Rue Joffre 12 4000 Liège BE",
+        "coords": [
+          5.572165,
+          50.64432
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 22,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0473.704.646",
+    "name": "Tvv Sound Project",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "nazareth-de-pinte",
+        "address": "Steenweg 148C 9810 Nazareth-De Pinte BE",
+        "coords": [
+          3.643954,
+          50.96098
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0473.812.138",
+    "name": "Tetram",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "namur-city",
+        "address": "Rue Charles Wérotte 96 5000 Namur BE",
+        "coords": [
+          4.847706,
+          50.46198
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0474.739.378",
+    "name": "Tenforce",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Sluisstraat 79 3000 Leuven BE",
+        "coords": [
+          4.699858,
+          50.887219
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 54,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0475.047.897",
+    "name": "Trecodis",
+    "site": "www.1barber.be",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "jodoigne",
+        "address": "Chaussée de Wavre(Lat.) 336 1370 Jodoigne BE",
+        "coords": [
+          4.825455,
+          50.732598
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "jodoigne",
+        "address": "Basse Voie(S.-R.-G.) 10 1370 Jodoigne BE",
+        "coords": [
+          4.855417,
+          50.745304
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0475.066.903",
+    "name": "Training & Presentation Institute",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "turnhout",
+        "address": "Patersstraat 100 2300 Turnhout BE",
+        "coords": [
+          4.950066,
+          51.326983
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0475.095.904",
+    "name": "The Right Move",
+    "site": "www.therightmove.be",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "la-bruyere",
+        "address": "Rue des Chapelles, Rhisnes 40 5080 La Bruyère BE",
+        "coords": [
+          4.83803,
+          50.512659
+        ]
+      },
+      {
+        "province": "namur",
+        "municipality": "namur-city",
+        "address": "Chaussée de Marche(EP) 496 13 5101 Namur BE",
+        "coords": [
+          4.899691,
+          50.444821
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0476.252.776",
+    "name": "Toba Hr Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Ikaroslaan 1 1930 Zaventem BE",
+        "coords": [
+          4.49383,
+          50.87625
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 42,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0476.407.580",
+    "name": "Tones",
+    "site": "www.tones.be",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "grimbergen",
+        "address": "Steenstraat 44 1851 Grimbergen BE",
+        "coords": [
+          4.39633,
+          50.97761
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0477.005.418",
+    "name": "Trustteam",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "Evolis 78 8500 Kortrijk BE",
+        "coords": [
+          3.30573,
+          50.82055
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Ilgatlaan 9 3500 Hasselt BE",
+        "coords": [
+          5.354289,
+          50.922248
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 97,
+    "founded": 2002,
+    "proof": []
+  },
+  {
+    "cbe": "0479.786.546",
+    "name": "Taxi Radio Bruxellois",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Rue du Mail 50 1050 Ixelles BE",
+        "coords": [
+          4.35998,
+          50.822061
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 52,
+    "founded": 2003,
+    "proof": []
+  },
+  {
+    "cbe": "0479.921.851",
+    "name": "T Suykerbootje",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "dendermonde",
+        "address": "Heirbaan 146 9200 Dendermonde BE",
+        "coords": [
+          4.115229,
+          51.013495
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "puurs-sint-amands",
+        "address": "Dorpshart 17 2870 Puurs-Sint-Amands BE",
+        "coords": [
+          4.27965,
+          51.07615
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "londerzeel",
+        "address": "Stationsstraat 65 A 1840 Londerzeel BE",
+        "coords": [
+          4.30103,
+          51.007119
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2003,
+    "proof": []
+  },
+  {
+    "cbe": "0480.056.166",
+    "name": "The Test Leaders",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "aartselaar",
+        "address": "Antwerpsesteenweg 124 2630 Aartselaar BE",
+        "coords": [
+          4.38071,
+          51.145252
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2003,
+    "proof": []
+  },
+  {
+    "cbe": "0500.878.009",
+    "name": "Togaether",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0502.495.236",
+    "name": "Tracs Systems",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "tessenderlo-ham",
+        "address": "Industrieweg 108 3980 Tessenderlo-Ham BE",
+        "coords": [
+          5.155752,
+          51.061069
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 23,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0533.800.797",
+    "name": "Twikey",
+    "site": "www.twikey.com",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Kortrijksesteenweg 1110 202 9051 Gent BE",
+        "coords": [
+          3.681297,
+          51.02006
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 20,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0536.908.163",
+    "name": "T&h Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "uccle",
+        "address": "Avenue du Directoire 50 1180 Uccle BE",
+        "coords": [
+          4.361955,
+          50.787118
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "uccle",
+        "address": "Chaussée de Waterloo 1488 1180 Uccle BE",
+        "coords": [
+          4.378747,
+          50.78425
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "waterloo",
+        "address": "Avenue du Faisan 4 1410 Waterloo BE",
+        "coords": [
+          4.395385,
+          50.732605
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0545.988.848",
+    "name": "Tbscg Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue Edmond Tollenaere 56 22 1020 Bruxelles BE",
+        "coords": [
+          4.340293,
+          50.87542
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0549.953.277",
+    "name": "Trackuity",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Ridderstraat 15A 9000 Gent BE",
+        "coords": [
+          3.72923,
+          51.05482
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0550.530.725",
+    "name": "Tavu",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "vorst",
+        "address": "Rue des Alliés 335 1190 Forest BE",
+        "coords": [
+          4.327735,
+          50.825299
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0599.839.783",
+    "name": "Thematchbox",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Grotehondstraat 44 2018 Antwerpen BE",
+        "coords": [
+          4.429077,
+          51.205837
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0627.896.440",
+    "name": "Tipi.be",
+    "site": "thinkpeaks.com",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Louise 485 1050 Ixelles BE",
+        "coords": [
+          4.371215,
+          50.816885
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0638.791.421",
+    "name": "The Tipping Point",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Persoonshoek 7 3 2800 Mechelen BE",
+        "coords": [
+          4.475683,
+          51.027246
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Hanswijkstraat 51 2800 Mechelen BE",
+        "coords": [
+          4.484491,
+          51.022419
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0641.685.385",
+    "name": "Talentsquare",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue du Grand Hospice 3 1000 Bruxelles BE",
+        "coords": [
+          4.351206,
+          50.85342
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "waterloo",
+        "address": "Drève Richelle 161 BAT O 1410 Waterloo BE",
+        "coords": [
+          4.409568,
+          50.708427
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0642.824.542",
+    "name": "Teal Partners",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Damplein 23 2060 Antwerpen BE",
+        "coords": [
+          4.424802,
+          51.232576
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 33,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0643.751.089",
+    "name": "Textgain",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Lodewijk Van Berckenlaan 180/2 2140 Antwerpen BE",
+        "coords": [
+          4.447627,
+          51.197766
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0645.558.655",
+    "name": "Touchpoint Medical",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "beveren-kruibeke-zwijndrecht",
+        "address": "Zwaluwbeekstraat 10 9150 Beveren-Kruibeke-Zwijndrecht BE",
+        "coords": [
+          4.315549,
+          51.19708
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 31,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0645.912.211",
+    "name": "Take The Lead",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Straatsburgdok-Noordkaai 33 2030 Antwerpen BE",
+        "coords": [
+          4.41569,
+          51.24406
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0646.705.631",
+    "name": "The Good Food Company",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "sint-pieters-leeuw",
+        "address": "Vorstsesteenweg 76 1601 Sint-Pieters-Leeuw BE",
+        "coords": [
+          4.299822,
+          50.792211
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue du Pesage 61 25 1050 Ixelles BE",
+        "coords": [
+          4.386898,
+          50.808393
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "anderlecht",
+        "address": "Rue Victor Rauter 132 1070 Anderlecht BE",
+        "coords": [
+          4.309372,
+          50.833987
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0647.523.005",
+    "name": "The Craft",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "Sint-Amandsdreef 6 8510 Kortrijk BE",
+        "coords": [
+          3.280523,
+          50.772807
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0648.822.409",
+    "name": "Tilroy",
+    "site": "www.tilroy.com",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "aartselaar",
+        "address": "Dijkstraat 6 2630 Aartselaar BE",
+        "coords": [
+          4.394711,
+          51.147805
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 22,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0648.911.588",
+    "name": "The Faktory",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Avenue Pré-Aily 24 4031 Liège BE",
+        "coords": [
+          5.564553,
+          50.596706
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0649.465.874",
+    "name": "Taglayer",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Meir 78 44 2000 Antwerpen BE",
+        "coords": [
+          4.411332,
+          51.217735
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0652.951.045",
+    "name": "Talentis Group",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Louise 350 1050 Ixelles BE",
+        "coords": [
+          4.369685,
+          50.822247
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "charleroi",
+        "address": "Quai Paul Verlaine 2 6000 Charleroi BE",
+        "coords": [
+          4.437763,
+          50.40651
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0654.736.835",
+    "name": "Triple A It Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Straatsburgdok-Noordkaai 21 6 2030 Antwerpen BE",
+        "coords": [
+          4.41809,
+          51.24319
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0655.770.181",
+    "name": "Thales Cyber Solutions Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "wavre",
+        "address": "Avenue Pasteur 6 1300 Wavre BE",
+        "coords": [
+          4.589168,
+          50.729738
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Belgicastraat 13 1 1930 Zaventem BE",
+        "coords": [
+          4.459117,
+          50.878669
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 26,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0667.737.607",
+    "name": "Thorbiq",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "lokeren",
+        "address": "Oosteindestraat 15C 9160 Lokeren BE",
+        "coords": [
+          4.015337,
+          51.089319
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0667.928.835",
+    "name": "T-mining",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Sint-Pietersvliet 7 2000 Antwerpen BE",
+        "coords": [
+          4.400851,
+          51.225599
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0669.612.279",
+    "name": "Transline",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "geel",
+        "address": "Klaus-Michael Kuehnelaan 5 2440 Geel BE",
+        "coords": [
+          4.950605,
+          51.130192
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0670.856.354",
+    "name": "Twintag",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "herentals",
+        "address": "Diamantstraat 8 262 2200 Herentals BE",
+        "coords": [
+          4.80594,
+          51.15922
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0671.584.745",
+    "name": "Terra",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0672.625.219",
+    "name": "Trace",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Kapeldreef 60 3001 Leuven BE",
+        "coords": [
+          4.671959,
+          50.862211
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0674.654.103",
+    "name": "Tribe Agency",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Rue Paul Spaak 2 1050 Ixelles BE",
+        "coords": [
+          4.365598,
+          50.828408
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0676.471.466",
+    "name": "Topcompare Information Services Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-gillis",
+        "address": "Rue de Livourne 7 1060 Saint-Gilles BE",
+        "coords": [
+          4.357767,
+          50.830928
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0680.497.758",
+    "name": "The Digital Journey",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-lambrechts-woluwe",
+        "address": "Avenue Ariane 5 1200 Woluwe-Saint-Lambert BE",
+        "coords": [
+          4.430176,
+          50.857195
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0680.715.811",
+    "name": "Tricore",
+    "site": "www.tricore.be",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Kuringersteenweg 304/4 3511 Hasselt BE",
+        "coords": [
+          5.311468,
+          50.937842
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0685.818.110",
+    "name": "Thewave",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue des Deux Eglises 26 1000 Bruxelles BE",
+        "coords": [
+          4.372603,
+          50.846586
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0695.501.777",
+    "name": "Tunity",
+    "site": "www.tunity.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "geel",
+        "address": "Kleinhoefstraat 5 48 2440 Geel BE",
+        "coords": [
+          4.965464,
+          51.161716
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0695.503.262",
+    "name": "Tripwire Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "edegem",
+        "address": "Prins Boudewijnlaan 43 2650 Edegem BE",
+        "coords": [
+          4.436157,
+          51.14866
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0696.671.123",
+    "name": "The Mindbridge",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "overijse",
+        "address": "Duitslandlaan 2 3090 Overijse BE",
+        "coords": [
+          4.540238,
+          50.780589
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0697.679.725",
+    "name": "Teo-training",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "beveren-kruibeke-zwijndrecht",
+        "address": "Schaarbeekstraat 42A 9120 Beveren-Kruibeke-Zwijndrecht BE",
+        "coords": [
+          4.31408,
+          51.20237
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0701.836.570",
+    "name": "Titp",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "braine-le-comte",
+        "address": "Avenue Saint Hubert 5 7090 Braine-le-Comte BE",
+        "coords": [
+          4.177564,
+          50.632832
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0702.852.201",
+    "name": "Techwolf",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Overzet 14B 9000 Gent BE",
+        "coords": [
+          3.6981,
+          51.05271
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Overzet 14A 9000 Gent BE",
+        "coords": [
+          3.6981,
+          51.05271
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 39,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0712.845.674",
+    "name": "Tf Tech",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "lochristi",
+        "address": "Antwerpse Steenweg 19 9080 Lochristi BE",
+        "coords": [
+          3.820201,
+          51.092312
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0713.774.993",
+    "name": "The Middle Men",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue d'Arenberg 44 1000 Bruxelles BE",
+        "coords": [
+          4.35703,
+          50.84801
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0717.912.737",
+    "name": "Ticup",
+    "site": "www.ticup.net/",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "mont-saint-guibert",
+        "address": "Rue du Fond Cattelain 2 1435 Mont-Saint-Guibert BE",
+        "coords": [
+          4.62496,
+          50.657379
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "bernissart",
+        "address": "Rue du Calvaire 3 7321 Bernissart BE",
+        "coords": [
+          3.69389,
+          50.480693
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0717.968.462",
+    "name": "Tcofleet",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Noorderlaan 133 37 2030 Antwerpen BE",
+        "coords": [
+          4.403265,
+          51.264051
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0717.984.991",
+    "name": "The Mobility Factory",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "schaerbeek",
+        "address": "Avenue Milcamps 105 1030 Schaerbeek BE",
+        "coords": [
+          4.394346,
+          50.850005
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Vlasgaardstraat 52 9000 Gent BE",
+        "coords": [
+          3.700918,
+          51.056651
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0718.633.408",
+    "name": "Trivec Systems Europe",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "turnhout",
+        "address": "Slachthuisstraat 120 11 2300 Turnhout BE",
+        "coords": [
+          4.916981,
+          51.300426
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0719.842.344",
+    "name": "Tamil Consultancy Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "evere",
+        "address": "Avenue Cicéron 27 88 1140 Evere BE",
+        "coords": [
+          4.418108,
+          50.863462
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0725.473.688",
+    "name": "Thinksoft",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "evere",
+        "address": "Avenue de l'Optimisme 93 33 1140 Evere BE",
+        "coords": [
+          4.408459,
+          50.862524
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0726.449.826",
+    "name": "The Collective Consulting",
+    "site": "www.thecollective.eu",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "zele",
+        "address": "Drukkerijstraat 11 G/H 9240 Zele BE",
+        "coords": [
+          4.049806,
+          51.074344
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 26,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0727.543.847",
+    "name": "Two Point O",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 27,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0727.915.813",
+    "name": "Traicie",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Deinsesteenweg 114 9031 Gent BE",
+        "coords": [
+          3.628387,
+          51.03939
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0732.751.955",
+    "name": "Tpl Investment 1",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Rue de Rotterdam 23 4000 Liège BE",
+        "coords": [
+          5.566939,
+          50.63027
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0736.391.138",
+    "name": "Twinntax",
+    "site": "www.twinntax.com",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "namur-city",
+        "address": "Avenue d'Ecolys 30 5020 Namur BE",
+        "coords": [
+          4.80498,
+          50.48914
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Arnaud Fraiteur 15 23 1050 Ixelles BE",
+        "coords": [
+          4.395968,
+          50.817416
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0736.564.253",
+    "name": "Trensition",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Sassevaartstraat 42 9000 Gent BE",
+        "coords": [
+          3.728884,
+          51.06911
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 21,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0737.510.893",
+    "name": "Tastefever",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "waregem",
+        "address": "Plasstraat 30 8790 Waregem BE",
+        "coords": [
+          3.411055,
+          50.853808
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "waregem",
+        "address": "Plasstraat 33 8790 Waregem BE",
+        "coords": [
+          3.41096,
+          50.8545
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0738.651.634",
+    "name": "Telwave",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Excelsiorlaan 53 1930 Zaventem BE",
+        "coords": [
+          4.455303,
+          50.885014
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0738.927.192",
+    "name": "Traxbel",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Excelsiorlaan 19 1930 Zaventem BE",
+        "coords": [
+          4.453583,
+          50.881049
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0739.577.785",
+    "name": "Triptomatic",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "duffel",
+        "address": "Ganzenkoor 8 2570 Duffel BE",
+        "coords": [
+          4.490481,
+          51.09158
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0742.836.094",
+    "name": "Timeseer.ai",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Kempische steenweg 303 200 3500 Hasselt BE",
+        "coords": [
+          5.35093,
+          50.95385
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0744.449.759",
+    "name": "Tvh Holding",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "lievegem",
+        "address": "Stationsstraat 7 9950 Lievegem BE",
+        "coords": [
+          3.607434,
+          51.151692
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0744.876.559",
+    "name": "Techniblue",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "olne",
+        "address": "Rue des Artisans 22 4877 Olne BE",
+        "coords": [
+          5.717952,
+          50.605552
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0750.543.636",
+    "name": "Treelight",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "oostende",
+        "address": "Velduilstraat 10 8400 Oostende BE",
+        "coords": [
+          2.931725,
+          51.204064
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0756.759.554",
+    "name": "Tailpage",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "temse",
+        "address": "Hollebeek 188 9140 Temse BE",
+        "coords": [
+          4.243268,
+          51.138699
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0757.754.496",
+    "name": "Tms Group",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "mont-saint-guibert",
+        "address": "Rue du Fond Cattelain 2 2.2 1435 Mont-Saint-Guibert BE",
+        "coords": [
+          4.62496,
+          50.657379
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0758.791.210",
+    "name": "Toqua",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Nieuwewandeling 62 9000 Gent BE",
+        "coords": [
+          3.706755,
+          51.055235
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0759.841.877",
+    "name": "Touch Systems",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "lievegem",
+        "address": "H. Consciencelaan 43 C 9950 Lievegem BE",
+        "coords": [
+          3.60144,
+          51.14654
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0760.777.928",
+    "name": "The Rechargers",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Sluisstraat 79 3000 Leuven BE",
+        "coords": [
+          4.699858,
+          50.887219
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0760.978.460",
+    "name": "The Jungle Group",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "vorst",
+        "address": "Bd 2me Armée Britannique 48 1190 Forest BE",
+        "coords": [
+          4.317272,
+          50.810009
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0760.981.331",
+    "name": "Toster Software",
+    "site": "www.toster.be",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "genk",
+        "address": "Houtparklaan 5 21 3600 Genk BE",
+        "coords": [
+          5.482426,
+          50.980897
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0762.706.050",
+    "name": "Thoughtworks",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "silly",
+        "address": "Chaussée d'Enghien 49 7830 Silly BE",
+        "coords": [
+          4.032499,
+          50.676733
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-joost-ten-node",
+        "address": "Avenue du Boulevard 21 1210 Saint-Josse-ten-Noode BE",
+        "coords": [
+          4.356967,
+          50.856202
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 35,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0765.819.849",
+    "name": "The Pack Wallonia",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "mons",
+        "address": "Avenue Guibal et Devillez 1 7000 Mons BE",
+        "coords": [
+          3.926436,
+          50.45684
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0766.663.155",
+    "name": "Tutela Novitas Defensio Technology",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Dublinstraat 35 /16 9000 Gent BE",
+        "coords": [
+          3.727767,
+          51.078206
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0767.854.077",
+    "name": "Telemedicine Technologies Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Boulevard de Patience et Beaujonc 3 4000 Liège BE",
+        "coords": [
+          5.5373,
+          50.64715
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0776.613.177",
+    "name": "Teceze",
+    "site": "www.teceze.com",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-agatha-berchem",
+        "address": "Rue de Grand-Bigard 14 1082 Berchem-Sainte-Agathe BE",
+        "coords": [
+          4.30341,
+          50.85811
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0777.709.772",
+    "name": "The Maul Startup Studio",
+    "site": "www.themaul.be",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "mont-saint-guibert",
+        "address": "Rue de la Houssière 6+ 1435 Mont-Saint-Guibert BE",
+        "coords": [
+          4.615733,
+          50.61999
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0778.403.917",
+    "name": "Tbd Agency",
+    "site": "www.tbd.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Kipdorp 49 2000 Antwerpen BE",
+        "coords": [
+          4.408885,
+          51.220895
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0780.686.880",
+    "name": "Tovenaar",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Dendermondsesteenweg 48A 1 9000 Gent BE",
+        "coords": [
+          3.741465,
+          51.055605
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0780.845.545",
+    "name": "Tekst.ai",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Ferdinand Lousbergskaai 106 19 9000 Gent BE",
+        "coords": [
+          3.73973,
+          51.04597
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0782.448.322",
+    "name": "Turnup",
+    "site": "www.turnup.be",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "ronse",
+        "address": "Rue Oscar Delghust 60 9600 Ronse BE",
+        "coords": [
+          3.616923,
+          50.750268
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0784.282.711",
+    "name": "The Data Forest",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "beringen",
+        "address": "Sint-Antoniusstraat 31 3583 Beringen BE",
+        "coords": [
+          5.169065,
+          51.031037
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Kempische steenweg 303 200 3500 Hasselt BE",
+        "coords": [
+          5.35093,
+          50.95385
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0792.555.227",
+    "name": "Talentguide",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Sint-Jansvest 18/1 9000 Gent BE",
+        "coords": [
+          3.727115,
+          51.049718
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0794.647.853",
+    "name": "Timefold",
+    "site": "timefold.ai",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Sint-Pietersnieuwstraat 11 9000 Gent BE",
+        "coords": [
+          3.72733,
+          51.04836
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0805.439.696",
+    "name": "Talemate",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "oostende",
+        "address": "Zandvoordestraat 444 B02 8400 Oostende BE",
+        "coords": [
+          2.968537,
+          51.207338
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0805.644.782",
+    "name": "The Tech Iq",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-jans-molenbeek",
+        "address": "Rue d'Enghien 5 1080 Molenbeek-Saint-Jean BE",
+        "coords": [
+          4.324264,
+          50.848816
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 27,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0806.187.883",
+    "name": "Thinline",
+    "site": "www.thinline.be",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Visserij 43 P 9000 Gent BE",
+        "coords": [
+          3.736785,
+          51.050514
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0809.038.990",
+    "name": "Terusus",
+    "site": "www.terusus.com",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Minervastraat 18 1930 Zaventem BE",
+        "coords": [
+          4.451339,
+          50.878878
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 21,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0809.453.518",
+    "name": "Top On Web",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "nivelles",
+        "address": "Rue Johannes Gutenberg 36 1402 Nivelles BE",
+        "coords": [
+          4.36145,
+          50.577767
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0810.800.036",
+    "name": "Transport Care",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "oostende",
+        "address": "Elisabethlaan 427 8400 Oostende BE",
+        "coords": [
+          2.912182,
+          51.214066
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0812.017.385",
+    "name": "Travelnote",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "Munkendoornstraat 12 8500 Kortrijk BE",
+        "coords": [
+          3.268016,
+          50.800134
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "Evolis 100 8500 Kortrijk BE",
+        "coords": [
+          3.310122,
+          50.821637
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0821.252.082",
+    "name": "Tarik Hennen",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "uccle",
+        "address": "Rue Gatti de Gamond 10/A7 1180 Uccle BE",
+        "coords": [
+          4.328642,
+          50.806071
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "seraing",
+        "address": "Rue F. Nicolay 215 4102 Seraing BE",
+        "coords": [
+          5.537032,
+          50.576115
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0822.717.673",
+    "name": "Triangle Factory",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Dublinstraat 35 7 9000 Gent BE",
+        "coords": [
+          3.727767,
+          51.078206
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 30,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0825.392.596",
+    "name": "Teleweb",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "zele",
+        "address": "De Deckerstraat 37 9240 Zele BE",
+        "coords": [
+          4.040006,
+          51.070685
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0827.571.138",
+    "name": "Tapptic",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Rue de Mulhouse 36 4020 Liège BE",
+        "coords": [
+          5.586227,
+          50.632747
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Boulevard de la Cambre 28-30 1000 Bruxelles BE",
+        "coords": [
+          4.37509,
+          50.816157
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 26,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0830.586.452",
+    "name": "Thalento",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Lummense Kiezel 51 3510 Hasselt BE",
+        "coords": [
+          5.24228,
+          50.95317
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0833.215.944",
+    "name": "Trinergy",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-lambrechts-woluwe",
+        "address": "Avenue Georges Henri 393 1200 Woluwe-Saint-Lambert BE",
+        "coords": [
+          4.407947,
+          50.842468
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0838.023.085",
+    "name": "Thevaluechain",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Satenrozen 10 2550 Kontich BE",
+        "coords": [
+          4.419992,
+          51.12639
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Satenrozen 14 2550 Kontich BE",
+        "coords": [
+          4.418579,
+          51.125918
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "wavre",
+        "address": "Avenue Pasteur 9 1300 Wavre BE",
+        "coords": [
+          4.591825,
+          50.729141
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "brugge",
+        "address": "Baron Ruzettelaan 3 4.3 8310 Brugge BE",
+        "coords": [
+          3.231197,
+          51.199143
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "genk",
+        "address": "Thor Park 8300 6 3600 Genk BE",
+        "coords": [
+          5.538129,
+          50.994024
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "destelbergen",
+        "address": "Molenweidestraat 24 9070 Destelbergen BE",
+        "coords": [
+          3.793862,
+          51.017245
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 109,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0838.686.645",
+    "name": "Twipe Mobile Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Gaston Geenslaan 8 3001 Leuven BE",
+        "coords": [
+          4.670758,
+          50.865597
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 47,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0839.520.152",
+    "name": "Tescan Xre",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Bollebergen 2B 1 9052 Gent BE",
+        "coords": [
+          3.70587,
+          51.01385
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0840.111.951",
+    "name": "Tree",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mortsel",
+        "address": "Jozef Hermanslei 45 2640 Mortsel BE",
+        "coords": [
+          4.436196,
+          51.174984
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0846.353.407",
+    "name": "Teasio",
+    "site": "www.appandweb.be",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "somme-leuze",
+        "address": "Rue de la Briqueterie, Waillet 14 5377 Somme-Leuze BE",
+        "coords": [
+          5.309615,
+          50.256892
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0859.624.787",
+    "name": "Traxgo",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "waregem",
+        "address": "Deerlijkseweg 144 A 8790 Waregem BE",
+        "coords": [
+          3.40312,
+          50.86736
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 18,
+    "founded": 2003,
+    "proof": []
+  },
+  {
+    "cbe": "0866.028.272",
+    "name": "Taktik",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "la-hulpe",
+        "address": "Avenue Reine Astrid 92 1310 La Hulpe BE",
+        "coords": [
+          4.472177,
+          50.727053
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0866.373.415",
+    "name": "Think4u",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zemst",
+        "address": "Het Spoeltje 13 1982 Zemst BE",
+        "coords": [
+          4.466225,
+          50.972384
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0866.741.223",
+    "name": "Triple S",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue de la Presse 4 1000 Bruxelles BE",
+        "coords": [
+          4.36684,
+          50.84914
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0869.630.833",
+    "name": "Trax",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "De Kleetlaan 6a 1831 Machelen BE",
+        "coords": [
+          4.448236,
+          50.886667
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 53,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0869.702.493",
+    "name": "Teleservice Systems",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "ieper",
+        "address": "Ter Waarde 60 8900 Ieper BE",
+        "coords": [
+          2.889377,
+          50.8706
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 39,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0869.974.687",
+    "name": "The Digitals",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "Lucky Lukestraat 6 8500 Kortrijk BE",
+        "coords": [
+          3.258278,
+          50.83116
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Gaston Geenslaan 11 4 3001 Leuven BE",
+        "coords": [
+          4.669279,
+          50.864801
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Bellevue 1 9050 Gent BE",
+        "coords": [
+          3.735889,
+          51.034772
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 34,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0873.597.143",
+    "name": "T & B Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "tervuren",
+        "address": "Achterstraat 47 3080 Tervuren BE",
+        "coords": [
+          4.542424,
+          50.81719
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0875.378.478",
+    "name": "Teknihall Benelux",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "hoogstraten",
+        "address": "Brusselstraat 33 2321 Hoogstraten BE",
+        "coords": [
+          4.721955,
+          51.474436
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0877.036.386",
+    "name": "Tripleclick",
+    "site": "www.tripleclick.be",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Karel van Lotharingenstraat 4 bus 3.2 3000 Leuven BE",
+        "coords": [
+          4.70008,
+          50.88257
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0877.156.152",
+    "name": "Transoft Solutions (belgium)",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "etterbeek",
+        "address": "Rue des Francs 79 1 1040 Etterbeek BE",
+        "coords": [
+          4.399698,
+          50.837065
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0879.762.185",
+    "name": "Telforce",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "waasmunster",
+        "address": "Nijverheidslaan 73 9250 Waasmunster BE",
+        "coords": [
+          4.110932,
+          51.121167
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0882.277.257",
+    "name": "Tri-ennium Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kalmthout",
+        "address": "Boswachtersdreef 45 2920 Kalmthout BE",
+        "coords": [
+          4.477264,
+          51.35876
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0886.426.382",
+    "name": "Techniques De Securisation Alarmes Et Videos",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "moeskroen",
+        "address": "Rue des Croisiers 13 1 7712 Mouscron BE",
+        "coords": [
+          3.233755,
+          50.721807
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0887.033.524",
+    "name": "Tcrew",
+    "site": "www.tcrew.be",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-joost-ten-node",
+        "address": "Rue de la Bienfaisance 3 8 1210 Saint-Josse-ten-Noode BE",
+        "coords": [
+          4.358926,
+          50.858018
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "eupen",
+        "address": "Industriestrasse 38 4700 Eupen BE",
+        "coords": [
+          6.010314,
+          50.634995
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 20,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0887.442.805",
+    "name": "Tradeshift Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "ottignies-louvain-la-neuve",
+        "address": "Chemin du Cyclotron 6 1348 Ottignies-Louvain-la-Neuve BE",
+        "coords": [
+          4.62368,
+          50.66513
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0891.239.166",
+    "name": "Timi",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "ath",
+        "address": "Chemin des Deux Villers 11 7812 Ath BE",
+        "coords": [
+          3.74035,
+          50.6161
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0891.348.242",
+    "name": "Talent-it",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Houtdok-Noordkaai 12 2030 Antwerpen BE",
+        "coords": [
+          4.413013,
+          51.237553
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 101,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0891.860.857",
+    "name": "Topdesk Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Uitbreidingstraat 184 2600 Antwerpen BE",
+        "coords": [
+          4.42004,
+          51.19235
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "charleroi",
+        "address": "Esplanade René Magritte 1 6010 Charleroi BE",
+        "coords": [
+          4.45954,
+          50.39317
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 38,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0892.553.121",
+    "name": "Twixl Media",
+    "site": "www.twixlmedia.com",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Kortrijksesteenweg 1144 N 9051 Gent BE",
+        "coords": [
+          3.672545,
+          51.018879
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0892.656.851",
+    "name": "Tangentworks",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Ottergemsesteenweg-Zuid 808 300 9000 Gent BE",
+        "coords": [
+          3.733061,
+          51.015577
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0893.178.572",
+    "name": "Thelis",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "namur-city",
+        "address": "Rue des Salamandres 2 5100 Namur BE",
+        "coords": [
+          4.9212,
+          50.42419
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0894.414.630",
+    "name": "Trendminer",
+    "site": "www.trendminer.com",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Kempische steenweg 309 5.01 3500 Hasselt BE",
+        "coords": [
+          5.351431,
+          50.951768
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 51,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0897.382.632",
+    "name": "Three-sixty Media",
+    "site": "grip.agency",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "kapelle-op-den-bos",
+        "address": "Meiselaan 74 1880 Kapelle-op-den-Bos BE",
+        "coords": [
+          4.351779,
+          50.978761
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0898.763.396",
+    "name": "Traxxeo",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "mont-saint-guibert",
+        "address": "Rue Edouard Belin 1 1435 Mont-Saint-Guibert BE",
+        "coords": [
+          4.626428,
+          50.65732
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0899.280.268",
+    "name": "Triptyk",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "mons",
+        "address": "Chaussée de Binche 177 A 7000 Mons BE",
+        "coords": [
+          3.987178,
+          50.450362
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0899.623.035",
+    "name": "Teamleader",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Dok-Noord 3A 101 9000 Gent BE",
+        "coords": [
+          3.73357,
+          51.06581
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 139,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0401.913.461",
+    "name": "Tecsi",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-agatha-berchem",
+        "address": "Rue Nestor Martin 319 1082 Berchem-Sainte-Agathe BE",
+        "coords": [
+          4.293584,
+          50.874145
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 1963,
+    "proof": []
+  },
+  {
+    "cbe": "0418.405.342",
+    "name": "Talboom Milieu",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "puurs-sint-amands",
+        "address": "A. Meersmansdreef 1 2870 Puurs-Sint-Amands BE",
+        "coords": [
+          4.304776,
+          51.067848
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 22,
+    "founded": 1978,
+    "proof": []
+  },
+  {
+    "cbe": "0419.809.961",
+    "name": "T.c. Services Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "oudergem",
+        "address": "Boulevard du Souverain 398 1160 Auderghem BE",
+        "coords": [
+          4.431166,
+          50.824822
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 1979,
+    "proof": []
+  },
+  {
+    "cbe": "0428.252.822",
+    "name": "Tase Research",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "schaerbeek",
+        "address": "Avenue Colonel Picquart 51 5 1030 Schaerbeek BE",
+        "coords": [
+          4.383046,
+          50.877537
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 1986,
+    "proof": []
+  },
+  {
+    "cbe": "0430.156.594",
+    "name": "Tat",
+    "site": "www.tat.be",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "schaerbeek",
+        "address": "Rue de la Poste 93/A21 1030 Schaerbeek BE",
+        "coords": [
+          4.367105,
+          50.858218
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "Woluwelaan 48 1830 Machelen BE",
+        "coords": [
+          4.430166,
+          50.909731
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "wavre",
+        "address": "Avenue Mercator 3 1300 Wavre BE",
+        "coords": [
+          4.586518,
+          50.732589
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 1986,
+    "proof": []
+  },
+  {
+    "cbe": "0435.539.007",
+    "name": "Tipik Communication Agency",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-pieters-woluwe",
+        "address": "Avenue de Tervueren 270 1150 Woluwe-Saint-Pierre BE",
+        "coords": [
+          4.420404,
+          50.835397
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 36,
+    "founded": 1988,
+    "proof": []
+  },
+  {
+    "cbe": "0439.676.353",
+    "name": "Tite - Live Belgique",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "moeskroen",
+        "address": "Drève Gustave Fache 1 7700 Mouscron BE",
+        "coords": [
+          3.25619,
+          50.74154
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 1990,
+    "proof": []
+  },
+  {
+    "cbe": "0458.160.494",
+    "name": "T.d.h.",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "wavre",
+        "address": "Chaussée de Louvain 22 1300 Wavre BE",
+        "coords": [
+          4.61377,
+          50.71428
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "ottignies-louvain-la-neuve",
+        "address": "Rue Charlemagne 45 1348 Ottignies-Louvain-la-Neuve BE",
+        "coords": [
+          4.614601,
+          50.66985
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 1996,
+    "proof": []
+  },
+  {
+    "cbe": "0460.324.386",
+    "name": "Transbeldecor",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "ottignies-louvain-la-neuve",
+        "address": "Rue du Monument 61 B 1340 Ottignies-Louvain-la-Neuve BE",
+        "coords": [
+          4.56986,
+          50.66304
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 1997,
+    "proof": []
+  },
+  {
+    "cbe": "0463.785.605",
+    "name": "The Capital Markets Company",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "Leonardo da Vincilaan 19A 1831 Machelen BE",
+        "coords": [
+          4.459132,
+          50.892836
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 59,
+    "founded": 1998,
+    "proof": []
+  },
+  {
+    "cbe": "0464.089.372",
+    "name": "Top Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "genappe",
+        "address": "Rue Emile François 53 1474 Genappe BE",
+        "coords": [
+          4.480907,
+          50.650061
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 1998,
+    "proof": []
+  },
+  {
+    "cbe": "0465.254.857",
+    "name": "Talsoft",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "pajottegem",
+        "address": "Repingestraat 1B 1570 Pajottegem BE",
+        "coords": [
+          4.019857,
+          50.757266
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "pajottegem",
+        "address": "Repingestraat 24 1570 Pajottegem BE",
+        "coords": [
+          4.020648,
+          50.757012
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "pajottegem",
+        "address": "Repingestraat 22 1570 Pajottegem BE",
+        "coords": [
+          4.020955,
+          50.756504
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0466.749.746",
+    "name": "Transports Julien Massart Et Fils",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "couvin",
+        "address": "Avenue de la Libération, Gon. 120 B 5660 Couvin BE",
+        "coords": [
+          4.475188,
+          50.053305
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0468.799.020",
+    "name": "Thaico",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Rue Saint-Boniface 7 1050 Ixelles BE",
+        "coords": [
+          4.364874,
+          50.835987
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "uccle",
+        "address": "Rue Xavier De Bue 41 1180 Uccle BE",
+        "coords": [
+          4.337263,
+          50.803375
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Rue du Bailli 104 1050 Ixelles BE",
+        "coords": [
+          4.3592,
+          50.825195
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "uccle",
+        "address": "Parvis Saint-Pierre 3 1180 Uccle BE",
+        "coords": [
+          4.339833,
+          50.803144
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue de l'Evêque 30 1000 Bruxelles BE",
+        "coords": [
+          4.352649,
+          50.849712
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 20,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0472.500.163",
+    "name": "Transmoove",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "vilvoorde",
+        "address": "J. Monnetlaan 1 A 1800 Vilvoorde BE",
+        "coords": [
+          4.438988,
+          50.946545
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "vilvoorde",
+        "address": "Radiatorenstraat 1 1800 Vilvoorde BE",
+        "coords": [
+          4.423065,
+          50.937781
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 86,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0472.510.556",
+    "name": "The Aviation Factory",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Luchthavenlei 1 71 2100 Antwerpen BE",
+        "coords": [
+          4.451343,
+          51.18924
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0472.614.484",
+    "name": "Thru",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "edegem",
+        "address": "Prins Boudewijnlaan 41 2650 Edegem BE",
+        "coords": [
+          4.436466,
+          51.147455
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0474.405.323",
+    "name": "Trius",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "genk",
+        "address": "Henry Fordlaan 18 3600 Genk BE",
+        "coords": [
+          5.490999,
+          50.916902
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0474.831.331",
+    "name": "Trilations",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Prins Boudewijnlaan 30 2550 Kontich BE",
+        "coords": [
+          4.43797,
+          51.143527
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 86,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0475.544.082",
+    "name": "The Studio",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "baarle-hertog",
+        "address": "Oosteinde 1 A0-3 2387 Baarle-Hertog BE",
+        "coords": [
+          4.933907,
+          51.444602
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0477.414.501",
+    "name": "Teccon",
+    "site": "www.teccon.be",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Kleimoer 16 9030 Gent BE",
+        "coords": [
+          3.671832,
+          51.089294
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "zandhoven",
+        "address": "Vierselbaan 42 2240 Zandhoven BE",
+        "coords": [
+          4.660766,
+          51.204636
+        ]
+      },
+      {
+        "province": "namur",
+        "municipality": "fernelmont",
+        "address": "Rue d'Eghezée, Forv. 6 5380 Fernelmont BE",
+        "coords": [
+          5.002829,
+          50.572645
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 50,
+    "founded": 2002,
+    "proof": []
+  },
+  {
+    "cbe": "0480.255.215",
+    "name": "Tuinen Van Strydonck",
+    "site": "www.tuinenvanstrydonck.be",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "waasmunster",
+        "address": "Patotterijstraat 31-33 9250 Waasmunster BE",
+        "coords": [
+          4.081098,
+          51.122529
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2003,
+    "proof": []
+  },
+  {
+    "cbe": "0480.273.823",
+    "name": "Teck & Co",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "puurs-sint-amands",
+        "address": "Moerplas 67 2870 Puurs-Sint-Amands BE",
+        "coords": [
+          4.314826,
+          51.082166
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2003,
+    "proof": []
+  },
+  {
+    "cbe": "0500.986.687",
+    "name": "Twikit",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Hessenplein 2 2000 Antwerpen BE",
+        "coords": [
+          4.40935,
+          51.226689
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0504.930.926",
+    "name": "Treasury Intelligence Solutions Belgium",
+    "site": "www.tispayments.com",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "herentals",
+        "address": "Diamantstraat 8 2200 Herentals BE",
+        "coords": [
+          4.80594,
+          51.15922
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0505.956.354",
+    "name": "Thys Communicatie",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "heusden-zolder",
+        "address": "Galgeneinde 8 3550 Heusden-Zolder BE",
+        "coords": [
+          5.273864,
+          50.987447
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 26,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0521.878.311",
+    "name": "The Blue Tartine Company",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-gillis",
+        "address": "Rue André Hennebicq 17 RC+1 1060 Saint-Gilles BE",
+        "coords": [
+          4.335572,
+          50.827959
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0521.990.256",
+    "name": "The Security Factory",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 a 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0537.446.118",
+    "name": "The Halo Factory",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "alken",
+        "address": "Hendrikstraat 83 3570 Alken BE",
+        "coords": [
+          5.275169,
+          50.875703
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "sint-truiden",
+        "address": "Plankstraat 2 3800 Sint-Truiden BE",
+        "coords": [
+          5.187285,
+          50.815901
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0542.575.537",
+    "name": "Trema",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Poortakkerstraat 91 9051 Gent BE",
+        "coords": [
+          3.68787,
+          51.03092
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0542.795.568",
+    "name": "Toreon",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Grotehondstraat 44 2018 Antwerpen BE",
+        "coords": [
+          4.429077,
+          51.205837
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 30,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0543.507.133",
+    "name": "Tinqwise Belgium",
+    "site": "www.tinqwise.com/nl/",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Ankerrui 9 2000 Antwerpen BE",
+        "coords": [
+          4.410801,
+          51.227514
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 76290,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0543.547.220",
+    "name": "The Online Nut Company",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "heist-op-den-berg",
+        "address": "Heeredreef 22 2222 Heist-op-den-Berg BE",
+        "coords": [
+          4.798869,
+          51.099473
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "herentals",
+        "address": "Toekomstlaan 7 2200 Herentals BE",
+        "coords": [
+          4.811585,
+          51.159809
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0550.927.237",
+    "name": "The House Of Marketing",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "Hermeslaan 9 1831 Machelen BE",
+        "coords": [
+          4.43721,
+          50.879275
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 90,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0553.775.374",
+    "name": "Totalenergies Global Information Technology Services Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "seneffe",
+        "address": "Parc Industriel de Feluy SN 7181 Seneffe BE",
+        "coords": [
+          4.313784,
+          50.68698
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Boulevard Anspach 1 2 1000 Bruxelles BE",
+        "coords": [
+          4.351812,
+          50.850815
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 65,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0555.720.324",
+    "name": "Take Care Food 1",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "anderlecht",
+        "address": "Rue Meylemeersch 90 1070 Anderlecht BE",
+        "coords": [
+          4.26176,
+          50.81261
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 19,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0556.671.914",
+    "name": "Ttnx",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "Zwaluwenstraat 2 1830 Machelen BE",
+        "coords": [
+          4.443589,
+          50.914254
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0564.741.423",
+    "name": "The Nest Box",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0564.886.527",
+    "name": "Tinkerlist.tv",
+    "site": "tinkerlist.tv",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Sluisstraat 79 3 3000 Leuven BE",
+        "coords": [
+          4.699858,
+          50.887219
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0567.715.957",
+    "name": "The List Media",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "brugge",
+        "address": "Pathoekeweg 120 G101 8000 Brugge BE",
+        "coords": [
+          3.218015,
+          51.238044
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0600.810.278",
+    "name": "Tessares",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "ottignies-louvain-la-neuve",
+        "address": "Chemin du Cyclotron 6 1348 Ottignies-Louvain-la-Neuve BE",
+        "coords": [
+          4.62368,
+          50.66513
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0628.770.925",
+    "name": "Ticketmatic België",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Philipssite 5A 22 3001 Leuven BE",
+        "coords": [
+          4.712963,
+          50.867016
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0635.598.339",
+    "name": "Treedy’s",
+    "site": "www.treedys.com",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue George Bergmann 117 1050 Ixelles BE",
+        "coords": [
+          4.388227,
+          50.808089
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Louise 251 1050 Ixelles BE",
+        "coords": [
+          4.355166,
+          50.817496
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "nivelles",
+        "address": "Rue de la Technique 9 1400 Nivelles BE",
+        "coords": [
+          4.36291,
+          50.58433
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0643.600.839",
+    "name": "The Staff Solutions",
+    "site": "www.thestaffsolutions.com",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "anzegem",
+        "address": "Vichteplaats 43 2 8570 Anzegem BE",
+        "coords": [
+          3.405341,
+          50.835585
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0646.891.020",
+    "name": "The Beehive",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 19,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0664.899.960",
+    "name": "Twenty8",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Louise 367 1050 Ixelles BE",
+        "coords": [
+          4.36941,
+          50.82083
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Louise 231 1050 Ixelles BE",
+        "coords": [
+          4.355166,
+          50.817496
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0667.863.113",
+    "name": "Thinq",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "herentals",
+        "address": "Atealaan 34 A 2200 Herentals BE",
+        "coords": [
+          4.788028,
+          51.1643
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0671.599.096",
+    "name": "Telenco",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Weiveldlaan 37 G 1930 Zaventem BE",
+        "coords": [
+          4.50401,
+          50.87114
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Weiveldlaan 41 A 1930 Zaventem BE",
+        "coords": [
+          4.506777,
+          50.871622
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 68,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0676.562.330",
+    "name": "The Flow",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0677.461.559",
+    "name": "Triple D",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "lokeren",
+        "address": "Melkerijlaan 27 9180 Lokeren BE",
+        "coords": [
+          3.92748,
+          51.176904
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0678.687.125",
+    "name": "Thermovault",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "genk",
+        "address": "Hoefstadstraat 86 3600 Genk BE",
+        "coords": [
+          5.5059,
+          50.97948
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Diestsevest 32 3A 3000 Leuven BE",
+        "coords": [
+          4.713303,
+          50.883436
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0687.533.723",
+    "name": "Talentbay",
+    "site": "www.talentbay.be/",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 B 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0687.561.932",
+    "name": "Teamwill Consulting Benelux",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "lochristi",
+        "address": "Beerveldse Baan 2A 9080 Lochristi BE",
+        "coords": [
+          3.868459,
+          51.104793
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 23,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0689.892.704",
+    "name": "Trinovation",
+    "site": "www.trinovation.be",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "leopoldsburg",
+        "address": "De Uitpalingen 31 3971 Leopoldsburg BE",
+        "coords": [
+          5.215701,
+          51.104569
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0691.932.672",
+    "name": "Tetravision",
+    "site": "www.tetravision.be",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "boutersem",
+        "address": "Leuvensesteenweg 226 A 3370 Boutersem BE",
+        "coords": [
+          4.846367,
+          50.836899
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0692.803.197",
+    "name": "Tui Technology",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Luchthaven Brussel Nationaal 40P 1 1930 Zaventem BE",
+        "coords": [
+          4.48047,
+          50.8934
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "oostende",
+        "address": "Gistelsesteenweg 1 8400 Oostende BE",
+        "coords": [
+          2.926701,
+          51.215692
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 70,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0695.664.501",
+    "name": "To70 Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hamont-achel",
+        "address": "Haag 74 3930 Hamont-Achel BE",
+        "coords": [
+          5.473194,
+          51.245409
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0701.984.941",
+    "name": "T.m.s. Int",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "rixensart",
+        "address": "Avenue Gevaert 172A 1332 Rixensart BE",
+        "coords": [
+          4.504353,
+          50.723639
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0704.867.821",
+    "name": "Thaleria",
+    "site": "www.thaleria.com",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Avenue des Arts 56 1000 Bruxelles BE",
+        "coords": [
+          4.366717,
+          50.841105
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 19,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0719.295.382",
+    "name": "The Grain",
+    "site": "www.thegrain.pro",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Sint-Pietersvliet 7 2000 Antwerpen BE",
+        "coords": [
+          4.400851,
+          51.225599
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0719.974.877",
+    "name": "The Business Analysts Centrum",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 17,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0719.996.455",
+    "name": "The Business Analysts Oost",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0720.486.997",
+    "name": "The Business Analysts West",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0720.860.052",
+    "name": "Tactic Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "braine-le-comte",
+        "address": "Chemin de Rognon 88 7090 Braine-le-Comte BE",
+        "coords": [
+          4.094943,
+          50.631867
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0727.591.753",
+    "name": "The Service Company",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "waterloo",
+        "address": "Avenue des Anglais 20 1410 Waterloo BE",
+        "coords": [
+          4.407763,
+          50.692436
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0730.841.649",
+    "name": "Trendskout",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Franklin Rooseveltlaan 349 16 9000 Gent BE",
+        "coords": [
+          3.73124,
+          51.04433
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0739.629.948",
+    "name": "Tuspark Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "etterbeek",
+        "address": "Boulevard Louis Schmidt 29 1040 Etterbeek BE",
+        "coords": [
+          4.399456,
+          50.826959
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0739.654.989",
+    "name": "Tvh Consult",
+    "site": "www.tvh-consult.be",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "deinze",
+        "address": "Dorpsstraat 98 /0101 9800 Deinze BE",
+        "coords": [
+          3.567125,
+          50.984887
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0739.928.074",
+    "name": "Technical Consultancy And Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Indiëstraat 71 204 2000 Antwerpen BE",
+        "coords": [
+          4.4135,
+          51.23458
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0744.819.151",
+    "name": "The Campfire",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue de Pavie 57 1000 Bruxelles BE",
+        "coords": [
+          4.383665,
+          50.849636
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Cantersteen 10 1000 Bruxelles BE",
+        "coords": [
+          4.357388,
+          50.845475
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "lebbeke",
+        "address": "Konkelgoedstraat 20 9280 Lebbeke BE",
+        "coords": [
+          4.13477,
+          51.00101
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0746.407.674",
+    "name": "Toolsquare",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Sint-Pietersvliet 7 2000 Antwerpen BE",
+        "coords": [
+          4.400851,
+          51.225599
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0750.830.577",
+    "name": "Tock Institute Healthcare Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "charleroi",
+        "address": "Avenue Paul Pastur 211 6032 Charleroi BE",
+        "coords": [
+          4.413289,
+          50.393282
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0762.463.352",
+    "name": "The It Hive",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "anzegem",
+        "address": "Tiegemberg 42 8573 Anzegem BE",
+        "coords": [
+          3.462545,
+          50.818995
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0768.719.852",
+    "name": "Tensr",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 13 2550 Kontich BE",
+        "coords": [
+          4.438974,
+          51.142881
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0770.695.583",
+    "name": "Technicontrol Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "andenne",
+        "address": "Rue Haigniaux 23 5300 Andenne BE",
+        "coords": [
+          4.975439,
+          50.477941
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "villers-le-bouillet",
+        "address": "Rue de la Science 10 4530 Villers-le-Bouillet BE",
+        "coords": [
+          5.260259,
+          50.579538
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Derbystraat 345 9051 Gent BE",
+        "coords": [
+          3.698377,
+          51.022942
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0776.841.326",
+    "name": "Televitas",
+    "site": "www.televitas.com",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Kliniekstraat 27 A 9050 Gent BE",
+        "coords": [
+          3.75544,
+          51.04251
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0778.465.877",
+    "name": "The Value Hub",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "herentals",
+        "address": "Diamantstraat 10 2200 Herentals BE",
+        "coords": [
+          4.80647,
+          51.15908
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 36,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0778.693.036",
+    "name": "Talan Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Arnaud Fraiteur 15 1050 Ixelles BE",
+        "coords": [
+          4.395968,
+          50.817416
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0778.989.677",
+    "name": "Trigrr",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "la-hulpe",
+        "address": "Avenue Reine Astrid 92 1310 La Hulpe BE",
+        "coords": [
+          4.472177,
+          50.727053
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0783.873.826",
+    "name": "Tri-a",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "aalst",
+        "address": "Nieuwbeekstraat 10 31 9300 Aalst BE",
+        "coords": [
+          4.029826,
+          50.937037
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0786.640.801",
+    "name": "Teksystems Global Services (belgium)",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue du Marquis 1 1000 Bruxelles BE",
+        "coords": [
+          4.35857,
+          50.84738
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0787.822.716",
+    "name": "Teqniqe",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "frameries",
+        "address": "Route de Bavay 56 7080 Frameries BE",
+        "coords": [
+          3.921664,
+          50.408054
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0801.263.649",
+    "name": "The Bee Academy",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Beelbroekstraat 105 B 9040 Gent BE",
+        "coords": [
+          3.797368,
+          51.071619
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0806.667.242",
+    "name": "Tsubo Sign & Graphics",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "waregem",
+        "address": "Groenbek 23 1 8790 Waregem BE",
+        "coords": [
+          3.414469,
+          50.877106
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0806.814.128",
+    "name": "Thaste It",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "lier",
+        "address": "Gasthuisvest 30 2500 Lier BE",
+        "coords": [
+          4.576499,
+          51.1289
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0807.075.434",
+    "name": "Traxion",
+    "site": "www.traxion.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Prins Boudewijnlaan 7 A 2550 Kontich BE",
+        "coords": [
+          4.43592,
+          51.14078
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0821.778.159",
+    "name": "Twogether",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "merelbeke-melle",
+        "address": "Vijverwegel 79 9090 Merelbeke-Melle BE",
+        "coords": [
+          3.771121,
+          51.015527
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0822.962.747",
+    "name": "Tillit",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "lokeren",
+        "address": "Klokkengieterijstraat 21 9160 Lokeren BE",
+        "coords": [
+          3.988873,
+          51.09528
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 18,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0824.719.140",
+    "name": "Thales Dis Belgium",
+    "site": "www.onewelcome.com",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Philipssite 5 1 3001 Leuven BE",
+        "coords": [
+          4.712963,
+          50.867016
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0825.923.524",
+    "name": "Transforming",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "landen",
+        "address": "Torenstraat 50A 3400 Landen BE",
+        "coords": [
+          5.047285,
+          50.755708
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0826.689.923",
+    "name": "The Master Labs",
+    "site": "www.themasterlabs.com",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Sleutelstraat 25 2550 Kontich BE",
+        "coords": [
+          4.447073,
+          51.132624
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 30,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0830.860.923",
+    "name": "Ts Automation",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "sint-gillis-waas",
+        "address": "Beekstraat 29 b 9170 Sint-Gillis-Waas BE",
+        "coords": [
+          4.101235,
+          51.194781
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0832.456.968",
+    "name": "Think Tomorrow",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "herentals",
+        "address": "Lierseweg 81 2200 Herentals BE",
+        "coords": [
+          4.825944,
+          51.175675
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0834.341.738",
+    "name": "The Learning Hub",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0838.049.811",
+    "name": "Topsolid Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "ternat",
+        "address": "Ternatstraat 4 1742 Ternat BE",
+        "coords": [
+          4.157381,
+          50.874022
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "aalst",
+        "address": "Industrielaan 4 9320 Aalst BE",
+        "coords": [
+          4.035746,
+          50.912311
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0842.080.457",
+    "name": "The Fabrik",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "wavre",
+        "address": "Chaussée de Louvain 82 1300 Wavre BE",
+        "coords": [
+          4.616574,
+          50.715228
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0844.922.062",
+    "name": "Thinkerbell",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Blauwesteenstraat 126 2550 Kontich BE",
+        "coords": [
+          4.451463,
+          51.123257
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 17,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0846.655.293",
+    "name": "Tictopia",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "schaerbeek",
+        "address": "Rue des Palais 34 1030 Schaerbeek BE",
+        "coords": [
+          4.367756,
+          50.859814
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "vorst",
+        "address": "Avenue Van Volxem 4 1190 Forest BE",
+        "coords": [
+          4.324422,
+          50.813849
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0846.805.941",
+    "name": "Three Headed Giant",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Prins Boudewijnlaan 24 C 2550 Kontich BE",
+        "coords": [
+          4.438778,
+          51.140031
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0861.741.466",
+    "name": "Tui Fly",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Luchthaven Brussel Nationaal 40P 1 1930 Zaventem BE",
+        "coords": [
+          4.48047,
+          50.8934
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 1012,
+    "founded": 2003,
+    "proof": []
+  },
+  {
+    "cbe": "0863.952.868",
+    "name": "Tyneth",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "la-bruyere",
+        "address": "Rue de Gembloux, Rhisnes 22 5080 La Bruyère BE",
+        "coords": [
+          4.793386,
+          50.501225
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0865.227.330",
+    "name": "Teenconsulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "seneffe",
+        "address": "Chaussée de Nivelles 60 7181 Seneffe BE",
+        "coords": [
+          4.277888,
+          50.559495
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0865.307.801",
+    "name": "Tms Facility Technics",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "rumst",
+        "address": "Steenweg op Waarloos 63A 7 2840 Rumst BE",
+        "coords": [
+          4.428474,
+          51.102329
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0866.674.115",
+    "name": "Team Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "ternat",
+        "address": "Assesteenweg 65 1740 Ternat BE",
+        "coords": [
+          4.167231,
+          50.881875
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0869.982.211",
+    "name": "Transport & Logistics Competence Centre",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "oostkamp",
+        "address": "Sint-Elooisplein 10 8020 Oostkamp BE",
+        "coords": [
+          3.2062,
+          51.09624
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0871.501.844",
+    "name": "Techfin Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "uccle",
+        "address": "Avenue du Fort-Jaco 4 1180 Uccle BE",
+        "coords": [
+          4.375629,
+          50.788825
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0873.235.273",
+    "name": "Tyneso",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zemst",
+        "address": "Rekelstraat 37 1980 Zemst BE",
+        "coords": [
+          4.451872,
+          50.959732
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 23,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0874.069.275",
+    "name": "Titans",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Pieter van Reysschootlaan 6 9051 Gent BE",
+        "coords": [
+          3.683904,
+          51.018611
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 17,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0877.759.532",
+    "name": "Terminal Session (benelux)",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Rijfstraat 3 2018 Antwerpen BE",
+        "coords": [
+          4.419244,
+          51.215951
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0878.156.242",
+    "name": "Target Foods",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "genk",
+        "address": "Geleenlaan 24 3600 Genk BE",
+        "coords": [
+          5.51476,
+          50.91953
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0881.844.420",
+    "name": "Turbo's Hoet Group Finance",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "hooglede",
+        "address": "Bruggesteenweg 249 8830 Hooglede BE",
+        "coords": [
+          3.119466,
+          50.988235
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0883.491.836",
+    "name": "The Waffle Concept Company",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "brugge",
+        "address": "Breidelstraat 16 8000 Brugge BE",
+        "coords": [
+          3.225964,
+          51.208426
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0885.267.728",
+    "name": "Twin Cats Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "froidchapelle",
+        "address": "Rue de Martinsart 58 6440 Froidchapelle BE",
+        "coords": [
+          4.358544,
+          50.148351
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "beaumont",
+        "address": "Rue de la Bouteillerie ZN 6500 Beaumont BE",
+        "coords": [
+          4.232126,
+          50.243154
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0886.776.275",
+    "name": "Tigron",
+    "site": "www.tigron.be",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Excelsiorlaan 17 1930 Zaventem BE",
+        "coords": [
+          4.453472,
+          50.881412
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0888.143.282",
+    "name": "Technology Management Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "waterloo",
+        "address": "Drève du Moulin 80 1410 Waterloo BE",
+        "coords": [
+          4.394385,
+          50.718211
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0890.150.786",
+    "name": "Tdk Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Hubert Frère-Orbanlaan 144 701 9000 Gent BE",
+        "coords": [
+          3.733879,
+          51.044731
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 26,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0891.454.942",
+    "name": "Toast Production",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Rue du Sceptre 25 1050 Ixelles BE",
+        "coords": [
+          4.376757,
+          50.833476
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0894.318.620",
+    "name": "Thisplays2",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "schoten",
+        "address": "Wijtschotbaan 9 5 2900 Schoten BE",
+        "coords": [
+          4.5064,
+          51.242757
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0894.703.155",
+    "name": "Tradetracker Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Ottergemsesteenweg-Zuid 808 543 9000 Gent BE",
+        "coords": [
+          3.733061,
+          51.015577
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0895.991.869",
+    "name": "Tangoe Benelux",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Avenue du Port 86 C 1000 Bruxelles BE",
+        "coords": [
+          4.348862,
+          50.86495
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0897.334.231",
+    "name": "Trivec Systems Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "turnhout",
+        "address": "Slachthuisstraat 120 11 2300 Turnhout BE",
+        "coords": [
+          4.916981,
+          51.300426
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "sint-niklaas",
+        "address": "Koningin Astridlaan 41 9100 Sint-Niklaas BE",
+        "coords": [
+          4.156058,
+          51.156783
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 17,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "1003.916.742",
+    "name": "Thrix",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "edegem",
+        "address": "Prins Boudewijnlaan 43 2650 Edegem BE",
+        "coords": [
+          4.436157,
+          51.14866
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "1004.424.805",
+    "name": "Thryve",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "grobbendonk",
+        "address": "Sparrenlaan 8 2280 Grobbendonk BE",
+        "coords": [
+          4.710745,
+          51.167815
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Berchemstadionstraat 72 2600 Antwerpen BE",
+        "coords": [
+          4.437716,
+          51.188993
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2024,
+    "proof": []
+  }
+]

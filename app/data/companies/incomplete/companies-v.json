@@ -1,0 +1,2826 @@
+[
+  {
+    "cbe": "0267.390.891",
+    "name": "Vera",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Vaartdijk 3 1 3018 Leuven BE",
+        "coords": [
+          4.70061,
+          50.921244
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 35,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0422.654.536",
+    "name": "Vix Technology (belgium)",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Romboutsstraat 5 1932 Zaventem BE",
+        "coords": [
+          4.46376,
+          50.87278
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 1982,
+    "proof": []
+  },
+  {
+    "cbe": "0424.759.139",
+    "name": "Verlinfo",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "deinze",
+        "address": "Kapellestraat 70 9800 Deinze BE",
+        "coords": [
+          3.552863,
+          50.982665
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 1983,
+    "proof": []
+  },
+  {
+    "cbe": "0428.280.536",
+    "name": "Vereycken & Vereycken",
+    "site": "www.vereycken.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 2 2550 Kontich BE",
+        "coords": [
+          4.441401,
+          51.141698
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 24,
+    "founded": 1985,
+    "proof": []
+  },
+  {
+    "cbe": "0428.837.295",
+    "name": "Vantiva Technologies Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "edegem",
+        "address": "Prins Boudewijnlaan 47 2650 Edegem BE",
+        "coords": [
+          4.435512,
+          51.151356
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 39,
+    "founded": 1986,
+    "proof": []
+  },
+  {
+    "cbe": "0430.798.972",
+    "name": "Vlecad",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "bree",
+        "address": "Kanaalkom 36 3960 Bree BE",
+        "coords": [
+          5.610782,
+          51.152021
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 1987,
+    "proof": []
+  },
+  {
+    "cbe": "0431.828.954",
+    "name": "Vita Mina",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "torhout",
+        "address": "Kwaplasstraat 71 8820 Torhout BE",
+        "coords": [
+          3.12923,
+          51.06145
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 1987,
+    "proof": []
+  },
+  {
+    "cbe": "0436.288.677",
+    "name": "Vary",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "wavre",
+        "address": "Avenue Zénobe Gramme 27 1300 Wavre BE",
+        "coords": [
+          4.578616,
+          50.734157
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 1988,
+    "proof": []
+  },
+  {
+    "cbe": "0440.714.748",
+    "name": "Vintia",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "ieper",
+        "address": "Ter Waarde 50 8900 Ieper BE",
+        "coords": [
+          2.889257,
+          50.869244
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 99,
+    "founded": 1990,
+    "proof": []
+  },
+  {
+    "cbe": "0449.188.489",
+    "name": "Ventigrate",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 21,
+    "founded": 1993,
+    "proof": []
+  },
+  {
+    "cbe": "0451.355.351",
+    "name": "Vanden Broele",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "brugge",
+        "address": "Lieven Bauwensstraat 33 8200 Brugge BE",
+        "coords": [
+          3.194771,
+          51.21473
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "rixensart",
+        "address": "Rue du Cerf 200 1332 Rixensart BE",
+        "coords": [
+          4.499337,
+          50.731931
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "brugge",
+        "address": "Lieven Bauwensstraat 35 8200 Brugge BE",
+        "coords": [
+          3.193958,
+          51.215068
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue Joseph II 40 1 1000 Bruxelles BE",
+        "coords": [
+          4.372743,
+          50.845829
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "brugge",
+        "address": "Magdalenastraat 43 8200 Brugge BE",
+        "coords": [
+          3.210379,
+          51.201737
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 107,
+    "founded": 1993,
+    "proof": []
+  },
+  {
+    "cbe": "0454.061.849",
+    "name": "Vo-it",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "herentals",
+        "address": "Gareelmakersstraat(HRT) 6-8 2200 Herentals BE",
+        "coords": [
+          4.853998,
+          51.175906
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "herentals",
+        "address": "Zavelheide(HRT) 2 2200 Herentals BE",
+        "coords": [
+          4.87044,
+          51.179772
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 1994,
+    "proof": []
+  },
+  {
+    "cbe": "0456.249.396",
+    "name": "Vortex",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "herentals",
+        "address": "Perronstraat(HRT) 3 2200 Herentals BE",
+        "coords": [
+          4.826338,
+          51.179648
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 1995,
+    "proof": []
+  },
+  {
+    "cbe": "0456.861.783",
+    "name": "Vermeg Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-joost-ten-node",
+        "address": "Avenue des Arts 6-9 1210 Saint-Josse-ten-Noode BE",
+        "coords": [
+          4.369765,
+          50.848406
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 1995,
+    "proof": []
+  },
+  {
+    "cbe": "0457.553.651",
+    "name": "Van Roey Automation",
+    "site": "www.vanroey.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "turnhout",
+        "address": "Kempenlaan 2 A 2300 Turnhout BE",
+        "coords": [
+          4.917786,
+          51.318075
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "geel",
+        "address": "Antwerpseweg 116 H 2440 Geel BE",
+        "coords": [
+          4.95068,
+          51.143231
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "houthalen-helchteren",
+        "address": "Centrum-Zuid 1527 A 3530 Houthalen-Helchteren BE",
+        "coords": [
+          5.361785,
+          51.025992
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 122,
+    "founded": 1996,
+    "proof": []
+  },
+  {
+    "cbe": "0463.068.793",
+    "name": "Vervit",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "lochristi",
+        "address": "Raveschoot 9A 9080 Lochristi BE",
+        "coords": [
+          3.883753,
+          51.070512
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 1998,
+    "proof": []
+  },
+  {
+    "cbe": "0465.349.679",
+    "name": "Visible",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "herstal",
+        "address": "Parc Ind. des Hauts Sarts, 3e av 24 4040 Herstal BE",
+        "coords": [
+          5.61926,
+          50.69866
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0465.600.691",
+    "name": "Vat House Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "watermaal-bosvoorde",
+        "address": "Chaussée de La Hulpe 187 1170 Watermael-Boitsfort BE",
+        "coords": [
+          4.406299,
+          50.795148
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0465.934.352",
+    "name": "Viro Herentals",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "herentals",
+        "address": "Welvaartstraat (HRT) 14-1 8 2200 Herentals BE",
+        "coords": [
+          4.801672,
+          51.159284
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 19,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0466.415.194",
+    "name": "Visma Bouwsoft",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "zuienkerke",
+        "address": "Molenweg 9 8377 Zuienkerke BE",
+        "coords": [
+          3.166511,
+          51.231784
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 19,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0472.539.656",
+    "name": "Vanhauwaert Consultancy",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Sint-Maartenstraat 43 6 3000 Leuven BE",
+        "coords": [
+          4.704275,
+          50.882379
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0472.905.781",
+    "name": "Verzekeringen",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Leuvensesteenweg 643 14 1930 Zaventem BE",
+        "coords": [
+          4.504161,
+          50.877855
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Hendrik van Veldekesingel 150 3500 Hasselt BE",
+        "coords": [
+          5.314947,
+          50.935604
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0474.235.275",
+    "name": "Verso",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "temse",
+        "address": "Philippe Saveryslaan 73 9140 Temse BE",
+        "coords": [
+          4.208312,
+          51.122724
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "temse",
+        "address": "Kapelanielaan 2 9140 Temse BE",
+        "coords": [
+          4.175251,
+          51.139012
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0474.800.251",
+    "name": "Vermeg International",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Boulevard du Régent 37-40 1000 Bruxelles BE",
+        "coords": [
+          4.367184,
+          50.843614
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0474.928.529",
+    "name": "Vector Bross",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Sluisstraat 79 3.01 3000 Leuven BE",
+        "coords": [
+          4.699858,
+          50.887219
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 18,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0475.517.160",
+    "name": "Vocabase",
+    "site": "www.vocabase.com",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "tubize",
+        "address": "Avenue Léon Champagne 2 1480 Tubize BE",
+        "coords": [
+          4.174849,
+          50.708045
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0476.091.044",
+    "name": "Vg Boekhouding & Fiscaliteit",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "merelbeke-melle",
+        "address": "Brusselsesteenweg 111 2 9090 Merelbeke-Melle BE",
+        "coords": [
+          3.778809,
+          51.020525
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0480.232.647",
+    "name": "Venturis",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "wavre",
+        "address": "Avenue Pasteur 4 1 1300 Wavre BE",
+        "coords": [
+          4.589418,
+          50.729173
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2003,
+    "proof": []
+  },
+  {
+    "cbe": "0501.696.470",
+    "name": "Vcn",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "grez-doiceau",
+        "address": "Rue de la Marbaise 5 1390 Grez-Doiceau BE",
+        "coords": [
+          4.65217,
+          50.779846
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0508.697.197",
+    "name": "Vzw Samenwerken Aan Kinderopvang Brussel",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "schaerbeek",
+        "address": "Rue du Progrès 323 9 1030 Schaerbeek BE",
+        "coords": [
+          4.362975,
+          50.866305
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0524.969.443",
+    "name": "Vanmarcke-software",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "veurne",
+        "address": "Sint-Idesbaldusstraat 29 8630 Veurne BE",
+        "coords": [
+          2.650531,
+          51.080006
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0550.412.345",
+    "name": "Visual Books",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "heron",
+        "address": "Rue Bel Horizon 1B 4217 Héron BE",
+        "coords": [
+          5.101472,
+          50.549388
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0553.476.060",
+    "name": "Vvtw",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Avenue Henri-Warnant ZN 4020 Liège BE",
+        "coords": [
+          5.642047,
+          50.635832
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "herstal",
+        "address": "Rue d'Abhooz 27 4040 Herstal BE",
+        "coords": [
+          5.62055,
+          50.69353
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0555.735.368",
+    "name": "Venn",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Lenneke Marelaan 6 1932 Zaventem BE",
+        "coords": [
+          4.44866,
+          50.85543
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0599.890.164",
+    "name": "Vavato",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "lokeren",
+        "address": "Waaslandlaan 14 9160 Lokeren BE",
+        "coords": [
+          4.012577,
+          51.122009
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Blancefloerlaan 179 A 2050 Antwerpen BE",
+        "coords": [
+          4.371772,
+          51.219697
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 41,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0645.536.879",
+    "name": "Vo2 Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Louise 367 1050 Ixelles BE",
+        "coords": [
+          4.36941,
+          50.82083
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0653.767.627",
+    "name": "Valantic Cpt Ai",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mortsel",
+        "address": "Jacob van Arteveldestraat 30 2640 Mortsel BE",
+        "coords": [
+          4.461282,
+          51.167087
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0653.859.380",
+    "name": "Vectera",
+    "site": "www.vectera.com",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Dok-Noord 3A 101 9000 Gent BE",
+        "coords": [
+          3.73357,
+          51.06581
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0656.567.066",
+    "name": "Viu More",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "lochristi",
+        "address": "Antwerpse Steenweg 19 9080 Lochristi BE",
+        "coords": [
+          3.820201,
+          51.092312
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0662.712.710",
+    "name": "Villa De Rentmeester",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "steenokkerzeel",
+        "address": "Van Frachenlaan 1 1820 Steenokkerzeel BE",
+        "coords": [
+          4.51274,
+          50.91068
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0662.940.659",
+    "name": "Venerit",
+    "site": "www.venerit.be",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "dendermonde",
+        "address": "Baasrodestraat 202 9200 Dendermonde BE",
+        "coords": [
+          4.142194,
+          51.039587
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0669.758.670",
+    "name": "Veeva Systems Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ganshoren",
+        "address": "Place de la Reine Paola 11 6 1083 Ganshoren BE",
+        "coords": [
+          4.301134,
+          50.875297
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0678.683.066",
+    "name": "Vae",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "lochristi",
+        "address": "Rechtstro 1 2 9185 Lochristi BE",
+        "coords": [
+          3.860079,
+          51.171194
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0679.729.775",
+    "name": "Vistalaro",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "orp-jauche",
+        "address": "Rue du Clerc 4 1350 Orp-Jauche BE",
+        "coords": [
+          4.939529,
+          50.660792
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0684.899.182",
+    "name": "Vaimo Benelux",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "genk",
+        "address": "C-Mine 1 13 3600 Genk BE",
+        "coords": [
+          5.491895,
+          50.981967
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 17,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0687.542.532",
+    "name": "Vreg Technologies",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "brasschaat",
+        "address": "Essensteenweg 79B 2930 Brasschaat BE",
+        "coords": [
+          4.516023,
+          51.341071
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0694.573.943",
+    "name": "Verhaeghe Capital",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "lier",
+        "address": "Waversesteenweg 136 2500 Lier BE",
+        "coords": [
+          4.567487,
+          51.123653
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0698.736.233",
+    "name": "Verbolia",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "enghien",
+        "address": "Rue Jean Burgers 2 7850 Enghien BE",
+        "coords": [
+          4.028058,
+          50.682542
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0704.586.224",
+    "name": "Vr Base",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "willebroek",
+        "address": "Geerhoek 3 2830 Willebroek BE",
+        "coords": [
+          4.37406,
+          51.048554
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Kruisbaan 54 2800 Mechelen BE",
+        "coords": [
+          4.46829,
+          51.01035
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0704.738.355",
+    "name": "Venly",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "willebroek",
+        "address": "Antwerpsesteenweg 45 2830 Willebroek BE",
+        "coords": [
+          4.360333,
+          51.080839
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0719.425.640",
+    "name": "Virto Solar",
+    "site": "www.virto.solar",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "geel",
+        "address": "Antwerpseweg 1 2440 Geel BE",
+        "coords": [
+          4.973612,
+          51.153182
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 27,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0721.610.714",
+    "name": "Vocsens",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "ottignies-louvain-la-neuve",
+        "address": "Chemin du Cyclotron 6 1348 Ottignies-Louvain-la-Neuve BE",
+        "coords": [
+          4.62368,
+          50.66513
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0735.377.883",
+    "name": "Vlegel Technology",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "genk",
+        "address": "André Dumontlaan 31 3600 Genk BE",
+        "coords": [
+          5.532231,
+          50.995345
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0735.921.083",
+    "name": "Varamedia",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "beernem",
+        "address": "Hoornstraat 22 8730 Beernem BE",
+        "coords": [
+          3.347516,
+          51.145023
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0737.828.718",
+    "name": "Vertuoza",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "nivelles",
+        "address": "Rue Louis Braille 16 1402 Nivelles BE",
+        "coords": [
+          4.35984,
+          50.57787
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 71,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0744.713.639",
+    "name": "Valex Group",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "mons",
+        "address": "Rue des Arquebusiers 49 7000 Mons BE",
+        "coords": [
+          3.949056,
+          50.447263
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0745.364.628",
+    "name": "Voxelsensors",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Cantersteen 47 1000 Bruxelles BE",
+        "coords": [
+          4.358233,
+          50.845598
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0749.617.582",
+    "name": "Vulpo",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "wetteren",
+        "address": "Brusselsesteenweg 81 9230 Wetteren BE",
+        "coords": [
+          3.834774,
+          50.989557
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0749.635.695",
+    "name": "Voxdale",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "wijnegem",
+        "address": "Bijkhoevelaan 32 C 2110 Wijnegem BE",
+        "coords": [
+          4.495289,
+          51.230983
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Provinciestraat 77 2018 Antwerpen BE",
+        "coords": [
+          4.42606,
+          51.215597
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 21,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0752.956.164",
+    "name": "Vestatech",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "roeselare",
+        "address": "Sint-Blasiusstraat 11 A1 8800 Roeselare BE",
+        "coords": [
+          3.15149,
+          50.93466
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0762.552.632",
+    "name": "V-care",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "ranst",
+        "address": "Oostmalsesteenweg 14 2520 Ranst BE",
+        "coords": [
+          4.599848,
+          51.162402
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0766.460.742",
+    "name": "Victoria Co-working Opco",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Pauline Van Pottelsberghelaan 10 9051 Gent BE",
+        "coords": [
+          3.689015,
+          51.029289
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-joost-ten-node",
+        "address": "Avenue Victoria Régina 1 1210 Saint-Josse-ten-Noode BE",
+        "coords": [
+          4.362609,
+          50.854189
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0777.359.681",
+    "name": "Velopass",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "wijnegem",
+        "address": "Stokerijstraat 29 a1 2110 Wijnegem BE",
+        "coords": [
+          4.54483,
+          51.222934
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0778.632.361",
+    "name": "Vertex Solutions Consultancy",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue du Congrès 35 1000 Bruxelles BE",
+        "coords": [
+          4.36674,
+          50.84925
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0801.864.158",
+    "name": "Viveris Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Louise 367 1050 Ixelles BE",
+        "coords": [
+          4.36941,
+          50.82083
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0806.412.765",
+    "name": "Verhaert Antwerpen",
+    "site": "www.verhaert.digital",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Sint-Pietersvliet 7 2000 Antwerpen BE",
+        "coords": [
+          4.400851,
+          51.225599
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 17,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0818.953.776",
+    "name": "Verixi",
+    "site": "www.verixi.com",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "mont-saint-guibert",
+        "address": "Rue Edouard Belin 3 1435 Mont-Saint-Guibert BE",
+        "coords": [
+          4.626861,
+          50.657524
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Louise 326 1050 Ixelles BE",
+        "coords": [
+          4.368897,
+          50.823057
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0824.928.481",
+    "name": "Vert Decor",
+    "site": "www.vertdecor.be",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "namur-city",
+        "address": "Chaussée de Dinant 1081 5100 Namur BE",
+        "coords": [
+          4.880697,
+          50.414547
+        ]
+      },
+      {
+        "province": "namur",
+        "municipality": "profondeville",
+        "address": "Rue Ferme de la Vallée 31 5170 Profondeville BE",
+        "coords": [
+          4.82257,
+          50.40092
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0837.527.197",
+    "name": "Vandt",
+    "site": "www.vandt.be",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "brugge",
+        "address": "Gistelse Steenweg 382 8200 Brugge BE",
+        "coords": [
+          3.189506,
+          51.199122
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0838.618.151",
+    "name": "Vyntra Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Stationsstraat 55 2800 Mechelen BE",
+        "coords": [
+          4.48072,
+          51.01675
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 31,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0846.500.390",
+    "name": "Verhaert Kortrijk",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kuurne",
+        "address": "Noordlaan 18 8520 Kuurne BE",
+        "coords": [
+          3.262145,
+          50.860416
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 17,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0847.823.847",
+    "name": "Valantic Cpt",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mortsel",
+        "address": "Jacob van Arteveldestraat 30 2640 Mortsel BE",
+        "coords": [
+          4.461282,
+          51.167087
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 50,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0849.600.729",
+    "name": "Votect",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Middelweg 92 A 1130 Bruxelles BE",
+        "coords": [
+          4.41956,
+          50.88666
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-joost-ten-node",
+        "address": "Avenue des Arts 2 1210 Saint-Josse-ten-Noode BE",
+        "coords": [
+          4.369687,
+          50.848697
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Carrefour de l'Europe 2 1000 Bruxelles BE",
+        "coords": [
+          4.356493,
+          50.846042
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Rue du Bailli 104 1050 Ixelles BE",
+        "coords": [
+          4.3592,
+          50.825195
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0869.557.290",
+    "name": "Versalys",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "nivelles",
+        "address": "Rue des Ecoles 34 1402 Nivelles BE",
+        "coords": [
+          4.37393,
+          50.594279
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0871.935.077",
+    "name": "Virtual Surveyor",
+    "site": "www.GeoID.eu",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "aarschot",
+        "address": "Kleine Mechelsebaan 52 3200 Aarschot BE",
+        "coords": [
+          4.824095,
+          50.995964
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0879.539.679",
+    "name": "Verhaert Gent",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Bruiloftstraat 55-57 9050 Gent BE",
+        "coords": [
+          3.758716,
+          51.044693
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 62,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0882.428.103",
+    "name": "Visiativ België",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "aalst",
+        "address": "De Gheeststraat 1 B 9300 Aalst BE",
+        "coords": [
+          4.045493,
+          50.934493
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0894.124.224",
+    "name": "Vanas Engineering",
+    "site": "www.vanasengineering.eu",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "beveren-kruibeke-zwijndrecht",
+        "address": "Zwaluwbeek 3 9120 Beveren-Kruibeke-Zwijndrecht BE",
+        "coords": [
+          4.318795,
+          51.197682
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 54,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0404.062.903",
+    "name": "V.c.d.",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "halle",
+        "address": "Edingensesteenweg 20 1500 Halle BE",
+        "coords": [
+          4.22927,
+          50.73092
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 1967,
+    "proof": []
+  },
+  {
+    "cbe": "0433.153.696",
+    "name": "Van Damme - De Smaele",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "lochristi",
+        "address": "Ruilare 41 9080 Lochristi BE",
+        "coords": [
+          3.889525,
+          51.116839
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 1988,
+    "proof": []
+  },
+  {
+    "cbe": "0454.982.656",
+    "name": "Valmet Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "aartselaar",
+        "address": "Antwerpsesteenweg 124/78 2630 Aartselaar BE",
+        "coords": [
+          4.38071,
+          51.145252
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 25,
+    "founded": 1995,
+    "proof": []
+  },
+  {
+    "cbe": "0474.819.057",
+    "name": "Valiente",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "bonheiden",
+        "address": "Halmenhoek 4 2820 Bonheiden BE",
+        "coords": [
+          4.550906,
+          51.019644
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0477.027.093",
+    "name": "Vd Consultants",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hechtel-eksel",
+        "address": "Resterheidestraat 17 3940 Hechtel-Eksel BE",
+        "coords": [
+          5.380604,
+          51.118585
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2002,
+    "proof": []
+  },
+  {
+    "cbe": "0477.390.844",
+    "name": "Vox Teneo",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "wavre",
+        "address": "Rue Léon Deladrière 15 1300 Wavre BE",
+        "coords": [
+          4.551663,
+          50.694078
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2002,
+    "proof": []
+  },
+  {
+    "cbe": "0478.928.788",
+    "name": "Voxbone",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Louise 231 1050 Ixelles BE",
+        "coords": [
+          4.355166,
+          50.817496
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 136,
+    "founded": 2002,
+    "proof": []
+  },
+  {
+    "cbe": "0479.740.422",
+    "name": "Vlaamse Ict Organisatie",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "waasmunster",
+        "address": "Gentstraat 9 9250 Waasmunster BE",
+        "coords": [
+          4.083047,
+          51.109884
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0500.491.888",
+    "name": "Voizxl Be",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Haantjeslei 84 2018 Antwerpen BE",
+        "coords": [
+          4.400404,
+          51.202155
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0534.452.083",
+    "name": "Vixa Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "londerzeel",
+        "address": "Polderstraat 40 1840 Londerzeel BE",
+        "coords": [
+          4.299356,
+          50.999257
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0543.611.655",
+    "name": "Vo7 Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "uccle",
+        "address": "Chaussée de Drogenbos 187 43 1180 Uccle BE",
+        "coords": [
+          4.322754,
+          50.786518
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 287609,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0558.953.491",
+    "name": "Vi-jo",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "herk-de-stad",
+        "address": "Rummenweg 57 3540 Herk-de-Stad BE",
+        "coords": [
+          5.160995,
+          50.930066
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0559.908.843",
+    "name": "Viviou",
+    "site": "www.viviou.be",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "gembloux",
+        "address": "Rue de la Place, Gd-L. 41 5031 Gembloux BE",
+        "coords": [
+          4.767029,
+          50.581142
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "watermaal-bosvoorde",
+        "address": "Chaussée de La Hulpe 150 1170 Watermael-Boitsfort BE",
+        "coords": [
+          4.401455,
+          50.796716
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0563.779.044",
+    "name": "Valkuren",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Cantersteen 12 1000 Bruxelles BE",
+        "coords": [
+          4.3575,
+          50.84558
+        ]
+      },
+      {
+        "province": "luxembourg",
+        "municipality": "vielsalm",
+        "address": "Coteau Saint-Hilaire 6 6690 Vielsalm BE",
+        "coords": [
+          5.756568,
+          50.252926
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0597.824.163",
+    "name": "Vulcain Engineering",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue de Namur 73D 1000 Bruxelles BE",
+        "coords": [
+          4.360146,
+          50.839377
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 124,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0638.954.044",
+    "name": "Vandenbussche Software",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "President Kennedypark 16 a 8500 Kortrijk BE",
+        "coords": [
+          3.27177,
+          50.799699
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0639.968.386",
+    "name": "Victoria Facility Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "asse",
+        "address": "Kalkovenveld 12 1730 Asse BE",
+        "coords": [
+          4.193253,
+          50.916634
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0644.768.007",
+    "name": "Valuexstream",
+    "site": "www.valuexstream.eu",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Satenrozen 10 2550 Kontich BE",
+        "coords": [
+          4.419992,
+          51.12639
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0673.558.496",
+    "name": "Vectr.consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 13 2550 Kontich BE",
+        "coords": [
+          4.438974,
+          51.142881
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0674.611.046",
+    "name": "Venture Campus",
+    "site": "www.venturecampus.com",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "beveren-kruibeke-zwijndrecht",
+        "address": "Schaarbeekstraat 20E 11 9120 Beveren-Kruibeke-Zwijndrecht BE",
+        "coords": [
+          4.310066,
+          51.198899
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0679.641.089",
+    "name": "Vaimo I&a",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue des Colonies 56 1000 Bruxelles BE",
+        "coords": [
+          4.36097,
+          50.84729
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0692.690.262",
+    "name": "Vertiberry",
+    "site": "www.urbanharvest.eu",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "anderlecht",
+        "address": "Rue Ropsy Chaudron 24 32 1070 Anderlecht BE",
+        "coords": [
+          4.327972,
+          50.843538
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0696.841.268",
+    "name": "Vafe",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "morlanwelz",
+        "address": "Rue Bois d'Hairmont 8 7141 Morlanwelz BE",
+        "coords": [
+          4.26465,
+          50.452198
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0713.776.775",
+    "name": "Value Trading",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Simonsstraat 48 2018 Antwerpen BE",
+        "coords": [
+          4.421021,
+          51.210987
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0715.838.125",
+    "name": "Vandebos Groep",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "alken",
+        "address": "Bisschopsweyerstraat 17 3570 Alken BE",
+        "coords": [
+          5.271495,
+          50.85955
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0730.764.148",
+    "name": "Valdec",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "tremelo",
+        "address": "Honsdonkstraat 51 a 3120 Tremelo BE",
+        "coords": [
+          4.656371,
+          50.991159
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0745.344.832",
+    "name": "Val Software.be",
+    "site": "www.valsoftware.com",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue de la Loi 23 C/O 1040 Bruxelles BE",
+        "coords": [
+          4.369867,
+          50.845155
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0754.674.351",
+    "name": "Vv Technologies",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "etterbeek",
+        "address": "Chaussée de Wavre 533 1040 Etterbeek BE",
+        "coords": [
+          4.386234,
+          50.832801
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0755.556.655",
+    "name": "Vlaf",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "oudergem",
+        "address": "Avenue Henri de Brouckère 44 1160 Auderghem BE",
+        "coords": [
+          4.422964,
+          50.818276
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Place Saint-Christophe 19 4000 Liège BE",
+        "coords": [
+          5.565971,
+          50.6397
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0766.277.135",
+    "name": "Veningua",
+    "site": "www.zonnebroeders.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "ranst",
+        "address": "Ter Stratenweg 44 J 2520 Ranst BE",
+        "coords": [
+          4.580952,
+          51.209426
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0788.265.055",
+    "name": "Vdw Productions",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "seraing",
+        "address": "Rue Cockerill 164 4100 Seraing BE",
+        "coords": [
+          5.512397,
+          50.610303
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "tongeren-borgloon",
+        "address": "Achttiende - Oogstwal 10 3700 Tongeren-Borgloon BE",
+        "coords": [
+          5.46991,
+          50.78355
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0794.526.307",
+    "name": "Vs Consulting Company",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Louise 480 1050 Ixelles BE",
+        "coords": [
+          4.3722,
+          50.81707
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0800.117.069",
+    "name": "Vizeon",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "assesse",
+        "address": "Rue Jaumain 16/E 5330 Assesse BE",
+        "coords": [
+          5.028439,
+          50.369434
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0820.127.278",
+    "name": "Vass Eu Services Belgium",
+    "site": "www.cri-group.eu",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Arnaud Fraiteur 15/23 1050 Ixelles BE",
+        "coords": [
+          4.395968,
+          50.817416
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 23,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0826.097.332",
+    "name": "Vemichron",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "puurs-sint-amands",
+        "address": "Groenstraat 90B 2870 Puurs-Sint-Amands BE",
+        "coords": [
+          4.311252,
+          51.051244
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0827.516.304",
+    "name": "Visuality",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue Dieudonné Lefèvre 17 1020 Bruxelles BE",
+        "coords": [
+          4.351008,
+          50.870516
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0834.898.695",
+    "name": "Vigor",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Blarenberglaan 3C 9 2800 Mechelen BE",
+        "coords": [
+          4.454612,
+          51.051418
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0835.958.965",
+    "name": "Vr Technics",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "puurs-sint-amands",
+        "address": "Groenstraat 93 2870 Puurs-Sint-Amands BE",
+        "coords": [
+          4.307505,
+          51.052471
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0844.832.089",
+    "name": "Vostra Energy Group",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "sint-pieters-leeuw",
+        "address": "August Detréstraat 68 1600 Sint-Pieters-Leeuw BE",
+        "coords": [
+          4.279916,
+          50.784633
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0861.199.454",
+    "name": "Vegaplan.be",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Avenue du Port 86c/202b 1000 Bruxelles BE",
+        "coords": [
+          4.348862,
+          50.86495
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 18,
+    "founded": 2003,
+    "proof": []
+  },
+  {
+    "cbe": "0874.783.909",
+    "name": "Valerie Vandeput",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "heusden-zolder",
+        "address": "Weyerman 98 3550 Heusden-Zolder BE",
+        "coords": [
+          5.291566,
+          51.002719
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0875.430.542",
+    "name": "Vgd Accountants En Belastingconsulenten",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "beringen",
+        "address": "Hasseltsesteenweg 107 3580 Beringen BE",
+        "coords": [
+          5.230867,
+          51.042833
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "Spinnerijkaai 43A 8500 Kortrijk BE",
+        "coords": [
+          3.282074,
+          50.83278
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Frans Buyensstraat 9 K201 2000 Antwerpen BE",
+        "coords": [
+          4.380106,
+          51.20424
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "wemmel",
+        "address": "Avenue Neerhof 2 1780 Wemmel BE",
+        "coords": [
+          4.30763,
+          50.91255
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "zedelgem",
+        "address": "Heidelbergstraat 24 1 8210 Zedelgem BE",
+        "coords": [
+          3.183408,
+          51.154907
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "sint-niklaas",
+        "address": "Gentse Baan 50 9100 Sint-Niklaas BE",
+        "coords": [
+          4.127744,
+          51.149211
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "brasschaat",
+        "address": "Ruiterijschool 1 3 2930 Brasschaat BE",
+        "coords": [
+          4.526856,
+          51.329123
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "herentals",
+        "address": "Atealaan 4 P 2200 Herentals BE",
+        "coords": [
+          4.803875,
+          51.156205
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Diestsevest 25 3000 Leuven BE",
+        "coords": [
+          4.71264,
+          50.882893
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Generaal De Wittelaan 17 A 2800 Mechelen BE",
+        "coords": [
+          4.455614,
+          51.053842
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "opwijk",
+        "address": "Stwg. op Aalst 168 1745 Opwijk BE",
+        "coords": [
+          4.157035,
+          50.962546
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "aalst",
+        "address": "Korte Keppestraat 23 9320 Aalst BE",
+        "coords": [
+          4.040929,
+          50.915836
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "halle",
+        "address": "Sint-Rochusstraat 11 1500 Halle BE",
+        "coords": [
+          4.239399,
+          50.73193
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "overijse",
+        "address": "Duisburgsesteenweg 183 3090 Overijse BE",
+        "coords": [
+          4.550328,
+          50.800371
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 292,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0887.337.390",
+    "name": "Vebit",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "beringen",
+        "address": "Tervantstraat 158 3583 Beringen BE",
+        "coords": [
+          5.184188,
+          51.059541
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0890.751.295",
+    "name": "Verstaro Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "oudsbergen",
+        "address": "Rozenstraat 21 3660 Oudsbergen BE",
+        "coords": [
+          5.579004,
+          51.042977
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0895.214.978",
+    "name": "V-it",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Bredestraat 4 2000 Antwerpen BE",
+        "coords": [
+          4.402,
+          51.21512
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0896.460.637",
+    "name": "Veterinary Services & Logistics",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "beringen",
+        "address": "Industrieweg 135 1 3583 Beringen BE",
+        "coords": [
+          5.173599,
+          51.055746
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 34,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "1001.714.644",
+    "name": "Ventory",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Excelsiorlaan 8 1930 Zaventem BE",
+        "coords": [
+          4.457603,
+          50.88239
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2023,
+    "proof": []
+  }
+]

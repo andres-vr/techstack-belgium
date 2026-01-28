@@ -1,0 +1,3916 @@
+[
+  {
+    "cbe": "0428.375.754",
+    "name": "Netwerk Hiëronymus",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "sint-niklaas",
+        "address": "Valk 37 9111 Sint-Niklaas BE",
+        "coords": [
+          4.145525,
+          51.164121
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 1983,
+    "proof": []
+  },
+  {
+    "cbe": "0434.163.486",
+    "name": "Netbyte",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "knokke-heist",
+        "address": "Gemeenteplein 32 8300 Knokke-Heist BE",
+        "coords": [
+          3.290984,
+          51.340619
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 1988,
+    "proof": []
+  },
+  {
+    "cbe": "0434.697.184",
+    "name": "Nv Sas Institute Sa",
+    "site": "www.sas.com/belux",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "tervuren",
+        "address": "Hertenbergstraat 6 3080 Tervuren BE",
+        "coords": [
+          4.51521,
+          50.82006
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 106,
+    "founded": 1988,
+    "proof": []
+  },
+  {
+    "cbe": "0435.685.792",
+    "name": "Nucomat",
+    "site": "www.nucomat.com",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "lokeren",
+        "address": "Spieveldstraat 45 9160 Lokeren BE",
+        "coords": [
+          3.994438,
+          51.083837
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 1988,
+    "proof": []
+  },
+  {
+    "cbe": "0437.744.766",
+    "name": "Nostex",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "etterbeek",
+        "address": "Chaussée de Wavre 768 1040 Etterbeek BE",
+        "coords": [
+          4.39186,
+          50.82956
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Bist 34 2610 Antwerpen BE",
+        "coords": [
+          4.39276,
+          51.17026
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Nekkerspoelstraat 85 2800 Mechelen BE",
+        "coords": [
+          4.4935,
+          51.031165
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-agatha-berchem",
+        "address": "Chaussée de Gand 1299 1082 Berchem-Sainte-Agathe BE",
+        "coords": [
+          4.292828,
+          50.869119
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 1989,
+    "proof": []
+  },
+  {
+    "cbe": "0442.439.269",
+    "name": "Neocity",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "vorst",
+        "address": "Rue de la Station 15 1190 Forest BE",
+        "coords": [
+          4.314046,
+          50.809711
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 1990,
+    "proof": []
+  },
+  {
+    "cbe": "0450.905.686",
+    "name": "Nsi It Software & Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "awans",
+        "address": "Rue de Bruxelles 174 A 4340 Awans BE",
+        "coords": [
+          5.484005,
+          50.673179
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "braine-lalleud",
+        "address": "Avenue de Finlande 8 1420 Braine-l'Alleud BE",
+        "coords": [
+          4.381807,
+          50.665056
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 686,
+    "founded": 1993,
+    "proof": []
+  },
+  {
+    "cbe": "0452.773.135",
+    "name": "Neddine Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Beukenlaan 50 9051 Gent BE",
+        "coords": [
+          3.680449,
+          51.029847
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 1994,
+    "proof": []
+  },
+  {
+    "cbe": "0454.012.557",
+    "name": "Novika",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "brasschaat",
+        "address": "Lage Kaart 253 2930 Brasschaat BE",
+        "coords": [
+          4.482571,
+          51.301338
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 1994,
+    "proof": []
+  },
+  {
+    "cbe": "0463.318.421",
+    "name": "Norriq Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "tremelo",
+        "address": "Kruisstraat 289A 3120 Tremelo BE",
+        "coords": [
+          4.670489,
+          50.995496
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "waregem",
+        "address": "Zuiderlaan 11 11 8790 Waregem BE",
+        "coords": [
+          3.427579,
+          50.882715
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "lummen",
+        "address": "Bosstraat 54 3560 Lummen BE",
+        "coords": [
+          5.197956,
+          50.9945
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 85,
+    "founded": 1998,
+    "proof": []
+  },
+  {
+    "cbe": "0464.565.365",
+    "name": "Nuyttens Automatisatie",
+    "site": "www.nuyttensautomatisatie.be",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "wielsbeke",
+        "address": "Spoorstraat 15 8710 Wielsbeke BE",
+        "coords": [
+          3.368743,
+          50.90523
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 1998,
+    "proof": []
+  },
+  {
+    "cbe": "0464.786.386",
+    "name": "Netconnect",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "zandhoven",
+        "address": "Vierselbaan 34 2240 Zandhoven BE",
+        "coords": [
+          4.659541,
+          51.206397
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "lokeren",
+        "address": "Ambachtenstraat 5 unit A8 9160 Lokeren BE",
+        "coords": [
+          3.984808,
+          51.079291
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 54,
+    "founded": 1998,
+    "proof": []
+  },
+  {
+    "cbe": "0465.676.412",
+    "name": "Ntt Data Business Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "beveren-kruibeke-zwijndrecht",
+        "address": "Heirbaan 104 1 2070 Beveren-Kruibeke-Zwijndrecht BE",
+        "coords": [
+          4.334803,
+          51.200088
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0465.918.714",
+    "name": "Nomadesk",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Foreestelaan 1 9000 Gent BE",
+        "coords": [
+          3.733194,
+          51.029933
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0466.765.186",
+    "name": "Net It",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "zottegem",
+        "address": "Gentse Steenweg 281 9620 Zottegem BE",
+        "coords": [
+          3.830629,
+          50.886054
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 50,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0472.324.870",
+    "name": "Netcompany Sa",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Place du Champ de Mars 5 10 1050 Ixelles BE",
+        "coords": [
+          4.362946,
+          50.838177
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 324,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0472.775.030",
+    "name": "Net Events",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue Royale 100 1000 Bruxelles BE",
+        "coords": [
+          4.36283,
+          50.84808
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0476.414.411",
+    "name": "Neuronics",
+    "site": "www.neuronics.be",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "mettet",
+        "address": "Place Joseph Meunier 13 5640 Mettet BE",
+        "coords": [
+          4.657918,
+          50.321186
+        ]
+      },
+      {
+        "province": "namur",
+        "municipality": "mettet",
+        "address": "Rue du Grand Fau 1 5640 Mettet BE",
+        "coords": [
+          4.639497,
+          50.347299
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0477.566.335",
+    "name": "Nomics",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Rue des Chasseurs-Ardennais 4 4031 Liège BE",
+        "coords": [
+          5.564654,
+          50.59912
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2002,
+    "proof": []
+  },
+  {
+    "cbe": "0480.200.478",
+    "name": "Ng Communications",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "kortenberg",
+        "address": "Kwerpsebaan 223 B 3071 Kortenberg BE",
+        "coords": [
+          4.562888,
+          50.901906
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2003,
+    "proof": []
+  },
+  {
+    "cbe": "0500.452.197",
+    "name": "Nazka Mapps",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "boortmeerbeek",
+        "address": "Ravesteinstraat 48 a 3191 Boortmeerbeek BE",
+        "coords": [
+          4.552365,
+          50.996036
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0502.486.526",
+    "name": "Nipro Digital Technologies Europe",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "brugge",
+        "address": "Baron Ruzettelaan 1 1.3 8310 Brugge BE",
+        "coords": [
+          3.23117,
+          51.19912
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 37,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0505.703.164",
+    "name": "Niboo",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "etterbeek",
+        "address": "Boulevard Saint-Michel 113-115 5 1040 Etterbeek BE",
+        "coords": [
+          4.406257,
+          50.834392
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "oudergem",
+        "address": "Place Communale d'Auderghem 8 Niboo 1160 Auderghem BE",
+        "coords": [
+          4.429136,
+          50.815697
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0506.973.963",
+    "name": "Neovision",
+    "site": "www.neovision.be",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "gembloux",
+        "address": "Rue des Orchidées 44 5030 Gembloux BE",
+        "coords": [
+          4.70564,
+          50.5753
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0534.782.972",
+    "name": "N.i.t.s.",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "flemalle",
+        "address": "Rue Waraxhe 100 4400 Flémalle BE",
+        "coords": [
+          5.458804,
+          50.583809
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "flemalle",
+        "address": "Chaussée d'Ivoz 59 4400 Flémalle BE",
+        "coords": [
+          5.467095,
+          50.589491
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0540.622.966",
+    "name": "Ngis",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Weihoek 3 4 1930 Zaventem BE",
+        "coords": [
+          4.50588,
+          50.87367
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0547.921.920",
+    "name": "N-zone",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Square de la Paix-d'Angleur 28 4031 Liège BE",
+        "coords": [
+          5.596894,
+          50.612219
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "dison",
+        "address": "Rue de Renoupré 58B 17 4821 Dison BE",
+        "coords": [
+          5.88818,
+          50.60443
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 18,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0627.660.670",
+    "name": "Netcom Ict",
+    "site": "www.netcom-ict.be",
+    "locations": [
+      {
+        "province": "luxembourg",
+        "municipality": "tenneville",
+        "address": "Route de Bastogne 13 6970 Tenneville BE",
+        "coords": [
+          5.523675,
+          50.092149
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0632.577.085",
+    "name": "Nv",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Volkstraat 67 2000 Antwerpen BE",
+        "coords": [
+          4.394937,
+          51.209955
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0633.618.747",
+    "name": "Nessy",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "uccle",
+        "address": "Rue de Stalle 140 1180 Uccle BE",
+        "coords": [
+          4.33012,
+          50.795874
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0637.917.530",
+    "name": "Next-tech",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "neupre",
+        "address": "Route du Condroz 89 4120 Neupré BE",
+        "coords": [
+          5.484497,
+          50.542634
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0645.763.345",
+    "name": "Nebulosoft",
+    "site": "www.nebulosoft.com",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Ottergemsesteenweg-Zuid 713 Douano 9000 Gent BE",
+        "coords": [
+          3.741924,
+          51.017437
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0646.949.022",
+    "name": "Nascom",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "genk",
+        "address": "C-Mine 129 3600 Genk BE",
+        "coords": [
+          5.48637,
+          50.98315
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0651.632.241",
+    "name": "Native Nation",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "vilvoorde",
+        "address": "Harensesteenweg 224 1800 Vilvoorde BE",
+        "coords": [
+          4.422722,
+          50.918275
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0656.775.023",
+    "name": "Novabee",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "evere",
+        "address": "Rue de Genève 175 1140 Evere BE",
+        "coords": [
+          4.40788,
+          50.857722
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0664.578.177",
+    "name": "Net Bee",
+    "site": "www.netbee.be/",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "chaudfontaine",
+        "address": "Rue du Général Jacques 312B 1 4051 Chaudfontaine BE",
+        "coords": [
+          5.63136,
+          50.59298
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0667.753.542",
+    "name": "Nexuzhealth",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Kempische steenweg 307 3500 Hasselt BE",
+        "coords": [
+          5.350689,
+          50.951714
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Herestraat 49 3000 Leuven BE",
+        "coords": [
+          4.671451,
+          50.877185
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Sluisweg 1 16 9000 Gent BE",
+        "coords": [
+          3.735381,
+          51.013483
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Posthofbrug 12 3 2600 Antwerpen BE",
+        "coords": [
+          4.43436,
+          51.194056
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 245,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0669.595.552",
+    "name": "Nutanix Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Vrijheidstraat 32 2000 Antwerpen BE",
+        "coords": [
+          4.39956,
+          51.21119
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 19,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0671.477.451",
+    "name": "Necko Technologies",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "mons",
+        "address": "Boulevard Sainctelette 39 7000 Mons BE",
+        "coords": [
+          3.944607,
+          50.446956
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0671.531.790",
+    "name": "Neuroventis",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "oudergem",
+        "address": "Avenue des Volontaires 19 1160 Auderghem BE",
+        "coords": [
+          4.400277,
+          50.825089
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "etterbeek",
+        "address": "Rue des Francs 79 1 1040 Etterbeek BE",
+        "coords": [
+          4.399698,
+          50.837065
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0677.439.585",
+    "name": "Nimbleops",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Kleindokkaai 17 9000 Gent BE",
+        "coords": [
+          3.738631,
+          51.058799
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0678.541.625",
+    "name": "Neterium",
+    "site": "www.neterium.io",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "ottignies-louvain-la-neuve",
+        "address": "Chemin du Cyclotron 6 1348 Ottignies-Louvain-la-Neuve BE",
+        "coords": [
+          4.62368,
+          50.66513
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0681.950.184",
+    "name": "Nrds",
+    "site": "www.nrds.be",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "diepenbeek",
+        "address": "Kukkelbosstraat 23 3590 Diepenbeek BE",
+        "coords": [
+          5.424128,
+          50.889215
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0686.968.054",
+    "name": "Nubios",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "awans",
+        "address": "Rue Jean Lambert Defrêne 107 4340 Awans BE",
+        "coords": [
+          5.468899,
+          50.676349
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0687.473.048",
+    "name": "Next Gen Consult",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Valaarstraat 123 2610 Antwerpen BE",
+        "coords": [
+          4.384494,
+          51.177589
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0689.642.185",
+    "name": "Newton Agency",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "keerbergen",
+        "address": "Papestraat 13 3140 Keerbergen BE",
+        "coords": [
+          4.628908,
+          51.00112
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "keerbergen",
+        "address": "Haachtsebaan 181 B 3140 Keerbergen BE",
+        "coords": [
+          4.643617,
+          50.986326
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0696.764.460",
+    "name": "Nowmax",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "zoersel",
+        "address": "Fazantendreef 12 2980 Zoersel BE",
+        "coords": [
+          4.617609,
+          51.247954
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0700.252.896",
+    "name": "Ngrave.io",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "zonhoven",
+        "address": "Senator A. Jeurissenlaan 1156 3520 Zonhoven BE",
+        "coords": [
+          5.39353,
+          50.99793
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue Picard 7 1000 Bruxelles BE",
+        "coords": [
+          4.345147,
+          50.863875
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0700.313.571",
+    "name": "Neodiensis",
+    "site": "neodiensis.com",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Quai de Maestricht 2 4000 Liège BE",
+        "coords": [
+          5.582256,
+          50.646758
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0701.662.465",
+    "name": "Nubila",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "schoten",
+        "address": "Brechtsebaan 30 2900 Schoten BE",
+        "coords": [
+          4.511892,
+          51.265089
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0701.973.558",
+    "name": "Necess",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "lille",
+        "address": "Delphine Adriaensstraat 13 2275 Lille BE",
+        "coords": [
+          4.832438,
+          51.233568
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0702.877.935",
+    "name": "Novable",
+    "site": "www.novable.com",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "verlaine",
+        "address": "Rue Tilleul Saint-Joseph 1 4537 Verlaine BE",
+        "coords": [
+          5.308777,
+          50.589249
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "watermaal-bosvoorde",
+        "address": "Chaussée de La Hulpe 150 1170 Watermael-Boitsfort BE",
+        "coords": [
+          4.401455,
+          50.796716
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Avenue Louise 350 1050 Bruxelles BE",
+        "coords": [
+          4.369685,
+          50.822247
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0703.884.458",
+    "name": "Not A Company",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0716.908.588",
+    "name": "Nesam",
+    "site": "www.nesamsolutions.com/",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "koekelberg",
+        "address": "Avenue de la Basilique 355 3 1081 Koekelberg BE",
+        "coords": [
+          4.311418,
+          50.865485
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0718.888.279",
+    "name": "Neanex Technologies",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Borsbeeksebrug 34 1 2600 Antwerpen BE",
+        "coords": [
+          4.434024,
+          51.199956
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 17,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0721.645.851",
+    "name": "Nanopixel",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "roeselare",
+        "address": "Meensesteenweg 332 8800 Roeselare BE",
+        "coords": [
+          3.118592,
+          50.928217
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 19,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0725.984.919",
+    "name": "Novutech",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "braine-lalleud",
+        "address": "Rue de Caraute 31 1420 Braine-l'Alleud BE",
+        "coords": [
+          4.355174,
+          50.711563
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "hoeilaart",
+        "address": "Terhulpsesteenweg 6 B 1560 Hoeilaart BE",
+        "coords": [
+          4.451589,
+          50.764173
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0727.815.051",
+    "name": "Normon It Services",
+    "site": "www.genius.be",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "roeselare",
+        "address": "Koestraat 175A 2.2 8800 Roeselare BE",
+        "coords": [
+          3.151804,
+          50.922271
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0740.602.522",
+    "name": "Ndux",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "haaltert",
+        "address": "Bruulstraat 79 9450 Haaltert BE",
+        "coords": [
+          3.998809,
+          50.906941
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "aalst",
+        "address": "Industrielaan 4 9320 Aalst BE",
+        "coords": [
+          4.035746,
+          50.912311
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0741.648.241",
+    "name": "Nitor.be",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "westerlo",
+        "address": "Zone Kamp C 16 5 2260 Westerlo BE",
+        "coords": [
+          4.860518,
+          51.132242
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0745.522.501",
+    "name": "Nannyml",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Terbekehofdreef 43a 17 2610 Antwerpen BE",
+        "coords": [
+          4.371061,
+          51.155823
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0750.528.491",
+    "name": "Niproject",
+    "site": "www.niproject.be",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "theux",
+        "address": "Route du Maquisard 81 4910 Theux BE",
+        "coords": [
+          5.803929,
+          50.48926
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "herve",
+        "address": "Avenue du Parc 22 4650 Herve BE",
+        "coords": [
+          5.838772,
+          50.62568
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0753.613.289",
+    "name": "Nx Advisory",
+    "site": "www.nxadvisory.eu",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "la-hulpe",
+        "address": "Chaussée de Bruxelles 135 A 1310 La Hulpe BE",
+        "coords": [
+          4.454221,
+          50.745429
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-jans-molenbeek",
+        "address": "Rue de la Colonne 1 A 1080 Molenbeek-Saint-Jean BE",
+        "coords": [
+          4.336485,
+          50.853191
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0755.733.730",
+    "name": "Nalios",
+    "site": "www.nalios.be",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "namur-city",
+        "address": "Avenue d'Ecolys 2 31 5020 Namur BE",
+        "coords": [
+          4.796613,
+          50.485184
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 20,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0755.788.366",
+    "name": "Nestoya",
+    "site": "www.nestoya.com",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-pieters-woluwe",
+        "address": "Avenue Prince Baudouin 37 1150 Woluwe-Saint-Pierre BE",
+        "coords": [
+          4.451187,
+          50.823439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0755.906.251",
+    "name": "Nish Tech",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "evere",
+        "address": "Av. des Anc. Combattants 93 82 1140 Evere BE",
+        "coords": [
+          4.408456,
+          50.864322
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Woluwedal 109 1932 Zaventem BE",
+        "coords": [
+          4.45158,
+          50.86675
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 73,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0760.605.308",
+    "name": "Nextfluent",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Lange Gasthuisstraat 29 2000 Antwerpen BE",
+        "coords": [
+          4.40539,
+          51.21481
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0761.849.975",
+    "name": "Neo Mobility",
+    "site": "www.neo-mobility.be",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-gillis",
+        "address": "Rue de Livourne 7 4 1060 Saint-Gilles BE",
+        "coords": [
+          4.357767,
+          50.830928
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0767.459.248",
+    "name": "Nca",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "herentals",
+        "address": "Atealaan 4J 3 2200 Herentals BE",
+        "coords": [
+          4.803875,
+          51.156205
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 21,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0776.668.904",
+    "name": "Nightborn",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "uccle",
+        "address": "Avenue Château de Walzin 2 18 1180 Uccle BE",
+        "coords": [
+          4.346547,
+          50.807113
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue Notre-Seigneur 11 1000 Bruxelles BE",
+        "coords": [
+          4.34975,
+          50.84055
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0778.555.949",
+    "name": "Northwave Belgium",
+    "site": "www.northwave-security.com",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "Leonardo da Vincilaan 19A 1831 Machelen BE",
+        "coords": [
+          4.459132,
+          50.892836
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0781.390.032",
+    "name": "Not So Dark Belgique",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Avenue Louise 367 1050 Bruxelles BE",
+        "coords": [
+          4.36941,
+          50.82083
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0783.858.483",
+    "name": "New Relic Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Rue de l'Abbaye 52 1050 Ixelles BE",
+        "coords": [
+          4.364672,
+          50.818538
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0786.399.883",
+    "name": "Nautilusprinciple",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "Leonardo da Vincilaan 2 1831 Machelen BE",
+        "coords": [
+          4.4587,
+          50.89033
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0786.830.643",
+    "name": "Nuclivision",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Edward Pynaertkaai 87 9000 Gent BE",
+        "coords": [
+          3.738994,
+          51.039452
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0787.889.527",
+    "name": "Nexitdata",
+    "site": "nexitdata.com",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hechtel-eksel",
+        "address": "Hechtelsebaan 8 3940 Hechtel-Eksel BE",
+        "coords": [
+          5.382632,
+          51.139546
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0790.814.175",
+    "name": "Noxus",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "schaerbeek",
+        "address": "Rue Théodore Roosevelt 8/ET02 1030 Schaerbeek BE",
+        "coords": [
+          4.395712,
+          50.844952
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0798.081.059",
+    "name": "Netskope Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue des Colonies 11 1000 Bruxelles BE",
+        "coords": [
+          4.35963,
+          50.84641
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 64,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0798.298.617",
+    "name": "Nvidia Technologies Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Gaston Crommenlaan 8 9050 Gent BE",
+        "coords": [
+          3.734646,
+          51.036383
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0798.598.228",
+    "name": "Nexxcom",
+    "site": "www.nexxcom.be",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "destelbergen",
+        "address": "Dendermondesteenweg 530 1 9070 Destelbergen BE",
+        "coords": [
+          3.807144,
+          51.056991
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0799.497.754",
+    "name": "Norriq Financial Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "waregem",
+        "address": "Zuiderlaan 11 11 8790 Waregem BE",
+        "coords": [
+          3.427579,
+          50.882715
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 74,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0808.730.372",
+    "name": "Novation",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "houthalen-helchteren",
+        "address": "Centrum-Zuid 1527 f 3530 Houthalen-Helchteren BE",
+        "coords": [
+          5.361785,
+          51.025992
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0811.264.250",
+    "name": "Novotek Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "vilvoorde",
+        "address": "Mechelsesteenweg 277 1800 Vilvoorde BE",
+        "coords": [
+          4.438633,
+          50.94294
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0820.512.013",
+    "name": "Noviat",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ganshoren",
+        "address": "Avenue de Rusatira 1 1083 Ganshoren BE",
+        "coords": [
+          4.295037,
+          50.874045
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0820.822.413",
+    "name": "November Five",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Scheldestraat 11 2000 Antwerpen BE",
+        "coords": [
+          4.392189,
+          51.213358
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 42,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0823.015.207",
+    "name": "Nodalview",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-gillis",
+        "address": "Rue Dejoncker 46 1060 Saint-Gilles BE",
+        "coords": [
+          4.355935,
+          50.833455
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 35,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0823.587.309",
+    "name": "Nexios Tn",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "vilvoorde",
+        "address": "Luchthavenlaan 27 31 1800 Vilvoorde BE",
+        "coords": [
+          4.440431,
+          50.924523
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0827.797.604",
+    "name": "Nasdron.be",
+    "site": "www.nasdron.be",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "frameries",
+        "address": "Rue de Pâturages 23 7080 Frameries BE",
+        "coords": [
+          3.929135,
+          50.400958
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0828.790.071",
+    "name": "Netaxis Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Rue du Trône 60 5 1050 Ixelles BE",
+        "coords": [
+          4.369035,
+          50.838115
+        ]
+      },
+      {
+        "province": "luxembourg",
+        "municipality": "libin",
+        "address": "Devant les Hêtres,Transinne 2 6890 Libin BE",
+        "coords": [
+          5.160215,
+          50.00701
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0830.400.271",
+    "name": "Nextlane Belux",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "jette",
+        "address": "Avenue du Laerbeek 72 1090 Jette BE",
+        "coords": [
+          4.315728,
+          50.885269
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0833.785.967",
+    "name": "Nalys",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-pieters-woluwe",
+        "address": "Boulevard de la Woluwe 2 1150 Woluwe-Saint-Pierre BE",
+        "coords": [
+          4.432786,
+          50.834443
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 103,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0834.464.670",
+    "name": "Nitroxis",
+    "site": "www.nitroxis.be",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "anderlues",
+        "address": "Rue de Nivelles 164 6150 Anderlues BE",
+        "coords": [
+          4.276717,
+          50.422946
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0834.906.219",
+    "name": "Nodemapp",
+    "site": "www.nodemapp.com",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "hulshout",
+        "address": "Corbeillestraat 2 2235 Hulshout BE",
+        "coords": [
+          4.8243,
+          51.06216
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0837.069.121",
+    "name": "New Era Technology Be Nv/sa",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Leuvensesteenweg 325 1932 Zaventem BE",
+        "coords": [
+          4.461156,
+          50.8705
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 43,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0840.966.838",
+    "name": "Nsx",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "niel",
+        "address": "Galileilaan 15 2845 Niel BE",
+        "coords": [
+          4.356304,
+          51.108054
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 19,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0841.888.338",
+    "name": "Naos Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "braine-le-comte",
+        "address": "Rue des Digues 96 7090 Braine-le-Comte BE",
+        "coords": [
+          4.138972,
+          50.613004
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "tubize",
+        "address": "Avenue Landas 2 1480 Tubize BE",
+        "coords": [
+          4.170728,
+          50.71027
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "tubize",
+        "address": "Avenue Ernest Solvay 90 1480 Tubize BE",
+        "coords": [
+          4.171126,
+          50.709486
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0843.256.335",
+    "name": "Nstelecom",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Rue du Vallon 40 11 4031 Liège BE",
+        "coords": [
+          5.589977,
+          50.611868
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 30,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0845.779.622",
+    "name": "Nallian",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "keerbergen",
+        "address": "Kraaiven 7 3140 Keerbergen BE",
+        "coords": [
+          4.609621,
+          51.008312
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "Koningin Astridlaan 706 1830 Machelen BE",
+        "coords": [
+          4.45614,
+          50.908298
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0845.958.774",
+    "name": "Neolima",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "dour",
+        "address": "Rue Mitrecq 7 7370 Dour BE",
+        "coords": [
+          3.782092,
+          50.393011
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0847.372.895",
+    "name": "Next Generation Innovation",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "dilbeek",
+        "address": "Alfons Gossetlaan 23 1702 Dilbeek BE",
+        "coords": [
+          4.27142,
+          50.87152
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0847.668.944",
+    "name": "Nalantis",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Otto Veniusstraat 9 2000 Antwerpen BE",
+        "coords": [
+          4.412923,
+          51.217805
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "bullingen",
+        "address": "Manderfeld 382 4760 Büllingen BE",
+        "coords": [
+          6.343198,
+          50.327699
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 31,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0859.625.975",
+    "name": "Noesis Solutions",
+    "site": "www.noesissolutions.com",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Gaston Geenslaan 11 4 3001 Leuven BE",
+        "coords": [
+          4.669279,
+          50.864801
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2003,
+    "proof": []
+  },
+  {
+    "cbe": "0878.755.464",
+    "name": "Net-worx",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mol",
+        "address": "Venakkerstraat 8 101 2400 Mol BE",
+        "coords": [
+          5.100041,
+          51.178093
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0883.250.722",
+    "name": "Neo Consult",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "brugge",
+        "address": "Lieven Bauwensstraat 20 8200 Brugge BE",
+        "coords": [
+          3.196731,
+          51.215377
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0883.566.268",
+    "name": "Ni2",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Boulevard Gustave-Kleyer 15 3 4000 Liège BE",
+        "coords": [
+          5.557034,
+          50.624902
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0885.779.650",
+    "name": "Numflo",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "mons",
+        "address": "Boulevard Initialis 7 2 7000 Mons BE",
+        "coords": [
+          3.926835,
+          50.459449
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0888.082.708",
+    "name": "Naxos Information Technology",
+    "site": "www.naxosit.be",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "rixensart",
+        "address": "Avenue des 3 Sources 3 1332 Rixensart BE",
+        "coords": [
+          4.561146,
+          50.696125
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "peruwelz",
+        "address": "Rue Petit Gobert 31 7600 Péruwelz BE",
+        "coords": [
+          3.587002,
+          50.519796
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0891.990.323",
+    "name": "Neopica",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Dublinstraat 35 4 9000 Gent BE",
+        "coords": [
+          3.727767,
+          51.078206
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 20,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0894.306.346",
+    "name": "Neva Systems",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Quai des Ardennes 140 4031 Liège BE",
+        "coords": [
+          5.60802,
+          50.615216
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0899.235.431",
+    "name": "Nomios Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Excelsiorlaan 89 7 1930 Zaventem BE",
+        "coords": [
+          4.455238,
+          50.882161
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 18,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "1012.320.704",
+    "name": "Nxgsat",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Maaltebruggestraat 47 9000 Gent BE",
+        "coords": [
+          3.711516,
+          51.030578
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2024,
+    "proof": []
+  },
+  {
+    "cbe": "0426.140.497",
+    "name": "N.v. Givi (groep Individuele Vorming En Begeleiding Informatica)",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Uitbreidingstraat 10-16 2600 Antwerpen BE",
+        "coords": [
+          4.413024,
+          51.193366
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Kerkstraat 106 9050 Gent BE",
+        "coords": [
+          3.7523,
+          51.044589
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 1984,
+    "proof": []
+  },
+  {
+    "cbe": "0431.837.070",
+    "name": "Namahn",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-joost-ten-node",
+        "address": "Rue de la Limite 21 1210 Saint-Josse-ten-Noode BE",
+        "coords": [
+          4.370241,
+          50.853275
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 1987,
+    "proof": []
+  },
+  {
+    "cbe": "0447.299.959",
+    "name": "Nous 2",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "landen",
+        "address": "St.-Lambertusstraat 61 3401 Landen BE",
+        "coords": [
+          5.08698,
+          50.721547
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 1992,
+    "proof": []
+  },
+  {
+    "cbe": "0451.582.609",
+    "name": "Next Ict",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "Beneluxpark 26 46 8500 Kortrijk BE",
+        "coords": [
+          3.278046,
+          50.801891
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Grotesteenweg 214 7 2600 Antwerpen BE",
+        "coords": [
+          4.422466,
+          51.193289
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 66,
+    "founded": 1993,
+    "proof": []
+  },
+  {
+    "cbe": "0459.551.653",
+    "name": "Nesolar",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Da Vincilaan 1 1930 Zaventem BE",
+        "coords": [
+          4.460156,
+          50.887966
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 1996,
+    "proof": []
+  },
+  {
+    "cbe": "0460.718.920",
+    "name": "Noordzee Helikopters Vlaanderen",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "oostende",
+        "address": "Kalkaertstraat 101 8400 Oostende BE",
+        "coords": [
+          2.853147,
+          51.193652
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 136,
+    "founded": 1997,
+    "proof": []
+  },
+  {
+    "cbe": "0471.921.826",
+    "name": "Netapp Belgium",
+    "site": "www.netapp.com",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "De Kleetlaan 4 1831 Machelen BE",
+        "coords": [
+          4.450388,
+          50.888377
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0475.850.623",
+    "name": "Net Use",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Edenplein 14 2610 Antwerpen BE",
+        "coords": [
+          4.3857,
+          51.22133
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0478.895.136",
+    "name": "Nexios Consulting Group",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "vilvoorde",
+        "address": "Medialaan 36 1800 Vilvoorde BE",
+        "coords": [
+          4.39824,
+          50.91525
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 74,
+    "founded": 2002,
+    "proof": []
+  },
+  {
+    "cbe": "0480.275.110",
+    "name": "Nevexa",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "vosselaar",
+        "address": "Albertstraat 19 2350 Vosselaar BE",
+        "coords": [
+          4.876995,
+          51.305147
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2003,
+    "proof": []
+  },
+  {
+    "cbe": "0502.465.839",
+    "name": "Northstone",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Cantersteen 10 1000 Bruxelles BE",
+        "coords": [
+          4.357388,
+          50.845475
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Verbrande Poort 8 3000 Leuven BE",
+        "coords": [
+          4.69164,
+          50.88123
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0506.877.458",
+    "name": "Net Site Connect U",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "ans",
+        "address": "Rue Edouard Colson 302 4431 Ans BE",
+        "coords": [
+          5.492252,
+          50.671697
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0542.434.391",
+    "name": "Newide",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue Dieudonné Lefèvre 17 1020 Bruxelles BE",
+        "coords": [
+          4.351008,
+          50.870516
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "charleroi",
+        "address": "Quai Paul Verlaine 2 2 6000 Charleroi BE",
+        "coords": [
+          4.437763,
+          50.40651
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0544.654.901",
+    "name": "North Sea Aviation Center",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "oostende",
+        "address": "Nieuwpoortsesteenweg 943 8400 Oostende BE",
+        "coords": [
+          2.85805,
+          51.201181
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0631.880.566",
+    "name": "Nessi",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "wijnegem",
+        "address": "Stokerijstraat 29B 5 2110 Wijnegem BE",
+        "coords": [
+          4.544995,
+          51.222909
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0631.906.597",
+    "name": "Nauta Sign Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Brusselsesteenweg 520A 2800 Mechelen BE",
+        "coords": [
+          4.47354,
+          51.00019
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0646.890.525",
+    "name": "Narato",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 B 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 19,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0647.923.178",
+    "name": "Nbeyond",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "oostende",
+        "address": "Ernest Feysplein 15 21.04 8400 Oostende BE",
+        "coords": [
+          2.922674,
+          51.226554
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0653.953.313",
+    "name": "Ntld",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "namur-city",
+        "address": "Trieu do Mont 21 5100 Namur BE",
+        "coords": [
+          4.871837,
+          50.412896
+        ]
+      },
+      {
+        "province": "namur",
+        "municipality": "profondeville",
+        "address": "Place de l' Armistice 10 5170 Profondeville BE",
+        "coords": [
+          4.822952,
+          50.390304
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0656.548.062",
+    "name": "Neko-san",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "namur-city",
+        "address": "Rue Mottiaux 91 5 5100 Namur BE",
+        "coords": [
+          4.866105,
+          50.455834
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 29,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0670.895.946",
+    "name": "New Must Computer",
+    "site": "",
+    "locations": [
+      {
+        "province": "luxembourg",
+        "municipality": "bastogne",
+        "address": "Rue Pierre-Thomas 13 6600 Bastogne BE",
+        "coords": [
+          5.72075,
+          50.006787
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0676.558.667",
+    "name": "Narato Duo",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 B 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0678.463.035",
+    "name": "Neton.live",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "jette",
+        "address": "Avenue Charles Woeste 156 1090 Jette BE",
+        "coords": [
+          4.334147,
+          50.874175
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "asse",
+        "address": "Doornveld 184 Z3 1731 Asse BE",
+        "coords": [
+          4.260637,
+          50.890972
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 22,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0682.474.182",
+    "name": "Nessi Tech",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "wijnegem",
+        "address": "Stokerijstraat 29B 5 2110 Wijnegem BE",
+        "coords": [
+          4.544995,
+          51.222909
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0684.865.728",
+    "name": "Novera Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "uccle",
+        "address": "Avenue Georges Lecointe 50 1180 Uccle BE",
+        "coords": [
+          4.351659,
+          50.796118
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "Leonardo da Vincilaan 19C 1831 Machelen BE",
+        "coords": [
+          4.45943,
+          50.89242
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 27,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0689.755.716",
+    "name": "Nomad Ventures",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue de la Chapelle 1 11 1000 Bruxelles BE",
+        "coords": [
+          4.349604,
+          50.840836
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0698.729.206",
+    "name": "Naturance",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "zandhoven",
+        "address": "Vierselbaan 12A 2240 Zandhoven BE",
+        "coords": [
+          4.65886,
+          51.209458
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "evergem",
+        "address": "Eindeken 45 9940 Evergem BE",
+        "coords": [
+          3.713083,
+          51.105665
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0699.913.693",
+    "name": "Nsc Global Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-joost-ten-node",
+        "address": "Boulevard Saint-Lazare 4-10ET6 1210 Saint-Josse-ten-Noode BE",
+        "coords": [
+          4.361878,
+          50.856353
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0715.553.360",
+    "name": "Nexeo Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue des Colonies 11 1000 Bruxelles BE",
+        "coords": [
+          4.35963,
+          50.84641
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 29,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0717.846.619",
+    "name": "Nfuse",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Kempische steenweg 311 5.01 3500 Hasselt BE",
+        "coords": [
+          5.352192,
+          50.951874
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0723.542.596",
+    "name": "Nviso Belgium",
+    "site": "www.nviso.be",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue Guimard 8 1040 Bruxelles BE",
+        "coords": [
+          4.369323,
+          50.844074
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 101,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0726.682.824",
+    "name": "Nordend",
+    "site": "www.nordend.eu",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "sint-genesius-rode",
+        "address": "Rue du Hameau 183 1 1640 Sint-Genesius-Rode BE",
+        "coords": [
+          4.37191,
+          50.738945
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Kerkstraat 108 9050 Gent BE",
+        "coords": [
+          3.750989,
+          51.044493
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0726.947.791",
+    "name": "Noest",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "Lucky Lukestraat 6 8500 Kortrijk BE",
+        "coords": [
+          3.258278,
+          50.83116
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 17,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0727.898.886",
+    "name": "Nodis Consulting",
+    "site": "www.nodisconsulting.be",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zemst",
+        "address": "Prinsenveldstraat 55 1981 Zemst BE",
+        "coords": [
+          4.519634,
+          50.995594
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0738.518.309",
+    "name": "Nimbuz",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Stationsstraat 55 2800 Mechelen BE",
+        "coords": [
+          4.48072,
+          51.01675
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0741.808.884",
+    "name": "New Consult Solution",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "waterloo",
+        "address": "Avenue Bourgys 11A 1410 Waterloo BE",
+        "coords": [
+          4.39663,
+          50.728595
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0749.755.659",
+    "name": "Nnp Tech",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "kampenhout",
+        "address": "Ferdinand Verstraetenlaan 19 4 1910 Kampenhout BE",
+        "coords": [
+          4.551898,
+          50.940296
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0766.660.086",
+    "name": "Numble",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 35C 2550 Kontich BE",
+        "coords": [
+          4.442996,
+          51.141855
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 21,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0773.412.672",
+    "name": "Neverhack Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "braine-lalleud",
+        "address": "Avenue de Finlande 8 1420 Braine-l'Alleud BE",
+        "coords": [
+          4.381807,
+          50.665056
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0777.777.078",
+    "name": "Nuoro",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "heist-op-den-berg",
+        "address": "Heistse Hoekstraat 11 D 2220 Heist-op-den-Berg BE",
+        "coords": [
+          4.70504,
+          51.057558
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0780.437.056",
+    "name": "Nemeon",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 35 C 2550 Kontich BE",
+        "coords": [
+          4.4424,
+          51.141844
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0794.725.354",
+    "name": "Native Teams",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue Picard 7 100 1000 Bruxelles BE",
+        "coords": [
+          4.34525,
+          50.86392
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0806.661.106",
+    "name": "Nayan",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "roeselare",
+        "address": "Kwadestraat 155 10.1 8800 Roeselare BE",
+        "coords": [
+          3.172891,
+          50.920041
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 70,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0808.064.240",
+    "name": "Neoria",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "edegem",
+        "address": "Prins Boudewijnlaan 41 2650 Edegem BE",
+        "coords": [
+          4.436466,
+          51.147455
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 19,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0809.134.210",
+    "name": "Neo",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "boussu",
+        "address": "Rue de Valenciennes 20 A 7301 Boussu BE",
+        "coords": [
+          3.825303,
+          50.435928
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0810.369.375",
+    "name": "Nine Yards",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0810.473.996",
+    "name": "Newin",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "namur-city",
+        "address": "Rue du Fort d'Andoy 3 5100 Namur BE",
+        "coords": [
+          4.915326,
+          50.435519
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 127,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0823.601.165",
+    "name": "Navaste",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "anderlecht",
+        "address": "Rue Bara 175 1070 Anderlecht BE",
+        "coords": [
+          4.327517,
+          50.832925
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0823.856.929",
+    "name": "Noaliasing",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue Picard 7 100 1000 Bruxelles BE",
+        "coords": [
+          4.34525,
+          50.86392
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0831.799.546",
+    "name": "Novy & Partners",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "jette",
+        "address": "Rue Adolphe Vandenschrieck 94 1090 Jette BE",
+        "coords": [
+          4.325079,
+          50.878114
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0834.986.985",
+    "name": "Nilort Technologies It Group",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "mont-saint-guibert",
+        "address": "Rue du Fond Cattelain 2 1435 Mont-Saint-Guibert BE",
+        "coords": [
+          4.62496,
+          50.657379
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 21,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0835.799.609",
+    "name": "Netleaf",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "rumst",
+        "address": "Antwerpsesteenweg 18 0.1.1 2840 Rumst BE",
+        "coords": [
+          4.452316,
+          51.086517
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 22,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0836.246.797",
+    "name": "Nubera",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "De Kleetlaan 5 1831 Machelen BE",
+        "coords": [
+          4.449617,
+          50.888579
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0849.134.238",
+    "name": "Nexu",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "brasschaat",
+        "address": "Bredabaan 1183 2930 Brasschaat BE",
+        "coords": [
+          4.522998,
+          51.328462
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0849.211.046",
+    "name": "Nets",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "courcelles",
+        "address": "Rue Paul Pastur 113 Bis 6180 Courcelles BE",
+        "coords": [
+          4.389233,
+          50.459878
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0861.290.318",
+    "name": "Nuclys",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 19,
+    "founded": 2003,
+    "proof": []
+  },
+  {
+    "cbe": "0862.443.331",
+    "name": "Ntx",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Groeningenlei 74 2550 Kontich BE",
+        "coords": [
+          4.43179,
+          51.13999
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "geel",
+        "address": "Kleinhoefstraat 11 2440 Geel BE",
+        "coords": [
+          4.963848,
+          51.163301
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "wuustwezel",
+        "address": "Brekelen 4 14 2990 Wuustwezel BE",
+        "coords": [
+          4.587144,
+          51.388873
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 92,
+    "founded": 2003,
+    "proof": []
+  },
+  {
+    "cbe": "0870.454.937",
+    "name": "Netika It Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "wavre",
+        "address": "Rue du Manège 18 1301 Wavre BE",
+        "coords": [
+          4.60261,
+          50.708505
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "etterbeek",
+        "address": "Rue Belliard 2 1040 Etterbeek BE",
+        "coords": [
+          4.368084,
+          50.842776
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 137357,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0880.067.241",
+    "name": "N.r.s Electronics",
+    "site": "www.nrse.be",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "tongeren-borgloon",
+        "address": "Gasthuisbosdreef 28 3700 Tongeren-Borgloon BE",
+        "coords": [
+          5.455301,
+          50.792244
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0880.462.268",
+    "name": "Napoleon Games Sports",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "aalst",
+        "address": "Korte Keppestraat 23 6 9320 Aalst BE",
+        "coords": [
+          4.040929,
+          50.915836
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0880.846.607",
+    "name": "New Ink Factory",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Rue des Guillemins 16 4000 Liège BE",
+        "coords": [
+          5.568103,
+          50.629707
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0886.100.245",
+    "name": "Nubus",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kuurne",
+        "address": "Noordlaan 18 8520 Kuurne BE",
+        "coords": [
+          3.262145,
+          50.860416
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0898.125.968",
+    "name": "Nordic Info",
+    "site": "www.nordic.be",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "londerzeel",
+        "address": "Steenhuffeldorp 14 1840 Londerzeel BE",
+        "coords": [
+          4.269167,
+          50.995776
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Moutstraat 58 202 9000 Gent BE",
+        "coords": [
+          3.735491,
+          51.029539
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Place des Barricades 1 1000 Bruxelles BE",
+        "coords": [
+          4.36787,
+          50.85165
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "herentals",
+        "address": "Welvaartstraat 14-1 7 2200 Herentals BE",
+        "coords": [
+          4.800982,
+          51.159997
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 73,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "1011.009.224",
+    "name": "Nynox",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2024,
+    "proof": []
+  }
+]

@@ -1,0 +1,7149 @@
+[
+  {
+    "cbe": "0400.283.465",
+    "name": "Information Technology Group",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Mai Zetterlingstraat 70 9042 Gent BE",
+        "coords": [
+          3.774711,
+          51.113564
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 29,
+    "founded": 1968,
+    "proof": []
+  },
+  {
+    "cbe": "0405.937.080",
+    "name": "Ilias Solutions",
+    "site": "www.ilias-solutions.com",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "Hermeslaan 1B 1831 Machelen BE",
+        "coords": [
+          4.44701,
+          50.88308
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 31,
+    "founded": 1959,
+    "proof": []
+  },
+  {
+    "cbe": "0413.944.728",
+    "name": "Interlinie",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "vosselaar",
+        "address": "Antwerpsesteenweg 21 2350 Vosselaar BE",
+        "coords": [
+          4.901597,
+          51.31606
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 1974,
+    "proof": []
+  },
+  {
+    "cbe": "0415.056.268",
+    "name": "Imas",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "turnhout",
+        "address": "Raadsherenstraat 2 2300 Turnhout BE",
+        "coords": [
+          4.917301,
+          51.30621
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 34,
+    "founded": 1975,
+    "proof": []
+  },
+  {
+    "cbe": "0420.010.493",
+    "name": "Italbere",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-jans-molenbeek",
+        "address": "Rue Osseghem 158AB 1080 Molenbeek-Saint-Jean BE",
+        "coords": [
+          4.339574,
+          50.8564
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 1979,
+    "proof": []
+  },
+  {
+    "cbe": "0420.347.421",
+    "name": "Initeam",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "izegem",
+        "address": "Rijksweg 57 8870 Izegem BE",
+        "coords": [
+          3.227227,
+          50.899869
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 27,
+    "founded": 1980,
+    "proof": []
+  },
+  {
+    "cbe": "0423.709.559",
+    "name": "Informex",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "evere",
+        "address": "Avenue Jules Bordet 168 1140 Evere BE",
+        "coords": [
+          4.418477,
+          50.86999
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 1983,
+    "proof": []
+  },
+  {
+    "cbe": "0423.742.322",
+    "name": "Id Team",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Avenue des Croix de Guerre 94 43 1120 Bruxelles BE",
+        "coords": [
+          4.379439,
+          50.889376
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 1983,
+    "proof": []
+  },
+  {
+    "cbe": "0423.864.066",
+    "name": "Instrumentation Difra",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "eupen",
+        "address": "Industriestrasse 33 4700 Eupen BE",
+        "coords": [
+          6.001865,
+          50.639545
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 615748,
+    "founded": 1983,
+    "proof": []
+  },
+  {
+    "cbe": "0426.362.015",
+    "name": "Iptor Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Gaston Crommenlaan 8 9050 Gent BE",
+        "coords": [
+          3.734646,
+          51.036383
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 21,
+    "founded": 1984,
+    "proof": []
+  },
+  {
+    "cbe": "0427.681.116",
+    "name": "Ips - Snoecks",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Begijnhoflaan 452 9000 Gent BE",
+        "coords": [
+          3.709791,
+          51.05802
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Rue de la Vallée 51 1050 Ixelles BE",
+        "coords": [
+          4.370439,
+          50.822638
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 1985,
+    "proof": []
+  },
+  {
+    "cbe": "0429.037.235",
+    "name": "Inetum Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "braine-lalleud",
+        "address": "Avenue de Finlande 4 1420 Braine-l'Alleud BE",
+        "coords": [
+          4.380305,
+          50.665909
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Bedrijvenlaan 4 2800 Mechelen BE",
+        "coords": [
+          4.466774,
+          51.003768
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Gaston Crommenlaan 4 9050 Gent BE",
+        "coords": [
+          3.73576,
+          51.036865
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Technologielaan 11 102 3001 Leuven BE",
+        "coords": [
+          4.730887,
+          50.85347
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 1249,
+    "founded": 1986,
+    "proof": []
+  },
+  {
+    "cbe": "0430.392.661",
+    "name": "Insys Interactive Systems",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "heusden-zolder",
+        "address": "Kolderstraat 25 3550 Heusden-Zolder BE",
+        "coords": [
+          5.33733,
+          51.04093
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 1987,
+    "proof": []
+  },
+  {
+    "cbe": "0430.824.708",
+    "name": "Image Recognition Integrated Systems",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "mont-saint-guibert",
+        "address": "Rue du Bosquet 10 1435 Mont-Saint-Guibert BE",
+        "coords": [
+          4.629,
+          50.661438
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "mont-saint-guibert",
+        "address": "Rue du Bosquet 17 1435 Mont-Saint-Guibert BE",
+        "coords": [
+          4.62893,
+          50.65944
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 55,
+    "founded": 1987,
+    "proof": []
+  },
+  {
+    "cbe": "0431.375.925",
+    "name": "Info Service Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Sassevaartstraat 46 101 9000 Gent BE",
+        "coords": [
+          3.728883,
+          51.06911
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 1987,
+    "proof": []
+  },
+  {
+    "cbe": "0431.755.611",
+    "name": "Integrated Services For Information Systems",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "verviers",
+        "address": "Rue des Déportés 120 4800 Verviers BE",
+        "coords": [
+          5.850364,
+          50.582335
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 1987,
+    "proof": []
+  },
+  {
+    "cbe": "0433.050.065",
+    "name": "Intec Software Engineering",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "sankt-vith",
+        "address": "Eifel-Ardennen-Strasse 2 4780 Sankt Vith BE",
+        "coords": [
+          6.128228,
+          50.285484
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 1987,
+    "proof": []
+  },
+  {
+    "cbe": "0433.080.056",
+    "name": "Icare-soft",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "charleroi",
+        "address": "Rue Pierre Bauwens 53 6030 Charleroi BE",
+        "coords": [
+          4.413218,
+          50.427008
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 1987,
+    "proof": []
+  },
+  {
+    "cbe": "0433.172.207",
+    "name": "Irc.be",
+    "site": "irc.be",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "dendermonde",
+        "address": "Schaapveld (STG) 12 9200 Dendermonde BE",
+        "coords": [
+          4.13872,
+          51.025286
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 1988,
+    "proof": []
+  },
+  {
+    "cbe": "0434.819.425",
+    "name": "Interpam",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "pelt",
+        "address": "Industrielaan 20 3900 Pelt BE",
+        "coords": [
+          5.367446,
+          51.217985
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 34,
+    "founded": 1988,
+    "proof": []
+  },
+  {
+    "cbe": "0606.976.609",
+    "name": "Intellifin",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Genkersteenweg 388 3500 Hasselt BE",
+        "coords": [
+          5.389678,
+          50.947377
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0628.911.970",
+    "name": "It -media",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "fleron",
+        "address": "Avenue des Martyrs 262 4620 Fléron BE",
+        "coords": [
+          5.684885,
+          50.614414
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "vise",
+        "address": "Rue du Collège 26 4600 Visé BE",
+        "coords": [
+          5.694985,
+          50.736287
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0632.729.119",
+    "name": "Ige+xao Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "watermaal-bosvoorde",
+        "address": "Chaussée de La Hulpe 181 21 1170 Watermael-Boitsfort BE",
+        "coords": [
+          4.404308,
+          50.795297
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0633.547.382",
+    "name": "Integritive",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "rixensart",
+        "address": "Avenue du Dr. Schweitzer 9 1330 Rixensart BE",
+        "coords": [
+          4.529552,
+          50.696176
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0633.737.622",
+    "name": "Istg",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "waterloo",
+        "address": "Drève Richelle 161 57 1410 Waterloo BE",
+        "coords": [
+          4.409568,
+          50.708427
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0639.967.792",
+    "name": "Idloom",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-pieters-woluwe",
+        "address": "Avenue de Tervueren 216 1150 Woluwe-Saint-Pierre BE",
+        "coords": [
+          4.414587,
+          50.836591
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "waterloo",
+        "address": "Drève Richelle 161 76 1410 Waterloo BE",
+        "coords": [
+          4.409568,
+          50.708427
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0640.980.849",
+    "name": "Infinity Mobile",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "deinze",
+        "address": "Hoogstraat 29 9850 Deinze BE",
+        "coords": [
+          3.552788,
+          51.026264
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0641.652.129",
+    "name": "Idylls",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "sint-martens-latem",
+        "address": "Vijverhoflaan 2 3 9830 Sint-Martens-Latem BE",
+        "coords": [
+          3.632219,
+          51.016057
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0646.913.982",
+    "name": "Itopia",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "namur-city",
+        "address": "Allée des Rhododendrons 30 5002 Namur BE",
+        "coords": [
+          4.832754,
+          50.471256
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0647.518.055",
+    "name": "Inmanta",
+    "site": "inmanta.com",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Diestsevest 25 2.01 3000 Leuven BE",
+        "coords": [
+          4.71264,
+          50.882893
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0647.774.215",
+    "name": "Intermade",
+    "site": "",
+    "locations": [
+      {
+        "province": "luxembourg",
+        "municipality": "martelange",
+        "address": "Rue du Village,Grumelange 22 6630 Martelange BE",
+        "coords": [
+          5.753078,
+          49.847768
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0648.786.874",
+    "name": "Innovation Sprint",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-lambrechts-woluwe",
+        "address": "Clos Chapelle-aux-Champs 30 1 1200 Woluwe-Saint-Lambert BE",
+        "coords": [
+          4.449827,
+          50.849524
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 18,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0654.807.210",
+    "name": "Ikologik",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "beernem",
+        "address": "Parkstraat 104 8730 Beernem BE",
+        "coords": [
+          3.334205,
+          51.141228
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0656.563.009",
+    "name": "Information Technology For Public Transport",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-jans-molenbeek",
+        "address": "Rue Sainte-Marie 6 1080 Molenbeek-Saint-Jean BE",
+        "coords": [
+          4.34156,
+          50.85455
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0656.632.194",
+    "name": "Infrasoft",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Antoon Catriestraat 18 9031 Gent BE",
+        "coords": [
+          3.654634,
+          51.052576
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0656.941.012",
+    "name": "Intensec",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0657.749.674",
+    "name": "Integration Designers",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0662.349.751",
+    "name": "Innovative Systems Provider International",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "evere",
+        "address": "Avenue Jules Bordet 168 1140 Evere BE",
+        "coords": [
+          4.418477,
+          50.86999
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0662.728.645",
+    "name": "It4it Services",
+    "site": "www.it4itservices.com",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "westerlo",
+        "address": "Gravin de Merodestraat 132 2260 Westerlo BE",
+        "coords": [
+          4.834277,
+          51.074956
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 23,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0662.785.756",
+    "name": "Ibeauty",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Kempische steenweg 303 200 3500 Hasselt BE",
+        "coords": [
+          5.35093,
+          50.95385
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0663.600.061",
+    "name": "Inimco",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "temse",
+        "address": "Hoogkamerstraat 304 9140 Temse BE",
+        "coords": [
+          4.185114,
+          51.137794
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0666.788.490",
+    "name": "It-generators",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "merelbeke-melle",
+        "address": "Klein-Begijnhofstraat 5 9090 Merelbeke-Melle BE",
+        "coords": [
+          3.789287,
+          51.003105
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0667.681.781",
+    "name": "Ipex Liège",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "herstal",
+        "address": "Parc Ind. des Hauts Sarts, 2e av 65 4040 Herstal BE",
+        "coords": [
+          5.61114,
+          50.69574
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 27,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0668.896.459",
+    "name": "International Business Renaissance",
+    "site": "www.timbtrack.com",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "la-hulpe",
+        "address": "Avenue Reine Astrid 92 1310 La Hulpe BE",
+        "coords": [
+          4.472177,
+          50.727053
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0670.796.174",
+    "name": "I.a. Trading",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "anderlecht",
+        "address": "Boulevard Aristide Briand 61 1070 Anderlecht BE",
+        "coords": [
+          4.300808,
+          50.828869
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-jans-molenbeek",
+        "address": "Chaussée de Ninove 83 1 1080 Molenbeek-Saint-Jean BE",
+        "coords": [
+          4.331544,
+          50.849863
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0674.407.247",
+    "name": "In Medio",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "dilsen-stokkem",
+        "address": "Europalaan 2A 201 3650 Dilsen-Stokkem BE",
+        "coords": [
+          5.72895,
+          51.035867
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0675.742.877",
+    "name": "Immoparse",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "sint-martens-latem",
+        "address": "Kouterbaan 16 b 9830 Sint-Martens-Latem BE",
+        "coords": [
+          3.635638,
+          51.016247
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0676.478.592",
+    "name": "Illumina Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Schaliënhoevedreef 20H 2800 Mechelen BE",
+        "coords": [
+          4.458027,
+          51.055363
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 38,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0676.905.887",
+    "name": "Impaqt",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "ninove",
+        "address": "Antoon de Vlaeminckstraat 19 9400 Ninove BE",
+        "coords": [
+          4.022731,
+          50.838099
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-jans-molenbeek",
+        "address": "Avenue du Port 8 1080 Molenbeek-Saint-Jean BE",
+        "coords": [
+          4.346633,
+          50.860836
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0678.884.489",
+    "name": "Inside Web",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "braine-le-chateau",
+        "address": "Parc Industriel 37 1440 Braine-le-Château BE",
+        "coords": [
+          4.326371,
+          50.688286
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0684.924.819",
+    "name": "Ivex",
+    "site": "www.ivex.ai",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Kapeldreef 60 3001 Leuven BE",
+        "coords": [
+          4.671959,
+          50.862211
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0685.996.866",
+    "name": "Iq4u",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "heusden-zolder",
+        "address": "Dikkelstraat 8 3550 Heusden-Zolder BE",
+        "coords": [
+          5.26327,
+          51.004739
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0687.800.967",
+    "name": "Itenium",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "londerzeel",
+        "address": "Pilatusveld 7 1840 Londerzeel BE",
+        "coords": [
+          4.309749,
+          51.004688
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 30,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0689.693.952",
+    "name": "Infolearn België",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Gaston Crommenlaan 8 9050 Gent BE",
+        "coords": [
+          3.734646,
+          51.036383
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0690.859.437",
+    "name": "I-pulses",
+    "site": "www.ipulses.be",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "blegny",
+        "address": "Esplanade De Cuyper-Beniest 5 2119 4671 Blégny BE",
+        "coords": [
+          5.67652,
+          50.65378
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "aywaille",
+        "address": "Rue de Lorcé 39 4920 Aywaille BE",
+        "coords": [
+          5.694766,
+          50.427657
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0690.884.379",
+    "name": "Integri",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "sint-gillis-waas",
+        "address": "Nieuwstraat 17 9170 Sint-Gillis-Waas BE",
+        "coords": [
+          4.129535,
+          51.217923
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0691.547.642",
+    "name": "Iot-d",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "chaudfontaine",
+        "address": "Avenue du Centenaire 61 4053 Chaudfontaine BE",
+        "coords": [
+          5.614468,
+          50.59393
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0692.527.639",
+    "name": "Investsuite",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Groenveldstraat 76 3001 Leuven BE",
+        "coords": [
+          4.6836,
+          50.87324
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0692.777.364",
+    "name": "Itzu Training",
+    "site": "www.itzu.eu",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Ilgatlaan 15 3500 Hasselt BE",
+        "coords": [
+          5.352499,
+          50.922013
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "beerse",
+        "address": "Rouwbergskens 6 B 2340 Beerse BE",
+        "coords": [
+          4.83669,
+          51.30465
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0694.628.381",
+    "name": "It-rex Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "diest",
+        "address": "Steenweg op Papenbroek 48 3290 Diest BE",
+        "coords": [
+          5.058546,
+          50.976686
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "halen",
+        "address": "Staatsbaan 96 3545 Halen BE",
+        "coords": [
+          5.087544,
+          50.959154
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0695.634.906",
+    "name": "Invitedesk",
+    "site": "invitedesk.com/nl/",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "denderleeuw",
+        "address": "A. De Brabanterstraat 108 9470 Denderleeuw BE",
+        "coords": [
+          4.076089,
+          50.877511
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0695.905.714",
+    "name": "Ict Field Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Schaliënhoevedreef 20T 2800 Mechelen BE",
+        "coords": [
+          4.458172,
+          51.056011
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 121,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0696.782.573",
+    "name": "Ingenum",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "mons",
+        "address": "Rue Comte Cornet 19 14 7020 Mons BE",
+        "coords": [
+          3.969068,
+          50.486402
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0698.764.640",
+    "name": "Ipcos Group",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Geldenaaksebaan 329 3001 Leuven BE",
+        "coords": [
+          4.724254,
+          50.848839
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0703.912.271",
+    "name": "Itsoma",
+    "site": "www.sospc.be",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "courcelles",
+        "address": "Rue Christian Mendiaux 30/A 6180 Courcelles BE",
+        "coords": [
+          4.366687,
+          50.449879
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0711.904.972",
+    "name": "Iopool",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Avenue Pré-Aily 24 4031 Liège BE",
+        "coords": [
+          5.564553,
+          50.596706
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0713.566.840",
+    "name": "Iziko",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "wommelgem",
+        "address": "Draaiboomstraat 6 10 2160 Wommelgem BE",
+        "coords": [
+          4.497141,
+          51.213688
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Franklin Rooseveltplaats 8 2060 Antwerpen BE",
+        "coords": [
+          4.416833,
+          51.219678
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 35,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0713.960.778",
+    "name": "Inert",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Stapelplein 70 303 9000 Gent BE",
+        "coords": [
+          3.734702,
+          51.063793
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0714.992.641",
+    "name": "Infinwebs",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "asse",
+        "address": "Stationsstraat 98 1730 Asse BE",
+        "coords": [
+          4.20805,
+          50.905795
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0718.805.434",
+    "name": "Ingenix",
+    "site": "www.ingenix.be",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "tielt",
+        "address": "Ruiseleedsesteenweg 9 303 8700 Tielt BE",
+        "coords": [
+          3.34081,
+          51.00424
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0718.898.672",
+    "name": "Ikigai Creation",
+    "site": "www.ikigaicreation.com",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "schaerbeek",
+        "address": "Rue Alexandre De Craene 30 1030 Schaerbeek BE",
+        "coords": [
+          4.394327,
+          50.867779
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Louise 251 1050 Ixelles BE",
+        "coords": [
+          4.355166,
+          50.817496
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0719.472.754",
+    "name": "Informaxyz",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "leopoldsburg",
+        "address": "Pater Asteerstraat 87 3970 Leopoldsburg BE",
+        "coords": [
+          5.25928,
+          51.130812
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "balen",
+        "address": "Steenweg Op Leopoldsburg 28 2 2490 Balen BE",
+        "coords": [
+          5.204646,
+          51.152215
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0723.477.666",
+    "name": "Innoverius",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "dendermonde",
+        "address": "Sint-Rochusstraat 7 9200 Dendermonde BE",
+        "coords": [
+          4.09809,
+          51.02789
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0728.495.140",
+    "name": "Inteso Group",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Rooigemlaan 532 9000 Gent BE",
+        "coords": [
+          3.697243,
+          51.064785
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0728.649.548",
+    "name": "Inzert 3d",
+    "site": "www.inzert3d.com",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "westerlo",
+        "address": "de Merodedreef 124 2260 Westerlo BE",
+        "coords": [
+          4.924284,
+          51.091681
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0728.775.450",
+    "name": "I-groove",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "gembloux",
+        "address": "Chaussée de Charleroi 63 5030 Gembloux BE",
+        "coords": [
+          4.689565,
+          50.564894
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 26,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0731.682.975",
+    "name": "Ict Link",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "eghezee",
+        "address": "Route de Gembloux,Aische 238 5310 Eghezée BE",
+        "coords": [
+          4.865399,
+          50.594899
+        ]
+      },
+      {
+        "province": "namur",
+        "municipality": "gembloux",
+        "address": "Rue Haie Nicolas 60 5030 Gembloux BE",
+        "coords": [
+          4.706851,
+          50.578764
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0734.733.824",
+    "name": "Insens",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "ottignies-louvain-la-neuve",
+        "address": "Rue du Bosquet 3 1348 Ottignies-Louvain-la-Neuve BE",
+        "coords": [
+          4.631981,
+          50.661859
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "evere",
+        "address": "Rue de Genève 10-124 1140 Evere BE",
+        "coords": [
+          4.402856,
+          50.863736
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "charleroi",
+        "address": "Square des Martyrs 1 6000 Charleroi BE",
+        "coords": [
+          4.435636,
+          50.442599
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0738.801.884",
+    "name": "Ismart Digital",
+    "site": "www.ismart.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kasterlee",
+        "address": "Boskant 7 2460 Kasterlee BE",
+        "coords": [
+          4.920327,
+          51.218895
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0739.800.390",
+    "name": "Inphoenity",
+    "site": "www.inphoenity.com",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "gembloux",
+        "address": "Rue du Ranil, Mazy 24 5032 Gembloux BE",
+        "coords": [
+          4.673324,
+          50.509501
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0740.835.421",
+    "name": "Iamd",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "De Pretstraat 5 302 2060 Antwerpen BE",
+        "coords": [
+          4.41745,
+          51.22936
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0741.664.275",
+    "name": "Independer.be",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Mediaplein 1 2018 Antwerpen BE",
+        "coords": [
+          4.421058,
+          51.212845
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0741.985.563",
+    "name": "In The Lead",
+    "site": "www.inthelead.be",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "oudenburg",
+        "address": "Ossenweg 12 8460 Oudenburg BE",
+        "coords": [
+          3.023131,
+          51.159951
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0742.515.303",
+    "name": "Innovative Business Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "waterloo",
+        "address": "Drève Richelle 167 1410 Waterloo BE",
+        "coords": [
+          4.411597,
+          50.707717
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0746.693.330",
+    "name": "Inect",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Ambachtenlaan 14 2 3001 Leuven BE",
+        "coords": [
+          4.716515,
+          50.850919
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0747.591.173",
+    "name": "Invibes Benelux",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Prins Boudewijnlaan 5 10 2550 Kontich BE",
+        "coords": [
+          4.436986,
+          51.139419
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0751.784.246",
+    "name": "Itvectrance",
+    "site": "www.vectrance.com",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Louise 65 11 1050 Ixelles BE",
+        "coords": [
+          4.356642,
+          50.818743
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0752.969.527",
+    "name": "Id Nine",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Stapelplein 70 103 9000 Gent BE",
+        "coords": [
+          3.734702,
+          51.063793
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0754.374.047",
+    "name": "Immosite.com",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "ternat",
+        "address": "Spiegelstraat 9 1741 Ternat BE",
+        "coords": [
+          4.156727,
+          50.855783
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0755.620.003",
+    "name": "I-theses Group",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "lokeren",
+        "address": "Moortelstraat 27 9160 Lokeren BE",
+        "coords": [
+          3.997611,
+          51.081339
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "heusden-zolder",
+        "address": "Koeltorenlaan 13 3550 Heusden-Zolder BE",
+        "coords": [
+          5.329734,
+          51.037945
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "buggenhout",
+        "address": "Mandekensstraat 191 9255 Buggenhout BE",
+        "coords": [
+          4.156907,
+          51.022415
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0756.804.490",
+    "name": "Insurprotect",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "oudergem",
+        "address": "Avenue Herrmann-Debroux 40-42 1160 Auderghem BE",
+        "coords": [
+          4.430679,
+          50.813223
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0760.437.042",
+    "name": "Innovatio",
+    "site": "www.innovatio.be",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "kaprijke",
+        "address": "Sportstraat 44 9971 Kaprijke BE",
+        "coords": [
+          3.635668,
+          51.191256
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0761.369.034",
+    "name": "Immovlan",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue de la Fusée 50 1130 Bruxelles BE",
+        "coords": [
+          4.417833,
+          50.878312
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue Royale 100 1000 Bruxelles BE",
+        "coords": [
+          4.36283,
+          50.84808
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0763.404.648",
+    "name": "Iqn Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "wemmel",
+        "address": "Rue du Panorama 21 1780 Wemmel BE",
+        "coords": [
+          4.328567,
+          50.901065
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0766.346.619",
+    "name": "Impact Players",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue aux Laines 70 1000 Bruxelles BE",
+        "coords": [
+          4.352987,
+          50.836089
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0767.586.239",
+    "name": "Intelliprove",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "destelbergen",
+        "address": "D'Haenestraat 22 9070 Destelbergen BE",
+        "coords": [
+          3.814196,
+          51.004697
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0768.516.845",
+    "name": "Izoard",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "uccle",
+        "address": "Rue de Stalle 212 1180 Uccle BE",
+        "coords": [
+          4.32522,
+          50.79602
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0771.516.719",
+    "name": "Indy Games",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "oupeye",
+        "address": "Rue Quinettes 9 4682 Oupeye BE",
+        "coords": [
+          5.636171,
+          50.726895
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0776.608.724",
+    "name": "Itrd",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Avenue Louise 65 11 1050 Bruxelles BE",
+        "coords": [
+          4.356642,
+          50.818743
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0777.880.414",
+    "name": "Itside",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "braine-le-chateau",
+        "address": "Parc Industriel 37 1440 Braine-le-Château BE",
+        "coords": [
+          4.326371,
+          50.688286
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0778.320.278",
+    "name": "Intelli-select",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Kapeldreef 60 3001 Leuven BE",
+        "coords": [
+          4.671959,
+          50.862211
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0782.425.952",
+    "name": "Itzy",
+    "site": "www.itzy.be",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "fernelmont",
+        "address": "Rue de Branchon, Forv. 145 5380 Fernelmont BE",
+        "coords": [
+          5.00159,
+          50.583481
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0784.616.568",
+    "name": "I-active Isb",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Sassevaartstraat 46 101 9000 Gent BE",
+        "coords": [
+          3.728883,
+          51.06911
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0786.550.234",
+    "name": "Intelli-t",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "brecht",
+        "address": "Heihoefke 3 2960 Brecht BE",
+        "coords": [
+          4.67786,
+          51.34131
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0798.161.431",
+    "name": "Introw",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Poel 16 9000 Gent BE",
+        "coords": [
+          3.71738,
+          51.05467
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0798.547.253",
+    "name": "Idalko",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Berchemstadionstraat 72 2600 Antwerpen BE",
+        "coords": [
+          4.437716,
+          51.188993
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0799.469.545",
+    "name": "Isobvious",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "beringen",
+        "address": "Diestersesteenweg 56 3583 Beringen BE",
+        "coords": [
+          5.16789,
+          51.037565
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0802.336.884",
+    "name": "Izix",
+    "site": "www.izix.eu",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Rue du Mail 50 1050 Ixelles BE",
+        "coords": [
+          4.35998,
+          50.822061
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0802.688.064",
+    "name": "Ixt",
+    "site": "www.ixt.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kapellen",
+        "address": "Antwerpsesteenweg 234 2950 Kapellen BE",
+        "coords": [
+          4.434731,
+          51.304716
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "boortmeerbeek",
+        "address": "Leuvensesteenweg 369 3190 Boortmeerbeek BE",
+        "coords": [
+          4.578438,
+          50.965622
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0803.301.837",
+    "name": "Insquare",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "aartselaar",
+        "address": "Olmenlaan 16 2630 Aartselaar BE",
+        "coords": [
+          4.376076,
+          51.115603
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0803.904.920",
+    "name": "Ismart Projects",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "westerlo",
+        "address": "Zone Kamp C 16 2 2260 Westerlo BE",
+        "coords": [
+          4.860518,
+          51.132242
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0804.335.480",
+    "name": "Ilias Lightning Be",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "Hermeslaan 1B 1831 Machelen BE",
+        "coords": [
+          4.44701,
+          50.88308
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0807.599.828",
+    "name": "Incerta",
+    "site": "www.incerta.be",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Sluisweg 1 b17 9000 Gent BE",
+        "coords": [
+          3.735381,
+          51.013483
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 18,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0808.537.758",
+    "name": "Infortel",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Skaldenstraat 1 9042 Gent BE",
+        "coords": [
+          3.77647,
+          51.11936
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0810.212.888",
+    "name": "Intermire",
+    "site": "www.intermire.be",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "charleroi",
+        "address": "Rue de Monceau Fontaine 42 13 6031 Charleroi BE",
+        "coords": [
+          4.385189,
+          50.41453
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 18,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0812.714.005",
+    "name": "Inforius",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "schaerbeek",
+        "address": "Rue des Palais 44 45 1030 Schaerbeek BE",
+        "coords": [
+          4.367627,
+          50.860336
+        ]
+      },
+      {
+        "province": "namur",
+        "municipality": "gembloux",
+        "address": "Rue Jean Sonet,Isnes 17 5032 Gembloux BE",
+        "coords": [
+          4.712393,
+          50.503259
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 19,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0824.642.233",
+    "name": "Intotheweb",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Rue François-Paul 4 4031 Liège BE",
+        "coords": [
+          5.586743,
+          50.611229
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0825.170.684",
+    "name": "Itp Agency",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Sassevaartstraat 46 401 9000 Gent BE",
+        "coords": [
+          3.728883,
+          51.06911
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Sluisstraat 8 3000 Leuven BE",
+        "coords": [
+          4.700113,
+          50.885703
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Regine Beerplein 1 E205 2018 Antwerpen BE",
+        "coords": [
+          4.422072,
+          51.202541
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 135,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0828.797.593",
+    "name": "Intermodalics",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Ambachtenlaan 54 3001 Leuven BE",
+        "coords": [
+          4.718501,
+          50.848448
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0831.112.034",
+    "name": "Illico Soft",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "pittem",
+        "address": "Tieltstraat 52 8740 Pittem BE",
+        "coords": [
+          3.26738,
+          50.993448
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0833.485.861",
+    "name": "Infocura",
+    "site": "www.infocura.be",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "holsbeek",
+        "address": "Dorp 64A 3221 Holsbeek BE",
+        "coords": [
+          4.831339,
+          50.948297
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0834.828.124",
+    "name": "I-illusions",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "geraardsbergen",
+        "address": "Gaverstraat 39C 9500 Geraardsbergen BE",
+        "coords": [
+          3.876556,
+          50.762376
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0836.533.938",
+    "name": "Invibes Advertising",
+    "site": "www.invibes.com",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Technologiepark-Zwijnaarde 82 26 9052 Gent BE",
+        "coords": [
+          3.712047,
+          51.008145
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0837.183.046",
+    "name": "I-logics",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Rue Américaine 61-65 1050 Ixelles BE",
+        "coords": [
+          4.360967,
+          50.822643
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0837.255.104",
+    "name": "Indie Group",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "zwevegem",
+        "address": "Kortrijkstraat 75 1 8550 Zwevegem BE",
+        "coords": [
+          3.3264,
+          50.81321
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 32,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0839.116.613",
+    "name": "Ict-worx",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "ieper",
+        "address": "Ter Waarde 45 8900 Ieper BE",
+        "coords": [
+          2.891986,
+          50.870269
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0841.266.350",
+    "name": "Innoptus Belgium",
+    "site": "www.cadcorner.be",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "ledegem",
+        "address": "Smissestraat 50 8880 Ledegem BE",
+        "coords": [
+          3.1828,
+          50.873496
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0844.336.104",
+    "name": "Intelli Consulting Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "hoeilaart",
+        "address": "J. B. Deridderstraat 20 1560 Hoeilaart BE",
+        "coords": [
+          4.473491,
+          50.763089
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Ikaroslaan 1 1930 Zaventem BE",
+        "coords": [
+          4.49383,
+          50.87625
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0847.283.716",
+    "name": "International Software Company",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "braine-lalleud",
+        "address": "Rue du Charron 284 1420 Braine-l'Alleud BE",
+        "coords": [
+          4.399844,
+          50.685495
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0847.484.149",
+    "name": "Innovative Automotive Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "aartselaar",
+        "address": "Halfstraat 5 2630 Aartselaar BE",
+        "coords": [
+          4.37108,
+          51.12242
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0848.535.808",
+    "name": "International Intellectual Capital Provider",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Zombeekstraat 21 9031 Gent BE",
+        "coords": [
+          3.601408,
+          51.029193
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0848.622.613",
+    "name": "Ifacto Food Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "Meensesteenweg 385 06 8501 Kortrijk BE",
+        "coords": [
+          3.227897,
+          50.823621
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0861.085.232",
+    "name": "Io Belgium",
+    "site": "www.iodigital.com",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "herentals",
+        "address": "Zavelheide 15 2200 Herentals BE",
+        "coords": [
+          4.871443,
+          51.180563
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Raymonde de Larochelaan 15 9051 Gent BE",
+        "coords": [
+          3.69305,
+          51.02907
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Mechelsesteenweg 271 1.1 2018 Antwerpen BE",
+        "coords": [
+          4.41453,
+          51.20009
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "De Kleetlaan 5 1831 Machelen BE",
+        "coords": [
+          4.449617,
+          50.888579
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 353,
+    "founded": 2003,
+    "proof": []
+  },
+  {
+    "cbe": "0862.898.142",
+    "name": "Infrasensing",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Leuvensesteenweg 555 B17 1930 Zaventem BE",
+        "coords": [
+          4.48426,
+          50.87378
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0864.964.638",
+    "name": "Ionprojects",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Kleine Nieuwedijkstraat 71 2800 Mechelen BE",
+        "coords": [
+          4.487947,
+          51.037394
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0866.030.846",
+    "name": "Inventis",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "oudsbergen",
+        "address": "Weg naar As 182 3660 Oudsbergen BE",
+        "coords": [
+          5.580748,
+          51.025445
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 18,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0867.097.450",
+    "name": "It Anywhere",
+    "site": "www.it-anywhere.com",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "putte",
+        "address": "Steenstraat 4 2580 Putte BE",
+        "coords": [
+          4.657267,
+          51.073918
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Excelsiorlaan 13 1930 Zaventem BE",
+        "coords": [
+          4.454253,
+          50.88107
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 19,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0870.182.149",
+    "name": "Ivox",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Engels Plein 35 0101 3000 Leuven BE",
+        "coords": [
+          4.70147,
+          50.888158
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 20,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0871.145.419",
+    "name": "I-solv-it",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "kluisbergen",
+        "address": "Doveleen 4 9690 Kluisbergen BE",
+        "coords": [
+          3.49309,
+          50.771836
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "avelgem",
+        "address": "Leopoldstraat 44 A 8580 Avelgem BE",
+        "coords": [
+          3.44624,
+          50.77247
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0871.378.813",
+    "name": "Imengine",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Tiensevest 43 3010 Leuven BE",
+        "coords": [
+          4.715698,
+          50.875011
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0871.784.629",
+    "name": "Inprove",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "grez-doiceau",
+        "address": "Chaussée de Wavre 132 1390 Grez-Doiceau BE",
+        "coords": [
+          4.69164,
+          50.74845
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0872.102.947",
+    "name": "I.c.m. Labarque",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "waregem",
+        "address": "Roterijstraat 71 8790 Waregem BE",
+        "coords": [
+          3.408164,
+          50.891017
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0876.820.414",
+    "name": "Izit",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "berlare",
+        "address": "Kapellebergstraat 7 9290 Berlare BE",
+        "coords": [
+          3.985334,
+          51.043471
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "zele",
+        "address": "Dokter Armand Rubbensstraat 1 9240 Zele BE",
+        "coords": [
+          4.040687,
+          51.068508
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0877.275.522",
+    "name": "Ida",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 25,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0878.427.842",
+    "name": "Itinera Institute",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-jans-molenbeek",
+        "address": "Rue Alphonse Vandenpeereboom 164 4 1080 Molenbeek-Saint-Jean BE",
+        "coords": [
+          4.322855,
+          50.849087
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0878.895.026",
+    "name": "Ice Technologies",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zemst",
+        "address": "Jaak Lemmenslaan 53 1980 Zemst BE",
+        "coords": [
+          4.462709,
+          50.979801
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0880.419.609",
+    "name": "Intopix",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "mont-saint-guibert",
+        "address": "Rue Emile Francqui 9 1435 Mont-Saint-Guibert BE",
+        "coords": [
+          4.623284,
+          50.659002
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 30,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0880.927.868",
+    "name": "Ikan Development",
+    "site": "kobee.io/",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Motstraat 30 2800 Mechelen BE",
+        "coords": [
+          4.48948,
+          51.013418
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0881.855.209",
+    "name": "I8c",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 32,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0881.856.001",
+    "name": "Infront",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 22,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0882.009.221",
+    "name": "Intersysto",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "tournai",
+        "address": "Rue de l'Innovation 6 2 7503 Tournai BE",
+        "coords": [
+          3.344138,
+          50.616191
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0882.094.937",
+    "name": "I.r.i.s. Solutions & Experts",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "mont-saint-guibert",
+        "address": "Rue du Bosquet 10 1435 Mont-Saint-Guibert BE",
+        "coords": [
+          4.629,
+          50.661438
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 32,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0883.477.582",
+    "name": "Ifs Ultimo",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Schaliënhoevedreef 20 2800 Mechelen BE",
+        "coords": [
+          4.458295,
+          51.055908
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0885.270.104",
+    "name": "Iristeam",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-joost-ten-node",
+        "address": "Place Saint-Lazare 2 1210 Saint-Josse-ten-Noode BE",
+        "coords": [
+          4.361532,
+          50.857022
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 635,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0886.090.149",
+    "name": "Icasa Energy Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "diepenbeek",
+        "address": "Wetenschapspark 23 3590 Diepenbeek BE",
+        "coords": [
+          5.39757,
+          50.930401
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 30,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0886.517.840",
+    "name": "Iconiq",
+    "site": "www.moxy.be",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Avenue du Port 86C 9B 1000 Bruxelles BE",
+        "coords": [
+          4.348862,
+          50.86495
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "ternat",
+        "address": "Assesteenweg 172 1742 Ternat BE",
+        "coords": [
+          4.162564,
+          50.873677
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0887.365.502",
+    "name": "Ikoon",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "tielt",
+        "address": "Ruiseleedsesteenweg 85 8700 Tielt BE",
+        "coords": [
+          3.36722,
+          51.01575
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 18,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0887.847.136",
+    "name": "Itrium Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "steenokkerzeel",
+        "address": "Cornellekestraat 55 1820 Steenokkerzeel BE",
+        "coords": [
+          4.520176,
+          50.921778
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0888.493.571",
+    "name": "Imaxx",
+    "site": "www.imaxx.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mol",
+        "address": "Spinstersstraat 8 2400 Mol BE",
+        "coords": [
+          5.081003,
+          51.167936
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0889.114.470",
+    "name": "Intensum Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "la-hulpe",
+        "address": "Chaussée de Bruxelles 135 A 1310 La Hulpe BE",
+        "coords": [
+          4.454221,
+          50.745429
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0889.865.231",
+    "name": "I-works",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "lier",
+        "address": "Ringenhofweg 16 2500 Lier BE",
+        "coords": [
+          4.551477,
+          51.120094
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0890.146.333",
+    "name": "In4care",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "grimbergen",
+        "address": "Antwerpselaan 1 1853 Grimbergen BE",
+        "coords": [
+          4.3444,
+          50.91722
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0891.514.231",
+    "name": "Inuits",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "brasschaat",
+        "address": "Essensteenweg 31 2930 Brasschaat BE",
+        "coords": [
+          4.521036,
+          51.332234
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Hessenplein 2 2000 Antwerpen BE",
+        "coords": [
+          4.40935,
+          51.226689
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 75,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0892.718.912",
+    "name": "It Experts",
+    "site": "www.itexperts.be",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "eeklo",
+        "address": "Leopoldlaan 41 9900 Eeklo BE",
+        "coords": [
+          3.54176,
+          51.19498
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0894.896.363",
+    "name": "Idf Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "charleroi",
+        "address": "Rue Hans Pierre 14 B 6040 Charleroi BE",
+        "coords": [
+          4.441028,
+          50.435898
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0895.121.047",
+    "name": "In-motion Software",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "staden",
+        "address": "Roeselarestraat 205B 8840 Staden BE",
+        "coords": [
+          3.07872,
+          50.94235
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0896.623.557",
+    "name": "Inew",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Louise 231 1050 Ixelles BE",
+        "coords": [
+          4.355166,
+          50.817496
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0897.016.705",
+    "name": "Ics, Internet & Computer Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "brecht",
+        "address": "Zandstraat 36 2960 Brecht BE",
+        "coords": [
+          4.568668,
+          51.292329
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0897.281.771",
+    "name": "I-logs",
+    "site": "www.i-logs.com",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue des Tanneurs 58-62 1000 Bruxelles BE",
+        "coords": [
+          4.345559,
+          50.838495
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0898.334.123",
+    "name": "Ichoosr",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Molenbergstraat 10 24 2000 Antwerpen BE",
+        "coords": [
+          4.41564,
+          51.220223
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 31,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0898.769.534",
+    "name": "Industries Excellence",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "steenokkerzeel",
+        "address": "Kasteelhoekstraat 1B 1820 Steenokkerzeel BE",
+        "coords": [
+          4.5042,
+          50.93035
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0899.384.295",
+    "name": "Impact Software",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "aalst",
+        "address": "Molenstraat 71 1 9300 Aalst BE",
+        "coords": [
+          4.043007,
+          50.939695
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "1002.489.258",
+    "name": "Ivisual",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Meir 78 2000 Antwerpen BE",
+        "coords": [
+          4.411332,
+          51.217735
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "1003.136.485",
+    "name": "Inquired",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "bornem",
+        "address": "Industrieweg 3 2880 Bornem BE",
+        "coords": [
+          4.261021,
+          51.090812
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0422.043.535",
+    "name": "Ict Fashion",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "waterloo",
+        "address": "Avenue Beau Séjour 82 1410 Waterloo BE",
+        "coords": [
+          4.387642,
+          50.726566
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Leysstraat 18 2000 Antwerpen BE",
+        "coords": [
+          4.41353,
+          51.21813
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 1981,
+    "proof": []
+  },
+  {
+    "cbe": "0425.259.876",
+    "name": "Informa Europe",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "merchtem",
+        "address": "Nieuwelaan 111 1785 Merchtem BE",
+        "coords": [
+          4.275527,
+          50.935515
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 1983,
+    "proof": []
+  },
+  {
+    "cbe": "0425.925.218",
+    "name": "Idily",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "fernelmont",
+        "address": "Rue Georges Cosse, ZI, Nov. 6A 5380 Fernelmont BE",
+        "coords": [
+          4.968219,
+          50.535931
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 1984,
+    "proof": []
+  },
+  {
+    "cbe": "0433.585.743",
+    "name": "Informatique Programmation Analyse Conception",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "uccle",
+        "address": "Avenue De Fré 165 1180 Uccle BE",
+        "coords": [
+          4.356408,
+          50.804163
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 1988,
+    "proof": []
+  },
+  {
+    "cbe": "0439.110.585",
+    "name": "Izyz",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "meise",
+        "address": "Vilvoordsesteenweg 207 B 1860 Meise BE",
+        "coords": [
+          4.32468,
+          50.94542
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 1989,
+    "proof": []
+  },
+  {
+    "cbe": "0441.997.920",
+    "name": "I.deeds",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "sint-martens-latem",
+        "address": "Kortrijksesteenweg 88 9830 Sint-Martens-Latem BE",
+        "coords": [
+          3.640804,
+          51.012466
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 18,
+    "founded": 1990,
+    "proof": []
+  },
+  {
+    "cbe": "0448.670.233",
+    "name": "Information Technology Partners",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Oosterveldlaan 211 2610 Antwerpen BE",
+        "coords": [
+          4.43016,
+          51.17637
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 1992,
+    "proof": []
+  },
+  {
+    "cbe": "0448.759.018",
+    "name": "Imprenta",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "aartselaar",
+        "address": "Industrieweg 11 2630 Aartselaar BE",
+        "coords": [
+          4.3701,
+          51.12848
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 1992,
+    "proof": []
+  },
+  {
+    "cbe": "0449.191.657",
+    "name": "Innoss",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "lokeren",
+        "address": "Beertenstraat 4 9160 Lokeren BE",
+        "coords": [
+          4.01461,
+          51.11858
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 20,
+    "founded": 1992,
+    "proof": []
+  },
+  {
+    "cbe": "0449.971.914",
+    "name": "I-city",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue des Halles 4 1000 Bruxelles BE",
+        "coords": [
+          4.350096,
+          50.850079
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 176,
+    "founded": 1993,
+    "proof": []
+  },
+  {
+    "cbe": "0451.864.602",
+    "name": "Icoms Detections",
+    "site": "www.icomsdetections.com",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "ottignies-louvain-la-neuve",
+        "address": "Avenue Albert Einstein 11 B 1348 Ottignies-Louvain-la-Neuve BE",
+        "coords": [
+          4.629332,
+          50.665008
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 1993,
+    "proof": []
+  },
+  {
+    "cbe": "0452.440.860",
+    "name": "Image Line",
+    "site": "www.image-line.com",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Franklin Rooseveltlaan 348 D 9000 Gent BE",
+        "coords": [
+          3.731149,
+          51.044268
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 1994,
+    "proof": []
+  },
+  {
+    "cbe": "0452.814.806",
+    "name": "Intris",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Posthofbrug 6/8 2600 Antwerpen BE",
+        "coords": [
+          4.43546,
+          51.1938
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 31,
+    "founded": 1994,
+    "proof": []
+  },
+  {
+    "cbe": "0452.826.187",
+    "name": "Infinigate Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Ikaroslaan 4 1930 Zaventem BE",
+        "coords": [
+          4.493612,
+          50.876662
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 17,
+    "founded": 1994,
+    "proof": []
+  },
+  {
+    "cbe": "0453.604.761",
+    "name": "Infobel",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "uccle",
+        "address": "Chaussée de Saint-Job 506 1180 Uccle BE",
+        "coords": [
+          4.358408,
+          50.792317
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 1994,
+    "proof": []
+  },
+  {
+    "cbe": "0453.917.339",
+    "name": "Ineo",
+    "site": "www.ineo.be",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "andenne",
+        "address": "Rue du Progrès 14 5300 Andenne BE",
+        "coords": [
+          5.035966,
+          50.529129
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 1994,
+    "proof": []
+  },
+  {
+    "cbe": "0454.486.768",
+    "name": "It1 Group",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "dendermonde",
+        "address": "Steenkaaistraat 14 9200 Dendermonde BE",
+        "coords": [
+          4.171986,
+          51.030805
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 38,
+    "founded": 1995,
+    "proof": []
+  },
+  {
+    "cbe": "0454.713.333",
+    "name": "Ideal Systems",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "vilvoorde",
+        "address": "Harensesteenweg 232 2.10 1800 Vilvoorde BE",
+        "coords": [
+          4.4222,
+          50.91877
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 1995,
+    "proof": []
+  },
+  {
+    "cbe": "0455.144.784",
+    "name": "Integral Software",
+    "site": "www.integral.be/",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "mons",
+        "address": "Avenue d'Hyon 49 0-6 7000 Mons BE",
+        "coords": [
+          3.954831,
+          50.446833
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 1995,
+    "proof": []
+  },
+  {
+    "cbe": "0456.297.502",
+    "name": "Intelart",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-lambrechts-woluwe",
+        "address": "Chée de Roodebeek 451 1200 Woluwe-Saint-Lambert BE",
+        "coords": [
+          4.416249,
+          50.850002
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 1995,
+    "proof": []
+  },
+  {
+    "cbe": "0457.356.483",
+    "name": "I.m. Belgium",
+    "site": "www.arkaos.net",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Battelsesteenweg 455 2800 Mechelen BE",
+        "coords": [
+          4.44912,
+          51.03785
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 1996,
+    "proof": []
+  },
+  {
+    "cbe": "0459.831.567",
+    "name": "Intrasys",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "bornem",
+        "address": "Lodderstraat 14 2880 Bornem BE",
+        "coords": [
+          4.276729,
+          51.084286
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 1997,
+    "proof": []
+  },
+  {
+    "cbe": "0460.241.343",
+    "name": "Idcreation",
+    "site": "www.idcreation.be",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "wevelgem",
+        "address": "Bissegemstraat 33 8560 Wevelgem BE",
+        "coords": [
+          3.206063,
+          50.842188
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 1997,
+    "proof": []
+  },
+  {
+    "cbe": "0460.683.088",
+    "name": "I.g. Soft",
+    "site": "www.igsoft.be",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Rue Joseph-Willem 45 4030 Liège BE",
+        "coords": [
+          5.636277,
+          50.625796
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "beyne-heusay",
+        "address": "Rue de l'Enclos 26 4610 Beyne-Heusay BE",
+        "coords": [
+          5.670217,
+          50.620014
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 1997,
+    "proof": []
+  },
+  {
+    "cbe": "0462.847.871",
+    "name": "Inno.com",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "putte",
+        "address": "Heiststeenweg 131 2580 Putte BE",
+        "coords": [
+          4.682391,
+          51.063986
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 19,
+    "founded": 1998,
+    "proof": []
+  },
+  {
+    "cbe": "0463.157.083",
+    "name": "I.s.a.b.",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "anzegem",
+        "address": "Huttegem 10 8570 Anzegem BE",
+        "coords": [
+          3.423838,
+          50.844405
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 20,
+    "founded": 1998,
+    "proof": []
+  },
+  {
+    "cbe": "0463.525.188",
+    "name": "Info Support",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Generaal De Wittelaan 17 30 2800 Mechelen BE",
+        "coords": [
+          4.455614,
+          51.053842
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 64,
+    "founded": 1998,
+    "proof": []
+  },
+  {
+    "cbe": "0464.554.477",
+    "name": "Im Associates",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Da Vincilaan 7 1930 Zaventem BE",
+        "coords": [
+          4.458596,
+          50.888812
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 19,
+    "founded": 1998,
+    "proof": []
+  },
+  {
+    "cbe": "0464.652.962",
+    "name": "Infinity Technology Europe",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Chaussée de Vleurgat 119 1000 Bruxelles BE",
+        "coords": [
+          4.368091,
+          50.824403
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 22,
+    "founded": 1998,
+    "proof": []
+  },
+  {
+    "cbe": "0464.940.301",
+    "name": "Izyz Pro",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "meise",
+        "address": "Vilvoordsesteenweg 207A 1860 Meise BE",
+        "coords": [
+          4.32465,
+          50.94544
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 1998,
+    "proof": []
+  },
+  {
+    "cbe": "0464.951.880",
+    "name": "Intersys",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "herentals",
+        "address": "Zeelputten 7 2200 Herentals BE",
+        "coords": [
+          4.8487,
+          51.178052
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 1998,
+    "proof": []
+  },
+  {
+    "cbe": "0465.109.357",
+    "name": "Insites",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Evergemsesteenweg 195 9032 Gent BE",
+        "coords": [
+          3.713185,
+          51.097218
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 36,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0465.892.978",
+    "name": "Intergraph Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Rue des Guillemins 139 4000 Liège BE",
+        "coords": [
+          5.56635,
+          50.62623
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "anderlecht",
+        "address": "Boulevard International 55 1070 Anderlecht BE",
+        "coords": [
+          4.300062,
+          50.813488
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 31,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0466.006.806",
+    "name": "Itaf",
+    "site": "www.itaf.eu",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Industrieweg 114 H 9032 Gent BE",
+        "coords": [
+          3.690249,
+          51.093913
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "roeselare",
+        "address": "Meensesteenweg 699 8800 Roeselare BE",
+        "coords": [
+          3.114756,
+          50.894953
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Wilselsesteenweg 257 3010 Leuven BE",
+        "coords": [
+          4.721519,
+          50.904743
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0466.016.407",
+    "name": "Id Solution",
+    "site": "www.idsoltuion.be",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "charleroi",
+        "address": "Avenue Général Michel 1 E 6000 Charleroi BE",
+        "coords": [
+          4.451957,
+          50.411166
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0466.024.919",
+    "name": "Identification Products International",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kapellen",
+        "address": "Energielaan 1-3 2950 Kapellen BE",
+        "coords": [
+          4.503894,
+          51.357226
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0466.413.414",
+    "name": "It Line",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Avenue de la Joyeuse Entrée 14 5 1040 Bruxelles BE",
+        "coords": [
+          4.385473,
+          50.841336
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0466.868.522",
+    "name": "Ieck",
+    "site": "informatique.kerger.be",
+    "locations": [
+      {
+        "province": "luxembourg",
+        "municipality": "neufchateau",
+        "address": "Chaussée de Recogne,NEU 40 6840 Neufchâteau BE",
+        "coords": [
+          5.435054,
+          49.854018
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0467.189.909",
+    "name": "Its Group Benelux",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue de la Presse 9 1000 Bruxelles BE",
+        "coords": [
+          4.366429,
+          50.849169
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 24,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0467.274.338",
+    "name": "Infosys Consulting (belgium)",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Boulevard du Roi Albert II 32 1000 Bruxelles BE",
+        "coords": [
+          4.357994,
+          50.862817
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0467.364.608",
+    "name": "I4m",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "deinze",
+        "address": "Vosselarestraat 73 16 9850 Deinze BE",
+        "coords": [
+          3.568615,
+          51.046775
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0468.010.251",
+    "name": "Intellecteu",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "halle",
+        "address": "Kanaalbrugstraat 15 5.1 1500 Halle BE",
+        "coords": [
+          4.242901,
+          50.739778
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 21,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0468.794.664",
+    "name": "Iguana",
+    "site": "www.iGuana-dms.com",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Leuvensesteenweg 633 C 1930 Zaventem BE",
+        "coords": [
+          4.50264,
+          50.87759
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 37,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0469.570.664",
+    "name": "Information Technology And Geodesy",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "stekene",
+        "address": "Ketelaarsgras 1 9190 Stekene BE",
+        "coords": [
+          4.039319,
+          51.214295
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0471.585.294",
+    "name": "Ir. Marc Van Gestel",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "pelt",
+        "address": "Windmolenstraat 26 12 3900 Pelt BE",
+        "coords": [
+          5.422793,
+          51.207717
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0472.109.292",
+    "name": "Informatica Belgie",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Brusselstraat 51 2018 Antwerpen BE",
+        "coords": [
+          4.390824,
+          51.201975
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0472.255.089",
+    "name": "It Partner",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "roeselare",
+        "address": "Kwadestraat 155 62 8800 Roeselare BE",
+        "coords": [
+          3.172891,
+          50.920041
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0472.397.819",
+    "name": "Imendos Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "ottignies-louvain-la-neuve",
+        "address": "Av. de la Résistance 38 1340 Ottignies-Louvain-la-Neuve BE",
+        "coords": [
+          4.55398,
+          50.67128
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0473.113.837",
+    "name": "Ip Trade",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Rue des Guillemins 129 4000 Liège BE",
+        "coords": [
+          5.56644,
+          50.62636
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 23,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0473.274.282",
+    "name": "It-optics",
+    "site": "www.it-optics.com",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "mons",
+        "address": "Boulevard Initialis 28 7000 Mons BE",
+        "coords": [
+          3.926661,
+          50.457765
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0473.353.664",
+    "name": "Innova Solutions (belgium)",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "evere",
+        "address": "Avenue Jules Bordet 166 1140 Evere BE",
+        "coords": [
+          4.418245,
+          50.870272
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 111,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0473.984.560",
+    "name": "Input For You",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "dilbeek",
+        "address": "Alfons Gossetlaan 32E 102 1702 Dilbeek BE",
+        "coords": [
+          4.27525,
+          50.87317
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "anderlecht",
+        "address": "Rue Victor Rauter 132 1070 Anderlecht BE",
+        "coords": [
+          4.309372,
+          50.833987
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 44,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0474.280.312",
+    "name": "Iperform",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0474.715.426",
+    "name": "It Business Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kapellen",
+        "address": "Hoogboomsteenweg 190 1 2950 Kapellen BE",
+        "coords": [
+          4.454078,
+          51.313251
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0474.964.260",
+    "name": "Itineris",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Kortrijksesteenweg 1144 9051 Gent BE",
+        "coords": [
+          3.672545,
+          51.018879
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 214,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0477.610.380",
+    "name": "Ikon",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "sint-niklaas",
+        "address": "Koningin Astridlaan 37 A 9100 Sint-Niklaas BE",
+        "coords": [
+          4.15643,
+          51.15693
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Londenstraat 160 9000 Gent BE",
+        "coords": [
+          3.729096,
+          51.077359
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2002,
+    "proof": []
+  },
+  {
+    "cbe": "0478.086.571",
+    "name": "Idtech",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "gembloux",
+        "address": "Rue Saucin, Isnes 62 5032 Gembloux BE",
+        "coords": [
+          4.725288,
+          50.499182
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 29,
+    "founded": 2002,
+    "proof": []
+  },
+  {
+    "cbe": "0478.493.179",
+    "name": "Ixor",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Schuttersvest 75 2800 Mechelen BE",
+        "coords": [
+          4.48175,
+          51.020817
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 2002,
+    "proof": []
+  },
+  {
+    "cbe": "0478.743.894",
+    "name": "Ipgs Technology",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue de la Longue Haie 35-39 1000 Bruxelles BE",
+        "coords": [
+          4.360368,
+          50.831507
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2002,
+    "proof": []
+  },
+  {
+    "cbe": "0500.991.934",
+    "name": "Ifixtech",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "overijse",
+        "address": "Brusselsesteenweg 551 3090 Overijse BE",
+        "coords": [
+          4.486826,
+          50.791546
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "uccle",
+        "address": "Avenue Kersbeek 308 1180 Uccle BE",
+        "coords": [
+          4.322777,
+          50.801055
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Galerie de la Porte Louise 126 1050 Ixelles BE",
+        "coords": [
+          4.357052,
+          50.834732
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "uccle",
+        "address": "Chaussée de Waterloo 1163 1180 Uccle BE",
+        "coords": [
+          4.374588,
+          50.797002
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0501.511.774",
+    "name": "Intuitim",
+    "site": "www.intuitim.com",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "evere",
+        "address": "Rue Pierre Dupont 200 1 1140 Evere BE",
+        "coords": [
+          4.412779,
+          50.863748
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "binche",
+        "address": "Avenue Wanderpepen 25 7130 Binche BE",
+        "coords": [
+          4.168682,
+          50.411967
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0502.499.293",
+    "name": "Impuls Connect",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "hoogstraten",
+        "address": "Vrijheid 8 2320 Hoogstraten BE",
+        "coords": [
+          4.762945,
+          51.406998
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0507.587.934",
+    "name": "Isea",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue Royale 154-158 1000 Bruxelles BE",
+        "coords": [
+          4.364318,
+          50.850648
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0521.951.654",
+    "name": "Incito",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 a 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0525.739.802",
+    "name": "It Link Benelux",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Louise 367 1050 Ixelles BE",
+        "coords": [
+          4.36941,
+          50.82083
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 35,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0541.620.284",
+    "name": "Intotheminds",
+    "site": "www.intotheminds.com",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "etterbeek",
+        "address": "Rue Général Capiaumont 11 1040 Etterbeek BE",
+        "coords": [
+          4.382808,
+          50.832403
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "etterbeek",
+        "address": "Rue des Pères Blancs 4 1040 Etterbeek BE",
+        "coords": [
+          4.400036,
+          50.826661
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0541.964.239",
+    "name": "Idweaver",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "waterloo",
+        "address": "Drève Richelle 167 1410 Waterloo BE",
+        "coords": [
+          4.411597,
+          50.707717
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Boulevard de la Cambre 28-30 1000 Bruxelles BE",
+        "coords": [
+          4.37509,
+          50.816157
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Rue de Mulhouse 36 4020 Liège BE",
+        "coords": [
+          5.586227,
+          50.632747
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 24,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0542.477.646",
+    "name": "Inasec",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Rue de la Lèche 8 4020 Liège BE",
+        "coords": [
+          5.608773,
+          50.642907
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0543.576.122",
+    "name": "Icr Numérique",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "tournai",
+        "address": "Rue du Progrès 12 7503 Tournai BE",
+        "coords": [
+          3.343621,
+          50.617512
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0544.396.464",
+    "name": "Itlicious",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "sint-truiden",
+        "address": "Binderveldseweg 38A 3803 Sint-Truiden BE",
+        "coords": [
+          5.156048,
+          50.855623
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0544.984.305",
+    "name": "Involved",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33a 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0546.567.680",
+    "name": "Icom Consult",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "duffel",
+        "address": "Boecksteinweg 11 2570 Duffel BE",
+        "coords": [
+          4.470174,
+          51.089939
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0546.657.356",
+    "name": "Informed Consulting Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Brusselstraat 51 2018 Antwerpen BE",
+        "coords": [
+          4.390824,
+          51.201975
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0552.742.226",
+    "name": "Infosquare",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "anderlecht",
+        "address": "Route de Lennik 451 9B 1070 Anderlecht BE",
+        "coords": [
+          4.271525,
+          50.816606
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0557.978.741",
+    "name": "Inkubis",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33B 2550 Kontich BE",
+        "coords": [
+          4.443521,
+          51.142308
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0563.644.135",
+    "name": "Insider Metrics",
+    "site": "www.hellocustomer.com",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Visserij 171 9000 Gent BE",
+        "coords": [
+          3.73894,
+          51.04464
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0567.880.263",
+    "name": "Ifenergies",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "huy",
+        "address": "Rue des Saules 35 4500 Huy BE",
+        "coords": [
+          5.24861,
+          50.53195
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0567.903.326",
+    "name": "Intodata",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 B 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0589.956.671",
+    "name": "Iristick",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Lamorinièrestraat 123 2018 Antwerpen BE",
+        "coords": [
+          4.421436,
+          51.203824
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0633.734.355",
+    "name": "Iqunet",
+    "site": "www.iqunet.com",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "hamme",
+        "address": "Broekstraat 82 9220 Hamme BE",
+        "coords": [
+          4.156511,
+          51.089193
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0646.700.681",
+    "name": "Indeed Belgium Operations",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Louise 523 1050 Ixelles BE",
+        "coords": [
+          4.371815,
+          50.815277
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 35,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0656.943.089",
+    "name": "Integration.team",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0657.753.832",
+    "name": "Identit",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 17,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0657.893.194",
+    "name": "Ipsys Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Quai Saint-Léonard 13 4000 Liège BE",
+        "coords": [
+          5.58791,
+          50.64744
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 28,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0659.755.594",
+    "name": "Ittention",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue Picard 7 100 1000 Bruxelles BE",
+        "coords": [
+          4.34525,
+          50.86392
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "mons",
+        "address": "Boulevard Dolez 31 . 7000 Mons BE",
+        "coords": [
+          3.959077,
+          50.451613
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0663.658.954",
+    "name": "Inlecom Group",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Square de Meeus 38 1050 Ixelles BE",
+        "coords": [
+          4.368734,
+          50.840545
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0676.703.078",
+    "name": "Innovation Crib",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Dianalaan 53 2600 Antwerpen BE",
+        "coords": [
+          4.443829,
+          51.198737
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0677.932.208",
+    "name": "Innova It",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "charleroi",
+        "address": "Rue des Cayats 37 6001 Charleroi BE",
+        "coords": [
+          4.440299,
+          50.391658
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0678.879.343",
+    "name": "Ict-pro",
+    "site": "www.ict-pro.be",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "braine-lalleud",
+        "address": "Avenue de Finlande 5 1420 Braine-l'Alleud BE",
+        "coords": [
+          4.382168,
+          50.666119
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0679.628.520",
+    "name": "Intellithings",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Bedrijfsstraat 2 6 3500 Hasselt BE",
+        "coords": [
+          5.35951,
+          50.95439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0685.868.291",
+    "name": "Ishtar365",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Schaliënhoevedreef 20 T 2800 Mechelen BE",
+        "coords": [
+          4.458295,
+          51.055908
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0689.587.747",
+    "name": "Irex Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "zandhoven",
+        "address": "Straateinde 14 2240 Zandhoven BE",
+        "coords": [
+          4.646531,
+          51.186311
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 43,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0689.960.109",
+    "name": "Itq Consultancy",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Tiensestraat 111 1 3000 Leuven BE",
+        "coords": [
+          4.70776,
+          50.87616
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 19,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0693.689.362",
+    "name": "Induxx",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0693.816.353",
+    "name": "Id Agency",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "herstal",
+        "address": "Rue d'Abhooz 31 4040 Herstal BE",
+        "coords": [
+          5.6207,
+          50.692619
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0699.644.172",
+    "name": "Isle Of It",
+    "site": "www.isleoftesting.com",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "lokeren",
+        "address": "Heiendestraat 102 9160 Lokeren BE",
+        "coords": [
+          3.948423,
+          51.079886
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0704.896.327",
+    "name": "Innovative Cleaning Equipment",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "essen",
+        "address": "Rijkmakerlaan 16 2910 Essen BE",
+        "coords": [
+          4.501353,
+          51.446586
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0724.946.821",
+    "name": "Industrial Cobotics",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "haaltert",
+        "address": "Atomveldstraat 10 2 9450 Haaltert BE",
+        "coords": [
+          4.028548,
+          50.880383
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0726.934.529",
+    "name": "Ifacto Industry Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 35 B 2550 Kontich BE",
+        "coords": [
+          4.4424,
+          51.141844
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0729.580.352",
+    "name": "Isenspro",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Technologielaan 3 3001 Leuven BE",
+        "coords": [
+          4.728175,
+          50.8539
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0738.533.254",
+    "name": "Irs Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mortsel",
+        "address": "Vredebaan 79 C 2640 Mortsel BE",
+        "coords": [
+          4.436355,
+          51.17304
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 19,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0741.695.949",
+    "name": "Incorp",
+    "site": "www.incorp.be",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "beringen",
+        "address": "Wilbroek 15 3583 Beringen BE",
+        "coords": [
+          5.144439,
+          51.050132
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0749.733.190",
+    "name": "Iterates",
+    "site": "www.iterates.be",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "chaumont-gistoux",
+        "address": "Rue de Mèves, Corroy 17 1325 Chaumont-Gistoux BE",
+        "coords": [
+          4.642976,
+          50.67873
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "etterbeek",
+        "address": "Cours Saint Michel 30 B 1040 Etterbeek BE",
+        "coords": [
+          4.400816,
+          50.83655
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 31,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0751.636.865",
+    "name": "Ittes It",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "turnhout",
+        "address": "Harmoniestraat 52 4 2300 Turnhout BE",
+        "coords": [
+          4.933422,
+          51.324267
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "zwevegem",
+        "address": "Avelgemstraat 53 1 8550 Zwevegem BE",
+        "coords": [
+          3.33612,
+          50.81014
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0761.599.656",
+    "name": "Its Plus",
+    "site": "www.its-plus.be",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "lokeren",
+        "address": "Gentse Steenweg 6 9160 Lokeren BE",
+        "coords": [
+          3.970393,
+          51.109456
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0761.802.762",
+    "name": "Ilean Agile",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0767.498.939",
+    "name": "Ixias",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "anderlecht",
+        "address": "Avenue des Lilas 28 12 1070 Anderlecht BE",
+        "coords": [
+          4.261347,
+          50.818159
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0772.314.592",
+    "name": "Imension Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-joost-ten-node",
+        "address": "Avenue du Boulevard 21 1210 Saint-Josse-ten-Noode BE",
+        "coords": [
+          4.356967,
+          50.856202
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0776.754.521",
+    "name": "Innovation Lab",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "ottignies-louvain-la-neuve",
+        "address": "Chemin du Cyclotron 6 1348 Ottignies-Louvain-la-Neuve BE",
+        "coords": [
+          4.62368,
+          50.66513
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0793.452.377",
+    "name": "Ic Consult Belgium",
+    "site": "www.ic-consult.com",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-joost-ten-node",
+        "address": "Avenue du Boulevard 21 1210 Saint-Josse-ten-Noode BE",
+        "coords": [
+          4.356967,
+          50.856202
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0793.925.204",
+    "name": "Insky",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue de l'Hôpital 31 1000 Bruxelles BE",
+        "coords": [
+          4.35341,
+          50.84389
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 81,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0806.693.075",
+    "name": "Imprss",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "tessenderlo-ham",
+        "address": "Turnhoutsebaan 36 3980 Tessenderlo-Ham BE",
+        "coords": [
+          5.011105,
+          51.03541
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0808.006.436",
+    "name": "Ittask",
+    "site": "www.ittask.be",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "destelbergen",
+        "address": "Petegemstraat 8 9070 Destelbergen BE",
+        "coords": [
+          3.807018,
+          51.065137
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Langerbruggestraat 33 9041 Gent BE",
+        "coords": [
+          3.758939,
+          51.102258
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0811.624.536",
+    "name": "Intelligent Security",
+    "site": "www.intelligentsecurity.be",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "wielsbeke",
+        "address": "Stampkotstraat 1 8710 Wielsbeke BE",
+        "coords": [
+          3.35153,
+          50.90094
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0816.906.977",
+    "name": "Innomedio",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "malle",
+        "address": "Steenovenstraat 2 2390 Malle BE",
+        "coords": [
+          4.709559,
+          51.304542
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0819.575.764",
+    "name": "Icapps",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Rijnkaai 100 16 2000 Antwerpen BE",
+        "coords": [
+          4.40129,
+          51.229144
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 61,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0823.776.062",
+    "name": "I-teconsult",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "moeskroen",
+        "address": "Boulevard de l'Eurozone 100 7700 Mouscron BE",
+        "coords": [
+          3.217044,
+          50.727252
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0826.402.782",
+    "name": "Intradev Software",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "moorslede",
+        "address": "Kerkhofstraat 43 8890 Moorslede BE",
+        "coords": [
+          3.071653,
+          50.889764
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "moorslede",
+        "address": "Roeselaarsestraat 61 8890 Moorslede BE",
+        "coords": [
+          3.063743,
+          50.893256
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0827.709.908",
+    "name": "I4f",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "deinze",
+        "address": "Vosselarestraat 73 16 9850 Deinze BE",
+        "coords": [
+          3.568615,
+          51.046775
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0831.020.873",
+    "name": "Information Technology Made For You, Information Technology For You, Information Technology 4 U",
+    "site": "www.it4u.be",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "roeselare",
+        "address": "Edmond Van der Scheldenstraat 10 8800 Roeselare BE",
+        "coords": [
+          3.167931,
+          50.927193
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "zwevegem",
+        "address": "Bekaertstraat 8 201 8550 Zwevegem BE",
+        "coords": [
+          3.33081,
+          50.81733
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0832.543.278",
+    "name": "It Provider",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "tielt",
+        "address": "Ruiseleedsesteenweg 9 201 8700 Tielt BE",
+        "coords": [
+          3.34081,
+          51.00424
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0833.198.425",
+    "name": "Infofarm",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 39 2550 Kontich BE",
+        "coords": [
+          4.442175,
+          51.141005
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 22,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0833.377.379",
+    "name": "Icometrix",
+    "site": "www.icometrix.com",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Kolonel Begaultlaan 1B 12 3012 Leuven BE",
+        "coords": [
+          4.70561,
+          50.88863
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 31,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0834.157.339",
+    "name": "Iosa",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "silly",
+        "address": "Rue Chef-lieu 42 7830 Silly BE",
+        "coords": [
+          3.887943,
+          50.662949
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "enghien",
+        "address": "Clos des Cerisiers 38 7850 Enghien BE",
+        "coords": [
+          4.058883,
+          50.690735
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0838.433.059",
+    "name": "Intm Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Louise 287 16 1050 Ixelles BE",
+        "coords": [
+          4.355166,
+          50.817496
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0841.470.248",
+    "name": "Intercommunale De Mutualisation En Matiere Informatique Et Organisationnelle",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "gembloux",
+        "address": "Rue Leon Morel,Isnes 1 5032 Gembloux BE",
+        "coords": [
+          4.721707,
+          50.500294
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 53,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0844.042.629",
+    "name": "Inpeco Ne",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "watermaal-bosvoorde",
+        "address": "Chaussée de La Hulpe 187 1170 Watermael-Boitsfort BE",
+        "coords": [
+          4.406299,
+          50.795148
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0844.921.765",
+    "name": "Iclinique",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue des Tanneurs 60A 1000 Bruxelles BE",
+        "coords": [
+          4.346615,
+          50.839815
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-lambrechts-woluwe",
+        "address": "Avenue Georges Henri 332 1200 Woluwe-Saint-Lambert BE",
+        "coords": [
+          4.409285,
+          50.843177
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "la-hulpe",
+        "address": "Rue des Combattants 63 1310 La Hulpe BE",
+        "coords": [
+          4.488793,
+          50.731256
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0845.658.965",
+    "name": "Isiro Apm",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Rue Dartois 27 4000 Liège BE",
+        "coords": [
+          5.566514,
+          50.628148
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Rue Pont-d'Avroy 19 4000 Liège BE",
+        "coords": [
+          5.570229,
+          50.640546
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0846.339.054",
+    "name": "Irex",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "etterbeek",
+        "address": "Boulevard Saint-Michel 47 1040 Etterbeek BE",
+        "coords": [
+          4.405649,
+          50.834781
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "helecine",
+        "address": "Chaussée de Hannut, Lins. 66 1357 Hélécine BE",
+        "coords": [
+          5.00273,
+          50.736013
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 18,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0866.714.992",
+    "name": "Iw",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33a 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "harelbeke",
+        "address": "Stedestraat 51 8530 Harelbeke BE",
+        "coords": [
+          3.303931,
+          50.857424
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 18,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0866.732.909",
+    "name": "Is. Star",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "grez-doiceau",
+        "address": "Fontaine Cabouche 7 1390 Grez-Doiceau BE",
+        "coords": [
+          4.673775,
+          50.716607
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0870.417.226",
+    "name": "Interface 3 - Namur",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "namur-city",
+        "address": "Avenue Sergent Vrithoff 2 5000 Namur BE",
+        "coords": [
+          4.84875,
+          50.46738
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 24,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0875.180.421",
+    "name": "Integrated Solutions Enterprise Europe",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "uccle",
+        "address": "Rue de la Fauvette 1 1180 Uccle BE",
+        "coords": [
+          4.337898,
+          50.797537
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0877.780.219",
+    "name": "Infoland",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "herentals",
+        "address": "Diamantstraat 8 274 2200 Herentals BE",
+        "coords": [
+          4.80594,
+          51.15922
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0878.504.848",
+    "name": "Ilionx Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "herk-de-stad",
+        "address": "Steenweg 3 402 3540 Herk-de-Stad BE",
+        "coords": [
+          5.217307,
+          50.94883
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0882.078.408",
+    "name": "It-planet",
+    "site": "www.planet-group.be",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Sluisweg 1 13 9000 Gent BE",
+        "coords": [
+          3.735381,
+          51.013483
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 38,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0882.399.102",
+    "name": "Indii",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "brasschaat",
+        "address": "Lage Kaart 83 2930 Brasschaat BE",
+        "coords": [
+          4.468077,
+          51.295912
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0884.621.093",
+    "name": "Initio Belgium",
+    "site": "www.initio.eu",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "schaerbeek",
+        "address": "Boulevard Général Wahis 17 1030 Schaerbeek BE",
+        "coords": [
+          4.39588,
+          50.85827
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 36,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0886.495.272",
+    "name": "Ictjob",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue aux Laines 70 1000 Bruxelles BE",
+        "coords": [
+          4.352987,
+          50.836089
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0887.268.797",
+    "name": "It Centre Of Excellence",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Blarenberglaan 3b 4 2800 Mechelen BE",
+        "coords": [
+          4.454166,
+          51.051807
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0887.761.222",
+    "name": "Interit",
+    "site": "www.interit.be",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "wetteren",
+        "address": "Neerhonderd 15 9230 Wetteren BE",
+        "coords": [
+          3.842693,
+          50.9884
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Raghenoplein 17 2800 Mechelen BE",
+        "coords": [
+          4.486669,
+          51.022599
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 25,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0888.175.748",
+    "name": "Infoblox Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Scheldestraat 13 2000 Antwerpen BE",
+        "coords": [
+          4.39241,
+          51.21302
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0889.139.216",
+    "name": "Iliade Consulting Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue de la Presse 4 1000 Bruxelles BE",
+        "coords": [
+          4.36684,
+          50.84914
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0890.209.481",
+    "name": "Is4u",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 24,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0890.916.987",
+    "name": "Imac & Retail Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "bornem",
+        "address": "Lodderstraat 8 2880 Bornem BE",
+        "coords": [
+          4.275156,
+          51.087388
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0891.907.872",
+    "name": "Idealis Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "ottignies-louvain-la-neuve",
+        "address": "Fond Jean Pâques 4 1348 Ottignies-Louvain-la-Neuve BE",
+        "coords": [
+          4.63396,
+          50.6621
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "schaerbeek",
+        "address": "Boulevard Auguste Reyers 80 1030 Schaerbeek BE",
+        "coords": [
+          4.4019,
+          50.85109
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 54,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0894.743.440",
+    "name": "Ideal Audio & Acoustics",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "rotselaar",
+        "address": "Beverlaak 3 3118 Rotselaar BE",
+        "coords": [
+          4.69216,
+          50.971428
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0894.856.573",
+    "name": "Ifacto Enterprise Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 35 B 2550 Kontich BE",
+        "coords": [
+          4.4424,
+          51.141844
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0895.228.638",
+    "name": "Infosentry",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0895.951.485",
+    "name": "In2facts",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Kempische steenweg 311 2.12 3500 Hasselt BE",
+        "coords": [
+          5.352192,
+          50.951874
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0897.431.132",
+    "name": "Icredit/ Credire",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Noorderplaats 5 5 2000 Antwerpen BE",
+        "coords": [
+          4.41271,
+          51.22998
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "Culliganlaan 2 4 1831 Machelen BE",
+        "coords": [
+          4.45015,
+          50.884537
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 42,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0898.675.997",
+    "name": "Integrating The Healthcare Enterprise-europe",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Square de Meeûs 35 1000 Bruxelles BE",
+        "coords": [
+          4.369375,
+          50.840738
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0863.844.386",
+    "name": "iFacto",
+    "site": "https://www.ifacto.be/nl",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 35 B 2550 Kontich BE",
+        "coords": [
+          4.4424,
+          51.141844
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 37.5,
+    "founded": 2003,
+    "proof": []
+  },
+  {
+    "cbe": "0869.772.769",
+    "name": "iAdvise",
+    "site": "https://iadvise.eu/",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33B 2550 Kontich BE",
+        "coords": [
+          4.443521,
+          51.142308
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 26,
+    "founded": 2004,
+    "proof": []
+  }
+]

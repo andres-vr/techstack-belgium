@@ -1,0 +1,3429 @@
+[
+  {
+    "cbe": "0403.263.642",
+    "name": "Record Credits",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Avenue Marnix 24 1000 Bruxelles BE",
+        "coords": [
+          4.365564,
+          50.839743
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 99,
+    "founded": 1963,
+    "proof": []
+  },
+  {
+    "cbe": "0403.531.678",
+    "name": "Rossel Interactive Media",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue Royale 100 1000 Bruxelles BE",
+        "coords": [
+          4.36283,
+          50.84808
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "nivelles",
+        "address": "Avenue Robert Schuman 101 1400 Nivelles BE",
+        "coords": [
+          4.323693,
+          50.627294
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 31,
+    "founded": 1947,
+    "proof": []
+  },
+  {
+    "cbe": "0411.571.592",
+    "name": "Rco",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "namur-city",
+        "address": "Chaussée de Marche(WD) 799 5100 Namur BE",
+        "coords": [
+          4.917759,
+          50.433579
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 1971,
+    "proof": []
+  },
+  {
+    "cbe": "0421.449.162",
+    "name": "Rvc Conseils Et Réalisations Informatiques",
+    "site": "www.rvc.be",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "fernelmont",
+        "address": "Rue de la Tour, ZI, Nov. 2 A 5380 Fernelmont BE",
+        "coords": [
+          4.868176,
+          50.463431
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 1981,
+    "proof": []
+  },
+  {
+    "cbe": "0425.798.128",
+    "name": "Resulta",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "deinze",
+        "address": "Oossekouter 31 9850 Deinze BE",
+        "coords": [
+          3.558506,
+          51.049674
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 1984,
+    "proof": []
+  },
+  {
+    "cbe": "0426.693.793",
+    "name": "Roland Dg Emea",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "geel",
+        "address": "Bell-Telephonelaan 2 G 2440 Geel BE",
+        "coords": [
+          4.95511,
+          51.12672
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 28,
+    "founded": 1985,
+    "proof": []
+  },
+  {
+    "cbe": "0427.792.467",
+    "name": "Robosoft",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "ieper",
+        "address": "Rozendaalstraat 6 8900 Ieper BE",
+        "coords": [
+          2.883834,
+          50.87535
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 22,
+    "founded": 1985,
+    "proof": []
+  },
+  {
+    "cbe": "0440.804.820",
+    "name": "Raincode",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue de la Caserne 45 1000 Bruxelles BE",
+        "coords": [
+          4.341455,
+          50.841838
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue de la Caserne 43 1000 Bruxelles BE",
+        "coords": [
+          4.341539,
+          50.841877
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "anderlecht",
+        "address": "Rue Auguste Gevaert 15 1070 Anderlecht BE",
+        "coords": [
+          4.329829,
+          50.838202
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 22,
+    "founded": 1990,
+    "proof": []
+  },
+  {
+    "cbe": "0448.798.115",
+    "name": "Risco Group",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "dilbeek",
+        "address": "Pastoor Cooremansstraat 3 1702 Dilbeek BE",
+        "coords": [
+          4.28332,
+          50.87492
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 1992,
+    "proof": []
+  },
+  {
+    "cbe": "0449.099.310",
+    "name": "Rombaut",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gavere",
+        "address": "Hundelgemsesteenweg 80 9890 Gavere BE",
+        "coords": [
+          3.73179,
+          50.926578
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 1993,
+    "proof": []
+  },
+  {
+    "cbe": "0454.062.146",
+    "name": "Roots",
+    "site": "www.roots.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "aartselaar",
+        "address": "Oudestraat 113 2630 Aartselaar BE",
+        "coords": [
+          4.38794,
+          51.1446
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 1994,
+    "proof": []
+  },
+  {
+    "cbe": "0456.139.530",
+    "name": "Recomatics",
+    "site": "www.recomatics.com",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "destelbergen",
+        "address": "Koedreef 48 9070 Destelbergen BE",
+        "coords": [
+          3.80326,
+          51.05524
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 20,
+    "founded": 1995,
+    "proof": []
+  },
+  {
+    "cbe": "0460.422.277",
+    "name": "Rombouts B2b",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "aartselaar",
+        "address": "Antwerpsesteenweg 136 2630 Aartselaar BE",
+        "coords": [
+          4.381845,
+          51.147066
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 1997,
+    "proof": []
+  },
+  {
+    "cbe": "0463.564.483",
+    "name": "Restomax",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "wavre",
+        "address": "Avenue Einstein 12 10 1300 Wavre BE",
+        "coords": [
+          4.586498,
+          50.730595
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Da Vincilaan 11 1930 Zaventem BE",
+        "coords": [
+          4.458019,
+          50.888595
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 30,
+    "founded": 1998,
+    "proof": []
+  },
+  {
+    "cbe": "0463.769.668",
+    "name": "Regionet",
+    "site": "beboost.be",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "grimbergen",
+        "address": "Temselaan 100A 1853 Grimbergen BE",
+        "coords": [
+          4.34095,
+          50.90523
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 1998,
+    "proof": []
+  },
+  {
+    "cbe": "0472.880.542",
+    "name": "Roger Van Overstraeten Society",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Kapeldreef 75 3001 Leuven BE",
+        "coords": [
+          4.679804,
+          50.865398
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 20,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0474.230.228",
+    "name": "Retail Soft",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "deerlijk",
+        "address": "Theo Nuyttenslaan 5 8540 Deerlijk BE",
+        "coords": [
+          3.329639,
+          50.849444
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0474.703.647",
+    "name": "Rhea",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0475.637.916",
+    "name": "Rotopi",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "heusden-zolder",
+        "address": "Terlaemenlaan 8 1 3550 Heusden-Zolder BE",
+        "coords": [
+          5.271549,
+          51.010548
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0478.085.482",
+    "name": "Risc Group Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "watermaal-bosvoorde",
+        "address": "Chaussée de La Hulpe 177 20 1170 Watermael-Boitsfort BE",
+        "coords": [
+          4.403311,
+          50.795349
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 22,
+    "founded": 2002,
+    "proof": []
+  },
+  {
+    "cbe": "0479.650.944",
+    "name": "Resengo",
+    "site": "www.resengo.com",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Uitbreidingstraat 84 2600 Antwerpen BE",
+        "coords": [
+          4.418059,
+          51.19254
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2003,
+    "proof": []
+  },
+  {
+    "cbe": "0503.832.450",
+    "name": "Ring Twice",
+    "site": "www.ringtwice.com",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "ottignies-louvain-la-neuve",
+        "address": "Chemin du Cyclotron 6 1348 Ottignies-Louvain-la-Neuve BE",
+        "coords": [
+          4.62368,
+          50.66513
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Cantersteen 10-12 1000 Bruxelles BE",
+        "coords": [
+          4.351133,
+          50.847757
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0505.722.564",
+    "name": "Refassist",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "herzele",
+        "address": "Provincieweg 405 9550 Herzele BE",
+        "coords": [
+          3.861715,
+          50.896963
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0543.772.595",
+    "name": "Realo",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Poel 16 9000 Gent BE",
+        "coords": [
+          3.71738,
+          51.05467
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0543.981.938",
+    "name": "Rayference",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "schaerbeek",
+        "address": "Avenue Paul Deschanel 247 1030 Schaerbeek BE",
+        "coords": [
+          4.37742,
+          50.854951
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue d'Alost 7 1000 Bruxelles BE",
+        "coords": [
+          4.342188,
+          50.852442
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0550.987.417",
+    "name": "Rainbowcom",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-lambrechts-woluwe",
+        "address": "Avenue Ariane 5 1200 Woluwe-Saint-Lambert BE",
+        "coords": [
+          4.430176,
+          50.857195
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0556.971.129",
+    "name": "Reniver",
+    "site": "www.reniver.eu",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "lier",
+        "address": "Bril 20 2500 Lier BE",
+        "coords": [
+          4.57252,
+          51.12901
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "lier",
+        "address": "Ros Beiaardstraat 11 a 2500 Lier BE",
+        "coords": [
+          4.580926,
+          51.128892
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "lier",
+        "address": "Kerkstraat 3 C 2500 Lier BE",
+        "coords": [
+          4.573439,
+          51.131036
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0634.877.668",
+    "name": "Responsum",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Excelsiorlaan 43 3 1930 Zaventem BE",
+        "coords": [
+          4.453788,
+          50.883737
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0646.822.427",
+    "name": "Retis",
+    "site": "www.retis.be",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Louise 500 106 1050 Ixelles BE",
+        "coords": [
+          4.372487,
+          50.816555
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Quai Banning 6 907 4000 Liège BE",
+        "coords": [
+          5.575623,
+          50.614295
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0656.938.339",
+    "name": "Rsm Interict",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Lozenberg 18 1932 Zaventem BE",
+        "coords": [
+          4.460163,
+          50.868567
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Posthofbrug 10 4 2600 Antwerpen BE",
+        "coords": [
+          4.434674,
+          51.194259
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0667.513.616",
+    "name": "Recneps",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Scheldestraat 11 2000 Antwerpen BE",
+        "coords": [
+          4.392189,
+          51.213358
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0668.397.207",
+    "name": "Rent A Tech",
+    "site": "www.nybe.be",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "heusden-zolder",
+        "address": "Schaapsweg 114 3550 Heusden-Zolder BE",
+        "coords": [
+          5.265804,
+          51.040513
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Trichterheideweg 11 bus 012 3500 Hasselt BE",
+        "coords": [
+          5.364943,
+          50.937093
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0670.943.852",
+    "name": "Refactor",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "hoegaarden",
+        "address": "Sint-Niklaasstraat 61 3321 Hoegaarden BE",
+        "coords": [
+          4.910266,
+          50.767493
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0671.806.756",
+    "name": "Regnology Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Boulevard du Roi Albert II 4 1000 Bruxelles BE",
+        "coords": [
+          4.355075,
+          50.857095
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 18,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0673.813.171",
+    "name": "Rinic",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Kardinaal Mercierplein 2 2800 Mechelen BE",
+        "coords": [
+          4.48265,
+          51.02156
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0676.714.065",
+    "name": "Refleqt",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 22,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0677.823.726",
+    "name": "Rockestate",
+    "site": "www.rock.estate",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue du Commerce 31 1000 Bruxelles BE",
+        "coords": [
+          4.368068,
+          50.840885
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 37,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0678.458.184",
+    "name": "Rsd Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "hoogstraten",
+        "address": "'s Boschstraat 37 2320 Hoogstraten BE",
+        "coords": [
+          4.766026,
+          51.404618
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0681.569.312",
+    "name": "Redpencil",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "kapelle-op-den-bos",
+        "address": "P.P. Rubensstraat 37 A 1880 Kapelle-op-den-Bos BE",
+        "coords": [
+          4.36279,
+          51.00297
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 27,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0685.618.863",
+    "name": "Rentech",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "bilzen-hoeselt",
+        "address": "Vrijweide 23 3740 Bilzen-Hoeselt BE",
+        "coords": [
+          5.508065,
+          50.895661
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0694.629.173",
+    "name": "Rentio",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "bonheiden",
+        "address": "Hoogstraat 60 2820 Bonheiden BE",
+        "coords": [
+          4.591156,
+          51.001492
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "bonheiden",
+        "address": "Zilverberklaan 2B 2820 Bonheiden BE",
+        "coords": [
+          4.592552,
+          51.004047
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0696.996.171",
+    "name": "Right Insight Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Av.Gén.Médecin Derache 91 2 1050 Ixelles BE",
+        "coords": [
+          4.387337,
+          50.815255
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0720.509.169",
+    "name": "Raw Stadia",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Kempische steenweg 303 14 3500 Hasselt BE",
+        "coords": [
+          5.35093,
+          50.95385
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0720.586.373",
+    "name": "Robonext",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "edegem",
+        "address": "Vestinglaan 57 11 2650 Edegem BE",
+        "coords": [
+          4.43295,
+          51.16844
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0731.567.961",
+    "name": "Riedel Communications Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Quai Banning 6 4000 Liège BE",
+        "coords": [
+          5.575623,
+          50.614295
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0742.906.370",
+    "name": "Rasti Vmeste",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "anderlecht",
+        "address": "Rue des Vétérinaires 49 203 1070 Anderlecht BE",
+        "coords": [
+          4.32662,
+          50.83395
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0745.832.604",
+    "name": "Rosa",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Cantersteen 10 1000 Bruxelles BE",
+        "coords": [
+          4.357388,
+          50.845475
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 21,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0752.709.508",
+    "name": "Redsystem",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "tournai",
+        "address": "Rue du Progrès 13 7503 Tournai BE",
+        "coords": [
+          3.34392,
+          50.61777
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0756.894.661",
+    "name": "Ravio",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Godefriduskaai 12 1 2000 Antwerpen BE",
+        "coords": [
+          4.406007,
+          51.22781
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0774.519.660",
+    "name": "Remecare",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "aartselaar",
+        "address": "Boomsesteenweg 46 2630 Aartselaar BE",
+        "coords": [
+          4.37385,
+          51.12684
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0776.690.876",
+    "name": "Raito",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Gaston Crommenlaan 8 9050 Gent BE",
+        "coords": [
+          3.734646,
+          51.036383
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0778.422.921",
+    "name": "Radyo",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "namur-city",
+        "address": "Rue du Collège 49 5000 Namur BE",
+        "coords": [
+          4.861575,
+          50.463672
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0782.470.195",
+    "name": "Redbit",
+    "site": "www.redbit.be",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "frasnes-lez-anvaing",
+        "address": "Rue Henri Lemaire 2 7911 Frasnes-lez-Anvaing BE",
+        "coords": [
+          3.611856,
+          50.663377
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0783.792.662",
+    "name": "Rackspace Technology Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Posthofbrug 10 4 2600 Antwerpen BE",
+        "coords": [
+          4.434674,
+          51.194259
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0783.804.441",
+    "name": "Rebatch",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0784.309.039",
+    "name": "Ram Ram Studio",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue d'Alost 7-11 1000 Bruxelles BE",
+        "coords": [
+          4.342342,
+          50.852435
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0793.361.119",
+    "name": "Rework Agency",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Rue des Guillemins 139 4000 Liège BE",
+        "coords": [
+          5.56635,
+          50.62623
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0797.795.504",
+    "name": "Ramka",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "beersel",
+        "address": "Watermolenstraat 102 1654 Beersel BE",
+        "coords": [
+          4.27293,
+          50.75583
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0806.301.513",
+    "name": "Riskit",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "wichelen",
+        "address": "Stationsstraat 112 C 9260 Wichelen BE",
+        "coords": [
+          3.925072,
+          51.005686
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0826.338.941",
+    "name": "Respectfully Yours",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0831.185.773",
+    "name": "Robarov",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "arendonk",
+        "address": "Den Tobberd 14 2370 Arendonk BE",
+        "coords": [
+          5.066825,
+          51.31924
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0840.946.646",
+    "name": "Rackunits",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "erpe-mere",
+        "address": "Dikkelindestraat 68 9420 Erpe-Mere BE",
+        "coords": [
+          3.937247,
+          50.89852
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0845.092.407",
+    "name": "Referenceur.be Sprl",
+    "site": "www.referenceur.be",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "stavelot",
+        "address": "Chemin du Ris de Loneux 5 4970 Stavelot BE",
+        "coords": [
+          5.951206,
+          50.46394
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "jalhay",
+        "address": "Roquez 56 2 4845 Jalhay BE",
+        "coords": [
+          5.955025,
+          50.507056
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0845.290.761",
+    "name": "Rideontrack",
+    "site": "www.rideontrack.com",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "geel",
+        "address": "Cipalstraat 3 2440 Geel BE",
+        "coords": [
+          4.99539,
+          51.152054
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0846.801.288",
+    "name": "Rombit",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Meir 30 2000 Antwerpen BE",
+        "coords": [
+          4.40641,
+          51.21741
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0848.855.512",
+    "name": "Renard & Verpoorten S.r.l.",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "ans",
+        "address": "Rue du Parc 16 4432 Ans BE",
+        "coords": [
+          5.526191,
+          50.678979
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0861.944.473",
+    "name": "Rootfusion",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "tournai",
+        "address": "Rue Faintiau 239 7531 Tournai BE",
+        "coords": [
+          3.46708,
+          50.62175
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "pecq",
+        "address": "Rue de Lannoy 35 7740 Pecq BE",
+        "coords": [
+          3.336144,
+          50.686097
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2003,
+    "proof": []
+  },
+  {
+    "cbe": "0862.669.104",
+    "name": "Risk Dynamics",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue Brederode 2 1000 Bruxelles BE",
+        "coords": [
+          4.36001,
+          50.84078
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0866.870.093",
+    "name": "Racs",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "rumst",
+        "address": "Kardinaal Cardijnstraat 7 2840 Rumst BE",
+        "coords": [
+          4.398932,
+          51.079151
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0867.125.659",
+    "name": "Radiomatix",
+    "site": "www.radiomatix.be",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue de la Couronne 365 1050 Ixelles BE",
+        "coords": [
+          4.392246,
+          50.818026
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Nieuwevaart 181 9000 Gent BE",
+        "coords": [
+          3.711055,
+          51.06627
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0873.812.127",
+    "name": "Routeyou",
+    "site": "www.routeyou.com",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Kerkstraat 108 9050 Gent BE",
+        "coords": [
+          3.750989,
+          51.044493
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0874.031.663",
+    "name": "Rmoni",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "bilzen-hoeselt",
+        "address": "Maastrichterstraat 311 3740 Bilzen-Hoeselt BE",
+        "coords": [
+          5.569791,
+          50.861183
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0878.664.008",
+    "name": "Red Hat",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "Leonardo da Vincilaan 19 1831 Machelen BE",
+        "coords": [
+          4.45943,
+          50.89242
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 65,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0883.368.310",
+    "name": "Rising Edge Development",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "andenne",
+        "address": "Rue sur la Reppe 15 B 5300 Andenne BE",
+        "coords": [
+          5.099794,
+          50.481158
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0899.613.236",
+    "name": "Robovision",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Foreestelaan 88 9000 Gent BE",
+        "coords": [
+          3.734191,
+          51.031133
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 92,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "1005.279.888",
+    "name": "Reform Technologies",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Leuvensesteenweg 613 1930 Zaventem BE",
+        "coords": [
+          4.500563,
+          50.877193
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2024,
+    "proof": []
+  },
+  {
+    "cbe": "0402.185.952",
+    "name": "Renolit Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "oudenaarde",
+        "address": "Industriepark \"De Bruwaan\" 9 9700 Oudenaarde BE",
+        "coords": [
+          3.588515,
+          50.858177
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 31,
+    "founded": 1968,
+    "proof": []
+  },
+  {
+    "cbe": "0432.719.176",
+    "name": "Record",
+    "site": "www.recordexpress.com",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "vorst",
+        "address": "Rue Bollinckx 310 A 1190 Forest BE",
+        "coords": [
+          4.306864,
+          50.810778
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 1987,
+    "proof": []
+  },
+  {
+    "cbe": "0437.237.396",
+    "name": "Rexel Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "dilbeek",
+        "address": "Stationsstraat 39 1702 Dilbeek BE",
+        "coords": [
+          4.27364,
+          50.86956
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Leuvensesteenweg 46 A 1932 Zaventem BE",
+        "coords": [
+          4.435752,
+          50.864105
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Rue de Tenbosch 120 1050 Ixelles BE",
+        "coords": [
+          4.360948,
+          50.82053
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "wijnegem",
+        "address": "Vosveld 11 E 2110 Wijnegem BE",
+        "coords": [
+          4.500682,
+          51.231696
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "brecht",
+        "address": "Nijverheidsstraat 8 2960 Brecht BE",
+        "coords": [
+          4.553236,
+          51.29978
+        ]
+      },
+      {
+        "province": "luxembourg",
+        "municipality": "arlon",
+        "address": "Weyler, Zone artisanale SN 6700 Arlon BE",
+        "coords": [
+          5.822554,
+          49.650031
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "charleroi",
+        "address": "Avenue de Philippeville 161 6001 Charleroi BE",
+        "coords": [
+          4.454532,
+          50.397977
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "charleroi",
+        "address": "Zoning de Jumet,avenue Centrale S/N 6040 Charleroi BE",
+        "coords": [
+          4.43603,
+          50.356684
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "sint-martens-latem",
+        "address": "Kortrijksesteenweg 227 9830 Sint-Martens-Latem BE",
+        "coords": [
+          3.628985,
+          51.006717
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Trichterheideweg 2 C 3500 Hasselt BE",
+        "coords": [
+          5.363636,
+          50.938331
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "waregem",
+        "address": "Anzegemseweg 12 8790 Waregem BE",
+        "coords": [
+          3.44347,
+          50.86883
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "roeselare",
+        "address": "Beversesteenweg 561 8800 Roeselare BE",
+        "coords": [
+          3.154071,
+          50.972211
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Diestsesteenweg 712 C 3010 Leuven BE",
+        "coords": [
+          4.763785,
+          50.888761
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "ans",
+        "address": "Avenue de l'Expansion 9 4432 Ans BE",
+        "coords": [
+          5.528506,
+          50.679899
+        ]
+      },
+      {
+        "province": "luxembourg",
+        "municipality": "marche-en-famenne",
+        "address": "Marche, Rue du Parc Industriel 20 6900 Marche-en-Famenne BE",
+        "coords": [
+          5.32887,
+          50.22065
+        ]
+      },
+      {
+        "province": "namur",
+        "municipality": "namur-city",
+        "address": "Chaussée de Marche 726 5100 Namur BE",
+        "coords": [
+          4.919296,
+          50.42872
+        ]
+      },
+      {
+        "province": "luxembourg",
+        "municipality": "libramont-chevigny",
+        "address": "Recogne,Rue du Flosse 17 C 6800 Libramont-Chevigny BE",
+        "coords": [
+          5.357344,
+          49.911937
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "sint-niklaas",
+        "address": "Driegaaienstraat 117 9100 Sint-Niklaas BE",
+        "coords": [
+          4.133185,
+          51.155338
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "tournai",
+        "address": "Chaussée de Tournai 52 7520 Tournai BE",
+        "coords": [
+          3.35446,
+          50.63484
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "turnhout",
+        "address": "Parklaan 42 1 2300 Turnhout BE",
+        "coords": [
+          4.938764,
+          51.311873
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "verviers",
+        "address": "Pont Léopold 1-3 4800 Verviers BE",
+        "coords": [
+          5.847347,
+          50.595055
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "wavre",
+        "address": "Avenue Lavoisier 19 1300 Wavre BE",
+        "coords": [
+          4.59045,
+          50.73468
+        ]
+      },
+      {
+        "province": "luxembourg",
+        "municipality": "bastogne",
+        "address": "Rue du Marché Couvert 18 6600 Bastogne BE",
+        "coords": [
+          5.708361,
+          49.988876
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "tournai",
+        "address": "Rue de l'Ancienne Potence 3 B 7522 Tournai BE",
+        "coords": [
+          3.334314,
+          50.609312
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "herentals",
+        "address": "Toekomstlaan 41 F 2200 Herentals BE",
+        "coords": [
+          4.791942,
+          51.165837
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "asse",
+        "address": "Zuiderlaan 91 1731 Asse BE",
+        "coords": [
+          4.285549,
+          50.880356
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Zeeschipstraat 76 9000 Gent BE",
+        "coords": [
+          3.72438,
+          51.09233
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "brugge",
+        "address": "Lieven Bauwensstraat 1 8200 Brugge BE",
+        "coords": [
+          3.200049,
+          51.213189
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "mons",
+        "address": "Rue des Guimauves 6 7033 Mons BE",
+        "coords": [
+          3.916234,
+          50.44637
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "aalst",
+        "address": "Olmenstraat 3 9320 Aalst BE",
+        "coords": [
+          4.033299,
+          50.912246
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "anderlecht",
+        "address": "Rue Bollinckx 2/3 1070 Anderlecht BE",
+        "coords": [
+          4.303831,
+          50.821462
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "pelt",
+        "address": "Industrielaan 12 2 3900 Pelt BE",
+        "coords": [
+          5.370086,
+          51.217744
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "kuurne",
+        "address": "Ringlaan 26 A 8520 Kuurne BE",
+        "coords": [
+          3.257713,
+          50.851
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "aartselaar",
+        "address": "Vluchtenburgstraat 3 2630 Aartselaar BE",
+        "coords": [
+          4.37329,
+          51.13385
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Haïfastraat 13 2030 Antwerpen BE",
+        "coords": [
+          4.411907,
+          51.262908
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "ieper",
+        "address": "Paddevijverstraat 56 C 8900 Ieper BE",
+        "coords": [
+          2.885798,
+          50.866207
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "zwevegem",
+        "address": "Verzetslaan 27 8552 Zwevegem BE",
+        "coords": [
+          3.389878,
+          50.76305
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "aalter",
+        "address": "Brugstraat 194 A 9880 Aalter BE",
+        "coords": [
+          3.43701,
+          51.10425
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "braine-le-chateau",
+        "address": "Parc Industriel 11 1440 Braine-le-Château BE",
+        "coords": [
+          4.31482,
+          50.6869
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "erpe-mere",
+        "address": "Industrieweg 11 9420 Erpe-Mere BE",
+        "coords": [
+          3.958937,
+          50.929366
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Ottergemsesteenweg-Zuid 799 9000 Gent BE",
+        "coords": [
+          3.73816,
+          51.01832
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "halle",
+        "address": "Bergensesteenweg 190 1500 Halle BE",
+        "coords": [
+          4.227983,
+          50.727708
+        ]
+      },
+      {
+        "province": "namur",
+        "municipality": "gembloux",
+        "address": "Chaussée de Charleroi 43-45 5030 Gembloux BE",
+        "coords": [
+          4.640614,
+          50.536529
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "liedekerke",
+        "address": "Nijverheidszone 'Begijnenmeers' 1 1770 Liedekerke BE",
+        "coords": [
+          4.09543,
+          50.88508
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Schijnpoortweg 151 2170 Antwerpen BE",
+        "coords": [
+          4.441951,
+          51.233433
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "dendermonde",
+        "address": "Hoogveld 92 9200 Dendermonde BE",
+        "coords": [
+          4.147591,
+          51.023043
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "houthalen-helchteren",
+        "address": "Centrum-Zuid 2054 3530 Houthalen-Helchteren BE",
+        "coords": [
+          5.365138,
+          51.016904
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "mol",
+        "address": "Turnhoutsebaan 36 2400 Mol BE",
+        "coords": [
+          5.116889,
+          51.193264
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "ronse",
+        "address": "Chaussée de Leuze 176 9600 Ronse BE",
+        "coords": [
+          3.58928,
+          50.73793
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "anzegem",
+        "address": "Jagershoek 1 8570 Anzegem BE",
+        "coords": [
+          3.388549,
+          50.841328
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "saint-ghislain",
+        "address": "Rue de la Verrerie 1 7330 Saint-Ghislain BE",
+        "coords": [
+          3.812322,
+          50.454222
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "sint-niklaas",
+        "address": "Bellestraat 59 9100 Sint-Niklaas BE",
+        "coords": [
+          4.17248,
+          51.173467
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue de la Grenouillette 2 B 1130 Bruxelles BE",
+        "coords": [
+          4.415805,
+          50.883035
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "veurne",
+        "address": "Albert I laan 48 8630 Veurne BE",
+        "coords": [
+          2.678894,
+          51.06241
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "sint-truiden",
+        "address": "Lichtenberglaan 2073 3800 Sint-Truiden BE",
+        "coords": [
+          5.191164,
+          50.801592
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "lier",
+        "address": "Vakenderveld 2 4 2500 Lier BE",
+        "coords": [
+          4.55309,
+          51.14409
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Battelsesteenweg 451 2800 Mechelen BE",
+        "coords": [
+          4.451824,
+          51.036374
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 801,
+    "founded": 1989,
+    "proof": []
+  },
+  {
+    "cbe": "0443.953.063",
+    "name": "Recytron",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "kruisem",
+        "address": "Kazerneweg 27 9770 Kruisem BE",
+        "coords": [
+          3.52726,
+          50.91954
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 1991,
+    "proof": []
+  },
+  {
+    "cbe": "0757.856.149",
+    "name": "Rekz",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "charleroi",
+        "address": "Avenue Jules Henin 1 6000 Charleroi BE",
+        "coords": [
+          4.449485,
+          50.416085
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0450.760.087",
+    "name": "Randstad Digital Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Kolonel Begaultlaan 1A 31 3012 Leuven BE",
+        "coords": [
+          4.705573,
+          50.888612
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Pauline Van Pottelsberghelaan 12 9051 Gent BE",
+        "coords": [
+          3.68853,
+          51.02889
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-agatha-berchem",
+        "address": "Avenue Charles-Quint 586 8 1082 Berchem-Sainte-Agathe BE",
+        "coords": [
+          4.288113,
+          50.871461
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 565,
+    "founded": 1993,
+    "proof": []
+  },
+  {
+    "cbe": "0455.982.449",
+    "name": "Raaf",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "aartselaar",
+        "address": "Ysselaarlaan 15 B 2630 Aartselaar BE",
+        "coords": [
+          4.38459,
+          51.14529
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 1995,
+    "proof": []
+  },
+  {
+    "cbe": "0468.727.061",
+    "name": "Relationship Management Consultants",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 35 2550 Kontich BE",
+        "coords": [
+          4.4424,
+          51.141844
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0472.559.947",
+    "name": "Risi",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Louise 523 1050 Ixelles BE",
+        "coords": [
+          4.371815,
+          50.815277
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 19,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0474.786.987",
+    "name": "Ramdesign",
+    "site": "www.ramdesign.be",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Groenstraat 106 203 3001 Leuven BE",
+        "coords": [
+          4.696638,
+          50.86104
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0475.630.194",
+    "name": "Rocket Software Belgium Srl",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Square de Meeûs 37 1000 Bruxelles BE",
+        "coords": [
+          4.36883,
+          50.84072
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0479.372.317",
+    "name": "Rami Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Bollebergen 2A 32 9052 Gent BE",
+        "coords": [
+          3.70568,
+          51.01365
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2003,
+    "proof": []
+  },
+  {
+    "cbe": "0503.995.766",
+    "name": "Renta Solutions",
+    "site": "www.rentasolutions.org",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Leuvensesteenweg 369 1932 Zaventem BE",
+        "coords": [
+          4.463425,
+          50.871026
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 20,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0539.984.746",
+    "name": "Reed",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "charleroi",
+        "address": "Boulevard Audent 18 6000 Charleroi BE",
+        "coords": [
+          4.444881,
+          50.409598
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0552.617.314",
+    "name": "Realdev",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Esplanade 1 73 1020 Bruxelles BE",
+        "coords": [
+          4.342779,
+          50.899673
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 28,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0555.720.225",
+    "name": "Rezolv",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Kempische steenweg 309 0.03 3500 Hasselt BE",
+        "coords": [
+          5.351431,
+          50.951768
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0563.522.983",
+    "name": "Ritme",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "vorst",
+        "address": "Rue des Anciens Etangs 40 5 1190 Forest BE",
+        "coords": [
+          4.318144,
+          50.817917
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0567.930.941",
+    "name": "Rohelma",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "hulshout",
+        "address": "Vennekensstraat 34 2235 Hulshout BE",
+        "coords": [
+          4.80842,
+          51.045078
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "westerlo",
+        "address": "Gelendel 29 2260 Westerlo BE",
+        "coords": [
+          4.858907,
+          51.107679
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0664.613.118",
+    "name": "Rkitek",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "edegem",
+        "address": "Prins Boudewijnlaan 43 2650 Edegem BE",
+        "coords": [
+          4.436157,
+          51.14866
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0664.940.443",
+    "name": "Rmdy Mobile",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0667.566.470",
+    "name": "Redpulsar",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-lambrechts-woluwe",
+        "address": "Avenue Marcel Thiry 216 407 1200 Woluwe-Saint-Lambert BE",
+        "coords": [
+          4.432312,
+          50.857209
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Allée Verte 5 1000 Bruxelles BE",
+        "coords": [
+          4.353926,
+          50.863019
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0668.787.185",
+    "name": "Rebus Invest",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "oudenaarde",
+        "address": "Meersbloem-Leupegem 20 9700 Oudenaarde BE",
+        "coords": [
+          3.592756,
+          50.834129
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0673.561.367",
+    "name": "Rmdy Web",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0678.744.731",
+    "name": "Roborana",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0686.635.185",
+    "name": "Root Company",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "wavre",
+        "address": "Voie des Cuirassiers 16 1300 Wavre BE",
+        "coords": [
+          4.618356,
+          50.688517
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "mont-saint-guibert",
+        "address": "Rue Emile Francqui 11 1435 Mont-Saint-Guibert BE",
+        "coords": [
+          4.623072,
+          50.659496
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0687.535.208",
+    "name": "Radikal",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 35 C 2550 Kontich BE",
+        "coords": [
+          4.4424,
+          51.141844
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0687.891.930",
+    "name": "Rakedi",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "herzele",
+        "address": "Beukenlaan 13 9550 Herzele BE",
+        "coords": [
+          3.866775,
+          50.900872
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0701.902.886",
+    "name": "Reimagine",
+    "site": "www.reimagine.be",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Lenneke Marelaan 6 1932 Zaventem BE",
+        "coords": [
+          4.44866,
+          50.85543
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "etterbeek",
+        "address": "Rue des Pères Blancs 4 1040 Etterbeek BE",
+        "coords": [
+          4.400036,
+          50.826661
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 20,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0712.517.359",
+    "name": "Raccoons",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0719.282.219",
+    "name": "Routty",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 31 2550 Kontich BE",
+        "coords": [
+          4.443344,
+          51.142801
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0726.708.162",
+    "name": "Rundcrun",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kapellen",
+        "address": "Jagerslei 5 2950 Kapellen BE",
+        "coords": [
+          4.465683,
+          51.354029
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0735.997.002",
+    "name": "Relu",
+    "site": "www.relu.eu",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Kolonel Begaultlaan 1A 51 3012 Leuven BE",
+        "coords": [
+          4.705573,
+          50.888612
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0746.874.561",
+    "name": "Roosevelt Services Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "Culliganlaan 2H 1831 Machelen BE",
+        "coords": [
+          4.45011,
+          50.8846
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0751.947.463",
+    "name": "Runeasi",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "tienen",
+        "address": "Esperantolaan 7 A 3300 Tienen BE",
+        "coords": [
+          4.91926,
+          50.803965
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0757.542.284",
+    "name": "Ridder & Co",
+    "site": "www.ridder.marketing",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "Rekollettenstraat 13 8500 Kortrijk BE",
+        "coords": [
+          3.259188,
+          50.832004
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0767.532.294",
+    "name": "Rozanowski Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "schaerbeek",
+        "address": "Avenue Eugène Demolder 17 1030 Schaerbeek BE",
+        "coords": [
+          4.3774,
+          50.871644
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Galerie du Roi 30 1000 Bruxelles BE",
+        "coords": [
+          4.35543,
+          50.84841
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0770.392.212",
+    "name": "Rollo",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Oudesteenweg 33 101 2060 Antwerpen BE",
+        "coords": [
+          4.41973,
+          51.22567
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0771.329.350",
+    "name": "Relyus",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "rumst",
+        "address": "Kardinaal Cardijnstraat 7 2840 Rumst BE",
+        "coords": [
+          4.398932,
+          51.079151
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0772.661.022",
+    "name": "Rheine",
+    "site": "www.rheine.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Hoogstraat 19 2800 Mechelen BE",
+        "coords": [
+          4.475157,
+          51.023518
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Nationalestraat 24 2000 Antwerpen BE",
+        "coords": [
+          4.399864,
+          51.217529
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Mechelsestraat 21 3000 Leuven BE",
+        "coords": [
+          4.699818,
+          50.880578
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0776.367.412",
+    "name": "Restless Minds",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0779.681.347",
+    "name": "Roboest",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0785.697.723",
+    "name": "Retail Support Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "ternat",
+        "address": "Donkerstraat 63 1740 Ternat BE",
+        "coords": [
+          4.179981,
+          50.879799
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 33,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0789.511.011",
+    "name": "Reditus",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "landen",
+        "address": "Kouterstraat 17 3400 Landen BE",
+        "coords": [
+          5.027228,
+          50.769193
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Gontrodestraat 162 9050 Gent BE",
+        "coords": [
+          3.756414,
+          51.025636
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0790.637.595",
+    "name": "Rfts Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Avenue Louise 65 1050 Bruxelles BE",
+        "coords": [
+          4.356642,
+          50.818743
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0795.566.284",
+    "name": "Rendeer",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "izegem",
+        "address": "Blekerijstraat 36 8870 Izegem BE",
+        "coords": [
+          3.20279,
+          50.905989
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0806.819.571",
+    "name": "Rrsl",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "arendonk",
+        "address": "Hoge Mauw 44 2370 Arendonk BE",
+        "coords": [
+          5.095938,
+          51.298634
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0811.211.988",
+    "name": "Resitech",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "pelt",
+        "address": "Fabrieksstraat 96B 3900 Pelt BE",
+        "coords": [
+          5.40196,
+          51.23444
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0818.012.084",
+    "name": "Retaildetail",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Ankerrui 9 2000 Antwerpen BE",
+        "coords": [
+          4.410801,
+          51.227514
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0819.292.979",
+    "name": "Robotics - Automation - Software",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "President Kennedypark 37 1 8500 Kortrijk BE",
+        "coords": [
+          3.273379,
+          50.798478
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0820.213.093",
+    "name": "Raepers Js",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "tongeren-borgloon",
+        "address": "Maastrichterstraat 39 3700 Tongeren-Borgloon BE",
+        "coords": [
+          5.46573,
+          50.781821
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "tongeren-borgloon",
+        "address": "Maastrichterstraat 64 3700 Tongeren-Borgloon BE",
+        "coords": [
+          5.466535,
+          50.782515
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0829.694.646",
+    "name": "Rogueside",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0836.331.228",
+    "name": "Retailsonar",
+    "site": "retailsonar.com",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Ferdinand Lousbergskaai 103 3 9000 Gent BE",
+        "coords": [
+          3.73973,
+          51.04597
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 23,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0867.435.366",
+    "name": "Rank1",
+    "site": "www.rank1.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Satenrozen 10 2550 Kontich BE",
+        "coords": [
+          4.419992,
+          51.12639
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 32,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0878.103.188",
+    "name": "Remacle Transports",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "floreffe",
+        "address": "Rue Sous-la-Ville, Floriffoux 8 5150 Floreffe BE",
+        "coords": [
+          4.773755,
+          50.449613
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0885.983.251",
+    "name": "Result-it",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "aalter",
+        "address": "Groendreef 10 9880 Aalter BE",
+        "coords": [
+          3.430138,
+          51.104526
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 102,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0889.493.166",
+    "name": "Reflek",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "overijse",
+        "address": "Brusselsesteenweg 360 E 3090 Overijse BE",
+        "coords": [
+          4.506798,
+          50.784254
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0897.049.961",
+    "name": "Rhodium",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "beringen",
+        "address": "Diestersesteenweg 128 3583 Beringen BE",
+        "coords": [
+          5.161868,
+          51.03363
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 18,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "1001.753.840",
+    "name": "Rematics",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "wemmel",
+        "address": "Avenue Reine Astrid 59A 8 1780 Wemmel BE",
+        "coords": [
+          4.314598,
+          50.897003
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Herkenrodesingel 14 3500 Hasselt BE",
+        "coords": [
+          5.324405,
+          50.942947
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2023,
+    "proof": []
+  }
+]

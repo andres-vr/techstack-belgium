@@ -1,0 +1,5787 @@
+[
+  {
+    "cbe": "0403.551.672",
+    "name": "Ertzberg",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Bondgenotenlaan 138 3000 Leuven BE",
+        "coords": [
+          4.713053,
+          50.880727
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 28,
+    "founded": 1938,
+    "proof": []
+  },
+  {
+    "cbe": "0406.570.550",
+    "name": "Eqla",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-lambrechts-woluwe",
+        "address": "Boulevard de la Woluwe 34 1 1200 Woluwe-Saint-Lambert BE",
+        "coords": [
+          4.434526,
+          50.838055
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "ottignies-louvain-la-neuve",
+        "address": "Traverse d'Esope 6 1348 Ottignies-Louvain-la-Neuve BE",
+        "coords": [
+          4.614832,
+          50.66879
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "charleroi",
+        "address": "Esplanade René Magritte 1 6010 Charleroi BE",
+        "coords": [
+          4.45954,
+          50.39317
+        ]
+      },
+      {
+        "province": "namur",
+        "municipality": "namur-city",
+        "address": "Rue Nanon 98 5000 Namur BE",
+        "coords": [
+          4.8635,
+          50.473848
+        ]
+      },
+      {
+        "province": "luxembourg",
+        "municipality": "marche-en-famenne",
+        "address": "Marloie, Rue des Prés 3 6900 Marche-en-Famenne BE",
+        "coords": [
+          5.315713,
+          50.202859
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 48,
+    "founded": 1925,
+    "proof": []
+  },
+  {
+    "cbe": "0428.359.225",
+    "name": "Easypay",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "tielt",
+        "address": "Nijverheidsstraat 16 8760 Tielt BE",
+        "coords": [
+          3.297057,
+          50.95997
+        ]
+      },
+      {
+        "province": "namur",
+        "municipality": "namur-city",
+        "address": "Rue de la Pavée(EP) 5 5101 Namur BE",
+        "coords": [
+          4.899585,
+          50.447259
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 87,
+    "founded": 1985,
+    "proof": []
+  },
+  {
+    "cbe": "0429.007.442",
+    "name": "Ewald Mostmans En Hubert Duijvewaardt",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Rolwagenstraat 82 2018 Antwerpen BE",
+        "coords": [
+          4.42638,
+          51.20826
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 1986,
+    "proof": []
+  },
+  {
+    "cbe": "0430.142.936",
+    "name": "E A C Laboratories",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "baelen",
+        "address": "Route d'Eupen(BLN) 212 4837 Baelen BE",
+        "coords": [
+          5.991028,
+          50.631987
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 1986,
+    "proof": []
+  },
+  {
+    "cbe": "0433.895.351",
+    "name": "Echosoft",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "namur-city",
+        "address": "Rue du Centre(SM) 116 5003 Namur BE",
+        "coords": [
+          4.850608,
+          50.497788
+        ]
+      },
+      {
+        "province": "namur",
+        "municipality": "namur-city",
+        "address": "Avenue d'Ecolys(RH) 2 15 5020 Namur BE",
+        "coords": [
+          4.796613,
+          50.485184
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 1988,
+    "proof": []
+  },
+  {
+    "cbe": "0435.454.378",
+    "name": "Eos",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "Meensesteenweg(Bis) 383 8501 Kortrijk BE",
+        "coords": [
+          3.227979,
+          50.823822
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 1988,
+    "proof": []
+  },
+  {
+    "cbe": "0435.991.244",
+    "name": "Electro Goeminne Dikkelvenne",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gavere",
+        "address": "Kerkstraat 69 9890 Gavere BE",
+        "coords": [
+          3.69983,
+          50.91353
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 17,
+    "founded": 1988,
+    "proof": []
+  },
+  {
+    "cbe": "0436.610.658",
+    "name": "E.c.s.",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "eeklo",
+        "address": "Slachthuisstraat A2 9900 Eeklo BE",
+        "coords": [
+          3.548344,
+          51.181019
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 1989,
+    "proof": []
+  },
+  {
+    "cbe": "0437.228.587",
+    "name": "Exact Software Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Excelsiorlaan 18 1930 Zaventem BE",
+        "coords": [
+          4.457817,
+          50.884784
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "ottignies-louvain-la-neuve",
+        "address": "Fond Jean Pâques 6C 1348 Ottignies-Louvain-la-Neuve BE",
+        "coords": [
+          4.635597,
+          50.662456
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "brugge",
+        "address": "Rijselstraat 247 8200 Brugge BE",
+        "coords": [
+          3.214663,
+          51.171069
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Brusselsesteenweg 6 ET5 9050 Gent BE",
+        "coords": [
+          3.740947,
+          51.041153
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 38,
+    "founded": 1989,
+    "proof": []
+  },
+  {
+    "cbe": "0437.243.831",
+    "name": "Ets-informatics",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "Gentsesteenweg(Kor) 21 8500 Kortrijk BE",
+        "coords": [
+          3.275352,
+          50.832071
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 1989,
+    "proof": []
+  },
+  {
+    "cbe": "0441.890.329",
+    "name": "Essec Telecom Systems",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "tessenderlo-ham",
+        "address": "Hyundailaan 1 3980 Tessenderlo-Ham BE",
+        "coords": [
+          5.147874,
+          51.078446
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 36,
+    "founded": 1990,
+    "proof": []
+  },
+  {
+    "cbe": "0442.662.567",
+    "name": "Elmos",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Generaal De Wittelaan 9/1 A 2800 Mechelen BE",
+        "coords": [
+          4.452501,
+          51.055282
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Sluisweg 1 14 9000 Gent BE",
+        "coords": [
+          3.735381,
+          51.013483
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 102,
+    "founded": 1991,
+    "proof": []
+  },
+  {
+    "cbe": "0443.515.573",
+    "name": "Energyict",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "Hermeslaan 1H 1831 Machelen BE",
+        "coords": [
+          4.446453,
+          50.882349
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 1991,
+    "proof": []
+  },
+  {
+    "cbe": "0447.717.950",
+    "name": "E2e",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Bruiloftstraat 127 9050 Gent BE",
+        "coords": [
+          3.771857,
+          51.033837
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 1992,
+    "proof": []
+  },
+  {
+    "cbe": "0448.108.029",
+    "name": "Enfocus",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Raymonde de Larochelaan 13 9051 Gent BE",
+        "coords": [
+          3.69372,
+          51.028807
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 35,
+    "founded": 1992,
+    "proof": []
+  },
+  {
+    "cbe": "0448.169.791",
+    "name": "Entelec",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "diepenbeek",
+        "address": "Wetenschapspark 25 3590 Diepenbeek BE",
+        "coords": [
+          5.39631,
+          50.929884
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 1992,
+    "proof": []
+  },
+  {
+    "cbe": "0449.330.625",
+    "name": "Engineering Consultancy Services Hermes",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "nivelles",
+        "address": "Boulevard de La Dodaine 17 12 1400 Nivelles BE",
+        "coords": [
+          4.326276,
+          50.594546
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 50,
+    "founded": 1993,
+    "proof": []
+  },
+  {
+    "cbe": "0453.581.007",
+    "name": "Electronic Data Consultants",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "sint-gillis-waas",
+        "address": "Bergstraat(SGW) 39 9170 Sint-Gillis-Waas BE",
+        "coords": [
+          4.082504,
+          51.250856
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 1994,
+    "proof": []
+  },
+  {
+    "cbe": "0454.296.134",
+    "name": "Eulogic",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "welkenraedt",
+        "address": "Rue de l'Usine 2 4840 Welkenraedt BE",
+        "coords": [
+          5.969006,
+          50.665634
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "eupen",
+        "address": "Rue de Herbesthal 124 4700 Eupen BE",
+        "coords": [
+          6.017359,
+          50.638338
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 1995,
+    "proof": []
+  },
+  {
+    "cbe": "0457.860.784",
+    "name": "Euractiv Media",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Boulevard Charlemagne 1 1 1000 Bruxelles BE",
+        "coords": [
+          4.382557,
+          50.844684
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 64,
+    "founded": 1996,
+    "proof": []
+  },
+  {
+    "cbe": "0458.061.417",
+    "name": "Eurassem",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "bilzen-hoeselt",
+        "address": "Riemsterweg 103 3742 Bilzen-Hoeselt BE",
+        "coords": [
+          5.530522,
+          50.85859
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 1996,
+    "proof": []
+  },
+  {
+    "cbe": "0459.777.624",
+    "name": "Edge.be",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Oudesteenweg 87 3 2060 Antwerpen BE",
+        "coords": [
+          4.421082,
+          51.226999
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 1997,
+    "proof": []
+  },
+  {
+    "cbe": "0460.049.026",
+    "name": "Elsyca",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Vaartdijk 3 603 3018 Leuven BE",
+        "coords": [
+          4.70061,
+          50.921244
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 19,
+    "founded": 1997,
+    "proof": []
+  },
+  {
+    "cbe": "0460.241.244",
+    "name": "Enghouse Interactive Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "temse",
+        "address": "Luxemburgstraat 20 9140 Temse BE",
+        "coords": [
+          4.186226,
+          51.142996
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 1997,
+    "proof": []
+  },
+  {
+    "cbe": "0463.532.118",
+    "name": "Ez Software",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Terlindenhofstraat 36 2170 Antwerpen BE",
+        "coords": [
+          4.440661,
+          51.243562
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 1998,
+    "proof": []
+  },
+  {
+    "cbe": "0465.357.302",
+    "name": "Euricom",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Blarenberglaan 3 A 2800 Mechelen BE",
+        "coords": [
+          4.45395,
+          51.05217
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 92,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0465.741.144",
+    "name": "Easi",
+    "site": "www.easi.net",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "nivelles",
+        "address": "Avenue Robert Schuman 12 1400 Nivelles BE",
+        "coords": [
+          4.328261,
+          50.620203
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Havenkant 6 3000 Leuven BE",
+        "coords": [
+          4.70052,
+          50.88722
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "grace-hollogne",
+        "address": "Rue du Fort 3 4460 Grâce-Hollogne BE",
+        "coords": [
+          5.460388,
+          50.638818
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Rijvisschestraat 124 9052 Gent BE",
+        "coords": [
+          3.695404,
+          51.017588
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "genk",
+        "address": "C-Mine 1 13 3600 Genk BE",
+        "coords": [
+          5.491895,
+          50.981967
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "ronse",
+        "address": "Rue Oscar Delghust 60 9600 Ronse BE",
+        "coords": [
+          3.616923,
+          50.750268
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 468,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0466.323.342",
+    "name": "Eplan",
+    "site": "www.eplan.be",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "lummen",
+        "address": "Bosstraat 54 3560 Lummen BE",
+        "coords": [
+          5.197956,
+          50.9945
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 21,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0467.376.286",
+    "name": "Esiv",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "duffel",
+        "address": "Kerkstraat 15 2 2570 Duffel BE",
+        "coords": [
+          4.500833,
+          51.094977
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0469.649.056",
+    "name": "E.s.c.",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Kortrijksesteenweg 1093 C 9051 Gent BE",
+        "coords": [
+          3.684344,
+          51.019725
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 138,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0469.679.047",
+    "name": "Exemplis",
+    "site": "www.exemplis.be",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "zottegem",
+        "address": "Steenweg op Aalst 174 9620 Zottegem BE",
+        "coords": [
+          3.841639,
+          50.897591
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0470.174.242",
+    "name": "E-bo Enterprises",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "ieper",
+        "address": "Ter Waarde 60 8900 Ieper BE",
+        "coords": [
+          2.889377,
+          50.8706
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "oostende",
+        "address": "Wetenschapspark 2 8400 Oostende BE",
+        "coords": [
+          2.993587,
+          51.217381
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 90,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0471.761.874",
+    "name": "E-logistech",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "la-louviere",
+        "address": "Route du Grand Peuplier(S-B) 7110 La Louvière BE",
+        "coords": [
+          4.122623,
+          50.492666
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 17,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0473.077.710",
+    "name": "E Power",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "wommelgem",
+        "address": "Ternesselei 330 2160 Wommelgem BE",
+        "coords": [
+          4.494695,
+          51.213238
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0474.345.440",
+    "name": "Eftheia",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue du Pont Neuf 2 5 1000 Bruxelles BE",
+        "coords": [
+          4.3524,
+          50.85463
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0475.099.565",
+    "name": "Esko - Graphics",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Raymonde de Larochelaan 13 9051 Gent BE",
+        "coords": [
+          3.69372,
+          51.028807
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 144,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0475.908.130",
+    "name": "Expert-it",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "ottignies-louvain-la-neuve",
+        "address": "Rue de Clairvaux 10 1348 Ottignies-Louvain-la-Neuve BE",
+        "coords": [
+          4.618937,
+          50.676969
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0478.011.446",
+    "name": "Encima",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "torhout",
+        "address": "Keibergstraat 112 8820 Torhout BE",
+        "coords": [
+          3.117083,
+          51.077077
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2002,
+    "proof": []
+  },
+  {
+    "cbe": "0478.650.062",
+    "name": "Eda",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "schaerbeek",
+        "address": "Rue de la Consolation 22 1030 Schaerbeek BE",
+        "coords": [
+          4.376777,
+          50.856579
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "vilvoorde",
+        "address": "Mechelsesteenweg 317 1800 Vilvoorde BE",
+        "coords": [
+          4.446104,
+          50.948169
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2002,
+    "proof": []
+  },
+  {
+    "cbe": "0479.094.084",
+    "name": "Easy Informatique",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "wanze",
+        "address": "Chaussée de Waremme 124 4520 Wanze BE",
+        "coords": [
+          5.257844,
+          50.544019
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2002,
+    "proof": []
+  },
+  {
+    "cbe": "0479.276.604",
+    "name": "Enaos.net",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "watermaal-bosvoorde",
+        "address": "Rue Middelbourg 64A 1170 Watermael-Boitsfort BE",
+        "coords": [
+          4.41791,
+          50.79591
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2003,
+    "proof": []
+  },
+  {
+    "cbe": "0500.754.778",
+    "name": "Ergaleio",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "rixensart",
+        "address": "Avenue du Touquet 15 1330 Rixensart BE",
+        "coords": [
+          4.531942,
+          50.705811
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0506.750.764",
+    "name": "Ekxpert Consult",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "kampenhout",
+        "address": "Haachtsesteenweg 52 1910 Kampenhout BE",
+        "coords": [
+          4.512661,
+          50.923593
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0509.978.587",
+    "name": "Enervalis",
+    "site": "www.enervalis.com",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Lummense Kiezel 51 3510 Hasselt BE",
+        "coords": [
+          5.24228,
+          50.95317
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 49,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0535.793.158",
+    "name": "Expert Group",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "Nelson Mandelaplein 2 8500 Kortrijk BE",
+        "coords": [
+          3.255035,
+          50.825149
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0537.191.443",
+    "name": "Egeo",
+    "site": "www.egeo.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Romeynsweel 8 2030 Antwerpen BE",
+        "coords": [
+          4.389713,
+          51.269215
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0543.309.866",
+    "name": "Easi Network",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "juprelle",
+        "address": "Rue du Chainay 19 4450 Juprelle BE",
+        "coords": [
+          5.561215,
+          50.728409
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "ans",
+        "address": "Rue des Français 373 4430 Ans BE",
+        "coords": [
+          5.57873,
+          50.528418
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0544.675.388",
+    "name": "Ey Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "Kouterveldstraat 7B 1 1831 Machelen BE",
+        "coords": [
+          4.45339,
+          50.886
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Pauline Van Pottelsberghelaan 12 9051 Gent BE",
+        "coords": [
+          3.68853,
+          51.02889
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Borsbeeksebrug 26 2600 Antwerpen BE",
+        "coords": [
+          4.435076,
+          51.199419
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Kempische steenweg 307 5.1 3500 Hasselt BE",
+        "coords": [
+          5.350689,
+          50.951714
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 56,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0544.808.121",
+    "name": "Exitas",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "edegem",
+        "address": "Prins Boudewijnlaan 43 2650 Edegem BE",
+        "coords": [
+          4.436157,
+          51.14866
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 25,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0545.928.074",
+    "name": "Engaged",
+    "site": "www.engaged.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "zoersel",
+        "address": "Beukenlaan 83 2980 Zoersel BE",
+        "coords": [
+          4.660659,
+          51.275029
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0553.753.303",
+    "name": "Elite-events International",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-pieters-woluwe",
+        "address": "Avenue des Cattleyas 55 1150 Woluwe-Saint-Pierre BE",
+        "coords": [
+          4.408863,
+          50.825291
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0564.814.073",
+    "name": "Effkes",
+    "site": "www.flancaramel.be",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "aalter",
+        "address": "Kraenepoelpad 30 9880 Aalter BE",
+        "coords": [
+          3.472394,
+          51.074053
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-jans-molenbeek",
+        "address": "Rue Alphonse Vandenpeereboom 164 2 1080 Molenbeek-Saint-Jean BE",
+        "coords": [
+          4.322855,
+          50.849087
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0566.973.908",
+    "name": "Emisys",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "floreffe",
+        "address": "Rue Riverre 12 5150 Floreffe BE",
+        "coords": [
+          4.777518,
+          50.442242
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0568.470.181",
+    "name": "Eurides",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Martelarenplein 20E 3000 Leuven BE",
+        "coords": [
+          4.715796,
+          50.881045
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0599.931.142",
+    "name": "Eledricity",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "merelbeke-melle",
+        "address": "Hundelgemsesteenweg 446A 9820 Merelbeke-Melle BE",
+        "coords": [
+          3.75109,
+          51.00281
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0634.818.478",
+    "name": "Ercasoft",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "ecaussinnes",
+        "address": "Rue Max Elskamp 7 7190 Ecaussinnes BE",
+        "coords": [
+          4.154923,
+          50.565806
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0636.908.136",
+    "name": "Ectosense",
+    "site": "www.ectosense.com",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "oudergem",
+        "address": "Avenue Herrmann-Debroux 54 1160 Auderghem BE",
+        "coords": [
+          4.433946,
+          50.813733
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0656.857.373",
+    "name": "Emileon",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "brasschaat",
+        "address": "Lage Kaart 53 2930 Brasschaat BE",
+        "coords": [
+          4.46066,
+          51.294576
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0659.964.244",
+    "name": "Eden Enterprises",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "rumst",
+        "address": "Mechelsesteenweg 6 C 2840 Rumst BE",
+        "coords": [
+          4.45169,
+          51.08448
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0661.733.802",
+    "name": "Engine27",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Uitbreidingstraat 84 3 2600 Antwerpen BE",
+        "coords": [
+          4.418059,
+          51.19254
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0664.761.091",
+    "name": "Exiin",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue d'Alost 7-11 1000 Bruxelles BE",
+        "coords": [
+          4.342342,
+          50.852435
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0665.540.457",
+    "name": "Engelen Consultants",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "herent",
+        "address": "Roetaardstraat 17 3020 Herent BE",
+        "coords": [
+          4.615612,
+          50.895242
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0666.681.988",
+    "name": "E-business Development",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "floreffe",
+        "address": "Rue de l'Ancienne Verrerie 1 5150 Floreffe BE",
+        "coords": [
+          4.77653,
+          50.44306
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0669.538.441",
+    "name": "Elysiannxt",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Vaartdijk 91 A7 2800 Mechelen BE",
+        "coords": [
+          4.479066,
+          51.017271
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Cantersteen 47 1000 Bruxelles BE",
+        "coords": [
+          4.358233,
+          50.845598
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0669.643.557",
+    "name": "Enginity",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0670.798.154",
+    "name": "Eventsquare",
+    "site": "www.eventsquare.co",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "geel",
+        "address": "Kleinhoefstraat 5 76 2440 Geel BE",
+        "coords": [
+          4.965464,
+          51.161716
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0671.649.180",
+    "name": "Econocom Digitalent",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Leuvensesteenweg 510 B80 1930 Zaventem BE",
+        "coords": [
+          4.480867,
+          50.870456
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 39,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0672.955.514",
+    "name": "Elipsys",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "huy",
+        "address": "Rue du Long Thier 50 4500 Huy BE",
+        "coords": [
+          5.25277,
+          50.51973
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0676.634.881",
+    "name": "Energis",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Esplanade 1 10 1020 Bruxelles BE",
+        "coords": [
+          4.342779,
+          50.899673
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "ottignies-louvain-la-neuve",
+        "address": "Chemin du Cyclotron 6 1348 Ottignies-Louvain-la-Neuve BE",
+        "coords": [
+          4.62368,
+          50.66513
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0679.600.509",
+    "name": "Evo Telecom",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "ham-sur-heure-nalinnes",
+        "address": "Rue Grogerie 108 6120 Ham-sur-Heure-Nalinnes BE",
+        "coords": [
+          4.427013,
+          50.334248
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0680.440.845",
+    "name": "Effitrax",
+    "site": "www.effitrax.com",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "Stasegemsesteenweg 82B 8500 Kortrijk BE",
+        "coords": [
+          3.291595,
+          50.830155
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "charleroi",
+        "address": "Square des Martyrs - 6000 Charleroi BE",
+        "coords": [
+          4.440454,
+          50.407783
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "Brugsesteenweg 253 B 0011 8500 Kortrijk BE",
+        "coords": [
+          3.266782,
+          50.843997
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0681.526.849",
+    "name": "Eco Max Service",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "anderlecht",
+        "address": "Rue des Matériaux 20 53 1070 Anderlecht BE",
+        "coords": [
+          4.32139,
+          50.84128
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "ganshoren",
+        "address": "Avenue de Rusatira 3 1083 Ganshoren BE",
+        "coords": [
+          4.295734,
+          50.874366
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0691.560.213",
+    "name": "Elevens",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "brugge",
+        "address": "Krakeleweg 39 1 8000 Brugge BE",
+        "coords": [
+          3.218497,
+          51.227011
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0693.727.271",
+    "name": "Eenvoudigfactureren",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "maldegem",
+        "address": "Kallestraat 19A 9991 Maldegem BE",
+        "coords": [
+          3.4871,
+          51.19761
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0713.656.120",
+    "name": "Emobili",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "kruisem",
+        "address": "Neerrechemstraat 94 9770 Kruisem BE",
+        "coords": [
+          3.578494,
+          50.927028
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 27,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0721.460.759",
+    "name": "Excis Compliance Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "wommelgem",
+        "address": "Nijverheidsstraat 70 2160 Wommelgem BE",
+        "coords": [
+          4.510356,
+          51.210588
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0728.448.422",
+    "name": "Ernst@work",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "schoten",
+        "address": "Vordensteinstraat 113 2900 Schoten BE",
+        "coords": [
+          4.49061,
+          51.254143
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0729.609.155",
+    "name": "Euclyd",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Rue Van Aa 83 1050 Ixelles BE",
+        "coords": [
+          4.37134,
+          50.831999
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "nivelles",
+        "address": "Faubourg de Namur 89 1400 Nivelles BE",
+        "coords": [
+          4.341737,
+          50.599299
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0737.981.443",
+    "name": "Entoq",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "geel",
+        "address": "Kleinhoefstraat 6 2440 Geel BE",
+        "coords": [
+          4.968583,
+          51.157149
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0745.497.359",
+    "name": "Externaliz-it",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "fernelmont",
+        "address": "Rue du Parc, March. 45 A 5380 Fernelmont BE",
+        "coords": [
+          4.93821,
+          50.52707
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0746.379.762",
+    "name": "Empharis Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "dendermonde",
+        "address": "H. Vandemeulebrouckeplein 22 9200 Dendermonde BE",
+        "coords": [
+          4.112201,
+          51.016373
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0747.470.815",
+    "name": "Eevee",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "diepenbeek",
+        "address": "Watertorenstraat 2 3590 Diepenbeek BE",
+        "coords": [
+          5.420342,
+          50.894647
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0748.824.063",
+    "name": "Efficient Business Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Sanderusstraat 75 2018 Antwerpen BE",
+        "coords": [
+          4.403424,
+          51.206448
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Schaliënstraat 5 2000 Antwerpen BE",
+        "coords": [
+          4.386869,
+          51.208583
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0749.657.570",
+    "name": "Europe It Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue du Commerce 124 4 1000 Bruxelles BE",
+        "coords": [
+          4.37028,
+          50.84584
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0753.461.158",
+    "name": "Eneos En Eneos.cloud",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Avenue des Pagodes 181 1 1020 Bruxelles BE",
+        "coords": [
+          4.369749,
+          50.894106
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Frankrijklei 5 2000 Antwerpen BE",
+        "coords": [
+          4.41622,
+          51.218285
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0759.918.190",
+    "name": "Ebloom",
+    "site": "www.ebloom.be",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-pieters-woluwe",
+        "address": "Avenue de Broqueville 12 1150 Woluwe-Saint-Pierre BE",
+        "coords": [
+          4.409937,
+          50.838176
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0769.958.878",
+    "name": "Electus Corporation",
+    "site": "www.electuscorporation.com",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "waasmunster",
+        "address": "Grote Baan 223 9250 Waasmunster BE",
+        "coords": [
+          4.039851,
+          51.127078
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0781.575.817",
+    "name": "Eye-opener Design",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "lommel",
+        "address": "Balendijk 192 3920 Lommel BE",
+        "coords": [
+          5.2821,
+          51.218417
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0783.393.081",
+    "name": "Eachstapp",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "schaerbeek",
+        "address": "Rue du Progrès 248 1030 Schaerbeek BE",
+        "coords": [
+          4.364499,
+          50.868524
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Boulevard du Roi Albert II 4 1000 Bruxelles BE",
+        "coords": [
+          4.355075,
+          50.857095
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0783.603.711",
+    "name": "Exxelo Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Chaussée d'Anvers 290 1000 Bruxelles BE",
+        "coords": [
+          4.358832,
+          50.868029
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0784.586.082",
+    "name": "Effixis Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Arnaud Fraiteur 15 23 1050 Ixelles BE",
+        "coords": [
+          4.395968,
+          50.817416
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0784.861.048",
+    "name": "Everience Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Avenue Louise 231 1050 Bruxelles BE",
+        "coords": [
+          4.355166,
+          50.817496
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0788.636.922",
+    "name": "Ekotuinen",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "wuustwezel",
+        "address": "Noordheuvel 15 2990 Wuustwezel BE",
+        "coords": [
+          4.536126,
+          51.369807
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0790.640.367",
+    "name": "Extra Horizon",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Kempische steenweg 303 27 3500 Hasselt BE",
+        "coords": [
+          5.35093,
+          50.95385
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 30,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0792.584.030",
+    "name": "Engiflex",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "puurs-sint-amands",
+        "address": "L. Van Kerckhovenstraat 68 2870 Puurs-Sint-Amands BE",
+        "coords": [
+          4.296553,
+          51.07555
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0795.339.721",
+    "name": "Esker Benelux",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Brabantdam 70 9000 Gent BE",
+        "coords": [
+          3.729532,
+          51.050026
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0798.535.474",
+    "name": "Exatech",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Square de Meeûs 35 1000 Bruxelles BE",
+        "coords": [
+          4.369375,
+          50.840738
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0798.821.625",
+    "name": "Edgx",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "aalst",
+        "address": "Groeneweg 17 9320 Aalst BE",
+        "coords": [
+          4.040418,
+          50.916541
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0799.256.442",
+    "name": "Eprod Software Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Square de Meeûs 35 1000 Bruxelles BE",
+        "coords": [
+          4.369375,
+          50.840738
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0800.185.761",
+    "name": "Evoltis",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "aalst",
+        "address": "Industrielaan 4 9320 Aalst BE",
+        "coords": [
+          4.035746,
+          50.912311
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0805.582.129",
+    "name": "Emsyscon",
+    "site": "www.emsyscon.com",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Leuvensesteenweg 540 2 1930 Zaventem BE",
+        "coords": [
+          4.492805,
+          50.874408
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0807.097.012",
+    "name": "Ece",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "anderlecht",
+        "address": "Route de Lennik 451 1070 Anderlecht BE",
+        "coords": [
+          4.271525,
+          50.816606
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "erpe-mere",
+        "address": "Evenbroekveld 8 3 9420 Erpe-Mere BE",
+        "coords": [
+          3.96519,
+          50.9288
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 68,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0807.261.417",
+    "name": "Exxtra",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "bilzen-hoeselt",
+        "address": "Industrielaan 32 3730 Bilzen-Hoeselt BE",
+        "coords": [
+          5.494377,
+          50.86105
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0808.069.188",
+    "name": "Eli Automation",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "blegny",
+        "address": "Rue des Eglantines 9 4670 Blégny BE",
+        "coords": [
+          5.74174,
+          50.687062
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "soumagne",
+        "address": "Rue Jean-Louis Paggen 11 4631 Soumagne BE",
+        "coords": [
+          5.705077,
+          50.6546
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0808.554.782",
+    "name": "Eforge",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "zwevegem",
+        "address": "Blokkestraat 41 B 8550 Zwevegem BE",
+        "coords": [
+          3.336546,
+          50.820588
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 21,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0812.239.990",
+    "name": "Earlytracks",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "etterbeek",
+        "address": "Avenue des Nerviens 123 1040 Etterbeek BE",
+        "coords": [
+          4.392323,
+          50.837991
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0812.258.994",
+    "name": "Epic Agency",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Rue Wiertz 38 12 4000 Liège BE",
+        "coords": [
+          5.55483,
+          50.64263
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 24,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0812.368.367",
+    "name": "Eteamsys",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Boulevard de la Sauvenière 135 4000 Liège BE",
+        "coords": [
+          5.568141,
+          50.641078
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 26,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0814.793.565",
+    "name": "Eocene Group",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "namur-city",
+        "address": "Avenue Albert 1er 77 5000 Namur BE",
+        "coords": [
+          4.881342,
+          50.466868
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 18,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0822.798.639",
+    "name": "Expliciet",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "diepenbeek",
+        "address": "Groeningenweg 5 3590 Diepenbeek BE",
+        "coords": [
+          5.42904,
+          50.90277
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 32,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0826.778.906",
+    "name": "Eurocom Software",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "izegem",
+        "address": "Slabbaardstraat-Noord 64-66 8870 Izegem BE",
+        "coords": [
+          3.212506,
+          50.911369
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0833.554.751",
+    "name": "Engilico Engineering Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "rotselaar",
+        "address": "Wingepark 55 B 3110 Rotselaar BE",
+        "coords": [
+          4.748145,
+          50.941012
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0833.941.563",
+    "name": "Engilico",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "rotselaar",
+        "address": "Wingepark 55 B 3110 Rotselaar BE",
+        "coords": [
+          4.748145,
+          50.941012
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0834.331.048",
+    "name": "Entrypoint",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "roeselare",
+        "address": "Industrieweg 45 8800 Roeselare BE",
+        "coords": [
+          3.129434,
+          50.977868
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0836.756.246",
+    "name": "Edda International Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Rue Longue Vie 7 1050 Ixelles BE",
+        "coords": [
+          4.365233,
+          50.836538
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0837.775.934",
+    "name": "Ehrs",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Drongenplein 26D 9031 Gent BE",
+        "coords": [
+          3.66386,
+          51.05016
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0843.021.753",
+    "name": "Esnah",
+    "site": "www.esnah.com",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "grace-hollogne",
+        "address": "Rue de l'Aéroport 36 15 4460 Grâce-Hollogne BE",
+        "coords": [
+          5.461032,
+          50.643263
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0845.561.272",
+    "name": "Endare",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Ottergemsesteenweg-Zuid 808B 302 9000 Gent BE",
+        "coords": [
+          3.73459,
+          51.01649
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 26,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0847.214.628",
+    "name": "Effect",
+    "site": "www.effect.be",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "lochristi",
+        "address": "Denen 167 9080 Lochristi BE",
+        "coords": [
+          3.870328,
+          51.106319
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0849.438.797",
+    "name": "Equals Three",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Justitiestraat 6B 2018 Antwerpen BE",
+        "coords": [
+          4.406697,
+          51.209447
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 27,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0872.287.544",
+    "name": "Energy",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Ottergemsesteenweg-Zuid 808 9000 Gent BE",
+        "coords": [
+          3.733061,
+          51.015577
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Kempenstraat 100 2030 Antwerpen BE",
+        "coords": [
+          4.415768,
+          51.231398
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "heusden-zolder",
+        "address": "Kerkstraat 151 3550 Heusden-Zolder BE",
+        "coords": [
+          5.26544,
+          50.99329
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 21,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0872.984.063",
+    "name": "Essensium",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Gaston Geenslaan 10 3001 Leuven BE",
+        "coords": [
+          4.66934,
+          50.86482
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 52,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0873.332.471",
+    "name": "Equalminds",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "edegem",
+        "address": "Prins Boudewijnlaan 43 2650 Edegem BE",
+        "coords": [
+          4.436157,
+          51.14866
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0875.004.336",
+    "name": "Eugeka",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-pieters-woluwe",
+        "address": "Avenue de Tervueren 242 1150 Woluwe-Saint-Pierre BE",
+        "coords": [
+          4.416273,
+          50.836117
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Louise 137 1050 Ixelles BE",
+        "coords": [
+          4.355287,
+          50.817561
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0875.710.060",
+    "name": "Ed Consult",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "flemalle",
+        "address": "Chaussée d'Ivoz 85 4400 Flémalle BE",
+        "coords": [
+          5.468954,
+          50.589769
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0875.865.260",
+    "name": "Eventus",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "raeren",
+        "address": "Gewerbestrasse 39 4731 Raeren BE",
+        "coords": [
+          6.089703,
+          50.681725
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0877.440.323",
+    "name": "E-net.",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "floreffe",
+        "address": "Rue de l'Ancienne Verrerie 1 5150 Floreffe BE",
+        "coords": [
+          4.77653,
+          50.44306
+        ]
+      },
+      {
+        "province": "namur",
+        "municipality": "floreffe",
+        "address": "Rue de l'Ancienne Verrerie 46 5150 Floreffe BE",
+        "coords": [
+          4.77581,
+          50.44332
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 18,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0879.066.161",
+    "name": "E-trace",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "sint-niklaas",
+        "address": "Hooimanstraat 203 9111 Sint-Niklaas BE",
+        "coords": [
+          4.067516,
+          51.143449
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0880.716.844",
+    "name": "Eb Sys",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "namur-city",
+        "address": "Rue des Scabieuses 18 5100 Namur BE",
+        "coords": [
+          4.934027,
+          50.420007
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0883.403.942",
+    "name": "Evoqia",
+    "site": "www.evoqia.eu",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Posthofbrug 6-8 5/169 2600 Antwerpen BE",
+        "coords": [
+          4.434877,
+          51.193637
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0883.482.532",
+    "name": "Emixa Industry Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Artsen zonder Grenzenstraat 4 2018 Antwerpen BE",
+        "coords": [
+          4.423962,
+          51.201842
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0886.047.983",
+    "name": "Esko Software",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Raymonde de Larochelaan 13 9051 Gent BE",
+        "coords": [
+          3.69372,
+          51.028807
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 98,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0889.592.641",
+    "name": "Ena Soft",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "herstal",
+        "address": "Rue d'Abhooz 31 4040 Herstal BE",
+        "coords": [
+          5.6207,
+          50.692619
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0890.754.859",
+    "name": "E²",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "herk-de-stad",
+        "address": "Industrieweg 1009 3540 Herk-de-Stad BE",
+        "coords": [
+          5.161482,
+          50.946793
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0892.628.147",
+    "name": "E-line Kmo",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "wetteren",
+        "address": "Oude Laarnsesteenweg 26 9230 Wetteren BE",
+        "coords": [
+          3.87171,
+          51.021066
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0894.175.593",
+    "name": "Eonix",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "mons",
+        "address": "Boulevard Initialis 10 7000 Mons BE",
+        "coords": [
+          3.930134,
+          50.461412
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 51,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0894.319.214",
+    "name": "Exatis",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Wulpstraat 5-11 2 2170 Antwerpen BE",
+        "coords": [
+          4.433575,
+          51.257578
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0895.248.632",
+    "name": "Effigia",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "vise",
+        "address": "Rue d'Artagnan 18 b 4600 Visé BE",
+        "coords": [
+          5.698909,
+          50.745085
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0895.941.983",
+    "name": "Emweb",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "herent",
+        "address": "Duigemhofstraat 101 3020 Herent BE",
+        "coords": [
+          4.65557,
+          50.90686
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0898.190.207",
+    "name": "European Gas Shipping Services & Information Systems",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "aalst",
+        "address": "Korte Keppestraat 7 32A 9320 Aalst BE",
+        "coords": [
+          4.043989,
+          50.915232
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 17,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0899.382.812",
+    "name": "Epi-use",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Pater Pirestraat 52 2 2018 Antwerpen BE",
+        "coords": [
+          4.42604,
+          51.20304
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 18,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "1000.595.976",
+    "name": "Epyc Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Stapelplein 70 206 9000 Gent BE",
+        "coords": [
+          3.734702,
+          51.063793
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0416.906.988",
+    "name": "Etex New Ways",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "kapelle-op-den-bos",
+        "address": "Kuiermansstraat 1 1880 Kapelle-op-den-Bos BE",
+        "coords": [
+          4.360895,
+          51.009468
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 1977,
+    "proof": []
+  },
+  {
+    "cbe": "0424.834.957",
+    "name": "Ey Cognistreamer",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Pauline Van Pottelsberghelaan 12 9051 Gent BE",
+        "coords": [
+          3.68853,
+          51.02889
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 1983,
+    "proof": []
+  },
+  {
+    "cbe": "0432.093.428",
+    "name": "Econocom Managed Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Brixtonlaan 22-24 1930 Zaventem BE",
+        "coords": [
+          4.500045,
+          50.871093
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Leuvensesteenweg 510 80 1930 Zaventem BE",
+        "coords": [
+          4.480867,
+          50.870456
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Place du Champ de Mars 5 14 1050 Ixelles BE",
+        "coords": [
+          4.362946,
+          50.838177
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 209,
+    "founded": 1987,
+    "proof": []
+  },
+  {
+    "cbe": "0435.749.932",
+    "name": "European Management And Consultancy Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "houthalen-helchteren",
+        "address": "Europark 1002 3530 Houthalen-Helchteren BE",
+        "coords": [
+          5.393249,
+          51.035246
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 1988,
+    "proof": []
+  },
+  {
+    "cbe": "0448.201.762",
+    "name": "Eagle Air Agencies",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "steenokkerzeel",
+        "address": "Vliegveld 752 1820 Steenokkerzeel BE",
+        "coords": [
+          4.458805,
+          50.908583
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 1992,
+    "proof": []
+  },
+  {
+    "cbe": "0450.289.638",
+    "name": "European Computer Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-gillis",
+        "address": "Rue Emile Feron 168 1060 Saint-Gilles BE",
+        "coords": [
+          4.334669,
+          50.829748
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 1993,
+    "proof": []
+  },
+  {
+    "cbe": "0460.832.647",
+    "name": "Expedia",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Avenue des Arts 56 1000 Bruxelles BE",
+        "coords": [
+          4.366717,
+          50.841105
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 1997,
+    "proof": []
+  },
+  {
+    "cbe": "0463.388.893",
+    "name": "Esri Belux",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "wemmel",
+        "address": "Avenue des Nerviens 54 1780 Wemmel BE",
+        "coords": [
+          4.3182,
+          50.89867
+        ]
+      },
+      {
+        "province": "namur",
+        "municipality": "namur-city",
+        "address": "Chaussée de Liège 221 5100 Namur BE",
+        "coords": [
+          4.886354,
+          50.460462
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 43,
+    "founded": 1998,
+    "proof": []
+  },
+  {
+    "cbe": "0463.435.514",
+    "name": "European Consumer Products",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "schilde",
+        "address": "Veldlei 43 1 2970 Schilde BE",
+        "coords": [
+          4.554322,
+          51.261076
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "kortenberg",
+        "address": "Steenhofstraat 28 3078 Kortenberg BE",
+        "coords": [
+          4.567061,
+          50.879608
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 1998,
+    "proof": []
+  },
+  {
+    "cbe": "0464.812.221",
+    "name": "Epam Systems Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "watermaal-bosvoorde",
+        "address": "Boulevard du Souverain 25/6 1170 Watermael-Boitsfort BE",
+        "coords": [
+          4.426087,
+          50.802835
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 1998,
+    "proof": []
+  },
+  {
+    "cbe": "0467.239.793",
+    "name": "Ernst & Young Advisory Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "Kouterveldstraat 7B 1 1831 Machelen BE",
+        "coords": [
+          4.45339,
+          50.886
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Pauline Van Pottelsberghelaan 12 9051 Gent BE",
+        "coords": [
+          3.68853,
+          51.02889
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Borsbeeksebrug 26 2600 Antwerpen BE",
+        "coords": [
+          4.435076,
+          51.199419
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 112,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0467.496.646",
+    "name": "Ek Unité Mobile",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "sprimont",
+        "address": "Rue de Chanxhe 22 B 4140 Sprimont BE",
+        "coords": [
+          5.62633,
+          50.500672
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0471.856.795",
+    "name": "Econcept",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "fleurus",
+        "address": "Rue de l'Etang 6 6223 Fleurus BE",
+        "coords": [
+          4.53256,
+          50.524582
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0473.102.553",
+    "name": "Evolution Marketing",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Avenue Louise 54 1050 Bruxelles BE",
+        "coords": [
+          4.357593,
+          50.818699
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 28,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0473.615.960",
+    "name": "E - Blc",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Isabella Brantstraat 27 2018 Antwerpen BE",
+        "coords": [
+          4.406403,
+          51.205425
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0473.647.436",
+    "name": "Experis Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Noorderplaats 9 2000 Antwerpen BE",
+        "coords": [
+          4.41249,
+          51.23054
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "braine-lalleud",
+        "address": "Avenue de Finlande 2 1420 Braine-l'Alleud BE",
+        "coords": [
+          4.380404,
+          50.665501
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "De Kleetlaan 3 1831 Machelen BE",
+        "coords": [
+          4.45086,
+          50.887816
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Kortrijksesteenweg 1093/1097C 9051 Gent BE",
+        "coords": [
+          3.684344,
+          51.019725
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 261,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0474.711.565",
+    "name": "Expo Light",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "hamme",
+        "address": "Damstraat 70A 9220 Hamme BE",
+        "coords": [
+          4.13577,
+          51.08838
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0479.745.172",
+    "name": "Extra Consult",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "aalst",
+        "address": "Nachtegaalstraat 27 9320 Aalst BE",
+        "coords": [
+          4.051768,
+          50.912635
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2003,
+    "proof": []
+  },
+  {
+    "cbe": "0503.997.053",
+    "name": "Enovalife",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "evere",
+        "address": "Avenue du Bourget 3 1140 Evere BE",
+        "coords": [
+          4.41426,
+          50.87642
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 155,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0506.674.451",
+    "name": "E-peas",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "ottignies-louvain-la-neuve",
+        "address": "Boulevard Baudouin 1er 19 1348 Ottignies-Louvain-la-Neuve BE",
+        "coords": [
+          4.619763,
+          50.66214
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 27,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0507.768.670",
+    "name": "Ehbo-pc",
+    "site": "behindbytes.be",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "aalst",
+        "address": "Leopoldlaan 97 9300 Aalst BE",
+        "coords": [
+          4.047491,
+          50.948219
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0508.660.476",
+    "name": "Emilio It",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "harelbeke",
+        "address": "Eikenstraat 95 8530 Harelbeke BE",
+        "coords": [
+          3.315685,
+          50.838054
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0525.776.721",
+    "name": "Elektro Bemelmans",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "raeren",
+        "address": "Bergstrasse 6 4730 Raeren BE",
+        "coords": [
+          6.123633,
+          50.677873
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0525.918.162",
+    "name": "Elixir Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "geraardsbergen",
+        "address": "Radenberg 7 9506 Geraardsbergen BE",
+        "coords": [
+          3.918393,
+          50.799771
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue des Princes 8-10 1000 Bruxelles BE",
+        "coords": [
+          4.354262,
+          50.849863
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0527.945.858",
+    "name": "Entrust-support",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "geel",
+        "address": "Antwerpseweg 1 6 2440 Geel BE",
+        "coords": [
+          4.973612,
+          51.153182
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0533.883.644",
+    "name": "Exsited",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "deerlijk",
+        "address": "Patrijsstraat 1 8540 Deerlijk BE",
+        "coords": [
+          3.366906,
+          50.860959
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "zwevegem",
+        "address": "Blokkestraat 41B 8550 Zwevegem BE",
+        "coords": [
+          3.335988,
+          50.821036
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0538.548.750",
+    "name": "Eff3ct",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "bierbeek",
+        "address": "Bierbeekstraat 197 3360 Bierbeek BE",
+        "coords": [
+          4.759575,
+          50.849515
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Schipvaartstraat 16 3000 Leuven BE",
+        "coords": [
+          4.705947,
+          50.886534
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0538.597.349",
+    "name": "Emasphere",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "ottignies-louvain-la-neuve",
+        "address": "Rue du Bosquet 9 1348 Ottignies-Louvain-la-Neuve BE",
+        "coords": [
+          4.633682,
+          50.659895
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "charleroi",
+        "address": "Quai Paul Verlaine 2 2 6000 Charleroi BE",
+        "coords": [
+          4.437763,
+          50.40651
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Poortakkerstraat 41 9051 Gent BE",
+        "coords": [
+          3.68506,
+          51.02772
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 43,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0540.547.643",
+    "name": "Evato",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "bornem",
+        "address": "Louis Segersstraat 22 2880 Bornem BE",
+        "coords": [
+          4.26938,
+          51.107095
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0543.811.890",
+    "name": "European Sport Venues Group",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "diepenbeek",
+        "address": "Steenweg 173 3590 Diepenbeek BE",
+        "coords": [
+          5.384881,
+          50.920155
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0553.605.625",
+    "name": "Extia Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Louise 205 1050 Ixelles BE",
+        "coords": [
+          4.355166,
+          50.817496
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 54,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0555.863.844",
+    "name": "Esign",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Coupure 620 9000 Gent BE",
+        "coords": [
+          3.70975,
+          51.05467
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 36,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0564.814.865",
+    "name": "Evoluto",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "meise",
+        "address": "Roodborstjeslaan 14 A0 1860 Meise BE",
+        "coords": [
+          4.34033,
+          50.92549
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0599.920.551",
+    "name": "Electrum Lt",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "wavre",
+        "address": "Avenue Lavoisier 18 A 1300 Wavre BE",
+        "coords": [
+          4.58793,
+          50.73455
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0632.761.682",
+    "name": "Eyes-screen",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Avenue du Port 86C 120 1000 Bruxelles BE",
+        "coords": [
+          4.348862,
+          50.86495
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0635.874.194",
+    "name": "Ensyel Technology",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "anderlecht",
+        "address": "Rue Bara 175 1070 Anderlecht BE",
+        "coords": [
+          4.327517,
+          50.832925
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0637.883.678",
+    "name": "Easymind Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "evere",
+        "address": "Avenue de l'Optimisme 3 2 1140 Evere BE",
+        "coords": [
+          4.41189,
+          50.85879
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0649.892.179",
+    "name": "Emixa Enterprise Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Artsen zonder Grenzenstraat 4 2018 Antwerpen BE",
+        "coords": [
+          4.423962,
+          51.201842
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 24,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0654.925.093",
+    "name": "Evolane",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0657.835.984",
+    "name": "Eci Software Solutions Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "zele",
+        "address": "Drukkerijstraat 11 D 9240 Zele BE",
+        "coords": [
+          4.049806,
+          51.074344
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0659.871.697",
+    "name": "Epic Blue",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Brusselsestraat 190 3000 Leuven BE",
+        "coords": [
+          4.691055,
+          50.881239
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0660.567.723",
+    "name": "Esincor",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "retie",
+        "address": "Rozenlaan 18 2470 Retie BE",
+        "coords": [
+          5.149116,
+          51.272487
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0661.949.675",
+    "name": "Energy Remodeling",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "londerzeel",
+        "address": "Sint Jozefstraat 41 1840 Londerzeel BE",
+        "coords": [
+          4.296533,
+          51.027572
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 28,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0662.541.177",
+    "name": "Editx",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "charleroi",
+        "address": "Square des Martyrs 1 6000 Charleroi BE",
+        "coords": [
+          4.435636,
+          50.442599
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0665.728.024",
+    "name": "Ellipse Projects Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Louise 149 24 1050 Ixelles BE",
+        "coords": [
+          4.355264,
+          50.817549
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0668.571.213",
+    "name": "Event Pilots",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Maanstraat 7 D 2800 Mechelen BE",
+        "coords": [
+          4.507158,
+          51.035141
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0672.539.897",
+    "name": "Emtrade",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "temse",
+        "address": "Luxemburgstraat 20 9140 Temse BE",
+        "coords": [
+          4.186226,
+          51.142996
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0676.408.417",
+    "name": "Extia Belgium It",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Rue de Fragnée 19-21 4000 Liège BE",
+        "coords": [
+          5.572953,
+          50.623916
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 39,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0684.772.092",
+    "name": "Epimed Solutions Belgium",
+    "site": "www.epimedsolutions.com",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Rue du Champ de Mars 5 1050 Ixelles BE",
+        "coords": [
+          4.364156,
+          50.838575
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0690.743.334",
+    "name": "Egym Wellpass Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Avenue Louise 54 1050 Bruxelles BE",
+        "coords": [
+          4.357593,
+          50.818699
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0691.908.126",
+    "name": "Exert",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 35 C 2550 Kontich BE",
+        "coords": [
+          4.4424,
+          51.141844
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 24,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0692.701.843",
+    "name": "Eiger North",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 18,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0695.432.689",
+    "name": "Edu-tech",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Boomgaardstraat 26 3012 Leuven BE",
+        "coords": [
+          4.722068,
+          50.920257
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0708.925.983",
+    "name": "Elevate-it",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 35C 2550 Kontich BE",
+        "coords": [
+          4.442996,
+          51.141855
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0719.697.636",
+    "name": "Excitit",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "buggenhout",
+        "address": "Maalderijstraat 13-15 9255 Buggenhout BE",
+        "coords": [
+          4.203077,
+          51.013584
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0719.961.021",
+    "name": "Edencehealth",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0732.577.256",
+    "name": "Eunoia Studio",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Martelarenplein 20 E 3000 Leuven BE",
+        "coords": [
+          4.7157,
+          50.88135
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "awans",
+        "address": "Rue Jean Lambert Defrêne 107/02 4340 Awans BE",
+        "coords": [
+          5.468899,
+          50.676349
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0732.931.406",
+    "name": "Edgise",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0742.546.975",
+    "name": "Embassy X",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0747.569.694",
+    "name": "Eventronics",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Maanstraat 7D 2800 Mechelen BE",
+        "coords": [
+          4.506377,
+          51.03467
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0750.830.082",
+    "name": "E-nl",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "uccle",
+        "address": "Avenue Hamoir 24 E 1180 Uccle BE",
+        "coords": [
+          4.36944,
+          50.797517
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0752.690.801",
+    "name": "Eolis Group",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Boulevard d'Anvers 20 1000 Bruxelles BE",
+        "coords": [
+          4.352344,
+          50.856715
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Boulevard du Roi Albert II 4 1000 Bruxelles BE",
+        "coords": [
+          4.355075,
+          50.857095
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Congreslaan 4 9000 Gent BE",
+        "coords": [
+          3.715386,
+          51.03188
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0765.428.384",
+    "name": "E-com Business",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "anderlecht",
+        "address": "Avenue Frans van Kalken 9 RDC 1070 Anderlecht BE",
+        "coords": [
+          4.305054,
+          50.825016
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0766.508.153",
+    "name": "Enperas",
+    "site": "www.enperas.be",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "genk",
+        "address": "Thor Park 8300 3600 Genk BE",
+        "coords": [
+          5.538129,
+          50.994024
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0770.991.236",
+    "name": "Eli-com",
+    "site": "www.eli-com.eu",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "boortmeerbeek",
+        "address": "Leuvensesteenweg 124 3191 Boortmeerbeek BE",
+        "coords": [
+          4.545841,
+          50.984691
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0771.389.134",
+    "name": "Elysis Belgique",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "mons",
+        "address": "Boulevard Sainctelette 39 7000 Mons BE",
+        "coords": [
+          3.944607,
+          50.446956
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 34,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0777.825.083",
+    "name": "Ensemble.bio",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "neupre",
+        "address": "Rue des Joncs Fleuris 10 4120 Neupré BE",
+        "coords": [
+          5.451614,
+          50.529989
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0784.368.526",
+    "name": "E-mauro",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "ans",
+        "address": "Avenue de l'Energie 29 1 4432 Ans BE",
+        "coords": [
+          5.53486,
+          50.67599
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "ans",
+        "address": "Rue Mabîme 75 4432 Ans BE",
+        "coords": [
+          5.524682,
+          50.668827
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0787.290.107",
+    "name": "Eye Security België",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "oostkamp",
+        "address": "Kapellestraat 138 8020 Oostkamp BE",
+        "coords": [
+          3.24264,
+          51.14473
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0795.870.746",
+    "name": "Engico",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "ingelmunster",
+        "address": "Industrielaan 13 8770 Ingelmunster BE",
+        "coords": [
+          3.249253,
+          50.930539
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0798.491.330",
+    "name": "Effix Group",
+    "site": "www.effixgroup.be",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "oudenaarde",
+        "address": "Industriepark \"De Bruwaan\" 27 A 9700 Oudenaarde BE",
+        "coords": [
+          3.592801,
+          50.859322
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "waregem",
+        "address": "Groenbek 29 8790 Waregem BE",
+        "coords": [
+          3.413953,
+          50.876774
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 37,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0800.122.316",
+    "name": "Everythings",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0804.370.223",
+    "name": "Euronext Corporate Solutions Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue du Marquis 1 1 1000 Bruxelles BE",
+        "coords": [
+          4.35857,
+          50.84738
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0806.079.995",
+    "name": "Exabyte",
+    "site": "www.exabyte.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "bornem",
+        "address": "Pedro Colomalaan 2 2880 Bornem BE",
+        "coords": [
+          4.254766,
+          51.091206
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0807.352.378",
+    "name": "Ergolabs Group",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "schaerbeek",
+        "address": "Boulevard Général Wahis 22 16 1030 Schaerbeek BE",
+        "coords": [
+          4.395797,
+          50.859597
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0807.566.570",
+    "name": "Eleven Ways",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Onderstraat 7 210 9000 Gent BE",
+        "coords": [
+          3.72413,
+          51.05642
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0809.568.136",
+    "name": "Eagle It",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Van Duyststraat 116 2100 Antwerpen BE",
+        "coords": [
+          4.448082,
+          51.2318
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "schoten",
+        "address": "Braamstraat 103A 2900 Schoten BE",
+        "coords": [
+          4.498213,
+          51.242994
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0811.478.739",
+    "name": "Europe-smt",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "turnhout",
+        "address": "Slachthuisstraat 30 2 2300 Turnhout BE",
+        "coords": [
+          4.923284,
+          51.308827
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0811.511.797",
+    "name": "Eclinica",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "waterloo",
+        "address": "Avenue du Grand Bois 15 1410 Waterloo BE",
+        "coords": [
+          4.385345,
+          50.711007
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0811.672.046",
+    "name": "Eco Clear",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "vorst",
+        "address": "Boulevard de l'Humanité 415 1190 Forest BE",
+        "coords": [
+          4.304758,
+          50.800314
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0817.567.765",
+    "name": "Envizion",
+    "site": "www.envizion.eu",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Motstraat 30 2800 Mechelen BE",
+        "coords": [
+          4.48948,
+          51.013418
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0819.095.021",
+    "name": "Engineering International Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue Guimard 15 1040 Bruxelles BE",
+        "coords": [
+          4.369984,
+          50.843574
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0820.437.876",
+    "name": "Edge",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "kruisem",
+        "address": "Waregemsesteenweg 157 9770 Kruisem BE",
+        "coords": [
+          3.49407,
+          50.89809
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0822.477.252",
+    "name": "Elektrowerken Degens",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "tienen",
+        "address": "Broedersblok 3 3300 Tienen BE",
+        "coords": [
+          4.962418,
+          50.788868
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0823.637.886",
+    "name": "Eurogrid International",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue Joseph Stevens 7 1000 Bruxelles BE",
+        "coords": [
+          4.352477,
+          50.841326
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Boulevard de l'Empereur 20 1000 Bruxelles BE",
+        "coords": [
+          4.35376,
+          50.84287
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0826.282.028",
+    "name": "Eezee-it",
+    "site": "www.eezee-it.com",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "wavre",
+        "address": "Avenue Edison 20 1300 Wavre BE",
+        "coords": [
+          4.60207,
+          50.73992
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 24,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0829.139.370",
+    "name": "Evolynx",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "heuvelland",
+        "address": "Oosthoekstraat 5 8956 Heuvelland BE",
+        "coords": [
+          2.861532,
+          50.786458
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0833.304.036",
+    "name": "Engineerx",
+    "site": "www.EngineerX.com",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Belgicastraat 5 2 1930 Zaventem BE",
+        "coords": [
+          4.45838,
+          50.879568
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0833.865.745",
+    "name": "Esia",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "sprimont",
+        "address": "Rue de Beaufays 64 B 4140 Sprimont BE",
+        "coords": [
+          5.656064,
+          50.527539
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0834.353.517",
+    "name": "Entico",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Uitbreidingstraat 84/3 2600 Antwerpen BE",
+        "coords": [
+          4.418059,
+          51.19254
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0834.937.594",
+    "name": "Exalate",
+    "site": "www.exalate.com",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Roderveldlaan 2 3 2600 Antwerpen BE",
+        "coords": [
+          4.437823,
+          51.191266
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0841.198.351",
+    "name": "Elenco",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "genk",
+        "address": "Slamstraat 5 3600 Genk BE",
+        "coords": [
+          5.510497,
+          51.014801
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0842.923.466",
+    "name": "Ecx Ict Business Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "rumst",
+        "address": "Molenstraat 167 2840 Rumst BE",
+        "coords": [
+          4.399437,
+          51.099721
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0848.466.027",
+    "name": "Esperity",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-lambrechts-woluwe",
+        "address": "Bd. Brand Whitlock 108 1200 Woluwe-Saint-Lambert BE",
+        "coords": [
+          4.406717,
+          50.842718
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0860.363.769",
+    "name": "Ebcs",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "herent",
+        "address": "Persilstraat 51G 3020 Herent BE",
+        "coords": [
+          4.667642,
+          50.903607
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2003,
+    "proof": []
+  },
+  {
+    "cbe": "0864.240.405",
+    "name": "European Registry For Internet Domains",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "Telecomlaan 9 1831 Machelen BE",
+        "coords": [
+          4.439193,
+          50.88344
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 40,
+    "founded": 2003,
+    "proof": []
+  },
+  {
+    "cbe": "0865.838.331",
+    "name": "Eun Partnership",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue de Trèves 61 1040 Bruxelles BE",
+        "coords": [
+          4.375746,
+          50.843525
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 90,
+    "founded": 2002,
+    "proof": []
+  },
+  {
+    "cbe": "0866.694.604",
+    "name": "Efeso Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Avenue du Port 86 C 105 1000 Bruxelles BE",
+        "coords": [
+          4.348862,
+          50.86495
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0867.104.081",
+    "name": "Elmosexpert",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "herentals",
+        "address": "Saffierstraat 5 12 C 2200 Herentals BE",
+        "coords": [
+          4.791654,
+          51.163569
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Sluisweg 1 14 9000 Gent BE",
+        "coords": [
+          3.735381,
+          51.013483
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Generaal De Wittelaan 9/1a 2800 Mechelen BE",
+        "coords": [
+          4.452501,
+          51.055282
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 30,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0870.206.893",
+    "name": "Epicdata",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 42,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0875.197.643",
+    "name": "Expert Consulting",
+    "site": "www.excon.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "puurs-sint-amands",
+        "address": "Kalfortdorp 11 2870 Puurs-Sint-Amands BE",
+        "coords": [
+          4.29525,
+          51.07367
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0875.360.167",
+    "name": "Elev8it",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "geel",
+        "address": "Herentalseweg 3 2440 Geel BE",
+        "coords": [
+          4.94152,
+          51.14051
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0881.880.250",
+    "name": "Emaze",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Zandvoordestraat 4 9052 Gent BE",
+        "coords": [
+          3.716061,
+          50.999833
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 18,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0882.990.604",
+    "name": "Engels",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "lokeren",
+        "address": "Gentse Steenweg 136 9160 Lokeren BE",
+        "coords": [
+          3.952702,
+          51.112374
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Industriepark-Drongen 14 109-110 9031 Gent BE",
+        "coords": [
+          3.59568,
+          51.043509
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0883.260.026",
+    "name": "Escent",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue Guimard 15 2 1040 Bruxelles BE",
+        "coords": [
+          4.369984,
+          50.843574
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0884.167.272",
+    "name": "Elision",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Kempische steenweg 311 5.01 3500 Hasselt BE",
+        "coords": [
+          5.352192,
+          50.951874
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 36,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0886.403.717",
+    "name": "Easy Clic",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "perwez",
+        "address": "Rue de la Garenne 3 1360 Perwez BE",
+        "coords": [
+          4.781427,
+          50.658344
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "walhain",
+        "address": "Rue de la Station 146A 1457 Walhain BE",
+        "coords": [
+          4.72516,
+          50.61914
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0886.644.633",
+    "name": "Entheo",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "zedelgem",
+        "address": "Koning Albertstraat 106 8210 Zedelgem BE",
+        "coords": [
+          3.151652,
+          51.109048
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0886.957.013",
+    "name": "European Dynamics Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue de la Loi 67 1000 Bruxelles BE",
+        "coords": [
+          4.374544,
+          50.844174
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 45,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0889.950.254",
+    "name": "Elmosgroup",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "herentals",
+        "address": "Saffierstraat 5 12C 2200 Herentals BE",
+        "coords": [
+          4.791654,
+          51.163569
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0892.399.109",
+    "name": "Ebb",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "heist-op-den-berg",
+        "address": "Bruulstraat 45 2222 Heist-op-den-Berg BE",
+        "coords": [
+          4.681264,
+          51.087033
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0893.751.664",
+    "name": "Exertum Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "oudergem",
+        "address": "Rue Jules-Emile Raymond 6 1160 Auderghem BE",
+        "coords": [
+          4.407177,
+          50.824089
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "grimbergen",
+        "address": "Nijverheidslaan 3 1853 Grimbergen BE",
+        "coords": [
+          4.36188,
+          50.91217
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0895.229.925",
+    "name": "Exsertus",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 21,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0898.103.796",
+    "name": "Exxoss",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "seraing",
+        "address": "Rue du Forestier 42 4100 Seraing BE",
+        "coords": [
+          5.526566,
+          50.56242
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "geer",
+        "address": "Rue du Village 15 4254 Geer BE",
+        "coords": [
+          5.177755,
+          50.659666
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0898.181.891",
+    "name": "Extendia",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Bredestraat 4 2000 Antwerpen BE",
+        "coords": [
+          4.402,
+          51.21512
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 26,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0899.626.005",
+    "name": "Euranova",
+    "site": "euranova.eu",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "mont-saint-guibert",
+        "address": "Rue Emile Francqui 4 1435 Mont-Saint-Guibert BE",
+        "coords": [
+          4.623045,
+          50.657852
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 87,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0884.167.866",
+    "name": "Epact",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "De Villermontstraat 9 2550 Kontich BE",
+        "coords": [
+          4.441435,
+          51.139875
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 23.4,
+    "founded": 2006,
+    "proof": []
+  }
+]

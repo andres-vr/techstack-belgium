@@ -1,0 +1,798 @@
+[
+  {
+    "cbe": "0449.243.424",
+    "name": "Y.s. Informatica",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "tongeren-borgloon",
+        "address": "Sportpleinstraat 1 3700 Tongeren-Borgloon BE",
+        "coords": [
+          5.472159,
+          50.779233
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 1993,
+    "proof": []
+  },
+  {
+    "cbe": "0465.491.221",
+    "name": "Yaf",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "beveren-kruibeke-zwijndrecht",
+        "address": "Blauwe gaanweg 34 9150 Beveren-Kruibeke-Zwijndrecht BE",
+        "coords": [
+          4.300463,
+          51.137971
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0468.966.690",
+    "name": "Young & Partners/navitrans International",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "Beneluxpark(Kor) 29 8500 Kortrijk BE",
+        "coords": [
+          3.277993,
+          50.800291
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 24,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0553.750.135",
+    "name": "Yellow Stripes",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "ronse",
+        "address": "Rue Watkyne 9 9600 Ronse BE",
+        "coords": [
+          3.617326,
+          50.743344
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0567.705.663",
+    "name": "Yelido",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "awans",
+        "address": "Rue Chaussée 67/3 4342 Awans BE",
+        "coords": [
+          5.456605,
+          50.685346
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0674.499.495",
+    "name": "Yields",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue aux Laines 68/72 1000 Bruxelles BE",
+        "coords": [
+          4.353166,
+          50.836218
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Oktrooiplein 1 9000 Gent BE",
+        "coords": [
+          3.73953,
+          51.057631
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0679.758.479",
+    "name": "Yappa",
+    "site": "www.yappa.be",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "bilzen-hoeselt",
+        "address": "Eikaart 6 3740 Bilzen-Hoeselt BE",
+        "coords": [
+          5.503395,
+          50.855938
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 24,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0712.684.239",
+    "name": "Yapla",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Ottergemsesteenweg-Zuid 808 B134 9000 Gent BE",
+        "coords": [
+          3.733061,
+          51.015577
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0712.918.227",
+    "name": "Yucopia",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "wemmel",
+        "address": "Avenue de Limburg Stirum 24 1780 Wemmel BE",
+        "coords": [
+          4.30881,
+          50.90574
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0720.862.032",
+    "name": "Your Mind Our Work",
+    "site": "www.yourmindourwork.be",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "roeselare",
+        "address": "Albrecht Rodenbachstraat 4 8800 Roeselare BE",
+        "coords": [
+          3.12229,
+          50.94637
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0729.829.582",
+    "name": "Yucca Power",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "stekene",
+        "address": "Riet 63 9190 Stekene BE",
+        "coords": [
+          3.996844,
+          51.236519
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0739.835.034",
+    "name": "Yourstory Agency",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Louise 231 1050 Ixelles BE",
+        "coords": [
+          4.355166,
+          50.817496
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0750.732.389",
+    "name": "Yolo Company",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "mons",
+        "address": "Rue Guy de Bres 47 7000 Mons BE",
+        "coords": [
+          3.998657,
+          50.452834
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0755.885.564",
+    "name": "Yesbabylon",
+    "site": "yesbabylon.com",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "watermaal-bosvoorde",
+        "address": "Boulevard du Souverain 24 1170 Watermael-Boitsfort BE",
+        "coords": [
+          4.423575,
+          50.802635
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0758.444.285",
+    "name": "Yellow 5",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "chaudfontaine",
+        "address": "Rue du Château d'Eau 1 4053 Chaudfontaine BE",
+        "coords": [
+          5.614796,
+          50.590865
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0768.870.302",
+    "name": "Yina Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "sint-niklaas",
+        "address": "Anthonis De Jonghestraat 12 B 9100 Sint-Niklaas BE",
+        "coords": [
+          4.191366,
+          51.185063
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0788.370.072",
+    "name": "Yotta Expert",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-agatha-berchem",
+        "address": "Avenue des Bardanes 33 1 1082 Berchem-Sainte-Agathe BE",
+        "coords": [
+          4.293044,
+          50.870277
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0798.447.283",
+    "name": "Yanoo-lts Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "evere",
+        "address": "Rue P. Van Obberghen 96 B204 1140 Evere BE",
+        "coords": [
+          4.398195,
+          50.872765
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0822.564.948",
+    "name": "Yunite",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "Wagenmakersstraat 37F 8500 Kortrijk BE",
+        "coords": [
+          3.271158,
+          50.819214
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0823.978.475",
+    "name": "Ypas",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Pasmolenstraat 39 2800 Mechelen BE",
+        "coords": [
+          4.492078,
+          51.035222
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0839.686.834",
+    "name": "Yazzoom",
+    "site": "www.yazzoom.be",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Moutstraat 88 9000 Gent BE",
+        "coords": [
+          3.736974,
+          51.03005
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0888.293.138",
+    "name": "Yocto",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "maldegem",
+        "address": "Rode Kruisstraat 4 9990 Maldegem BE",
+        "coords": [
+          3.436972,
+          51.200703
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0890.971.229",
+    "name": "Younited",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue du Commerce 31 1000 Bruxelles BE",
+        "coords": [
+          4.368068,
+          50.840885
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0545.922.928",
+    "name": "Yuki Works",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Desguinlei 100 11 2018 Antwerpen BE",
+        "coords": [
+          4.404201,
+          51.194437
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 68,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0670.543.875",
+    "name": "Yellow Jersey",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0681.730.252",
+    "name": "Yellowground",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Kempische steenweg 311 5.01 3500 Hasselt BE",
+        "coords": [
+          5.352192,
+          50.951874
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0681.929.596",
+    "name": "Yechte Consulting Eu",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue de la Sablonnière 22 1000 Bruxelles BE",
+        "coords": [
+          4.366609,
+          50.851965
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue Belliard 216 6 1040 Bruxelles BE",
+        "coords": [
+          4.382156,
+          50.840055
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0716.909.875",
+    "name": "Yourent Group",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "la-hulpe",
+        "address": "Avenue Reine Astrid 92 1310 La Hulpe BE",
+        "coords": [
+          4.472177,
+          50.727053
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0727.485.449",
+    "name": "Yolo Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "chaudfontaine",
+        "address": "Rue Toussaint Gerkens 59 D14 4052 Chaudfontaine BE",
+        "coords": [
+          5.64384,
+          50.5538
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0728.813.161",
+    "name": "Younify",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "dilsen-stokkem",
+        "address": "IQ-Parklaan 7 A 3650 Dilsen-Stokkem BE",
+        "coords": [
+          5.71276,
+          51.012649
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0730.714.856",
+    "name": "Ypconsilium",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "diepenbeek",
+        "address": "Parklaan 18 3590 Diepenbeek BE",
+        "coords": [
+          5.433378,
+          50.932525
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Genkersteenweg 49 3500 Hasselt BE",
+        "coords": [
+          5.34689,
+          50.94343
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0784.237.476",
+    "name": "Y Squared",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Laar 180 2180 Antwerpen BE",
+        "coords": [
+          4.452824,
+          51.270523
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0834.769.627",
+    "name": "Yieldow",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "fleurus",
+        "address": "Rue de l'Ange 5 6222 Fleurus BE",
+        "coords": [
+          4.555882,
+          50.523452
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "ottignies-louvain-la-neuve",
+        "address": "Chemin du Cyclotron 6 1348 Ottignies-Louvain-la-Neuve BE",
+        "coords": [
+          4.62368,
+          50.66513
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0840.559.339",
+    "name": "Yteria",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "heist-op-den-berg",
+        "address": "Grote Braamstraat 32 c 2220 Heist-op-den-Berg BE",
+        "coords": [
+          4.731313,
+          51.037759
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0848.768.311",
+    "name": "Yools",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "wichelen",
+        "address": "Dreefstraat 7A 9260 Wichelen BE",
+        "coords": [
+          3.969857,
+          51.012547
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0848.845.812",
+    "name": "Yeliz It Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Square Marie-Louise 4 21 1000 Bruxelles BE",
+        "coords": [
+          4.377664,
+          50.846149
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0871.368.618",
+    "name": "Youston",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "genk",
+        "address": "Mondeolaan 1 3600 Genk BE",
+        "coords": [
+          5.499041,
+          50.932198
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 38,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0874.058.486",
+    "name": "Youl",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "nivelles",
+        "address": "Rue Joseph Luns 26 1401 Nivelles BE",
+        "coords": [
+          4.327488,
+          50.624867
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 50,
+    "founded": 2005,
+    "proof": []
+  }
+]

@@ -1,0 +1,7561 @@
+[
+  {
+    "cbe": "0413.815.262",
+    "name": "Dornach",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Chaussée de Vilvorde 11 1120 Bruxelles BE",
+        "coords": [
+          4.381016,
+          50.885915
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "welkenraedt",
+        "address": "Rue Mitoyenne 897 4840 Welkenraedt BE",
+        "coords": [
+          5.99741,
+          50.650889
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 28,
+    "founded": 1974,
+    "proof": []
+  },
+   {
+    "cbe": "0895.169.646",
+    "name": "D.Y.V",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "wavre",
+        "address": "Rue Charles Jaumotte 76 1300 Wavre BE",
+        "coords": [
+          4.57705,
+          50.697413
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "lasne",
+        "address": "Chaussée de Louvain 709 1380 Lasne BE",
+        "coords": [
+          4.460607,
+          50.721205
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0420.525.088",
+    "name": "Distrimart",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Rue de l'Université 37 4000 Liège BE",
+        "coords": [
+          5.574283,
+          50.641646
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 1980,
+    "proof": []
+  },
+  {
+    "cbe": "0423.680.063",
+    "name": "Degetech",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "evergem",
+        "address": "Delori-Maeslaan 27 9940 Evergem BE",
+        "coords": [
+          3.758823,
+          51.133942
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 1983,
+    "proof": []
+  },
+  {
+    "cbe": "0427.738.920",
+    "name": "Deba Invest",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "brugge",
+        "address": "Gistelse Steenweg 291 8200 Brugge BE",
+        "coords": [
+          3.191827,
+          51.199239
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 1985,
+    "proof": []
+  },
+  {
+    "cbe": "0431.566.856",
+    "name": "Dekimo Software",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Brusselsesteenweg 708 9050 Gent BE",
+        "coords": [
+          3.76901,
+          51.027175
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 1987,
+    "proof": []
+  },
+  {
+    "cbe": "0434.282.757",
+    "name": "Dastronic",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "aarschot",
+        "address": "Diestsestraat 55 3200 Aarschot BE",
+        "coords": [
+          4.837145,
+          50.981503
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 1988,
+    "proof": []
+  },
+  {
+    "cbe": "0435.608.489",
+    "name": "Defisoft",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "etterbeek",
+        "address": "Rue Général Fivé 67 1040 Etterbeek BE",
+        "coords": [
+          4.397038,
+          50.830321
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue de la Vallée 50 1000 Bruxelles BE",
+        "coords": [
+          4.371207,
+          50.822813
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 1988,
+    "proof": []
+  },
+  {
+    "cbe": "0435.991.541",
+    "name": "Dc3",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "anderlecht",
+        "address": "Avenue Pierre Beyst 5 1070 Anderlecht BE",
+        "coords": [
+          4.287786,
+          50.834089
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 1988,
+    "proof": []
+  },
+  {
+    "cbe": "0438.815.429",
+    "name": "Design And Interface For Software Applications",
+    "site": "www.disa.be",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "lasne",
+        "address": "Route d'Hannonsart 2A 24 1380 Lasne BE",
+        "coords": [
+          4.466537,
+          50.702576
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "lasne",
+        "address": "Rue de l'Eglise 7b 1380 Lasne BE",
+        "coords": [
+          4.48375,
+          50.685829
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 1989,
+    "proof": []
+  },
+  {
+    "cbe": "0438.998.838",
+    "name": "Dekimo Leuven",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Rijschoolstraat 11 3000 Leuven BE",
+        "coords": [
+          4.702826,
+          50.881195
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Brusselsesteenweg 708 9050 Gent BE",
+        "coords": [
+          3.76901,
+          51.027175
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 23,
+    "founded": 1989,
+    "proof": []
+  },
+  {
+    "cbe": "0439.234.608",
+    "name": "Drix",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "lint",
+        "address": "Lerenveld 26 2547 Lint BE",
+        "coords": [
+          4.512069,
+          51.127628
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 20,
+    "founded": 1989,
+    "proof": []
+  },
+  {
+    "cbe": "0439.346.454",
+    "name": "Deroanne",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "grace-hollogne",
+        "address": "Rue des Nouvelles Technologies 21 4460 Grâce-Hollogne BE",
+        "coords": [
+          5.503276,
+          50.655644
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-lambrechts-woluwe",
+        "address": "Avenue du Yorkshire 19 1200 Woluwe-Saint-Lambert BE",
+        "coords": [
+          4.431312,
+          50.854422
+        ]
+      },
+      {
+        "province": "namur",
+        "municipality": "namur-city",
+        "address": "Rue de Gembloux(SS) 500 5002 Namur BE",
+        "coords": [
+          4.835301,
+          50.481696
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 35,
+    "founded": 1989,
+    "proof": []
+  },
+  {
+    "cbe": "0442.894.476",
+    "name": "Dstny Be",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Belgicastraat 17 1930 Zaventem BE",
+        "coords": [
+          4.457635,
+          50.878356
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "mons",
+        "address": "Rue René Descartes 20 7000 Mons BE",
+        "coords": [
+          3.930538,
+          50.459496
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 138,
+    "founded": 1991,
+    "proof": []
+  },
+  {
+    "cbe": "0444.840.812",
+    "name": "De Pinxi",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "evere",
+        "address": "Chaussée de Haecht 1103 1140 Evere BE",
+        "coords": [
+          4.407077,
+          50.87709
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 1991,
+    "proof": []
+  },
+  {
+    "cbe": "0446.973.822",
+    "name": "Derco Systems",
+    "site": "www.derco.be",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "ronse",
+        "address": "Rue du Poivre 37 9600 Ronse BE",
+        "coords": [
+          3.59959,
+          50.7471
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "oudenaarde",
+        "address": "Deinzestraat 65 B 9700 Oudenaarde BE",
+        "coords": [
+          3.590933,
+          50.855666
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 1992,
+    "proof": []
+  },
+  {
+    "cbe": "0451.042.476",
+    "name": "Dxc Technology Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Blarenberglaan 2 2800 Mechelen BE",
+        "coords": [
+          4.446845,
+          51.052715
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 184,
+    "founded": 1993,
+    "proof": []
+  },
+  {
+    "cbe": "0453.722.052",
+    "name": "Debie Graphic Design",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "La Batte 32 4000 Liège BE",
+        "coords": [
+          5.581998,
+          50.646478
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 1994,
+    "proof": []
+  },
+  {
+    "cbe": "0454.276.239",
+    "name": "Daidalos Peutz Bouwfysisch Ingenieursbureau",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Vital Decosterstraat 67A 0001 3000 Leuven BE",
+        "coords": [
+          4.702542,
+          50.882313
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "hooglede",
+        "address": "Diksmuidesteenweg 17 B001 8830 Hooglede BE",
+        "coords": [
+          3.078417,
+          50.958506
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 1995,
+    "proof": []
+  },
+  {
+    "cbe": "0455.351.751",
+    "name": "D Soft",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "merelbeke-melle",
+        "address": "Guldensporenpark 7 9820 Merelbeke-Melle BE",
+        "coords": [
+          3.754951,
+          51.004517
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 1995,
+    "proof": []
+  },
+  {
+    "cbe": "0457.053.211",
+    "name": "Digitec Solution",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "braine-lalleud",
+        "address": "Avenue du Commerce 36 1420 Braine-l'Alleud BE",
+        "coords": [
+          4.359586,
+          50.693981
+        ]
+      },
+      {
+        "province": "namur",
+        "municipality": "namur-city",
+        "address": "Avenue Reine Astrid(NR) 16 5000 Namur BE",
+        "coords": [
+          4.856977,
+          50.462211
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 18,
+    "founded": 1996,
+    "proof": []
+  },
+  {
+    "cbe": "0459.418.625",
+    "name": "Duo",
+    "site": "www.duo.be",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "brugge",
+        "address": "Bargeweg 2 8000 Brugge BE",
+        "coords": [
+          3.228825,
+          51.199368
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 29,
+    "founded": 1996,
+    "proof": []
+  },
+  {
+    "cbe": "0461.602.808",
+    "name": "Dataline Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "zedelgem",
+        "address": "Autobaan 21 8210 Zedelgem BE",
+        "coords": [
+          3.190143,
+          51.159346
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 1997,
+    "proof": []
+  },
+  {
+    "cbe": "0461.922.116",
+    "name": "D+tb",
+    "site": "www.d-tb.be",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "menen",
+        "address": "Lar 21 8930 Menen BE",
+        "coords": [
+          3.184554,
+          50.793323
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "moeskroen",
+        "address": "Rue de l'Echauffourée 51 7700 Mouscron BE",
+        "coords": [
+          3.18204,
+          50.7526
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 1997,
+    "proof": []
+  },
+  {
+    "cbe": "0462.855.789",
+    "name": "Dirmacom",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "puurs-sint-amands",
+        "address": "Keulendam 2 2870 Puurs-Sint-Amands BE",
+        "coords": [
+          4.275941,
+          51.078811
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 1998,
+    "proof": []
+  },
+  {
+    "cbe": "0462.860.541",
+    "name": "Demetec",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "eupen",
+        "address": "Rue de la Gare 35 11 4700 Eupen BE",
+        "coords": [
+          6.037465,
+          50.63484
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 1998,
+    "proof": []
+  },
+  {
+    "cbe": "0463.000.301",
+    "name": "Dataverde",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "sint-niklaas",
+        "address": "Vijfstraten 18 9100 Sint-Niklaas BE",
+        "coords": [
+          4.150543,
+          51.172789
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 1998,
+    "proof": []
+  },
+  {
+    "cbe": "0463.607.441",
+    "name": "Datamind",
+    "site": "www.datamind.be",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "braine-lalleud",
+        "address": "Avenue de Marsan 15 1420 Braine-l'Alleud BE",
+        "coords": [
+          4.384257,
+          50.682226
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-pieters-woluwe",
+        "address": "Avenue de Tervueren 299 0.2 1150 Woluwe-Saint-Pierre BE",
+        "coords": [
+          4.41761,
+          50.834927
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 1998,
+    "proof": []
+  },
+  {
+    "cbe": "0463.626.445",
+    "name": "Domar",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "tielt-winge",
+        "address": "Gouden Kruispunt 69 7 3390 Tielt-Winge BE",
+        "coords": [
+          4.87418,
+          50.906987
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "lier",
+        "address": "Boomlaarstraat 309 6 2500 Lier BE",
+        "coords": [
+          4.550753,
+          51.129003
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 1998,
+    "proof": []
+  },
+  {
+    "cbe": "0464.350.876",
+    "name": "Dossche Invest",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "deinze",
+        "address": "Clemence Dosschestraat 1 9800 Deinze BE",
+        "coords": [
+          3.516183,
+          50.988323
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 1998,
+    "proof": []
+  },
+  {
+    "cbe": "0464.595.059",
+    "name": "Dynamic Vectors",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "wavre",
+        "address": "Avenue des Princes 4 1300 Wavre BE",
+        "coords": [
+          4.6171,
+          50.715608
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 1998,
+    "proof": []
+  },
+  {
+    "cbe": "0464.659.593",
+    "name": "Datasoft Services",
+    "site": "www.datasoftservices.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "lier",
+        "address": "Berlaarsestraat 31 4 2500 Lier BE",
+        "coords": [
+          4.576594,
+          51.130031
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 1998,
+    "proof": []
+  },
+  {
+    "cbe": "0465.371.059",
+    "name": "Da Vinci It",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Groenstraat 17 A 9041 Gent BE",
+        "coords": [
+          3.761618,
+          51.079978
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0465.416.688",
+    "name": "Daeninck, Audenaert En Co",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "evergem",
+        "address": "Doornzeelsestraat 56 B 9940 Evergem BE",
+        "coords": [
+          3.748265,
+          51.129437
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0466.629.683",
+    "name": "Dialog Solutions Belux",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Nauwstraat 9 101 2800 Mechelen BE",
+        "coords": [
+          4.477193,
+          51.026238
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0467.369.853",
+    "name": "Descartes Systems (belgium)",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "lochristi",
+        "address": "Antwerpse Steenweg 19 9080 Lochristi BE",
+        "coords": [
+          3.820201,
+          51.092312
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "lier",
+        "address": "Duwijckstraat 17 2500 Lier BE",
+        "coords": [
+          4.53521,
+          51.15208
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 62,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0468.339.457",
+    "name": "Data Innovations Europe",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "etterbeek",
+        "address": "Cours Saint Michel 30B 1040 Etterbeek BE",
+        "coords": [
+          4.401,
+          50.83669
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0468.585.818",
+    "name": "De Roeve Industrial It",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "lokeren",
+        "address": "Spieveldstraat 41 9160 Lokeren BE",
+        "coords": [
+          3.995501,
+          51.08391
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0471.481.267",
+    "name": "Ddi Services",
+    "site": "wwww.antsystems.be",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "roeselare",
+        "address": "Kwadestraat 153 3.1 8800 Roeselare BE",
+        "coords": [
+          3.174946,
+          50.920301
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0471.633.695",
+    "name": "De Jaeger Automation",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "lievegem",
+        "address": "H. Consciencelaan 79 9950 Lievegem BE",
+        "coords": [
+          3.602857,
+          51.141051
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0471.749.996",
+    "name": "Deparco",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Interleuvenlaan 74 3001 Leuven BE",
+        "coords": [
+          4.73182,
+          50.85104
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0471.866.891",
+    "name": "Digi-work.com",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue des Saisons 118 A 1050 Ixelles BE",
+        "coords": [
+          4.388715,
+          50.81758
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0472.854.412",
+    "name": "Dot-it",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "pelt",
+        "address": "Stationsstraat 47 bus1 3910 Pelt BE",
+        "coords": [
+          5.437354,
+          51.225005
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0472.964.377",
+    "name": "Debugged",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "nazareth-de-pinte",
+        "address": "Drapstraat 29 A 9810 Nazareth BE",
+        "coords": [
+          3.5997,
+          50.95987
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0473.071.275",
+    "name": "Duke & Grace",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Foreestelaan 1 9000 Gent BE",
+        "coords": [
+          3.733194,
+          51.029933
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Boulevard d'Anvers 40 1000 Bruxelles BE",
+        "coords": [
+          4.350057,
+          50.857373
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 48,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0473.556.374",
+    "name": "Doggybites",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Dulle-Grietlaan 1 0001 9050 Gent BE",
+        "coords": [
+          3.750186,
+          51.045218
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 29,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0473.567.856",
+    "name": "De Roeve Automation",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "lokeren",
+        "address": "Spieveldstraat 41 9160 Lokeren BE",
+        "coords": [
+          3.995501,
+          51.08391
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 18,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0474.605.261",
+    "name": "Digon",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "lille",
+        "address": "Houtakkerstraat 31 2275 Lille BE",
+        "coords": [
+          4.865286,
+          51.271527
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0474.769.369",
+    "name": "Digitalmind",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "poperinge",
+        "address": "Koestraat 12 8970 Poperinge BE",
+        "coords": [
+          2.718406,
+          50.850907
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0478.449.332",
+    "name": "Diogenius",
+    "site": "www.diogenius.net",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "jodoigne",
+        "address": "Chemin des Carriers 59 1370 Jodoigne BE",
+        "coords": [
+          4.860717,
+          50.748178
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2002,
+    "proof": []
+  },
+  {
+    "cbe": "0478.640.659",
+    "name": "Dioss Smart Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "wetteren",
+        "address": "Honderdweg 21 9230 Wetteren BE",
+        "coords": [
+          3.846525,
+          50.992331
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 20,
+    "founded": 2002,
+    "proof": []
+  },
+  {
+    "cbe": "0507.674.145",
+    "name": "Digital Platform For Attorneys",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue du Moniteur 8 1000 Bruxelles BE",
+        "coords": [
+          4.36436,
+          50.84918
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0508.638.405",
+    "name": "Def Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "zoersel",
+        "address": "Violetlaan 12 2980 Zoersel BE",
+        "coords": [
+          4.643619,
+          51.255299
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0524.953.904",
+    "name": "Dropsolid",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Moutstraat 60 9000 Gent BE",
+        "coords": [
+          3.735591,
+          51.029567
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 45,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0525.991.705",
+    "name": "Dekom Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rond-point Robert Schuman 2-4 1040 Bruxelles BE",
+        "coords": [
+          4.38349,
+          50.841965
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0533.967.479",
+    "name": "Dalosy",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "sint-niklaas",
+        "address": "Industriepark-West 75 9100 Sint-Niklaas BE",
+        "coords": [
+          4.162093,
+          51.1405
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0539.826.972",
+    "name": "Datawoods",
+    "site": "www.tenderwolf.com",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Tichelrei 82 9000 Gent BE",
+        "coords": [
+          3.723307,
+          51.061241
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "schaerbeek",
+        "address": "Boulevard Auguste Reyers 213 1030 Schaerbeek BE",
+        "coords": [
+          4.403137,
+          50.846672
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Geldmunt 6 9000 Gent BE",
+        "coords": [
+          3.721575,
+          51.057091
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0544.370.532",
+    "name": "Demute",
+    "site": "www.demute.studio",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "koekelberg",
+        "address": "Chaussée de Jette 119 1081 Koekelberg BE",
+        "coords": [
+          4.335558,
+          50.859274
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0545.872.052",
+    "name": "Dynactionize",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Schillerstraat 8 2050 Antwerpen BE",
+        "coords": [
+          4.389217,
+          51.23291
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0548.976.052",
+    "name": "Dynatos",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 31A 2550 Kontich BE",
+        "coords": [
+          4.44398,
+          51.14307
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 18,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0550.791.239",
+    "name": "Dsp-ventures",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "pittem",
+        "address": "Kasteeldreef 73 8740 Pittem BE",
+        "coords": [
+          3.23507,
+          51.01091
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0550.853.793",
+    "name": "Davinsi Labs",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Borsbeeksebrug 28 2600 Antwerpen BE",
+        "coords": [
+          4.434907,
+          51.199098
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 47,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0558.891.432",
+    "name": "Drivex",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "vilvoorde",
+        "address": "Schaarbeeklei 485 1800 Vilvoorde BE",
+        "coords": [
+          4.41984,
+          50.9129
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 22,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0563.526.547",
+    "name": "Devoteam G Cloud Belux",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "Culliganlaan 3 1831 Machelen BE",
+        "coords": [
+          4.452676,
+          50.886611
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 57,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0568.739.110",
+    "name": "Dev+",
+    "site": "devplus.be",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "laarne",
+        "address": "Achterstraat 6 9270 Laarne BE",
+        "coords": [
+          3.849483,
+          51.030167
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0568.897.674",
+    "name": "Degetel Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-pieters-woluwe",
+        "address": "Avenue de Tervueren 270 B 1150 Woluwe-Saint-Pierre BE",
+        "coords": [
+          4.420404,
+          50.835397
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0627.858.333",
+    "name": "Dickytall",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Kattendijkdok-Oostkaai 11 5 2000 Antwerpen BE",
+        "coords": [
+          4.409649,
+          51.233901
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0627.884.166",
+    "name": "Delta Source",
+    "site": "www.deltasource.eu",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "aartselaar",
+        "address": "Kapellestraat 104 2 2630 Aartselaar BE",
+        "coords": [
+          4.389908,
+          51.129669
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0632.575.701",
+    "name": "Dongleapps",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "wortegem-petegem",
+        "address": "Elsegemplein 25 b 9790 Wortegem-Petegem BE",
+        "coords": [
+          3.535069,
+          50.824578
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0634.684.658",
+    "name": "Datages",
+    "site": "",
+    "locations": [
+      {
+        "province": "luxembourg",
+        "municipality": "marche-en-famenne",
+        "address": "Marche,Boucle de la Famenne 10B 6900 Marche-en-Famenne BE",
+        "coords": [
+          5.34006,
+          50.23984
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0642.889.670",
+    "name": "Digisense",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-lambrechts-woluwe",
+        "address": "Chée de Roodebeek 206 1200 Woluwe-Saint-Lambert BE",
+        "coords": [
+          4.428536,
+          50.848555
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0643.899.757",
+    "name": "Doctor Anytime Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "oudergem",
+        "address": "Chaussée de Wavre 1100 6 1160 Auderghem BE",
+        "coords": [
+          4.402986,
+          50.823348
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0644.616.963",
+    "name": "Deskdrive",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "zandhoven",
+        "address": "Driehoekstraat 170 2240 Zandhoven BE",
+        "coords": [
+          4.676497,
+          51.223576
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "zandhoven",
+        "address": "Langestraat 97 3 2240 Zandhoven BE",
+        "coords": [
+          4.674806,
+          51.224508
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0645.948.932",
+    "name": "De Roeve Mechanical",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "lokeren",
+        "address": "Spieveldstraat 41 9160 Lokeren BE",
+        "coords": [
+          3.995501,
+          51.08391
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0647.508.355",
+    "name": "Digital Transformers",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "aartselaar",
+        "address": "Kleistraat 166 2630 Aartselaar BE",
+        "coords": [
+          4.402513,
+          51.134673
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0647.518.550",
+    "name": "Dynamate",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "zonnebeke",
+        "address": "Passendalestraat 199 8980 Zonnebeke BE",
+        "coords": [
+          3.018173,
+          50.897318
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "roeselare",
+        "address": "Moorseelsesteenweg 17 8800 Roeselare BE",
+        "coords": [
+          3.140641,
+          50.922178
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 53,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0648.870.909",
+    "name": "Daxperience",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Ankerrui 9 301 2000 Antwerpen BE",
+        "coords": [
+          4.410801,
+          51.227514
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0650.549.801",
+    "name": "Dataline Holding",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "zedelgem",
+        "address": "Autobaan 21 8210 Zedelgem BE",
+        "coords": [
+          3.190143,
+          51.159346
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 42,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0652.646.484",
+    "name": "Deo",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "beringen",
+        "address": "Paalsesteenweg 170 3583 Beringen BE",
+        "coords": [
+          5.193171,
+          51.042845
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0654.792.659",
+    "name": "Deuse",
+    "site": "www.deuse.be",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Avenue Maurice-Destenay 1 4000 Liège BE",
+        "coords": [
+          5.57138,
+          50.637836
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 32,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0660.555.251",
+    "name": "Double Rainbow",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "grez-doiceau",
+        "address": "Rue des Déportés 54-2 1390 Grez-Doiceau BE",
+        "coords": [
+          4.70951,
+          50.752043
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0661.713.511",
+    "name": "Daltix",
+    "site": "www.daltix.com",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Ottergemsesteenweg-Zuid 808 B160 9000 Gent BE",
+        "coords": [
+          3.733061,
+          51.015577
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0664.837.109",
+    "name": "Deegital",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "ans",
+        "address": "Avenue Alfred Deponthière 46 31 4431 Ans BE",
+        "coords": [
+          5.496589,
+          50.665432
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Kolonel Begaultlaan 1A 51 3012 Leuven BE",
+        "coords": [
+          4.705573,
+          50.888612
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 44,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0664.974.491",
+    "name": "Datacan",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "ternat",
+        "address": "Brusselstraat 11 1740 Ternat BE",
+        "coords": [
+          4.178767,
+          50.872335
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0666.772.159",
+    "name": "Devion",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "roeselare",
+        "address": "Onledegoedstraat 86 8800 Roeselare BE",
+        "coords": [
+          3.133025,
+          50.980598
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0674.965.689",
+    "name": "Deecide",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "braine-lalleud",
+        "address": "Chaussée Bara 68 B 1420 Braine-l'Alleud BE",
+        "coords": [
+          4.36714,
+          50.70088
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0677.732.763",
+    "name": "Digiface",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "jette",
+        "address": "Avenue Henri Liebrecht 80/C4 8 1090 Jette BE",
+        "coords": [
+          4.318113,
+          50.891036
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "vorst",
+        "address": "Avenue Télémaque 33 1190 Forest BE",
+        "coords": [
+          4.330871,
+          50.812569
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0680.448.763",
+    "name": "Douglab",
+    "site": "www.douglab.be",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "Boevekerke 23 8500 Kortrijk BE",
+        "coords": [
+          3.295296,
+          50.802948
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0681.406.093",
+    "name": "Dubuisson-baugniet Smart",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "jodoigne",
+        "address": "Rue du Bosquet 8 d 1370 Jodoigne BE",
+        "coords": [
+          4.871896,
+          50.724042
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "huy",
+        "address": "Rue Neuve 41 4500 Huy BE",
+        "coords": [
+          5.234836,
+          50.52102
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "wavre",
+        "address": "Rue du Pont du Christ 43 1300 Wavre BE",
+        "coords": [
+          4.60938,
+          50.716171
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0682.803.091",
+    "name": "Dive",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Zuidstationstraat 40 9000 Gent BE",
+        "coords": [
+          3.731803,
+          51.048551
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0685.801.480",
+    "name": "D4y.be",
+    "site": "www.d4y.be",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "chimay",
+        "address": "Avenue des Tilleuls 5 6460 Chimay BE",
+        "coords": [
+          4.309763,
+          50.046245
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0686.934.796",
+    "name": "Devinno",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "brugge",
+        "address": "Graaf Pierre de Brieylaan 17 8200 Brugge BE",
+        "coords": [
+          3.195846,
+          51.185858
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0687.531.050",
+    "name": "Devso",
+    "site": "www.devso.be",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "lummen",
+        "address": "Bosstraat 52 3560 Lummen BE",
+        "coords": [
+          5.198237,
+          50.995025
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0689.638.326",
+    "name": "Digicommerce Benelux",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "braine-lalleud",
+        "address": "Avenue du Japon 1 1420 Braine-l'Alleud BE",
+        "coords": [
+          4.387036,
+          50.669099
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0692.623.253",
+    "name": "Deliverect",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Foreestelaan 82 101 9000 Gent BE",
+        "coords": [
+          3.733662,
+          51.031097
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 94,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0693.908.801",
+    "name": "Dockflow",
+    "site": "dockflow.com",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Sint-Pietersvliet 7 2000 Antwerpen BE",
+        "coords": [
+          4.400851,
+          51.225599
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0696.647.664",
+    "name": "Dignify",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "genk",
+        "address": "Houtparklaan 1 10 3600 Genk BE",
+        "coords": [
+          5.482478,
+          50.982319
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 27,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0697.773.260",
+    "name": "Delacom Development",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "zwevegem",
+        "address": "Oude Bellegemstraat 12 8550 Zwevegem BE",
+        "coords": [
+          3.334635,
+          50.806999
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Rooigemlaan 532 9000 Gent BE",
+        "coords": [
+          3.697243,
+          51.064785
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0698.884.604",
+    "name": "Diasbytes",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "oudenaarde",
+        "address": "Lindestraat 28 9700 Oudenaarde BE",
+        "coords": [
+          3.601199,
+          50.854631
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0704.609.483",
+    "name": "Digital Pulse",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "Lucky Lukestraat 6 8500 Kortrijk BE",
+        "coords": [
+          3.258278,
+          50.83116
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0705.969.661",
+    "name": "Digita, In Vereffening",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue Breydel 34-40 1040 Bruxelles BE",
+        "coords": [
+          4.383949,
+          50.840805
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "herent",
+        "address": "Persilstraat 52E 3020 Herent BE",
+        "coords": [
+          4.666571,
+          50.903433
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0713.974.042",
+    "name": "Dw Innovation",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "rijkevorsel",
+        "address": "Molenstraat 92 2310 Rijkevorsel BE",
+        "coords": [
+          4.752878,
+          51.353369
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Sint-Pietersvliet 3 8 2000 Antwerpen BE",
+        "coords": [
+          4.401053,
+          51.226273
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0715.409.345",
+    "name": "Digiwall",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "fosses-la-ville",
+        "address": "Rue Lieutenant-Cotelle, Le Roux 47 5070 Fosses-la-Ville BE",
+        "coords": [
+          4.618073,
+          50.386423
+        ]
+      },
+      {
+        "province": "namur",
+        "municipality": "gembloux",
+        "address": "Rue Camille Hubert,Isnes 2 5032 Gembloux BE",
+        "coords": [
+          4.717315,
+          50.505325
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0715.495.655",
+    "name": "Delomid",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue de la Loi 28 9 1000 Bruxelles BE",
+        "coords": [
+          4.369595,
+          50.845574
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0715.677.777",
+    "name": "Dynamix Java",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "waterloo",
+        "address": "Avenue des Dauphins 17 1410 Waterloo BE",
+        "coords": [
+          4.389868,
+          50.705024
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Louise 54 1050 Ixelles BE",
+        "coords": [
+          4.357593,
+          50.818699
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 32,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0720.755.134",
+    "name": "Datavillage",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "etterbeek",
+        "address": "Cours Saint Michel 30 B 1040 Etterbeek BE",
+        "coords": [
+          4.400816,
+          50.83655
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "ottignies-louvain-la-neuve",
+        "address": "Traverse d'Esope 6 1348 Ottignies-Louvain-la-Neuve BE",
+        "coords": [
+          4.614832,
+          50.66879
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Sluisstraat 79 3.01 3000 Leuven BE",
+        "coords": [
+          4.699858,
+          50.887219
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0722.622.680",
+    "name": "Dn-analytics",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "beauvechain",
+        "address": "Rue de Wavre 52 1320 Beauvechain BE",
+        "coords": [
+          4.783127,
+          50.776051
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "Leonardo da Vincilaan 19 1831 Machelen BE",
+        "coords": [
+          4.45943,
+          50.89242
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 39,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0727.780.508",
+    "name": "Digitalum",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Herkenrodesingel 101 3500 Hasselt BE",
+        "coords": [
+          5.332403,
+          50.942052
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 18,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0731.623.290",
+    "name": "Devgenix",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "buggenhout",
+        "address": "Maalderijstraat 13-15 9255 Buggenhout BE",
+        "coords": [
+          4.203077,
+          51.013584
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0734.618.612",
+    "name": "Digitong",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "tongeren-borgloon",
+        "address": "Heersterveldweg 16A 1 3700 Tongeren-Borgloon BE",
+        "coords": [
+          5.532,
+          50.78951
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0739.729.126",
+    "name": "Dnergy",
+    "site": "deltaq.io/",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Boulevard du Roi Albert II 4 1000 Bruxelles BE",
+        "coords": [
+          4.355075,
+          50.857095
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0740.995.668",
+    "name": "Deduco International",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "Beneluxpark 33 8500 Kortrijk BE",
+        "coords": [
+          3.277782,
+          50.800671
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 20,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0746.558.619",
+    "name": "Dotweb",
+    "site": "www.dotweb.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kalmthout",
+        "address": "Statiestraat 16 2920 Kalmthout BE",
+        "coords": [
+          4.473345,
+          51.393911
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0749.854.243",
+    "name": "Dgenious",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Louise 231 1050 Ixelles BE",
+        "coords": [
+          4.355166,
+          50.817496
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Avenue Pré-Aily 24 4031 Liège BE",
+        "coords": [
+          5.564553,
+          50.596706
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0755.523.201",
+    "name": "Dermatoo",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "chaudfontaine",
+        "address": "Avenue du Centenaire 61 4053 Chaudfontaine BE",
+        "coords": [
+          5.614468,
+          50.59393
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "schaerbeek",
+        "address": "Boulevard Léopold III 43 82 1030 Schaerbeek BE",
+        "coords": [
+          4.402536,
+          50.861168
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0758.632.446",
+    "name": "D-finite",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "vilvoorde",
+        "address": "Harensesteenweg 232 box 2.10 1800 Vilvoorde BE",
+        "coords": [
+          4.4222,
+          50.91877
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0761.781.184",
+    "name": "Datamarinier",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "brasschaat",
+        "address": "Bethaniëlei 39 2930 Brasschaat BE",
+        "coords": [
+          4.511403,
+          51.315244
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0765.935.160",
+    "name": "Devensys",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue Van Maerlant 11 27 1040 Bruxelles BE",
+        "coords": [
+          4.37874,
+          50.84112
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0766.614.655",
+    "name": "Digipost R&d",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Chaussée de Vilvorde 96 1120 Bruxelles BE",
+        "coords": [
+          4.390713,
+          50.890431
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "sint-martens-latem",
+        "address": "Oudburgweg 73 9830 Sint-Martens-Latem BE",
+        "coords": [
+          3.649445,
+          51.021451
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0766.716.506",
+    "name": "Deepsense",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "etterbeek",
+        "address": "Rue des Aduatiques 71 1040 Etterbeek BE",
+        "coords": [
+          4.403319,
+          50.836701
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0768.589.396",
+    "name": "Dyamand",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "nazareth-de-pinte",
+        "address": "Albrecht Rodenbachstraat 8 9840 Nazareth-De Pinte BE",
+        "coords": [
+          3.641512,
+          51.000394
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0768.794.779",
+    "name": "Dcreate",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "brugge",
+        "address": "Sluisstraat 3 101 8000 Brugge BE",
+        "coords": [
+          3.22626,
+          51.22401
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0769.399.149",
+    "name": "Digifist",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Zuidervelodroom 100 2020 2018 Antwerpen BE",
+        "coords": [
+          4.351375,
+          51.220755
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0769.722.318",
+    "name": "Do It Fast",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "chaumont-gistoux",
+        "address": "Avenue des Attelages, Dion-V. 24 1325 Chaumont-Gistoux BE",
+        "coords": [
+          4.643494,
+          50.696123
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0770.726.861",
+    "name": "Dscribe",
+    "site": "www.dscribedata.com/",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Voskenslaan 95 A 9000 Gent BE",
+        "coords": [
+          3.708116,
+          51.032935
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0771.989.346",
+    "name": "Digital Pharma",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "genk",
+        "address": "Slingerweg 52 3600 Genk BE",
+        "coords": [
+          5.490344,
+          50.927115
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0773.435.537",
+    "name": "Discai",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-jans-molenbeek",
+        "address": "Avenue du Port 2 1080 Molenbeek-Saint-Jean BE",
+        "coords": [
+          4.34587,
+          50.860013
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Professor Van Overstraetenplein 2 3000 Leuven BE",
+        "coords": [
+          4.716083,
+          50.879467
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0776.689.985",
+    "name": "Digital Hive",
+    "site": "www.digitalhive.be",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "lummen",
+        "address": "Helvetiastraat 76 3560 Lummen BE",
+        "coords": [
+          5.220583,
+          51.007368
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0779.660.264",
+    "name": "Delta Public",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "lebbeke",
+        "address": "Lindekensstraat 15 A 9280 Lebbeke BE",
+        "coords": [
+          4.153901,
+          50.997811
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0782.986.176",
+    "name": "Dev4log",
+    "site": "www.dev4log.com",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "herstal",
+        "address": "Rue d'Abhooz 27 IBGRAF Bus 4040 Herstal BE",
+        "coords": [
+          5.62055,
+          50.69353
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 18,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0786.648.422",
+    "name": "Dalux Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue aux Laines 70 1000 Bruxelles BE",
+        "coords": [
+          4.352987,
+          50.836089
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0787.873.392",
+    "name": "De Buck Technologies",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "uccle",
+        "address": "Rue des Cottages 18 1 1180 Uccle BE",
+        "coords": [
+          4.339326,
+          50.811884
+        ]
+      },
+      {
+        "province": "namur",
+        "municipality": "la-bruyere",
+        "address": "Rue de la Gloriette, Emines 16 5080 La Bruyère BE",
+        "coords": [
+          4.840557,
+          50.519402
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "de-panne",
+        "address": "Veurnestraat 152 8660 De Panne BE",
+        "coords": [
+          2.596641,
+          51.095053
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0788.491.521",
+    "name": "Doqmind",
+    "site": "www.doqmind.com",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "roeselare",
+        "address": "Liebeekstraat 20 8800 Roeselare BE",
+        "coords": [
+          3.122446,
+          50.979104
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0791.395.185",
+    "name": "Dwyt",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Rue Sainte-Croix 4 4000 Liège BE",
+        "coords": [
+          5.570345,
+          50.645694
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0794.799.390",
+    "name": "Deontic",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Sluisstraat 79 3.1 3000 Leuven BE",
+        "coords": [
+          4.699858,
+          50.887219
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0799.968.797",
+    "name": "Dashdoc Be",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Sint-Pietersvliet 7 2000 Antwerpen BE",
+        "coords": [
+          4.400851,
+          51.225599
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0802.863.060",
+    "name": "Datameister",
+    "site": "www.datameister.ai",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Sint-Jacobsnieuwstraat 17 9000 Gent BE",
+        "coords": [
+          3.729292,
+          51.055306
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0803.907.195",
+    "name": "Dixio",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "chaumont-gistoux",
+        "address": "Rue du Manypré, Corroy 125 1325 Chaumont-Gistoux BE",
+        "coords": [
+          4.682292,
+          50.668809
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0805.008.344",
+    "name": "Direct Energy Partners",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "Pegasuslaan 5 1831 Machelen BE",
+        "coords": [
+          4.448383,
+          50.885615
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0806.978.731",
+    "name": "Dotnext",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "sint-martens-latem",
+        "address": "Latemstraat 115 9830 Sint-Martens-Latem BE",
+        "coords": [
+          3.631421,
+          51.015584
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0807.323.575",
+    "name": "Dekimo Louvain-la-neuve",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "ottignies-louvain-la-neuve",
+        "address": "Avenue Alexander Fleming 2 1348 Ottignies-Louvain-la-Neuve BE",
+        "coords": [
+          4.638746,
+          50.663844
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0811.178.138",
+    "name": "Das Media",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "waregem",
+        "address": "Kalkhoevestraat 30 2.2 8790 Waregem BE",
+        "coords": [
+          3.44582,
+          50.87142
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0811.243.266",
+    "name": "Deconet Computers",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "laakdal",
+        "address": "Plein 10 2430 Laakdal BE",
+        "coords": [
+          4.995179,
+          51.097196
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0811.984.327",
+    "name": "Dutoict",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Kortrijksesteenweg 934 9000 Gent BE",
+        "coords": [
+          3.710482,
+          51.026081
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0812.116.959",
+    "name": "Dillen Technologies",
+    "site": "www.dillen.io",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Kempische steenweg 303 48 3500 Hasselt BE",
+        "coords": [
+          5.35093,
+          50.95385
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0818.621.701",
+    "name": "Digital Creations Agency",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kapellen",
+        "address": "Spechtenlaan 2 2950 Kapellen BE",
+        "coords": [
+          4.444971,
+          51.353038
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0819.112.144",
+    "name": "Defunt.be",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "sambreville",
+        "address": "Rue de Falisolle 330 5060 Sambreville BE",
+        "coords": [
+          4.62937,
+          50.43539
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0821.182.697",
+    "name": "Davo Group",
+    "site": "www.davocom.be",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "deinze",
+        "address": "Moorstraat 27 9850 Deinze BE",
+        "coords": [
+          3.59087,
+          51.04498
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 21,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0823.254.935",
+    "name": "Dekimo Experts Gent",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Dok-Noord 4D 108 9000 Gent BE",
+        "coords": [
+          3.731835,
+          51.06567
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0824.590.367",
+    "name": "Datadobi",
+    "site": "www.datadobi.com",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Kolonel Begaultlaan 1 c 3012 Leuven BE",
+        "coords": [
+          4.705635,
+          50.888721
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0825.628.069",
+    "name": "De Vos Systems",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Garden Citylaan 34 2610 Antwerpen BE",
+        "coords": [
+          4.428476,
+          51.172146
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0826.984.683",
+    "name": "Dynamic Flows",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "waterloo",
+        "address": "Drève Richelle 161 31 1410 Waterloo BE",
+        "coords": [
+          4.409568,
+          50.708427
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0828.442.356",
+    "name": "De Computerfabriek",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "harelbeke",
+        "address": "Elfde-julistraat 109 8530 Harelbeke BE",
+        "coords": [
+          3.298973,
+          50.845719
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "oostrozebeke",
+        "address": "Hoogstraat 26 8780 Oostrozebeke BE",
+        "coords": [
+          3.332432,
+          50.920058
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0828.708.414",
+    "name": "Digimedio",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "hoogstraten",
+        "address": "Putten 6 2320 Hoogstraten BE",
+        "coords": [
+          4.728766,
+          51.39234
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0829.564.289",
+    "name": "Defactuur",
+    "site": "sumocoders.be",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Kerkstraat 106 9050 Gent BE",
+        "coords": [
+          3.7523,
+          51.044589
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0832.448.951",
+    "name": "Dtplan",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "izegem",
+        "address": "Leenstraat 25 8870 Izegem BE",
+        "coords": [
+          3.196328,
+          50.912667
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0833.160.219",
+    "name": "Data Intuitive",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "lebbeke",
+        "address": "Korte Breestraat 4 A 9280 Lebbeke BE",
+        "coords": [
+          4.14259,
+          50.97639
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0833.277.213",
+    "name": "Dobco Medical Systems",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Roderveldlaan 2 2600 Antwerpen BE",
+        "coords": [
+          4.437823,
+          51.191266
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 33,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0834.016.292",
+    "name": "Dronematrix",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Herkenrodesingel 4 1 3500 Hasselt BE",
+        "coords": [
+          5.318619,
+          50.939807
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0835.103.682",
+    "name": "Deligraph",
+    "site": "deligraph.com",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "vorst",
+        "address": "Rue Meyerbeer 20 1190 Forest BE",
+        "coords": [
+          4.346347,
+          50.814867
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "verviers",
+        "address": "Avenue Léopold II 6 4800 Verviers BE",
+        "coords": [
+          5.860741,
+          50.585343
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0835.503.560",
+    "name": "Del.power",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "spa",
+        "address": "Rue Chelui 33 4900 Spa BE",
+        "coords": [
+          5.875496,
+          50.486867
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 21,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0836.214.234",
+    "name": "Daycare-solutions",
+    "site": "www.d-care.be",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "beveren-kruibeke-zwijndrecht",
+        "address": "Kasteeldreef 63 9120 Beveren-Kruibeke-Zwijndrecht BE",
+        "coords": [
+          4.255691,
+          51.216611
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0838.337.841",
+    "name": "Delio Netgates",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Avenue Houba de Strooper 63 1020 Bruxelles BE",
+        "coords": [
+          4.340078,
+          50.887942
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0840.285.264",
+    "name": "Delsan",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kuurne",
+        "address": "Ruitersweg 64 8520 Kuurne BE",
+        "coords": [
+          3.271531,
+          50.857193
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0844.044.609",
+    "name": "Data.be",
+    "site": "www.data.be",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "etterbeek",
+        "address": "Rue des Pères Blancs 4 1040 Etterbeek BE",
+        "coords": [
+          4.400036,
+          50.826661
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0844.259.591",
+    "name": "Dps Group Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "hoeilaart",
+        "address": "Ildefonse Vandammestraat 1-7 1560 Hoeilaart BE",
+        "coords": [
+          4.449968,
+          50.76553
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Borsbeeksebrug 22 2600 Antwerpen BE",
+        "coords": [
+          4.435332,
+          51.200083
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 97,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0844.973.235",
+    "name": "Dnalytics",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "ottignies-louvain-la-neuve",
+        "address": "Place Sainte-Barbe 2 1348 Ottignies-Louvain-la-Neuve BE",
+        "coords": [
+          4.62187,
+          50.66862
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0847.889.074",
+    "name": "Dashdot",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Oranjestraat 44 1 2060 Antwerpen BE",
+        "coords": [
+          4.420563,
+          51.227358
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0848.401.590",
+    "name": "Drgt Online",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "aalst",
+        "address": "Nachtegaalstraat 8 3 9320 Aalst BE",
+        "coords": [
+          4.05563,
+          50.91209
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0859.722.183",
+    "name": "D-studio",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Hendrik Consciencestraat 5 303 2800 Mechelen BE",
+        "coords": [
+          4.482584,
+          51.019505
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2003,
+    "proof": []
+  },
+  {
+    "cbe": "0862.476.389",
+    "name": "Devaxo",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "brasschaat",
+        "address": "Guylei 35 2930 Brasschaat BE",
+        "coords": [
+          4.456718,
+          51.291504
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0862.806.090",
+    "name": "Deltacast",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "ans",
+        "address": "Rue Gilles Magnée 92 6 4430 Ans BE",
+        "coords": [
+          5.52878,
+          50.66136
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0862.938.031",
+    "name": "Dokeos",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "wavre",
+        "address": "Rue Provinciale 264 1301 Wavre BE",
+        "coords": [
+          4.586745,
+          50.704972
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0866.080.039",
+    "name": "D-tech Electronic",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "sint-nicolas",
+        "address": "Rue Hector Denis 114 4420 Saint-Nicolas BE",
+        "coords": [
+          5.526552,
+          50.643196
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0870.663.486",
+    "name": "Data Solutions Grymonpon",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "holsbeek",
+        "address": "Rot 84 3221 Holsbeek BE",
+        "coords": [
+          4.813413,
+          50.957215
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0872.733.843",
+    "name": "Dekimo Experts Louvain-la-neuve",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "ottignies-louvain-la-neuve",
+        "address": "Avenue Alexander Fleming 2 1348 Ottignies-Louvain-la-Neuve BE",
+        "coords": [
+          4.638746,
+          50.663844
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 37,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0874.910.997",
+    "name": "Debiscom",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "dendermonde",
+        "address": "Sint-Gillislaan 99 9200 Dendermonde BE",
+        "coords": [
+          4.11017,
+          51.02014
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0874.961.675",
+    "name": "Ddm Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "turnhout",
+        "address": "Campus Blairon 448 2300 Turnhout BE",
+        "coords": [
+          4.928406,
+          51.31685
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0876.856.442",
+    "name": "Delta Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "waregem",
+        "address": "Groenbek 3 8790 Waregem BE",
+        "coords": [
+          3.418114,
+          50.875662
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0877.603.837",
+    "name": "Dehora Consultancy Group",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Uitbreidingstraat 60-62 2600 Antwerpen BE",
+        "coords": [
+          4.433722,
+          51.201548
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 43,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0878.600.957",
+    "name": "Dv Partners",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Chaussée de Wavre 164 1050 Ixelles BE",
+        "coords": [
+          4.369616,
+          50.835864
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0881.139.189",
+    "name": "Dk Medical",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "zele",
+        "address": "Beekstraat 1A 9240 Zele BE",
+        "coords": [
+          4.060178,
+          51.0877
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0882.093.749",
+    "name": "Duoflow",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mortsel",
+        "address": "Ten Dorpelei 5 2640 Mortsel BE",
+        "coords": [
+          4.448219,
+          51.173828
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0886.997.692",
+    "name": "Datos It Smb",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "tubize",
+        "address": "Rue Henri La Fontaine 9 1480 Tubize BE",
+        "coords": [
+          4.17179,
+          50.698347
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Avenue Louise 500 1050 Bruxelles BE",
+        "coords": [
+          4.372487,
+          50.816555
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0887.547.822",
+    "name": "Djm Digital",
+    "site": "www.djmdigital.be",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "vise",
+        "address": "Rue Porte de Lorette 78 4600 Visé BE",
+        "coords": [
+          5.699293,
+          50.730827
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Cantersteen 47 1000 Bruxelles BE",
+        "coords": [
+          4.358233,
+          50.845598
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Esplanade Simone VEIL 1 4000 Liège BE",
+        "coords": [
+          5.571249,
+          50.626293
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 40,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0889.313.321",
+    "name": "Dr Gaming Technology Europe",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Kortrijksesteenweg 1084 403 9051 Gent BE",
+        "coords": [
+          3.69005,
+          51.02247
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0891.694.076",
+    "name": "Digi-flow",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Terbekehofdreef 24 2610 Antwerpen BE",
+        "coords": [
+          4.375091,
+          51.154631
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 26,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0892.405.344",
+    "name": "Domo Ict",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Nederzwijnaarde 2 9052 Gent BE",
+        "coords": [
+          3.727798,
+          51.006254
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0898.817.539",
+    "name": "Dileoz",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Excelsiorlaan 3 1930 Zaventem BE",
+        "coords": [
+          4.455712,
+          50.881069
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 20,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "1012.089.882",
+    "name": "Datavise",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Kempische steenweg 309 1.01 3500 Hasselt BE",
+        "coords": [
+          5.351431,
+          50.951768
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2024,
+    "proof": []
+  },
+  {
+    "cbe": "0407.073.762",
+    "name": "Decetrans",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "olen",
+        "address": "Hoogbuul 32 2250 Olen BE",
+        "coords": [
+          4.88806,
+          51.148876
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 1970,
+    "proof": []
+  },
+  {
+    "cbe": "0418.850.156",
+    "name": "Decospan Holding",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "menen",
+        "address": "Lageweg 33 8930 Menen BE",
+        "coords": [
+          3.105864,
+          50.793666
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 1978,
+    "proof": []
+  },
+  {
+    "cbe": "0421.615.250",
+    "name": "D.s.i.",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "nivelles",
+        "address": "Rue Altiero Spinelli 4 1401 Nivelles BE",
+        "coords": [
+          4.330853,
+          50.618761
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 1981,
+    "proof": []
+  },
+  {
+    "cbe": "0428.586.085",
+    "name": "Deltatec",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "ans",
+        "address": "Rue Gilles Magnée 92 6 4430 Ans BE",
+        "coords": [
+          5.52878,
+          50.66136
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 63,
+    "founded": 1986,
+    "proof": []
+  },
+  {
+    "cbe": "0429.979.818",
+    "name": "Disa",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "herstal",
+        "address": "Rue d'Abhooz 31 4040 Herstal BE",
+        "coords": [
+          5.6207,
+          50.692619
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 1986,
+    "proof": []
+  },
+  {
+    "cbe": "0429.980.115",
+    "name": "Disprimo",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "wemmel",
+        "address": "Avenue des Alouettes 29 1780 Wemmel BE",
+        "coords": [
+          4.314957,
+          50.92376
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Koningin Astridlaan 1 2 2550 Kontich BE",
+        "coords": [
+          4.449844,
+          51.124027
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 1986,
+    "proof": []
+  },
+  {
+    "cbe": "0436.637.976",
+    "name": "D.c.",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "tubize",
+        "address": "Avenue Léon Champagne 2 1480 Tubize BE",
+        "coords": [
+          4.174849,
+          50.708045
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 1989,
+    "proof": []
+  },
+  {
+    "cbe": "0436.689.842",
+    "name": "Data Investigation Company Europe",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-agatha-berchem",
+        "address": "Avenue du Roi Albert 160 1082 Berchem-Sainte-Agathe BE",
+        "coords": [
+          4.287854,
+          50.866484
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "dilbeek",
+        "address": "'t Hofveld 6 F 1702 Dilbeek BE",
+        "coords": [
+          4.27127,
+          50.87031
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 1989,
+    "proof": []
+  },
+  {
+    "cbe": "0439.010.617",
+    "name": "D & D Computers",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "temse",
+        "address": "Eurolaan 7B 9140 Temse BE",
+        "coords": [
+          4.191083,
+          51.137517
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 21,
+    "founded": 1989,
+    "proof": []
+  },
+  {
+    "cbe": "0441.414.237",
+    "name": "Dataction",
+    "site": "www.dataction.be",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "aalst",
+        "address": "Ninovesteenweg 198 B9 9320 Aalst BE",
+        "coords": [
+          4.045197,
+          50.915479
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 1990,
+    "proof": []
+  },
+  {
+    "cbe": "0442.411.060",
+    "name": "Delta - Software - Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "blankenberge",
+        "address": "Koning Albert-I-laan 33 101 8370 Blankenberge BE",
+        "coords": [
+          3.137088,
+          51.313223
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 1990,
+    "proof": []
+  },
+  {
+    "cbe": "0444.227.039",
+    "name": "Data - M",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "wetteren",
+        "address": "Jozef Buyssestraat 72 9230 Wetteren BE",
+        "coords": [
+          3.888048,
+          51.003145
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 1991,
+    "proof": []
+  },
+  {
+    "cbe": "0447.216.817",
+    "name": "Dynatrace",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rond-point Robert Schuman 6 5 1040 Bruxelles BE",
+        "coords": [
+          4.383833,
+          50.841868
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Kardinaal Mercierplein 2 2800 Mechelen BE",
+        "coords": [
+          4.48265,
+          51.02156
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 1992,
+    "proof": []
+  },
+  {
+    "cbe": "0447.550.278",
+    "name": "Dell",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "wemmel",
+        "address": "Avenue Reine Astrid 164 1780 Wemmel BE",
+        "coords": [
+          4.315525,
+          50.89767
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 231,
+    "founded": 1992,
+    "proof": []
+  },
+  {
+    "cbe": "0447.860.975",
+    "name": "Decision Engineering",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "rixensart",
+        "address": "Avenue Georges Marchal 18 1330 Rixensart BE",
+        "coords": [
+          4.529147,
+          50.712898
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 19,
+    "founded": 1992,
+    "proof": []
+  },
+  {
+    "cbe": "0448.492.960",
+    "name": "Dp Syst",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "la-hulpe",
+        "address": "Avenue Belle Vue 6 1310 La Hulpe BE",
+        "coords": [
+          4.481037,
+          50.732947
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 1992,
+    "proof": []
+  },
+  {
+    "cbe": "0449.674.281",
+    "name": "Dienst Tewerkstelling Van Koekelberg - Service Emploi De Koekelberg",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "koekelberg",
+        "address": "Rue Jean Jacquet 39 1081 Koekelberg BE",
+        "coords": [
+          4.328178,
+          50.857801
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 45,
+    "founded": 1992,
+    "proof": []
+  },
+  {
+    "cbe": "0450.469.186",
+    "name": "Deutsche Telekom Global Business Solutions Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "Culliganlaan 5 2/001 1831 Machelen BE",
+        "coords": [
+          4.453805,
+          50.887924
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 22,
+    "founded": 1993,
+    "proof": []
+  },
+  {
+    "cbe": "0452.498.367",
+    "name": "Dstny Global Services Be",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Belgicastraat 17 1930 Zaventem BE",
+        "coords": [
+          4.457635,
+          50.878356
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 22,
+    "founded": 1994,
+    "proof": []
+  },
+  {
+    "cbe": "0453.453.818",
+    "name": "Deco Energy",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "oudenaarde",
+        "address": "Heuvel 12 9700 Oudenaarde BE",
+        "coords": [
+          3.64248,
+          50.88589
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 1994,
+    "proof": []
+  },
+  {
+    "cbe": "0458.002.128",
+    "name": "Diginet",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "vilvoorde",
+        "address": "Aarschotsestraat 87 A 1800 Vilvoorde BE",
+        "coords": [
+          4.454104,
+          50.92594
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 1996,
+    "proof": []
+  },
+  {
+    "cbe": "0459.806.922",
+    "name": "Driezen It",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "westerlo",
+        "address": "Boerenkrijglaan 81 2260 Westerlo BE",
+        "coords": [
+          4.912561,
+          51.09269
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 1997,
+    "proof": []
+  },
+  {
+    "cbe": "0461.145.522",
+    "name": "Dvit",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "erpe-mere",
+        "address": "Oudenaardsesteenweg 9 9420 Erpe-Mere BE",
+        "coords": [
+          3.991715,
+          50.941139
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 1997,
+    "proof": []
+  },
+  {
+    "cbe": "0464.980.782",
+    "name": "Do It Now",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "chaumont-gistoux",
+        "address": "Avenue des Attelages, Dion-V. 24 1325 Chaumont-Gistoux BE",
+        "coords": [
+          4.643494,
+          50.696123
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 1998,
+    "proof": []
+  },
+  {
+    "cbe": "0465.546.649",
+    "name": "Diline Soft",
+    "site": "info@dilinesoft.be",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "ninove",
+        "address": "Kruisveldstraat 55 9400 Ninove BE",
+        "coords": [
+          4.021721,
+          50.802619
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "ninove",
+        "address": "Edingsesteenweg 271 9400 Ninove BE",
+        "coords": [
+          4.022692,
+          50.802769
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0465.736.095",
+    "name": "D-concept",
+    "site": "www.multimediashop.be",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "braine-lalleud",
+        "address": "Chaussée Reine Astrid 39 1420 Braine-l'Alleud BE",
+        "coords": [
+          4.379148,
+          50.685855
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "braine-lalleud",
+        "address": "Chaussée Reine Astrid 41 1420 Braine-l'Alleud BE",
+        "coords": [
+          4.379008,
+          50.6857
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0466.475.275",
+    "name": "Devoteam",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "Culliganlaan 3 1831 Machelen BE",
+        "coords": [
+          4.452676,
+          50.886611
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 349,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0466.628.495",
+    "name": "Ddb Project",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "braine-lalleud",
+        "address": "Av Ab de Remiremont 20 1420 Braine-l'Alleud BE",
+        "coords": [
+          4.381843,
+          50.679931
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0466.729.158",
+    "name": "Dc Star",
+    "site": "www.dcstar.be",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "oostkamp",
+        "address": "Brugsestraat 196 1 8020 Oostkamp BE",
+        "coords": [
+          3.23496,
+          51.166899
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Poortakkerstraat 33 9051 Gent BE",
+        "coords": [
+          3.683343,
+          51.026957
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0471.941.325",
+    "name": "Dendrite",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Harmoniestraat 138 2018 Antwerpen BE",
+        "coords": [
+          4.408143,
+          51.199915
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0472.062.376",
+    "name": "Docsupport",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "oudsbergen",
+        "address": "Weg op Bree 69 3670 Oudsbergen BE",
+        "coords": [
+          5.528634,
+          51.100587
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0472.338.035",
+    "name": "Delrue Communications",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "anzegem",
+        "address": "Kerkstraat 131 8570 Anzegem BE",
+        "coords": [
+          3.472882,
+          50.839852
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "anzegem",
+        "address": "Kerkstraat 125 8570 Anzegem BE",
+        "coords": [
+          3.473049,
+          50.839481
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0473.243.303",
+    "name": "Devline",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "braives",
+        "address": "Passage du Jardinier 8 4263 Braives BE",
+        "coords": [
+          5.175616,
+          50.636785
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0475.409.470",
+    "name": "Damnet",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "namur-city",
+        "address": "Route de Louvain-la-Neuve 6 14 5001 Namur BE",
+        "coords": [
+          4.815042,
+          50.474183
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 34,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0475.475.588",
+    "name": "Digital Soil Facility Management",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "maldegem",
+        "address": "Krommewege 31G 9990 Maldegem BE",
+        "coords": [
+          3.468275,
+          51.193744
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0475.852.405",
+    "name": "D.g.p.s.",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Rue Gachard 88 12 1050 Ixelles BE",
+        "coords": [
+          4.367325,
+          50.825177
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0476.594.355",
+    "name": "Datacore",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "temse",
+        "address": "Georges Van Dammeplein 2 9140 Temse BE",
+        "coords": [
+          4.20905,
+          51.122339
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2002,
+    "proof": []
+  },
+  {
+    "cbe": "0479.117.543",
+    "name": "Delaware Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "Kapel ter Bede 86 8500 Kortrijk BE",
+        "coords": [
+          3.300378,
+          50.823789
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Uitbreidingstraat 2-8 2600 Antwerpen BE",
+        "coords": [
+          4.41258,
+          51.193536
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "wavre",
+        "address": "Avenue Fleming 14 1300 Wavre BE",
+        "coords": [
+          4.604147,
+          50.738048
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Amelia Earhartlaan 10 9051 Gent BE",
+        "coords": [
+          3.69068,
+          51.02969
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "lummen",
+        "address": "Klaverbladstraat 11 3560 Lummen BE",
+        "coords": [
+          5.227559,
+          50.996497
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "ans",
+        "address": "Rue de la Ferme 71 4430 Ans BE",
+        "coords": [
+          5.518325,
+          50.655248
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 1476,
+    "founded": 2002,
+    "proof": []
+  },
+  {
+    "cbe": "0479.994.996",
+    "name": "D & F Company",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Rue Capitaine Crespel 42 1050 Ixelles BE",
+        "coords": [
+          4.358237,
+          50.834871
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2003,
+    "proof": []
+  },
+  {
+    "cbe": "0502.420.606",
+    "name": "Dominion Experts",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "ronse",
+        "address": "Rue Oscar Delghust 60 9600 Ronse BE",
+        "coords": [
+          3.616923,
+          50.750268
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 26,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0539.908.136",
+    "name": "Dun & Bradstreet Europe Data Science Innovation",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-lambrechts-woluwe",
+        "address": "Bd. Brand Whitlock 87 1200 Woluwe-Saint-Lambert BE",
+        "coords": [
+          4.406075,
+          50.841766
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0543.425.375",
+    "name": "Deltablue",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Kempische steenweg 293 34 3500 Hasselt BE",
+        "coords": [
+          5.35241,
+          50.95315
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0544.961.044",
+    "name": "Docshifter",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Eedverbondkaai 242 /003 9000 Gent BE",
+        "coords": [
+          3.713355,
+          51.041209
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0553.609.979",
+    "name": "Direct Phone",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "anderlecht",
+        "address": "Rue Victor Rauter 33 1070 Anderlecht BE",
+        "coords": [
+          4.312917,
+          50.835064
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0561.774.411",
+    "name": "Dercetech",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "lasne",
+        "address": "Rue du Bois Mastrade 27 1380 Lasne BE",
+        "coords": [
+          4.485987,
+          50.658823
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0563.960.473",
+    "name": "Duneit",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "wemmel",
+        "address": "Avenue des Allées Fleuries 12 1780 Wemmel BE",
+        "coords": [
+          4.332908,
+          50.923396
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue Notre-Seigneur 11 4 1000 Bruxelles BE",
+        "coords": [
+          4.34975,
+          50.84055
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0564.753.695",
+    "name": "Dotarchie",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Prins Boudewijnlaan 24 C 2550 Kontich BE",
+        "coords": [
+          4.438778,
+          51.140031
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0567.612.524",
+    "name": "D. Pierre Graphisme Et Publicite",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "wavre",
+        "address": "Avenue Lavoisier 18 B 1300 Wavre BE",
+        "coords": [
+          4.58793,
+          50.73455
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0568.766.131",
+    "name": "Datashift",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Oude Brusselsestraat 14 2800 Mechelen BE",
+        "coords": [
+          4.48172,
+          51.02198
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 68,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0578.927.177",
+    "name": "Dcbo",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "geel",
+        "address": "Herentalseweg 3 2440 Geel BE",
+        "coords": [
+          4.94152,
+          51.14051
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0599.985.580",
+    "name": "De Meersman F & V",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Klossestraat 64 9052 Gent BE",
+        "coords": [
+          3.67588,
+          51.00645
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0607.825.259",
+    "name": "Deluxe Concepts",
+    "site": "www.blindtiger.be",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "Sint-Jansstraat 25 8500 Kortrijk BE",
+        "coords": [
+          3.27136,
+          50.827224
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0628.954.334",
+    "name": "Datalumen",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 31 2550 Kontich BE",
+        "coords": [
+          4.443344,
+          51.142801
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0630.675.588",
+    "name": "Digiteal",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "mont-saint-guibert",
+        "address": "Rue Emile Francqui 6 9 1435 Mont-Saint-Guibert BE",
+        "coords": [
+          4.622694,
+          50.658888
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0630.867.214",
+    "name": "Daems Inc",
+    "site": "www.daemsconsulting.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "malle",
+        "address": "Hickendorfdreef 37 2390 Malle BE",
+        "coords": [
+          4.661316,
+          51.277322
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "zoersel",
+        "address": "Handelslei 123 2980 Zoersel BE",
+        "coords": [
+          4.639436,
+          51.267621
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "malle",
+        "address": "Antwerpsesteenweg 322 2390 Malle BE",
+        "coords": [
+          4.688062,
+          51.297492
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0634.962.988",
+    "name": "Doowings",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Louise 500 213 1050 Ixelles BE",
+        "coords": [
+          4.372487,
+          50.816555
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0636.971.779",
+    "name": "Dialog Services Belux",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Nauwstraat 9 101 2800 Mechelen BE",
+        "coords": [
+          4.477193,
+          51.026238
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0644.482.648",
+    "name": "Digifast",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "kampenhout",
+        "address": "Balkestraat 11 1910 Kampenhout BE",
+        "coords": [
+          4.585531,
+          50.935397
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0652.798.617",
+    "name": "Dwy",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Olivetenvest 9 2800 Mechelen BE",
+        "coords": [
+          4.471271,
+          51.029071
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0653.856.907",
+    "name": "Dico Diamond Company",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "asse",
+        "address": "Boekfos 16 1730 Asse BE",
+        "coords": [
+          4.198036,
+          50.907778
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0653.944.801",
+    "name": "Daxit Solutions",
+    "site": "www.daxit.be",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "assesse",
+        "address": "Rue du Puits Saint Martin 21 5330 Assesse BE",
+        "coords": [
+          5.026067,
+          50.358504
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0655.900.340",
+    "name": "Dynamics Consulting & Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "hemiksem",
+        "address": "Varenstraat 72 2620 Hemiksem BE",
+        "coords": [
+          4.34561,
+          51.15248
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0660.752.815",
+    "name": "Denis Berckmans Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "waterloo",
+        "address": "Drève Richelle 161 M 1410 Waterloo BE",
+        "coords": [
+          4.409568,
+          50.708427
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0660.813.587",
+    "name": "Dxc Field Delivery Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Blarenberglaan 2 2800 Mechelen BE",
+        "coords": [
+          4.446845,
+          51.052715
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 200,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0663.965.691",
+    "name": "Dstny Global Infra Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Belgicastraat 17 1930 Zaventem BE",
+        "coords": [
+          4.457635,
+          50.878356
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 18,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0664.942.225",
+    "name": "Divirsiti",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0667.976.246",
+    "name": "Dataminded",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Vismarkt 17 3000 Leuven BE",
+        "coords": [
+          4.699901,
+          50.881858
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 27,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0668.591.405",
+    "name": "Dataroots",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Tiensevest 132 3000 Leuven BE",
+        "coords": [
+          4.715013,
+          50.87639
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "charleroi",
+        "address": "Quai Paul Verlaine 2 6000 Charleroi BE",
+        "coords": [
+          4.437763,
+          50.40651
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Bellevue 5 9050 Gent BE",
+        "coords": [
+          3.735757,
+          51.034752
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 119,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0669.735.015",
+    "name": "De Piloten",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "izegem",
+        "address": "Leenstraat 125 8870 Izegem BE",
+        "coords": [
+          3.193335,
+          50.903476
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "roeselare",
+        "address": "Rijselstraat 14 13 8800 Roeselare BE",
+        "coords": [
+          3.123108,
+          50.940713
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 25,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0670.545.162",
+    "name": "Dunden",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Lange Gasthuisstraat 29 2000 Antwerpen BE",
+        "coords": [
+          4.40539,
+          51.21481
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0670.898.124",
+    "name": "Donkeycomm",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Britselei 23 2000 Antwerpen BE",
+        "coords": [
+          4.40647,
+          51.20968
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0674.824.149",
+    "name": "Datasense",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Kempische steenweg 309 1.01 3500 Hasselt BE",
+        "coords": [
+          5.351431,
+          50.951768
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 40,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0676.500.764",
+    "name": "Digital-sys",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "ciney",
+        "address": "Rue du Polissou 23/E 5590 Ciney BE",
+        "coords": [
+          5.068193,
+          50.262586
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0677.680.503",
+    "name": "Dts Translations",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "bernissart",
+        "address": "Rue de Valenciennes 236 A 7320 Bernissart BE",
+        "coords": [
+          3.639377,
+          50.477298
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "bernissart",
+        "address": "Rue de Valenciennes 236 B 7320 Bernissart BE",
+        "coords": [
+          3.639377,
+          50.477298
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "nivelles",
+        "address": "Avenue Thomas Edison 140 1402 Nivelles BE",
+        "coords": [
+          4.35814,
+          50.57672
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 19,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0679.584.275",
+    "name": "Digitribe",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "oudergem",
+        "address": "Avenue Herrmann-Debroux 40-42 1160 Auderghem BE",
+        "coords": [
+          4.430679,
+          50.813223
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Borsbeeksebrug 34 2600 Antwerpen BE",
+        "coords": [
+          4.434024,
+          51.199956
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0680.476.972",
+    "name": "Dynappco",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0682.492.988",
+    "name": "Develite",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "heist-op-den-berg",
+        "address": "Zandvoortstraat 42 2220 Heist-op-den-Berg BE",
+        "coords": [
+          4.705465,
+          51.051327
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0682.598.007",
+    "name": "Dptechnics",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "knokke-heist",
+        "address": "Westkapellestraat 396 44 8300 Knokke-Heist BE",
+        "coords": [
+          3.273695,
+          51.322694
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0682.898.212",
+    "name": "Dynoprotec Training And Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "silly",
+        "address": "Rue des Frères 28 7830 Silly BE",
+        "coords": [
+          3.94574,
+          50.6079
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0685.437.434",
+    "name": "Deltanexx",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Sterrebos 68 3512 Hasselt BE",
+        "coords": [
+          5.260002,
+          50.918764
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "diepenbeek",
+        "address": "Varkensmarkt 18 1 3590 Diepenbeek BE",
+        "coords": [
+          5.418547,
+          50.908297
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0690.565.764",
+    "name": "Digimut",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue du Midi 111 1000 Bruxelles BE",
+        "coords": [
+          4.348217,
+          50.844867
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0701.702.948",
+    "name": "Digiraf",
+    "site": "digiraf.gent",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Henri Bernard de Tracylaan 15 9041 Gent BE",
+        "coords": [
+          3.764771,
+          51.095734
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0712.595.058",
+    "name": "Digital Data Minds",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "dilbeek",
+        "address": "Molenberg 9 1702 Dilbeek BE",
+        "coords": [
+          4.244805,
+          50.872461
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0713.936.133",
+    "name": "D-pac",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Boshovestraat 100 2100 Antwerpen BE",
+        "coords": [
+          4.468465,
+          51.222845
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Luitenant Naeyaertplein 25 2140 Antwerpen BE",
+        "coords": [
+          4.439476,
+          51.209659
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0715.433.792",
+    "name": "De Agile Testers",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "destelbergen",
+        "address": "Scheldelaan 5 9070 Destelbergen BE",
+        "coords": [
+          3.766617,
+          51.051781
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 19,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0717.823.358",
+    "name": "Digital Unity",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Philipssite 5 1 3001 Leuven BE",
+        "coords": [
+          4.712963,
+          50.867016
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 24,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0725.684.318",
+    "name": "Dss Sustainable Solutions Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-joost-ten-node",
+        "address": "Boulevard Saint-Lazare 4-10 ET6 1210 Saint-Josse-ten-Noode BE",
+        "coords": [
+          4.362316,
+          50.85626
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0727.612.836",
+    "name": "Dmvh.eu",
+    "site": "www.dmvh.eu",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "merelbeke-melle",
+        "address": "Ambachtsweg 20 9820 Merelbeke-Melle BE",
+        "coords": [
+          3.763113,
+          50.992305
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0728.654.694",
+    "name": "Debreuck Neirynck",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "Lucky Lukestraat 6 8500 Kortrijk BE",
+        "coords": [
+          3.258278,
+          50.83116
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0729.973.401",
+    "name": "Dhs Digital",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Avenue Louise 54 1050 Bruxelles BE",
+        "coords": [
+          4.357593,
+          50.818699
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0731.572.515",
+    "name": "Dvlp Facility",
+    "site": "www.dvlp-facility.be",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "dinant",
+        "address": "Rue Léopold 32 5500 Dinant BE",
+        "coords": [
+          4.9172,
+          50.2549
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0733.711.067",
+    "name": "D-reno",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "pajottegem",
+        "address": "Oude Steenweg 19 1540 Pajottegem BE",
+        "coords": [
+          4.027378,
+          50.727362
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0735.680.365",
+    "name": "Digital-stewards",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Goswin III-laan 17 3001 Leuven BE",
+        "coords": [
+          4.669631,
+          50.870854
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0736.547.130",
+    "name": "Dotnet Academy",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "westerlo",
+        "address": "Gravin de Merodestraat 132 2260 Westerlo BE",
+        "coords": [
+          4.834277,
+          51.074956
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0736.617.802",
+    "name": "Dattico",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "oudergem",
+        "address": "Avenue Herrmann-Debroux 40 1160 Auderghem BE",
+        "coords": [
+          4.430679,
+          50.813223
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0737.366.383",
+    "name": "Deselect",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Berchemstadionstraat 76 Bus 1 2600 Antwerpen BE",
+        "coords": [
+          4.438964,
+          51.189213
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 18,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0737.751.316",
+    "name": "Dice",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Square de Meeûs 38-40 1000 Bruxelles BE",
+        "coords": [
+          4.369896,
+          50.839633
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "verlaine",
+        "address": "Rue des Croisettes 75 4537 Verlaine BE",
+        "coords": [
+          5.325269,
+          50.616589
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0738.723.393",
+    "name": "Deluxe Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "herstal",
+        "address": "Rue d'Abhooz 31 4040 Herstal BE",
+        "coords": [
+          5.6207,
+          50.692619
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0740.983.988",
+    "name": "Dogstudio",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "namur-city",
+        "address": "Rue Joseph Saintraint 10 5000 Namur BE",
+        "coords": [
+          4.860823,
+          50.463376
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0740.997.252",
+    "name": "Datawolk",
+    "site": "www.datawolk.be",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "bocholt",
+        "address": "Kaulillerweg 4 2 3950 Bocholt BE",
+        "coords": [
+          5.577894,
+          51.173575
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0747.865.149",
+    "name": "De Kluis Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "dendermonde",
+        "address": "Burgemeester Portmanslaan 35 A 9200 Dendermonde BE",
+        "coords": [
+          4.097408,
+          51.023601
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0749.729.331",
+    "name": "Data-build",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "essen",
+        "address": "Dennenlaan 10 2910 Essen BE",
+        "coords": [
+          4.44791,
+          51.457106
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0753.556.871",
+    "name": "Dear Digital",
+    "site": "deardigital.be",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Vorkstraat 22 9000 Gent BE",
+        "coords": [
+          3.73125,
+          51.07555
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Rooigemlaan 532 9000 Gent BE",
+        "coords": [
+          3.697243,
+          51.064785
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0754.803.223",
+    "name": "Druw Audio",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Avenue Pré-Aily 24 4031 Liège BE",
+        "coords": [
+          5.564553,
+          50.596706
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue De Crayer 5 1000 Bruxelles BE",
+        "coords": [
+          4.368966,
+          50.82096
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0757.651.954",
+    "name": "Devinity",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "anderlecht",
+        "address": "Rue Victor Rauter 31 1070 Anderlecht BE",
+        "coords": [
+          4.313064,
+          50.834986
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0765.431.453",
+    "name": "Datatune",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "sint-truiden",
+        "address": "Hasseltsesteenweg 497 3800 Sint-Truiden BE",
+        "coords": [
+          5.246571,
+          50.86112
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0768.953.642",
+    "name": "Daïmo",
+    "site": "www.daimo.be",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "namur-city",
+        "address": "Avenue des Dessus de Lives 2 5101 Namur BE",
+        "coords": [
+          4.923718,
+          50.46173
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0771.447.829",
+    "name": "De Praeters",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Ilgatlaan 9 3500 Hasselt BE",
+        "coords": [
+          5.354289,
+          50.922248
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0772.823.150",
+    "name": "D-carbonize",
+    "site": "www.d-carbonize.eu",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-pieters-woluwe",
+        "address": "Avenue Grandchamp 77 1150 Woluwe-Saint-Pierre BE",
+        "coords": [
+          4.450747,
+          50.835268
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "wavre",
+        "address": "Chaussée de Huy 120 1300 Wavre BE",
+        "coords": [
+          4.631424,
+          50.705209
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0773.979.430",
+    "name": "Dualoop",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Rue des Champs Elysées 18a 2 1050 Ixelles BE",
+        "coords": [
+          4.367204,
+          50.831105
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "wezembeek-oppem",
+        "address": "Rue du Long Chêne 105 1970 Wezembeek-Oppem BE",
+        "coords": [
+          4.497256,
+          50.85311
+        ]
+      },
+      {
+        "province": "luxembourg",
+        "municipality": "arlon",
+        "address": "Sterpenich, rue de Steinfort 20 6700 Arlon BE",
+        "coords": [
+          5.893308,
+          49.651527
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Louise 350 1050 Ixelles BE",
+        "coords": [
+          4.369685,
+          50.822247
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 34,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0782.464.851",
+    "name": "Deta-up",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Prins Boudewijnlaan 24 C 2550 Kontich BE",
+        "coords": [
+          4.438778,
+          51.140031
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0786.898.543",
+    "name": "Digi-lab",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "ellezelles",
+        "address": "Mituraye 1 7890 Ellezelles BE",
+        "coords": [
+          3.673014,
+          50.735924
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0789.973.542",
+    "name": "Digital Rabbits",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "lennik",
+        "address": "Negenbunderstraat 110 1750 Lennik BE",
+        "coords": [
+          4.139539,
+          50.809524
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0792.385.179",
+    "name": "Data Wizards Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Arnaud Fraiteur 15 23 1050 Ixelles BE",
+        "coords": [
+          4.395968,
+          50.817416
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "Leonardo da Vincilaan 19c 1831 Machelen BE",
+        "coords": [
+          4.45943,
+          50.89242
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "ottignies-louvain-la-neuve",
+        "address": "Courbevoie 13 1348 Ottignies-Louvain-la-Neuve BE",
+        "coords": [
+          4.620546,
+          50.674505
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0797.521.231",
+    "name": "Dotnet Lab Holding",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "westerlo",
+        "address": "Gravin de Merodestraat 132 2260 Westerlo BE",
+        "coords": [
+          4.834277,
+          51.074956
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0806.138.492",
+    "name": "Datalink",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "diepenbeek",
+        "address": "Nieuwstraat 72 3590 Diepenbeek BE",
+        "coords": [
+          5.441618,
+          50.918674
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0807.036.337",
+    "name": "Dewetec",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "sint-katelijne-waver",
+        "address": "Klemlei 6 2861 Sint-Katelijne-Waver BE",
+        "coords": [
+          4.580647,
+          51.069236
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0807.246.767",
+    "name": "Dotocean",
+    "site": "www.dotocean.eu",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "brugge",
+        "address": "Gistelse Steenweg 294 205 8200 Brugge BE",
+        "coords": [
+          3.195156,
+          51.201551
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Stropkaai 55 9000 Gent BE",
+        "coords": [
+          3.73374,
+          51.032478
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Interleuvenlaan 17 A 3001 Leuven BE",
+        "coords": [
+          4.732836,
+          50.847094
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "brugge",
+        "address": "Dreef ter Panne 12 8000 Brugge BE",
+        "coords": [
+          3.22685,
+          51.2329
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 19,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0811.908.608",
+    "name": "Dphi",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "herstal",
+        "address": "Parc Ind. des Hauts Sarts, 1e av 22 40 4040 Herstal BE",
+        "coords": [
+          5.61967,
+          50.69034
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0817.672.089",
+    "name": "Delta Application Technics",
+    "site": "www.delta-at.be",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "geraardsbergen",
+        "address": "Parkbos 1 9500 Geraardsbergen BE",
+        "coords": [
+          3.875146,
+          50.819061
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0818.275.865",
+    "name": "Doolaeghe",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kuurne",
+        "address": "Koning Boudewijnstraat 105 8520 Kuurne BE",
+        "coords": [
+          3.280432,
+          50.860692
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 30,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0820.154.103",
+    "name": "Daenens Jobs & Interim",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "Brugsesteenweg 253 8500 Kortrijk BE",
+        "coords": [
+          3.266782,
+          50.843997
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "aartselaar",
+        "address": "Antwerpsesteenweg 124 2630 Aartselaar BE",
+        "coords": [
+          4.38071,
+          51.145252
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "brugge",
+        "address": "Hoefijzerlaan 4 8000 Brugge BE",
+        "coords": [
+          3.217255,
+          51.206138
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "roeselare",
+        "address": "Brugsesteenweg 13-17 8800 Roeselare BE",
+        "coords": [
+          3.120194,
+          50.951686
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "waregem",
+        "address": "Kalkhoevestraat 1 8790 Waregem BE",
+        "coords": [
+          3.44856,
+          50.872814
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 63,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0821.123.509",
+    "name": "Demareg",
+    "site": "www.demareg.be",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "ninove",
+        "address": "Nekkersput 79 A 9401 Ninove BE",
+        "coords": [
+          4.00055,
+          50.81942
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0830.629.113",
+    "name": "Dynapps",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "geel",
+        "address": "Antwerpseweg 1 2440 Geel BE",
+        "coords": [
+          4.973612,
+          51.153182
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Ottergemsesteenweg 439/8 9000 Gent BE",
+        "coords": [
+          3.7354,
+          51.0262
+        ]
+      },
+      {
+        "province": "namur",
+        "municipality": "namur-city",
+        "address": "Avenue d'Ecolys 2 46 5020 Namur BE",
+        "coords": [
+          4.796613,
+          50.485184
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 68,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0833.934.338",
+    "name": "De Groene Linden",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "brecht",
+        "address": "Schotensteenweg 62-64 2960 Brecht BE",
+        "coords": [
+          4.603766,
+          51.328307
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0847.462.670",
+    "name": "Datalliance-europe",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "Grensstraat 7 1831 Machelen BE",
+        "coords": [
+          4.450499,
+          50.881581
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 26,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0848.346.459",
+    "name": "Droia",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Da Vincilaan 1 1930 Zaventem BE",
+        "coords": [
+          4.460156,
+          50.887966
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0849.158.784",
+    "name": "Dalco Electro",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Hoogstraat 158 11 1930 Zaventem BE",
+        "coords": [
+          4.466844,
+          50.882457
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0849.717.129",
+    "name": "Distri-consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "nazareth-de-pinte",
+        "address": "Steenweg Deinze 59A 9810 Nazareth-De Pinte BE",
+        "coords": [
+          3.581587,
+          50.948137
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "nazareth-de-pinte",
+        "address": "'s Gravenstraat 197 34 9810 Nazareth-De Pinte BE",
+        "coords": [
+          3.595703,
+          50.948455
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0859.563.124",
+    "name": "Deritron",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "wingene",
+        "address": "Beernemsteenweg 77 8750 Wingene BE",
+        "coords": [
+          3.298068,
+          51.078366
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2003,
+    "proof": []
+  },
+  {
+    "cbe": "0862.093.636",
+    "name": "Devos Office Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "brugge",
+        "address": "Moerkerkse Steenweg 232 8310 Brugge BE",
+        "coords": [
+          3.254157,
+          51.214323
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2003,
+    "proof": []
+  },
+  {
+    "cbe": "0866.396.476",
+    "name": "Digi Consult",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "denderleeuw",
+        "address": "Steenweg 591 9470 Denderleeuw BE",
+        "coords": [
+          4.056946,
+          50.8712
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0874.617.425",
+    "name": "Digame",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Lei 8 A 3000 Leuven BE",
+        "coords": [
+          4.696587,
+          50.880619
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0876.615.130",
+    "name": "Decube Consult",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "la-louviere",
+        "address": "Quai du Pont Canal 3 7110 La Louvière BE",
+        "coords": [
+          4.116479,
+          50.488119
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0877.525.841",
+    "name": "Digivision",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mol",
+        "address": "Ginderbroek 29 2400 Mol BE",
+        "coords": [
+          5.107294,
+          51.181406
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0880.119.503",
+    "name": "Docbyte",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Kortrijksesteenweg 1144B 9051 Gent BE",
+        "coords": [
+          3.672545,
+          51.018879
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0885.392.442",
+    "name": "Domotion",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "schoten",
+        "address": "Brechtsebaan 36 2900 Schoten BE",
+        "coords": [
+          4.512556,
+          51.265208
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 21,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0886.708.375",
+    "name": "Digital Dot",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "steenokkerzeel",
+        "address": "Kalkoven 50 1820 Steenokkerzeel BE",
+        "coords": [
+          4.489225,
+          50.916666
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0891.231.842",
+    "name": "Dassault Systemes Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "oudergem",
+        "address": "Avenue Herrmann-Debroux 40 1160 Auderghem BE",
+        "coords": [
+          4.430679,
+          50.813223
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "vilvoorde",
+        "address": "Mechelsesteenweg 558A 1800 Vilvoorde BE",
+        "coords": [
+          4.439805,
+          50.942938
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 49,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0891.296.376",
+    "name": "De Cock Ict",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "sint-katelijne-waver",
+        "address": "Stationsstraat 20 2860 Sint-Katelijne-Waver BE",
+        "coords": [
+          4.530113,
+          51.070842
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0891.512.746",
+    "name": "Deels",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "zandhoven",
+        "address": "Zagerijstraat 10 10 2240 Zandhoven BE",
+        "coords": [
+          4.63731,
+          51.19516
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "turnhout",
+        "address": "Parklaan 46 222 2300 Turnhout BE",
+        "coords": [
+          4.940461,
+          51.311941
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0892.151.164",
+    "name": "Dm Invest Properties Int.",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "keerbergen",
+        "address": "Vlieghavenlaan 138A 3140 Keerbergen BE",
+        "coords": [
+          4.688385,
+          51.007945
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "harelbeke",
+        "address": "Stedestraat 51 8530 Harelbeke BE",
+        "coords": [
+          3.303931,
+          50.857424
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "kampenhout",
+        "address": "Haachtsesteenweg 116 1 1910 Kampenhout BE",
+        "coords": [
+          4.503651,
+          50.919818
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0894.451.153",
+    "name": "Dockx Holding",
+    "site": "www.dockx.com",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "dessel",
+        "address": "Bleekstraat 19 2480 Dessel BE",
+        "coords": [
+          5.105704,
+          51.246357
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0895.233.091",
+    "name": "Domica",
+    "site": "www.domica.be",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "beveren-kruibeke-zwijndrecht",
+        "address": "Hogenakkerhoekstraat 8 9150 Beveren-Kruibeke-Zwijndrecht BE",
+        "coords": [
+          4.317911,
+          51.195001
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0898.692.231",
+    "name": "Devaro",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "dilbeek",
+        "address": "Smissenbosstraat 50 1700 Dilbeek BE",
+        "coords": [
+          4.23545,
+          50.853252
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "1001.789.175",
+    "name": "Doo.coop",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Maarschalk Gérardstraat 4 2000 Antwerpen BE",
+        "coords": [
+          4.40413,
+          51.213344
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0876.774.981",
+    "name": "Digiti",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "zandhoven",
+        "address": "Kanaalstraat 1B 2240 Zandhoven BE",
+        "coords": [
+          4.636758,
+          51.191943
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15.2,
+    "founded": 2005,
+    "proof": []
+  }
+]

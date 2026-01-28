@@ -1,0 +1,3639 @@
+[
+  {
+    "cbe": "0411.897.335",
+    "name": "Logal",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "leuze-en-hainaut",
+        "address": "Chemin du Vieux Pont(l) 54 7900 Leuze-en-Hainaut BE",
+        "coords": [
+          3.627882,
+          50.60348
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 1971,
+    "proof": []
+  },
+  {
+    "cbe": "0424.497.041",
+    "name": "Le Beau Vallon - Soins Spécialisés En Santé Mentale",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "namur-city",
+        "address": "Rue de Bricgniot(SS) 205 5002 Namur BE",
+        "coords": [
+          4.827754,
+          50.488207
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 589,
+    "founded": 1982,
+    "proof": []
+  },
+  {
+    "cbe": "0436.534.147",
+    "name": "Liantis Corporate",
+    "site": "www.liantis.be",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "brugge",
+        "address": "Sint-Clarastraat 48 8000 Brugge BE",
+        "coords": [
+          3.224078,
+          51.216855
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "brugge",
+        "address": "Wittemolenstraat 64 8200 Brugge BE",
+        "coords": [
+          3.203436,
+          51.185179
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Oude Brusselsestraat 8 2800 Mechelen BE",
+        "coords": [
+          4.48179,
+          51.02214
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "turnhout",
+        "address": "de Merodelei 236 2300 Turnhout BE",
+        "coords": [
+          4.9258,
+          51.3202
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Herkenrodesingel 12 3500 Hasselt BE",
+        "coords": [
+          5.323284,
+          50.942871
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Quai de Willebroeck 37 1000 Bruxelles BE",
+        "coords": [
+          4.35286,
+          50.863856
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "brugge",
+        "address": "Dirk Martensstraat 26 1 8200 Brugge BE",
+        "coords": [
+          3.191596,
+          51.211156
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "ieper",
+        "address": "Fochlaan 34 8900 Ieper BE",
+        "coords": [
+          2.87606,
+          50.85029
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "westerlo",
+        "address": "de Merodedreef 100 2260 Westerlo BE",
+        "coords": [
+          4.917832,
+          51.090297
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "izegem",
+        "address": "Burgemeester Vandenbogaerdelaan 72 8870 Izegem BE",
+        "coords": [
+          3.209595,
+          50.912347
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "veurne",
+        "address": "Lindendreef 9 8630 Veurne BE",
+        "coords": [
+          2.66311,
+          51.069859
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "halle",
+        "address": "Vanden Eeckhoudtstraat 13 1 1500 Halle BE",
+        "coords": [
+          4.236595,
+          50.738864
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "lier",
+        "address": "Kruisbogenhofstraat 23-27 2500 Lier BE",
+        "coords": [
+          4.570143,
+          51.13084
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "brugge",
+        "address": "Jan Breydellaan 107 8200 Brugge BE",
+        "coords": [
+          3.205239,
+          51.211474
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "charleroi",
+        "address": "Rue des Carrières 202a 6010 Charleroi BE",
+        "coords": [
+          4.474205,
+          50.379447
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "wavre",
+        "address": "Rue de Champles 70 2 1301 Wavre BE",
+        "coords": [
+          4.57467,
+          50.72444
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "ans",
+        "address": "Rue Mabîme 58 4432 Ans BE",
+        "coords": [
+          5.52035,
+          50.669976
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "geel",
+        "address": "Diestseweg 63 2440 Geel BE",
+        "coords": [
+          4.992712,
+          51.158173
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "aalst",
+        "address": "Korte Keppestraat 9 21 9320 Aalst BE",
+        "coords": [
+          4.043541,
+          50.915329
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Nadine Crappéstraat 1 9000 Gent BE",
+        "coords": [
+          3.690247,
+          51.055152
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Diestsevest 82 3000 Leuven BE",
+        "coords": [
+          4.7115,
+          50.88488
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "'t Hoge(Kor) 1 8500 Kortrijk BE",
+        "coords": [
+          3.28378,
+          50.80224
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "torhout",
+        "address": "Zuidstraat 18 8820 Torhout BE",
+        "coords": [
+          3.1025,
+          51.06375
+        ]
+      },
+      {
+        "province": "namur",
+        "municipality": "namur-city",
+        "address": "Pl. des Jardins de Baseilles(EP) 4 5101 Namur BE",
+        "coords": [
+          4.904598,
+          50.441054
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "roeselare",
+        "address": "Ovenstraat 37 8800 Roeselare BE",
+        "coords": [
+          3.096757,
+          50.947664
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "tienen",
+        "address": "Goossensvest 42 3300 Tienen BE",
+        "coords": [
+          4.933716,
+          50.803854
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "bornem",
+        "address": "Puursesteenweg(BOR) 390c 2880 Bornem BE",
+        "coords": [
+          4.262902,
+          51.08561
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "sint-niklaas",
+        "address": "Gentse Baan 66 101 9100 Sint-Niklaas BE",
+        "coords": [
+          4.125954,
+          51.148188
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Mechelsesteenweg 180 2018 Antwerpen BE",
+        "coords": [
+          4.41052,
+          51.20447
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "eupen",
+        "address": "Gewerbestrasse 9 4700 Eupen BE",
+        "coords": [
+          6.014207,
+          50.638194
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "pelt",
+        "address": "Leopoldlaan 55 3900 Pelt BE",
+        "coords": [
+          5.42734,
+          51.221615
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "charleroi",
+        "address": "Rue Antoine de Saint-Exupéry 18 6041 Charleroi BE",
+        "coords": [
+          4.463746,
+          50.469949
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 428,
+    "founded": 1989,
+    "proof": []
+  },
+  {
+    "cbe": "0437.727.841",
+    "name": "Locatex",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "bilzen-hoeselt",
+        "address": "Onze Lieve Vrouwstraat 25 3740 Bilzen-Hoeselt BE",
+        "coords": [
+          5.515579,
+          50.871031
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "bilzen-hoeselt",
+        "address": "Genutstraat 4 3740 Bilzen-Hoeselt BE",
+        "coords": [
+          5.515065,
+          50.871151
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 1989,
+    "proof": []
+  },
+  {
+    "cbe": "0438.001.025",
+    "name": "Liedavid",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "Preshoekstraat(Mar) 130 8510 Kortrijk BE",
+        "coords": [
+          3.224845,
+          50.800645
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 1989,
+    "proof": []
+  },
+  {
+    "cbe": "0442.690.281",
+    "name": "Lexmark International",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "Culliganlaan 2 1831 Machelen BE",
+        "coords": [
+          4.45015,
+          50.884537
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 1991,
+    "proof": []
+  },
+  {
+    "cbe": "0449.370.811",
+    "name": "Lab9 Pro",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "Dumolinlaan(Kor) 5 8500 Kortrijk BE",
+        "coords": [
+          3.245882,
+          50.81307
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Grote Baan 23 3511 Hasselt BE",
+        "coords": [
+          5.306836,
+          50.940361
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Bisschoppenhoflaan 500 2100 Antwerpen BE",
+        "coords": [
+          4.47223,
+          51.23454
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "Dumolinlaan(Kor) 7 8500 Kortrijk BE",
+        "coords": [
+          3.245824,
+          50.81276
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 67,
+    "founded": 1993,
+    "proof": []
+  },
+  {
+    "cbe": "0450.382.084",
+    "name": "Lewis Communications",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Kipdorpbrug 1 2000 Antwerpen BE",
+        "coords": [
+          4.415282,
+          51.219848
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 21,
+    "founded": 1993,
+    "proof": []
+  },
+  {
+    "cbe": "0451.728.010",
+    "name": "Logic-immo, Logic-immo Krant",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "etterbeek",
+        "address": "Rue des Francs 79 1040 Etterbeek BE",
+        "coords": [
+          4.399698,
+          50.837065
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 1994,
+    "proof": []
+  },
+  {
+    "cbe": "0455.545.553",
+    "name": "Lbrp",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-gillis",
+        "address": "Rue Jourdan 148 1060 Saint-Gilles BE",
+        "coords": [
+          4.347967,
+          50.831373
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 1995,
+    "proof": []
+  },
+  {
+    "cbe": "0458.354.692",
+    "name": "Link Manage",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Abdij Vlierbeek 3 3010 Leuven BE",
+        "coords": [
+          4.73575,
+          50.89211
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 1996,
+    "proof": []
+  },
+  {
+    "cbe": "0461.210.650",
+    "name": "Loft 33",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "herent",
+        "address": "Persilstraat 51 2 3020 Herent BE",
+        "coords": [
+          4.667642,
+          50.903607
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 1997,
+    "proof": []
+  },
+  {
+    "cbe": "0461.396.732",
+    "name": "Lubon",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "zoersel",
+        "address": "Handelslei 56 3 2980 Zoersel BE",
+        "coords": [
+          4.634777,
+          51.264204
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 1997,
+    "proof": []
+  },
+  {
+    "cbe": "0465.607.621",
+    "name": "Luciad",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Gaston Geenslaan 11 3001 Leuven BE",
+        "coords": [
+          4.669279,
+          50.864801
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 69,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0467.120.227",
+    "name": "Lynx Automation",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "herentals",
+        "address": "Wuytsbergen(HRT) 2 2200 Herentals BE",
+        "coords": [
+          4.814446,
+          51.180797
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0467.418.254",
+    "name": "Licquid",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Van Montfortstraat 29 A 2140 Antwerpen BE",
+        "coords": [
+          4.437325,
+          51.218917
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0469.323.414",
+    "name": "Lionbridge Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Avenue Louise 65 11 1050 Bruxelles BE",
+        "coords": [
+          4.356642,
+          50.818743
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0474.604.964",
+    "name": "Lodgon",
+    "site": "www.lodgon.com",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Industrieweg 3 3001 Leuven BE",
+        "coords": [
+          4.724143,
+          50.845789
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0476.836.558",
+    "name": "Leo",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "neupre",
+        "address": "Rue du Thier 8 4122 Neupré BE",
+        "coords": [
+          5.520715,
+          50.542929
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2002,
+    "proof": []
+  },
+  {
+    "cbe": "0502.249.865",
+    "name": "Lincelot",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "boechout",
+        "address": "Provinciesteenweg 686 2530 Boechout BE",
+        "coords": [
+          4.520775,
+          51.154682
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "edegem",
+        "address": "Buizegemlei 59 2650 Edegem BE",
+        "coords": [
+          4.454342,
+          51.150139
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0538.668.417",
+    "name": "Lansweeper",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "merelbeke-melle",
+        "address": "Fraterstraat 212 9820 Merelbeke-Melle BE",
+        "coords": [
+          3.75605,
+          51.00372
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 121,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0541.352.248",
+    "name": "Libaro",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "brugge",
+        "address": "Vaartdijkstraat 19 8200 Brugge BE",
+        "coords": [
+          3.231337,
+          51.188741
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0545.992.709",
+    "name": "Lns",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "lommel",
+        "address": "Louis Pasteurstraat 21 3920 Lommel BE",
+        "coords": [
+          5.257273,
+          51.215564
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0548.756.417",
+    "name": "Lucky Cycle",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Louise 523 1050 Ixelles BE",
+        "coords": [
+          4.371815,
+          50.815277
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0549.924.573",
+    "name": "Lsit",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Quai des Ardennes 139 4031 Liège BE",
+        "coords": [
+          5.608523,
+          50.615115
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0553.769.733",
+    "name": "Luceda",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Reigerstraat 8 9000 Gent BE",
+        "coords": [
+          3.710264,
+          51.034187
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 17,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0633.981.805",
+    "name": "Law",
+    "site": "www.lex.be",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "etterbeek",
+        "address": "Rue des Pères Blancs 4 1040 Etterbeek BE",
+        "coords": [
+          4.400036,
+          50.826661
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0634.604.286",
+    "name": "Lemon Companies",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Groeningenlei 16 2550 Kontich BE",
+        "coords": [
+          4.436364,
+          51.138538
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 26,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0639.741.130",
+    "name": "Lodder Software",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Floraliënlaan 2 1 2600 Antwerpen BE",
+        "coords": [
+          4.416849,
+          51.188333
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "poperinge",
+        "address": "Europalaan 7 8970 Poperinge BE",
+        "coords": [
+          2.743896,
+          50.852345
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Schaliënhoevedreef 20H 2800 Mechelen BE",
+        "coords": [
+          4.458027,
+          51.055363
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0639.912.166",
+    "name": "Letsgo City",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Esplanade Simone VEIL 1 4000 Liège BE",
+        "coords": [
+          5.571249,
+          50.626293
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0640.944.227",
+    "name": "Luzmo",
+    "site": "www.cumul.io",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Tiensevest 102 201 3000 Leuven BE",
+        "coords": [
+          4.715363,
+          50.877308
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0644.838.281",
+    "name": "Lumency",
+    "site": "www.lumency.be",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue Dieudonné Lefèvre 17 1020 Bruxelles BE",
+        "coords": [
+          4.351008,
+          50.870516
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "houthalen-helchteren",
+        "address": "Heidestraat 3 3530 Houthalen-Helchteren BE",
+        "coords": [
+          5.382936,
+          51.068249
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "etterbeek",
+        "address": "Rue des Pères Blancs 4 1040 Etterbeek BE",
+        "coords": [
+          4.400036,
+          50.826661
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0661.725.189",
+    "name": "Linguineo",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Bottelarij 14 2 3000 Leuven BE",
+        "coords": [
+          4.69923,
+          50.88565
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0662.478.128",
+    "name": "Lenovo Global Technology Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "De Kleetlaan 12B 1831 Machelen BE",
+        "coords": [
+          4.448663,
+          50.888743
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0668.808.961",
+    "name": "L.m.",
+    "site": "webiome.com",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "moeskroen",
+        "address": "Rue des Pélerins 61 7700 Mouscron BE",
+        "coords": [
+          3.20877,
+          50.75786
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "tournai",
+        "address": "Avenue de Maire 44 7500 Tournai BE",
+        "coords": [
+          3.37597,
+          50.61407
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0680.423.623",
+    "name": "Lgtech",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "grace-hollogne",
+        "address": "Rue de l'Avenir 28 4460 Grâce-Hollogne BE",
+        "coords": [
+          5.492018,
+          50.650321
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0684.901.954",
+    "name": "Linqup",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Hendrik Consciencestraat 1 B 2800 Mechelen BE",
+        "coords": [
+          4.482557,
+          51.020069
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0685.950.940",
+    "name": "Local Web",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "etterbeek",
+        "address": "Rue des Francs 79 1040 Etterbeek BE",
+        "coords": [
+          4.399698,
+          50.837065
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "mont-saint-guibert",
+        "address": "Chemin du Cyclotron 6 1348 Mont-Saint-Guibert BE",
+        "coords": [
+          4.62368,
+          50.66513
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0688.626.061",
+    "name": "Lys Medical",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "waterloo",
+        "address": "Rue Bruyère-Saint-Jean 7A 1410 Waterloo BE",
+        "coords": [
+          4.382279,
+          50.714601
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 18,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0688.732.761",
+    "name": "Leapstation",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Ledebergstraat 67 9050 Gent BE",
+        "coords": [
+          3.741605,
+          51.035283
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0690.539.832",
+    "name": "Lesterius",
+    "site": "www.lesterius.com",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Kortrijksesteenweg 1144N 9051 Gent BE",
+        "coords": [
+          3.672545,
+          51.018879
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0691.949.696",
+    "name": "Lennow Productions",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "genk",
+        "address": "Loofstraat 6 1.1 3600 Genk BE",
+        "coords": [
+          5.505389,
+          50.970743
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "genk",
+        "address": "Houtparklaan 5 2.1 3600 Genk BE",
+        "coords": [
+          5.482426,
+          50.980897
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0700.781.448",
+    "name": "Leadout Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Klokstraat 14 2600 Antwerpen BE",
+        "coords": [
+          4.43091,
+          51.20162
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0707.779.108",
+    "name": "Lab900",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Boomgaardstraat 3 2800 Mechelen BE",
+        "coords": [
+          4.460351,
+          51.023461
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0728.913.131",
+    "name": "Landing",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Eedstraat 80 9052 Gent BE",
+        "coords": [
+          3.703725,
+          51.005468
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0734.987.707",
+    "name": "Loop! Mgmt",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "merelbeke-melle",
+        "address": "Park ter Linden 1 9090 Merelbeke-Melle BE",
+        "coords": [
+          3.793676,
+          51.001186
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0736.943.444",
+    "name": "Leonard Web Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "verviers",
+        "address": "Rue de Bellaire 9 4802 Verviers BE",
+        "coords": [
+          5.865553,
+          50.566606
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0741.538.472",
+    "name": "La Niche",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "namur-city",
+        "address": "Rue Joseph Saintraint 10 5000 Namur BE",
+        "coords": [
+          4.860823,
+          50.463376
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Quai Sur Meuse 19 4000 Liège BE",
+        "coords": [
+          5.576496,
+          50.642075
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0747.501.103",
+    "name": "Lizy Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Place Eugène Flagey 18 1050 Ixelles BE",
+        "coords": [
+          4.372805,
+          50.827096
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 25,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0749.435.064",
+    "name": "Legal Software Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "oudenaarde",
+        "address": "Doornikstraat 12 101 9700 Oudenaarde BE",
+        "coords": [
+          3.607563,
+          50.838226
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Foreestelaan 1 9000 Gent BE",
+        "coords": [
+          3.733194,
+          51.029933
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0752.709.706",
+    "name": "Let's App",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Stationsstraat 55 2800 Mechelen BE",
+        "coords": [
+          4.48072,
+          51.01675
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0754.858.750",
+    "name": "Loctax",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Gebroeders Vandeveldestraat 68 9000 Gent BE",
+        "coords": [
+          3.717416,
+          51.050322
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0762.733.071",
+    "name": "Lucernys Belgique",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Louise 231 1050 Ixelles BE",
+        "coords": [
+          4.355166,
+          50.817496
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0763.581.525",
+    "name": "Lexerta België",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "De Regenboog 11 2800 Mechelen BE",
+        "coords": [
+          4.463049,
+          51.006994
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0770.789.120",
+    "name": "Ludifica",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "chaudfontaine",
+        "address": "Voie de l'Ardenne 134/6 4053 Chaudfontaine BE",
+        "coords": [
+          5.609097,
+          50.587758
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0774.825.706",
+    "name": "Lis Customs",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "bierbeek",
+        "address": "Pakeshof 16 3360 Bierbeek BE",
+        "coords": [
+          4.78218,
+          50.85206
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0779.617.308",
+    "name": "Littlebigcode Benelux",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Louise 54 1050 Ixelles BE",
+        "coords": [
+          4.357593,
+          50.818699
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0779.768.449",
+    "name": "Lato Travel App",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Ham 1 9000 Gent BE",
+        "coords": [
+          3.73291,
+          51.05712
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0785.948.735",
+    "name": "Leadix",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "vorst",
+        "address": "Avenue Minerve 41 1190 Forest BE",
+        "coords": [
+          4.331415,
+          50.810054
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "watermaal-bosvoorde",
+        "address": "Chaussée de La Hulpe 150 1170 Watermael-Boitsfort BE",
+        "coords": [
+          4.401455,
+          50.796716
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "nivelles",
+        "address": "Rue des Frères-Pierseaux 1 1400 Nivelles BE",
+        "coords": [
+          4.32404,
+          50.599075
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0790.960.170",
+    "name": "Livecrew Holding",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "charleroi",
+        "address": "Square des Martyrs 1 6000 Charleroi BE",
+        "coords": [
+          4.435636,
+          50.442599
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0797.715.132",
+    "name": "Logic Tools",
+    "site": "www.logic.tools",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue de la Caserne 45 1000 Bruxelles BE",
+        "coords": [
+          4.341455,
+          50.841838
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0798.128.569",
+    "name": "Lytis Software Private Limited Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-agatha-berchem",
+        "address": "Rue de Grand-Bigard 14 1082 Berchem-Sainte-Agathe BE",
+        "coords": [
+          4.30341,
+          50.85811
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0799.138.953",
+    "name": "Ledenbeheer",
+    "site": "www.ledenbeheer.be",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "koekelare",
+        "address": "Veldstraat 26 8680 Koekelare BE",
+        "coords": [
+          2.97347,
+          51.087471
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0802.162.779",
+    "name": "Ldp-group",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "zottegem",
+        "address": "Boskouter 10 9620 Zottegem BE",
+        "coords": [
+          3.816666,
+          50.883186
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0802.226.622",
+    "name": "Lvn Tech",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "anderlecht",
+        "address": "Route de Lennik 1043 0.4 1070 Anderlecht BE",
+        "coords": [
+          4.253722,
+          50.817553
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0803.978.263",
+    "name": "Legalfly",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Veldstraat 88 301 9000 Gent BE",
+        "coords": [
+          3.721056,
+          51.050946
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0805.273.313",
+    "name": "Lehibou Belgique",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "watermaal-bosvoorde",
+        "address": "Square de l'Arbalète 6 1170 Watermael-Boitsfort BE",
+        "coords": [
+          4.408787,
+          50.801596
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Arnaud Fraiteur 15 23 1050 Ixelles BE",
+        "coords": [
+          4.395968,
+          50.817416
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0811.171.012",
+    "name": "Ls Information Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "hannuit",
+        "address": "Rue de Houtain 31 4280 Hannut BE",
+        "coords": [
+          5.04278,
+          50.69949
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0820.638.410",
+    "name": "Link Media",
+    "site": "www.linkmedia.be/",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "zandhoven",
+        "address": "Pulsebaan 50 2 2242 Zandhoven BE",
+        "coords": [
+          4.693555,
+          51.212566
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0825.929.759",
+    "name": "Limecraft",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Sint-Salvatorstraat 18B 301 9000 Gent BE",
+        "coords": [
+          3.72983,
+          51.06558
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0830.550.028",
+    "name": "Limebooth",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "lokeren",
+        "address": "Schuttershof 14 9180 Lokeren BE",
+        "coords": [
+          3.942764,
+          51.177979
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0834.112.403",
+    "name": "Lvlp",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "oudergem",
+        "address": "Avenue des Volontaires 19 1160 Auderghem BE",
+        "coords": [
+          4.400277,
+          50.825089
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 24,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0838.171.951",
+    "name": "Lea",
+    "site": "",
+    "locations": [
+      {
+        "province": "luxembourg",
+        "municipality": "libramont-chevigny",
+        "address": "Libramont,Rue du Serpont 123 6800 Libramont-Chevigny BE",
+        "coords": [
+          5.354704,
+          49.930036
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0839.288.243",
+    "name": "Lugus Studios",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Aldestraat 48 3500 Hasselt BE",
+        "coords": [
+          5.334774,
+          50.930466
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0842.720.855",
+    "name": "Letsbuild Belgium Sa",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "braine-lalleud",
+        "address": "Place du Luxembourg 1 5 1420 Braine-l'Alleud BE",
+        "coords": [
+          4.381175,
+          50.665759
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 18,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0848.672.004",
+    "name": "Lightspeed Pos Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Raymonde de Larochelaan 15 9051 Gent BE",
+        "coords": [
+          3.69305,
+          51.02907
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 74,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0861.264.384",
+    "name": "Let's Sport 2020",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "heron",
+        "address": "Rue de Montigny 5 C 4217 Héron BE",
+        "coords": [
+          5.084242,
+          50.54117
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2003,
+    "proof": []
+  },
+  {
+    "cbe": "0862.000.396",
+    "name": "Leica Geosystems",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "Jan Mommaertslaan 18 1831 Machelen BE",
+        "coords": [
+          4.44427,
+          50.88805
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 29,
+    "founded": 2003,
+    "proof": []
+  },
+  {
+    "cbe": "0862.423.634",
+    "name": "Lovatech",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Imperiastraat 6 1 1930 Zaventem BE",
+        "coords": [
+          4.454771,
+          50.879997
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2003,
+    "proof": []
+  },
+  {
+    "cbe": "0867.269.773",
+    "name": "Listen",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "awans",
+        "address": "Rue Chaussée 67 2 4342 Awans BE",
+        "coords": [
+          5.456605,
+          50.685346
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0872.356.830",
+    "name": "Lenovo (belgium)",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "De Kleetlaan 12B 1831 Machelen BE",
+        "coords": [
+          4.448663,
+          50.888743
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 38,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0883.559.241",
+    "name": "Liekens Media",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "herent",
+        "address": "Hogebeekstraat 11 3020 Herent BE",
+        "coords": [
+          4.66399,
+          50.91761
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0890.439.412",
+    "name": "Level 27",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Via Media 4 3500 Hasselt BE",
+        "coords": [
+          5.372795,
+          50.929909
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0895.007.617",
+    "name": "Logic In Motion",
+    "site": "www.logicinmotion.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Léon Stynenstraat 50 4 2000 Antwerpen BE",
+        "coords": [
+          4.384651,
+          51.205907
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0430.100.473",
+    "name": "Laco",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "Woluwelaan 135 1831 Machelen BE",
+        "coords": [
+          4.44491,
+          50.89188
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Ottergemsesteenweg-Zuid 808 564 9000 Gent BE",
+        "coords": [
+          3.733061,
+          51.015577
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 65,
+    "founded": 1986,
+    "proof": []
+  },
+  {
+    "cbe": "0438.301.725",
+    "name": "Le Réseau",
+    "site": "www.lereseau.be",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "charleroi",
+        "address": "Route de Trazegnies 41 6031 Charleroi BE",
+        "coords": [
+          4.390957,
+          50.412517
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "nivelles",
+        "address": "Rue Sainte-Barbe 89 1400 Nivelles BE",
+        "coords": [
+          4.313268,
+          50.592138
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "nivelles",
+        "address": "Rue du Cura 57 1400 Nivelles BE",
+        "coords": [
+          4.327657,
+          50.600949
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "ottignies-louvain-la-neuve",
+        "address": "Rue du Moulin 4 1340 Ottignies-Louvain-la-Neuve BE",
+        "coords": [
+          4.56774,
+          50.66542
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "charleroi",
+        "address": "Rue du Grand Central 91 12 6000 Charleroi BE",
+        "coords": [
+          4.436888,
+          50.408852
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 30,
+    "founded": 1989,
+    "proof": []
+  },
+  {
+    "cbe": "0444.038.680",
+    "name": "Lipa",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "diepenbeek",
+        "address": "Groeningenweg 8 3 3590 Diepenbeek BE",
+        "coords": [
+          5.429499,
+          50.904325
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 1991,
+    "proof": []
+  },
+  {
+    "cbe": "0454.563.081",
+    "name": "Listrico",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "lubbeek",
+        "address": "Burchtlaan 17 3210 Lubbeek BE",
+        "coords": [
+          4.7628,
+          50.90369
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "lubbeek",
+        "address": "Endepoelstraat 3A 30 3210 Lubbeek BE",
+        "coords": [
+          4.792032,
+          50.892553
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 1995,
+    "proof": []
+  },
+  {
+    "cbe": "0460.397.830",
+    "name": "Laurion",
+    "site": "www.laurion.be",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "begijnendijk",
+        "address": "Baalsesteenweg 57 3130 Begijnendijk BE",
+        "coords": [
+          4.775554,
+          51.016985
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 1997,
+    "proof": []
+  },
+  {
+    "cbe": "0462.823.523",
+    "name": "Lumen Technologies Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Place du Champ de Mars 2 1050 Ixelles BE",
+        "coords": [
+          4.363474,
+          50.838365
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "evere",
+        "address": "Av. L. Grosjean 2 1140 Evere BE",
+        "coords": [
+          4.411995,
+          50.857816
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 1998,
+    "proof": []
+  },
+  {
+    "cbe": "0463.770.460",
+    "name": "Lebon It Services",
+    "site": "www.lebonitservices.be",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "staden",
+        "address": "Roeselarestraat 205A 8840 Staden BE",
+        "coords": [
+          3.07863,
+          50.94233
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 36,
+    "founded": 1998,
+    "proof": []
+  },
+  {
+    "cbe": "0464.502.514",
+    "name": "Logidrive",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "braine-lalleud",
+        "address": "Avenue du Japon 1 1420 Braine-l'Alleud BE",
+        "coords": [
+          4.387036,
+          50.669099
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 26,
+    "founded": 1998,
+    "proof": []
+  },
+  {
+    "cbe": "0466.618.795",
+    "name": "Lisam Systems",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "ecaussinnes",
+        "address": "Rue Jean Jaurès 5 7190 Ecaussinnes BE",
+        "coords": [
+          4.165628,
+          50.567535
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "zwevegem",
+        "address": "Otegemstraat 100 8550 Zwevegem BE",
+        "coords": [
+          3.340517,
+          50.81311
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "hannuit",
+        "address": "Rue de France 1 4280 Hannut BE",
+        "coords": [
+          5.090653,
+          50.679639
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "nivelles",
+        "address": "Rue du Bosquet 8 1400 Nivelles BE",
+        "coords": [
+          4.355627,
+          50.580847
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Rue Chéri 40 4000 Liège BE",
+        "coords": [
+          5.588803,
+          50.650287
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 79,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0472.908.751",
+    "name": "Lcp",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "oostkamp",
+        "address": "Kapellestraat 144 3 8020 Oostkamp BE",
+        "coords": [
+          3.242499,
+          51.145275
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0473.137.591",
+    "name": "Linux Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Canadalaan 8 2812 Mechelen BE",
+        "coords": [
+          4.533459,
+          50.997641
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "Oude Haachtsesteenweg 75a 1831 Machelen BE",
+        "coords": [
+          4.432756,
+          50.894548
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0473.456.901",
+    "name": "Level It",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Allée des Noisetiers 6 4031 Liège BE",
+        "coords": [
+          5.572691,
+          50.599465
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0474.543.596",
+    "name": "Limcotech",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "genk",
+        "address": "Onderwijslaan 35 3600 Genk BE",
+        "coords": [
+          5.518058,
+          50.997889
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0526.904.196",
+    "name": "Learnia",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0550.388.391",
+    "name": "Logicash",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "braine-lalleud",
+        "address": "Place Saint-Zèle 16 1420 Braine-l'Alleud BE",
+        "coords": [
+          4.359839,
+          50.680002
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "braine-lalleud",
+        "address": "Place Saint-Zèle 16 A 1420 Braine-l'Alleud BE",
+        "coords": [
+          4.359839,
+          50.680002
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0551.842.601",
+    "name": "Liverental",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Excelsiorlaan 47 1930 Zaventem BE",
+        "coords": [
+          4.454475,
+          50.884419
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0553.818.332",
+    "name": "Linkit-all",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Sint-Katelijnestraat 83 2800 Mechelen BE",
+        "coords": [
+          4.47537,
+          51.031568
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0568.847.986",
+    "name": "Lunar Interactive",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0637.919.015",
+    "name": "Lynxcare Clinical Informatics",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "tervuren",
+        "address": "Oppemstraat 13 3080 Tervuren BE",
+        "coords": [
+          4.508427,
+          50.825258
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 17,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0656.604.579",
+    "name": "Liatec",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "keerbergen",
+        "address": "Broekelei 44 3140 Keerbergen BE",
+        "coords": [
+          4.626414,
+          51.001177
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0668.728.787",
+    "name": "Lievens Consulting",
+    "site": "lievensconsulting.com",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "dendermonde",
+        "address": "Bevrijdingslaan 196 9200 Dendermonde BE",
+        "coords": [
+          4.051405,
+          51.023226
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0674.519.291",
+    "name": "Leadist",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Louise 54 1050 Ixelles BE",
+        "coords": [
+          4.357593,
+          50.818699
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0674.917.189",
+    "name": "Lr Consult",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "tongeren-borgloon",
+        "address": "Henisstraat 71 2 3700 Tongeren-Borgloon BE",
+        "coords": [
+          5.470086,
+          50.786206
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0676.555.796",
+    "name": "Logitail",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0678.735.823",
+    "name": "Leap Forward",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Sint-Salvatorstraat 18/303 9000 Gent BE",
+        "coords": [
+          3.729531,
+          51.065586
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0680.741.644",
+    "name": "Lawcloud",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Amerikalei 122 2000 Antwerpen BE",
+        "coords": [
+          4.394834,
+          51.206822
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0687.845.014",
+    "name": "Layer 9 Networks",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Zomerwee 1 9040 Gent BE",
+        "coords": [
+          3.765011,
+          51.051141
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Kerkstraat 106 9050 Gent BE",
+        "coords": [
+          3.7523,
+          51.044589
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0707.681.514",
+    "name": "Lantana",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Grauwmeer 1/44 42 3001 Leuven BE",
+        "coords": [
+          4.721144,
+          50.848877
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "ottignies-louvain-la-neuve",
+        "address": "Chemin du Cyclotron 6 1348 Ottignies-Louvain-la-Neuve BE",
+        "coords": [
+          4.62368,
+          50.66513
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0713.597.326",
+    "name": "Levita",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Rue de Mulhouse 36 4020 Liège BE",
+        "coords": [
+          5.586227,
+          50.632747
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0715.825.752",
+    "name": "Luminus Cities",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "fleurus",
+        "address": "Avenue du Marquis 34 6220 Fleurus BE",
+        "coords": [
+          4.531965,
+          50.455214
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Mechelsesteenweg 315 2550 Kontich BE",
+        "coords": [
+          4.451148,
+          51.11661
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 42,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0715.986.692",
+    "name": "Lss Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Helenaveldstraat 1 2550 Kontich BE",
+        "coords": [
+          4.454503,
+          51.141355
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0720.878.759",
+    "name": "Lifelike",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0723.834.190",
+    "name": "Leisure Pioneers",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "sint-truiden",
+        "address": "Heide 119 3800 Sint-Truiden BE",
+        "coords": [
+          5.223544,
+          50.866757
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "eupen",
+        "address": "Industriestrasse 37 4700 Eupen BE",
+        "coords": [
+          6.003845,
+          50.638358
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0725.612.458",
+    "name": "Lablife",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 31 2550 Kontich BE",
+        "coords": [
+          4.443344,
+          51.142801
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0727.685.783",
+    "name": "Lytix",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "boortmeerbeek",
+        "address": "Leuvensesteenweg 350 3190 Boortmeerbeek BE",
+        "coords": [
+          4.571785,
+          50.966817
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 29,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0728.632.524",
+    "name": "Luxtrust S.a.",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Avenue Louise 54 1050 Bruxelles BE",
+        "coords": [
+          4.357593,
+          50.818699
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 22,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0733.680.680",
+    "name": "Learnable",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "heusden-zolder",
+        "address": "H. Hartlaan 21 3550 Heusden-Zolder BE",
+        "coords": [
+          5.283971,
+          51.009601
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Bedrijfsstraat 2 10 3500 Hasselt BE",
+        "coords": [
+          5.35951,
+          50.95439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0737.870.189",
+    "name": "Legile",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 31 2550 Kontich BE",
+        "coords": [
+          4.443344,
+          51.142801
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0738.843.555",
+    "name": "Lunatech Belgium Incorporation",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue d'Arlon 55 1040 Bruxelles BE",
+        "coords": [
+          4.37402,
+          50.84238
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0738.987.768",
+    "name": "Lakkas Odysseas",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "Vuurkruisenlaan 37 6 1830 Machelen BE",
+        "coords": [
+          4.44048,
+          50.90938
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0741.580.737",
+    "name": "Lab19",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "beringen",
+        "address": "Rozenlaan 54 3580 Beringen BE",
+        "coords": [
+          5.225783,
+          51.044654
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0744.742.640",
+    "name": "Localyse Workplace",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "edegem",
+        "address": "Prins Boudewijnlaan 41 2650 Edegem BE",
+        "coords": [
+          4.436466,
+          51.147455
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0760.517.909",
+    "name": "Lucy In The Cloud",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-jans-molenbeek",
+        "address": "Boulevard Léopold II 153 2 1080 Molenbeek-Saint-Jean BE",
+        "coords": [
+          4.337577,
+          50.8615
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Excelsiorlaan 28-30 1930 Zaventem BE",
+        "coords": [
+          4.454531,
+          50.883833
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0765.844.395",
+    "name": "Loyalpay",
+    "site": "www.loyalpay.com",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Cantersteen 47 1000 Bruxelles BE",
+        "coords": [
+          4.358233,
+          50.845598
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0767.853.384",
+    "name": "Lots Digital",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "brecht",
+        "address": "Kloosterstraat 22 A 2960 Brecht BE",
+        "coords": [
+          4.677565,
+          51.375099
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "hoogstraten",
+        "address": "Lodewijk De Konincklaan 301/309 2320 Hoogstraten BE",
+        "coords": [
+          4.758281,
+          51.396152
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0774.270.925",
+    "name": "Lexiq",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "aalst",
+        "address": "Ninovesteenweg 198 23 9320 Aalst BE",
+        "coords": [
+          4.045197,
+          50.915479
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0779.972.644",
+    "name": "Lucidus",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "herentals",
+        "address": "Diamantstraat 10 2200 Herentals BE",
+        "coords": [
+          4.80647,
+          51.15908
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0780.634.719",
+    "name": "Ledoux Media",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Sint-Michielsplein 8a 9000 Gent BE",
+        "coords": [
+          3.71894,
+          51.05318
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0792.330.840",
+    "name": "Les Paperasses",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "dilbeek",
+        "address": "Geraardsbergsestraat 66 1703 Dilbeek BE",
+        "coords": [
+          4.200486,
+          50.835774
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0798.522.410",
+    "name": "Lemconsulting",
+    "site": "www.lemconsulting.be",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "huy",
+        "address": "Les Golettes 61 4500 Huy BE",
+        "coords": [
+          5.265106,
+          50.521567
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0800.570.001",
+    "name": "Lona.all",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "courcelles",
+        "address": "Rue du Bosquet 19 6181 Courcelles BE",
+        "coords": [
+          4.329861,
+          50.483525
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0818.285.268",
+    "name": "Localyse",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "edegem",
+        "address": "Prins Boudewijnlaan 41 2650 Edegem BE",
+        "coords": [
+          4.436466,
+          51.147455
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0822.784.781",
+    "name": "Little Miss Robot",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Sint-Salvatorstraat 18 303 9000 Gent BE",
+        "coords": [
+          3.729531,
+          51.065586
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 27,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0825.556.607",
+    "name": "Logicaltic",
+    "site": "www.logicaltic.com",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "lasne",
+        "address": "Rue aux Loups 1 a 1380 Lasne BE",
+        "coords": [
+          4.420435,
+          50.661805
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0830.403.142",
+    "name": "L&m Consult",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "ninove",
+        "address": "Leopoldlaan 28 9400 Ninove BE",
+        "coords": [
+          4.024343,
+          50.827288
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0830.660.488",
+    "name": "Learnence",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "jodoigne",
+        "address": "Rue Francourt 29 1370 Jodoigne BE",
+        "coords": [
+          4.834576,
+          50.72785
+        ]
+      },
+      {
+        "province": "namur",
+        "municipality": "gembloux",
+        "address": "Chaussée de Tirlemont 75 5030 Gembloux BE",
+        "coords": [
+          4.705302,
+          50.579083
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0832.917.125",
+    "name": "Leadfabric",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Hendrik Consciencestraat 5 401 2800 Mechelen BE",
+        "coords": [
+          4.482584,
+          51.019505
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0842.463.608",
+    "name": "Levenstond Seafood Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "edegem",
+        "address": "Buizegemlei 67 2650 Edegem BE",
+        "coords": [
+          4.454708,
+          51.150216
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0843.580.888",
+    "name": "Lgm Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "charleroi",
+        "address": "Avenue Général Michel 1 E 6000 Charleroi BE",
+        "coords": [
+          4.451957,
+          50.411166
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 22,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0845.176.044",
+    "name": "Lcl Wallonia One",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "gembloux",
+        "address": "Rue Guillaume Fouquet,Isnes 17 5032 Gembloux BE",
+        "coords": [
+          4.721249,
+          50.502979
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0848.876.989",
+    "name": "Leonard Lomami",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Rue du Mail 104 2 1050 Ixelles BE",
+        "coords": [
+          4.358424,
+          50.820865
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0876.346.203",
+    "name": "Lone-star",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "rotselaar",
+        "address": "Winkelveldbaan 31 3111 Rotselaar BE",
+        "coords": [
+          4.743188,
+          50.954563
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0878.372.513",
+    "name": "Lysitech",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "rotselaar",
+        "address": "Paternosterstraat 74 3110 Rotselaar BE",
+        "coords": [
+          4.75606,
+          50.958904
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Industrieweg 3 3001 Leuven BE",
+        "coords": [
+          4.724143,
+          50.845789
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0883.786.893",
+    "name": "Lean-interactions",
+    "site": "www.leanint.com",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "deerlijk",
+        "address": "Poekelaan 9 8540 Deerlijk BE",
+        "coords": [
+          3.344828,
+          50.849349
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "deerlijk",
+        "address": "Waregemstraat 206 8540 Deerlijk BE",
+        "coords": [
+          3.371328,
+          50.85701
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0885.904.859",
+    "name": "Lux Informatique",
+    "site": "",
+    "locations": [
+      {
+        "province": "luxembourg",
+        "municipality": "messancy",
+        "address": "Rue des Ardennes,Wolkrange 28 A 6780 Messancy BE",
+        "coords": [
+          5.811734,
+          49.625902
+        ]
+      },
+      {
+        "province": "luxembourg",
+        "municipality": "messancy",
+        "address": "Rue d'Arlon 220 6780 Messancy BE",
+        "coords": [
+          5.812492,
+          49.61271
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2006,
+    "proof": []
+  }
+]

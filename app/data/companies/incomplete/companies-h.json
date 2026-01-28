@@ -1,0 +1,3115 @@
+[
+  {
+    "cbe": "0402.220.594",
+    "name": "Hewlett Packard Enterprise Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "Hermeslaan 1A 1831 Machelen BE",
+        "coords": [
+          4.446963,
+          50.88309
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 200,
+    "founded": 1961,
+    "proof": []
+  },
+  {
+    "cbe": "0417.799.289",
+    "name": "Hortiplan",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "sint-katelijne-waver",
+        "address": "Drevendaal 9 2860 Sint-Katelijne-Waver BE",
+        "coords": [
+          4.514177,
+          51.066995
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "roeselare",
+        "address": "Diksmuidsesteenweg 339 8800 Roeselare BE",
+        "coords": [
+          3.100874,
+          50.950568
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 59,
+    "founded": 1977,
+    "proof": []
+  },
+  {
+    "cbe": "0427.285.889",
+    "name": "Huyghebaert & Mommens",
+    "site": "www.huyghebaert.eu",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "oostkamp",
+        "address": "Edestraat 5 8020 Oostkamp BE",
+        "coords": [
+          3.20261,
+          51.132203
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 1985,
+    "proof": []
+  },
+  {
+    "cbe": "0429.029.713",
+    "name": "Health Data Management Partners",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "anderlecht",
+        "address": "Route de Lennik 451 1070 Anderlecht BE",
+        "coords": [
+          4.271525,
+          50.816606
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 27,
+    "founded": 1986,
+    "proof": []
+  },
+  {
+    "cbe": "0439.394.162",
+    "name": "Handelsgids",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "diest",
+        "address": "Jan Gorislaan 110 3293 Diest BE",
+        "coords": [
+          5.03283,
+          50.986621
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "oostende",
+        "address": "Zeedijk 96 433 8400 Oostende BE",
+        "coords": [
+          2.895415,
+          51.223667
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 1990,
+    "proof": []
+  },
+  {
+    "cbe": "0440.336.052",
+    "name": "Hanna Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Bld Emile-de-Laveleye 107 4020 Liège BE",
+        "coords": [
+          5.587627,
+          50.624409
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 1990,
+    "proof": []
+  },
+  {
+    "cbe": "0441.808.967",
+    "name": "Hydro Ecolo Meteo Management Information Systems",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "zwevegem",
+        "address": "Otegemstraat(Z) 100 8550 Zwevegem BE",
+        "coords": [
+          3.353806,
+          50.8169
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 1990,
+    "proof": []
+  },
+  {
+    "cbe": "0453.361.667",
+    "name": "Harmony Consult",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Kolonel Dusartplein 28B 3500 Hasselt BE",
+        "coords": [
+          5.342737,
+          50.931316
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 28,
+    "founded": 1994,
+    "proof": []
+  },
+  {
+    "cbe": "0453.754.419",
+    "name": "Highco Publi Info",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Nieuwelandenweg 2 2030 Antwerpen BE",
+        "coords": [
+          4.4006,
+          51.2741
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 1994,
+    "proof": []
+  },
+  {
+    "cbe": "0472.137.206",
+    "name": "Hitachi Vantara Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Da Vincilaan 3 1930 Zaventem BE",
+        "coords": [
+          4.459495,
+          50.888191
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 19,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0473.421.069",
+    "name": "Holding Groupe Crucifix",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "bievre",
+        "address": "Rue de Bouillon 93 9 5555 Bièvre BE",
+        "coords": [
+          5.03224,
+          49.92545
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0474.722.354",
+    "name": "Hvh Systems",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "dendermonde",
+        "address": "Eegene 101 9200 Dendermonde BE",
+        "coords": [
+          4.024554,
+          51.009348
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0474.970.792",
+    "name": "Harco Group",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Louise 390 1050 Ixelles BE",
+        "coords": [
+          4.371004,
+          50.820268
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0475.357.111",
+    "name": "Honderdvijftien",
+    "site": "www.studiodott.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Boomgaardstraat 115 2018 Antwerpen BE",
+        "coords": [
+          4.424433,
+          51.201312
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 20,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0475.468.363",
+    "name": "Hsbcad",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Amelia Earhartlaan 2 302 9051 Gent BE",
+        "coords": [
+          3.68859,
+          51.03041
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0477.537.136",
+    "name": "Hr-technologies",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "sint-martens-latem",
+        "address": "Xavier De Cocklaan 66-72 9831 Sint-Martens-Latem BE",
+        "coords": [
+          3.612234,
+          51
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Lummense Kiezel 51 3510 Hasselt BE",
+        "coords": [
+          5.24228,
+          50.95317
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2002,
+    "proof": []
+  },
+  {
+    "cbe": "0478.696.879",
+    "name": "Horus Software",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Square des Conduites-d'Eau 7-9 4031 Liège BE",
+        "coords": [
+          5.589225,
+          50.616799
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 2002,
+    "proof": []
+  },
+  {
+    "cbe": "0479.489.113",
+    "name": "H & R Networking",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "beerse",
+        "address": "Antwerpseweg 273 2340 Beerse BE",
+        "coords": [
+          4.783717,
+          51.301515
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2003,
+    "proof": []
+  },
+  {
+    "cbe": "0503.915.295",
+    "name": "Happit",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "genk",
+        "address": "Thor Park 8300 3600 Genk BE",
+        "coords": [
+          5.538129,
+          50.994024
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0541.792.312",
+    "name": "Hydronic System Optimisation",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Luchthavenlei 7 a 2100 Antwerpen BE",
+        "coords": [
+          4.4505,
+          51.190455
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 22,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0542.547.130",
+    "name": "Hcl Technologies Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Lozenberg 18 1932 Zaventem BE",
+        "coords": [
+          4.460163,
+          50.868567
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 183,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0552.778.551",
+    "name": "House Of Invest",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "Lambroekstraat 5 A 1831 Machelen BE",
+        "coords": [
+          4.44926,
+          50.87993
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 22,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0556.865.023",
+    "name": "Happy Desk",
+    "site": "www.happydesk.be",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-lambrechts-woluwe",
+        "address": "Rue Saint-Lambert 121 1200 Woluwe-Saint-Lambert BE",
+        "coords": [
+          4.435749,
+          50.844435
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-lambrechts-woluwe",
+        "address": "Rue Saint-Lambert 135F 1200 Woluwe-Saint-Lambert BE",
+        "coords": [
+          4.435787,
+          50.845779
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0564.835.057",
+    "name": "Hoplr",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "lokeren",
+        "address": "Waterhoenweg 3 9160 Lokeren BE",
+        "coords": [
+          3.925848,
+          51.120113
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "lochristi",
+        "address": "Beerveldse Baan 2C 9080 Lochristi BE",
+        "coords": [
+          3.86862,
+          51.1046
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0597.618.285",
+    "name": "Hp Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "Hermeslaan 1-buildingB 1831 Machelen BE",
+        "coords": [
+          4.44701,
+          50.88308
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 129,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0627.792.809",
+    "name": "Htne Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "evere",
+        "address": "Avenue des Désirs 19 C 1140 Evere BE",
+        "coords": [
+          4.412405,
+          50.859835
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Rue de l'Arbre Bénit 7 1050 Ixelles BE",
+        "coords": [
+          4.363609,
+          50.834297
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0628.838.231",
+    "name": "Humacom",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "verviers",
+        "address": "Rue Renier 9 4800 Verviers BE",
+        "coords": [
+          5.867079,
+          50.59514
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0632.489.983",
+    "name": "Hygie-care",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "fleurus",
+        "address": "Chaussée de Charleroi 150 6220 Fleurus BE",
+        "coords": [
+          4.553386,
+          50.483893
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "tournai",
+        "address": "Chaussée de Douai 1d 7500 Tournai BE",
+        "coords": [
+          3.31196,
+          50.556485
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0638.852.391",
+    "name": "Happy Volcano",
+    "site": "www.happyvolcano.com",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Sluisstraat 79 3000 Leuven BE",
+        "coords": [
+          4.699858,
+          50.887219
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0644.610.629",
+    "name": "Hovertone",
+    "site": "www.hovertone.com",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "mons",
+        "address": "Rue de la Terre du Prince 17 7000 Mons BE",
+        "coords": [
+          3.948436,
+          50.451764
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0666.716.731",
+    "name": "Harmoney",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Cyriel Buyssestraat 13 9000 Gent BE",
+        "coords": [
+          3.70775,
+          51.023014
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0673.621.250",
+    "name": "Hypercharge",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "lochristi",
+        "address": "Toleindestraat 7 101 9080 Lochristi BE",
+        "coords": [
+          3.885242,
+          51.043838
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0673.790.011",
+    "name": "Helpper",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Lange Gasthuisstraat 29-31 14 2000 Antwerpen BE",
+        "coords": [
+          4.405601,
+          51.214689
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0673.840.489",
+    "name": "Holifresh",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "ottignies-louvain-la-neuve",
+        "address": "Chemin du Cyclotron 6 1348 Ottignies-Louvain-la-Neuve BE",
+        "coords": [
+          4.62368,
+          50.66513
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0690.552.304",
+    "name": "Hawc",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Kerkstraat 108 9050 Gent BE",
+        "coords": [
+          3.750989,
+          51.044493
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0695.418.239",
+    "name": "Hatch Group",
+    "site": "www.hatchsoftware.eu/discover",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Interleuvenlaan 15 A 3001 Leuven BE",
+        "coords": [
+          4.73153,
+          50.84719
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 21,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0696.745.753",
+    "name": "Hnm Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue du Commerce 124 4 1000 Bruxelles BE",
+        "coords": [
+          4.37028,
+          50.84584
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 51,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0717.669.742",
+    "name": "Huswell",
+    "site": "www.huswell.com",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "oostkamp",
+        "address": "Kapellestraat 132 3 G3 8020 Oostkamp BE",
+        "coords": [
+          3.243977,
+          51.145848
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0721.456.997",
+    "name": "Herontrack",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "charleroi",
+        "address": "Square des Martyrs 1 1 6000 Charleroi BE",
+        "coords": [
+          4.435636,
+          50.442599
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0725.921.769",
+    "name": "Hitachi Energy Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Belgicastraat 18 1 1930 Zaventem BE",
+        "coords": [
+          4.45789,
+          50.87729
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "charleroi",
+        "address": "Zoning de Jumet,avenue Centrale 10 6040 Charleroi BE",
+        "coords": [
+          4.435814,
+          50.359498
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 215,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0727.565.326",
+    "name": "Hi!",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "hemiksem",
+        "address": "K. de Backerstraat 18 2620 Hemiksem BE",
+        "coords": [
+          4.34227,
+          51.14569
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0733.660.983",
+    "name": "Hike Up",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "ottignies-louvain-la-neuve",
+        "address": "Chemin du Cyclotron 6 1348 Ottignies-Louvain-la-Neuve BE",
+        "coords": [
+          4.62368,
+          50.66513
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0736.903.357",
+    "name": "Hoppsharing",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "destelbergen",
+        "address": "Haenhoutstraat 181 9070 Destelbergen BE",
+        "coords": [
+          3.83425,
+          51.07234
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0749.895.518",
+    "name": "Hello",
+    "site": "www.hello.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "turnhout",
+        "address": "Rubensstraat 165 3 2300 Turnhout BE",
+        "coords": [
+          4.94447,
+          51.31333
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0752.691.888",
+    "name": "Hybrid Core",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Da Vincilaan 1 1930 Zaventem BE",
+        "coords": [
+          4.460156,
+          50.887966
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "genappe",
+        "address": "Place Morimont 3c 1471 Genappe BE",
+        "coords": [
+          4.44147,
+          50.59789
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0755.859.137",
+    "name": "Hartstikke",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Wiedauwkaai 23i 9000 Gent BE",
+        "coords": [
+          3.72582,
+          51.0717
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0760.788.519",
+    "name": "Harmony Innosoft",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Kolonel Dusartplein 28B 3500 Hasselt BE",
+        "coords": [
+          5.342737,
+          50.931316
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0761.352.604",
+    "name": "Hdlt",
+    "site": "",
+    "locations": [
+      {
+        "province": "luxembourg",
+        "municipality": "libramont-chevigny",
+        "address": "Flohimont,Buisson Ponsin 10 6800 Libramont-Chevigny BE",
+        "coords": [
+          5.404945,
+          49.906025
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0765.203.009",
+    "name": "Hexaware Technologies Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue des Colonies 11 1000 Bruxelles BE",
+        "coords": [
+          4.35963,
+          50.84641
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0768.470.622",
+    "name": "High Tee",
+    "site": "www.hightee.be",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "sprimont",
+        "address": "Rue du Pérréon 66B 4141 Sprimont BE",
+        "coords": [
+          5.71494,
+          50.53007
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0769.910.972",
+    "name": "Human37",
+    "site": "www.human37.com",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Cantersteen 47 1000 Bruxelles BE",
+        "coords": [
+          4.358233,
+          50.845598
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0771.955.791",
+    "name": "Homate",
+    "site": "www.homate.be",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "lokeren",
+        "address": "Groenstraat 6A 9160 Lokeren BE",
+        "coords": [
+          4.022493,
+          51.107556
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0772.466.329",
+    "name": "Harrier Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kalmthout",
+        "address": "Kinderwelzijnstraat 41 2920 Kalmthout BE",
+        "coords": [
+          4.460075,
+          51.37567
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0773.493.143",
+    "name": "Hb Ip",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Hoveniersstraat 51 2018 Antwerpen BE",
+        "coords": [
+          4.419264,
+          51.214591
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0774.459.678",
+    "name": "Hrinco",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-lambrechts-woluwe",
+        "address": "Avenue Prekelinden 71 1200 Woluwe-Saint-Lambert BE",
+        "coords": [
+          4.409334,
+          50.841494
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0780.636.402",
+    "name": "Horiatech",
+    "site": "",
+    "locations": [
+      {
+        "province": "luxembourg",
+        "municipality": "libramont-chevigny",
+        "address": "Recogne,Rue des Bacs 14 6800 Libramont-Chevigny BE",
+        "coords": [
+          5.360388,
+          49.912298
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0791.449.328",
+    "name": "Hay Tech",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "jette",
+        "address": "Avenue de l'Exposition 402 D1 1090 Jette BE",
+        "coords": [
+          4.316654,
+          50.889282
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0795.661.108",
+    "name": "H. Essers Digital Company",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "brugge",
+        "address": "Koggenstraat 12 8380 Brugge BE",
+        "coords": [
+          3.18458,
+          51.317247
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Terbekehofdreef 19 2610 Antwerpen BE",
+        "coords": [
+          4.37123,
+          51.1515
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "genk",
+        "address": "Henri Esserslaan 45-47 3600 Genk BE",
+        "coords": [
+          5.47456,
+          50.98209
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "genk",
+        "address": "Transportlaan 4 3600 Genk BE",
+        "coords": [
+          5.463009,
+          50.9965
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 161,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0797.830.047",
+    "name": "Hyperfox",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Kempische steenweg 303 200 3500 Hasselt BE",
+        "coords": [
+          5.35093,
+          50.95385
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0807.855.293",
+    "name": "Hrweb Solutions",
+    "site": "www.hrweb.solutions",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Ikaroslaan 15 1930 Zaventem BE",
+        "coords": [
+          4.49319,
+          50.8761
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 24,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0810.683.438",
+    "name": "Highground",
+    "site": "www.highground.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kapellen",
+        "address": "Stationsstraat 48 2950 Kapellen BE",
+        "coords": [
+          4.431942,
+          51.313807
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0824.627.583",
+    "name": "Healthconnect",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "vilvoorde",
+        "address": "Luchthavenlaan 25A 3 1800 Vilvoorde BE",
+        "coords": [
+          4.44076,
+          50.92446
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0829.827.872",
+    "name": "Hi10",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Franklin Rooseveltplaats 12 24 2060 Antwerpen BE",
+        "coords": [
+          4.41774,
+          51.21899
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0837.120.292",
+    "name": "Hugggy",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "ottignies-louvain-la-neuve",
+        "address": "Rue du Poirier 4 1348 Ottignies-Louvain-la-Neuve BE",
+        "coords": [
+          4.620877,
+          50.670035
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0844.373.320",
+    "name": "Hybrid Media",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Rijnkaai 100 B12 2000 Antwerpen BE",
+        "coords": [
+          4.40129,
+          51.229144
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 18,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0846.354.890",
+    "name": "Hilarious",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "oudergem",
+        "address": "Rue Jules Cockx 10 1160 Auderghem BE",
+        "coords": [
+          4.406346,
+          50.817194
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0849.451.764",
+    "name": "Hubspot Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Notarisstraat 1 9000 Gent BE",
+        "coords": [
+          3.728881,
+          51.051623
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 34,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0866.039.556",
+    "name": "Hict",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Poortakkerstraat 93 9051 Gent BE",
+        "coords": [
+          3.68815,
+          51.03127
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 25,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0870.713.273",
+    "name": "Heymans & Vanhove",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Karel Lodewijk Dierickxstraat 38 9000 Gent BE",
+        "coords": [
+          3.705601,
+          51.052447
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0873.368.105",
+    "name": "Haulogy.net",
+    "site": "www.haulogy.net/nl",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "braine-le-comte",
+        "address": "Rue des Archers 58 7090 Braine-le-Comte BE",
+        "coords": [
+          4.191015,
+          50.601895
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "overijse",
+        "address": "Sint-Annastraat 97 3090 Overijse BE",
+        "coords": [
+          4.511185,
+          50.770311
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "neupre",
+        "address": "Rue Bonry 53 4120 Neupré BE",
+        "coords": [
+          5.481338,
+          50.541653
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "nivelles",
+        "address": "Rue Altiero Spinelli 5-7 1401 Nivelles BE",
+        "coords": [
+          4.33174,
+          50.61842
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 87,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0874.678.395",
+    "name": "Human Potential Institute",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "evere",
+        "address": "Rue de l'Aéronef 2 1140 Evere BE",
+        "coords": [
+          4.414858,
+          50.877671
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0879.628.068",
+    "name": "Hrms",
+    "site": "www.hrms.be",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "bredene",
+        "address": "Polderstraat 177 8450 Bredene BE",
+        "coords": [
+          2.961918,
+          51.231114
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "bredene",
+        "address": "Polderstraat 171 8450 Bredene BE",
+        "coords": [
+          2.961968,
+          51.230997
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0889.922.639",
+    "name": "Hybrid Software Development",
+    "site": "www.hybridsoftware.com",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "merelbeke-melle",
+        "address": "Guldensporenpark 18 9820 Merelbeke-Melle BE",
+        "coords": [
+          3.755473,
+          51.005312
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 30,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0899.235.629",
+    "name": "Hyp3",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Diestsepoort 1 3000 Leuven BE",
+        "coords": [
+          4.714091,
+          50.882906
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0899.434.379",
+    "name": "Harmonize It",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Kortrijksesteenweg 1121 0103 9051 Gent BE",
+        "coords": [
+          3.673426,
+          51.018181
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "1009.938.066",
+    "name": "Heaventech",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-gillis",
+        "address": "Rue de Livourne 7 6 1060 Saint-Gilles BE",
+        "coords": [
+          4.357767,
+          50.830928
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2024,
+    "proof": []
+  },
+  {
+    "cbe": "0407.173.138",
+    "name": "Hybrid Software Brandz",
+    "site": "artflowsoftware.com",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "merelbeke-melle",
+        "address": "Guldensporenpark 18 9820 Merelbeke-Melle BE",
+        "coords": [
+          3.755473,
+          51.005312
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 1970,
+    "proof": []
+  },
+  {
+    "cbe": "0420.834.993",
+    "name": "Hb Blueprint",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "lier",
+        "address": "Plaslaar 50 2500 Lier BE",
+        "coords": [
+          4.553045,
+          51.149176
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 1980,
+    "proof": []
+  },
+  {
+    "cbe": "0424.438.346",
+    "name": "Hendrickx",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "herk-de-stad",
+        "address": "Industrieweg 1074 3540 Herk-de-Stad BE",
+        "coords": [
+          5.169552,
+          50.945051
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 1983,
+    "proof": []
+  },
+  {
+    "cbe": "0447.650.743",
+    "name": "Heli Service Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "halle",
+        "address": "Gaasbeeksesteenweg 140 1500 Halle BE",
+        "coords": [
+          4.223475,
+          50.749764
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 1992,
+    "proof": []
+  },
+  {
+    "cbe": "0451.787.990",
+    "name": "Harvey Nash It Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "grimbergen",
+        "address": "Boechoutlaan 105 1853 Grimbergen BE",
+        "coords": [
+          4.342882,
+          50.907657
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 73,
+    "founded": 1994,
+    "proof": []
+  },
+  {
+    "cbe": "0471.854.619",
+    "name": "Het Coachingatelier",
+    "site": "www.loopbaan-coaching.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Oosterveldlaan 211 2610 Antwerpen BE",
+        "coords": [
+          4.43016,
+          51.17637
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0474.404.927",
+    "name": "Hrlinkit",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Goudfazantenlaan 5 a 3001 Leuven BE",
+        "coords": [
+          4.694187,
+          50.852351
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Wiedauwkaai 23 G 9000 Gent BE",
+        "coords": [
+          3.72582,
+          51.0717
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Groenstraat 106 B2014 3001 Leuven BE",
+        "coords": [
+          4.696638,
+          50.86104
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 24,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0479.129.124",
+    "name": "Hall - Buro",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Chaussée de Waterloo 667 1050 Ixelles BE",
+        "coords": [
+          4.366422,
+          50.816766
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2002,
+    "proof": []
+  },
+  {
+    "cbe": "0505.815.606",
+    "name": "Hive-x Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "wavre",
+        "address": "Avenue Charles-Quint 40 1300 Wavre BE",
+        "coords": [
+          4.625343,
+          50.710908
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Square de Meeûs 38 1000 Bruxelles BE",
+        "coords": [
+          4.368734,
+          50.840545
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0557.921.729",
+    "name": "Haisja Automation",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "Langemeersstraat 12 C 8500 Kortrijk BE",
+        "coords": [
+          3.27422,
+          50.827199
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0568.736.536",
+    "name": "Huble Digital",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Louise 231 1050 Ixelles BE",
+        "coords": [
+          4.355166,
+          50.817496
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "la-hulpe",
+        "address": "Avenue Reine Astrid 92 1310 La Hulpe BE",
+        "coords": [
+          4.472177,
+          50.727053
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0600.907.476",
+    "name": "Hudicor",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Draakstraat 37 2018 Antwerpen BE",
+        "coords": [
+          4.431906,
+          51.206267
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0632.500.178",
+    "name": "Hosted Power",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "merelbeke-melle",
+        "address": "Hundelgemsesteenweg 3A 9820 Merelbeke-Melle BE",
+        "coords": [
+          3.75341,
+          51.02121
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0640.936.012",
+    "name": "Harvest Club",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Mathieu de Layensplein 7 3000 Leuven BE",
+        "coords": [
+          4.69989,
+          50.879991
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Dirk Boutslaan 8 3000 Leuven BE",
+        "coords": [
+          4.69986,
+          50.88027
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0651.799.715",
+    "name": "Handlangers",
+    "site": "www.handlangers.be",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Lange Violettestraat 94 9000 Gent BE",
+        "coords": [
+          3.7341,
+          51.046614
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 22,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0659.664.435",
+    "name": "Harrathi Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-lambrechts-woluwe",
+        "address": "Avenue Edouard Speeckaert 122 1200 Woluwe-Saint-Lambert BE",
+        "coords": [
+          4.415836,
+          50.847157
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 28,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0669.861.313",
+    "name": "Hergen",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "diepenbeek",
+        "address": "Demerstraat 6a 3590 Diepenbeek BE",
+        "coords": [
+          5.429436,
+          50.910165
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0672.979.070",
+    "name": "Hashting Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "lint",
+        "address": "Veldstraat 49 2547 Lint BE",
+        "coords": [
+          4.486766,
+          51.131246
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0675.561.448",
+    "name": "Hyperion Group",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 35 C 2550 Kontich BE",
+        "coords": [
+          4.4424,
+          51.141844
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0677.541.238",
+    "name": "Health Compass",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0678.745.820",
+    "name": "Henalex Conference Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "bernissart",
+        "address": "Rue de Péruwelz 105 7321 Bernissart BE",
+        "coords": [
+          3.650699,
+          50.5009
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0684.575.025",
+    "name": "Helianthe Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "anderlecht",
+        "address": "Rue Guillaume Lekeu 14 1070 Anderlecht BE",
+        "coords": [
+          4.296825,
+          50.829581
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0684.688.851",
+    "name": "Harmony It",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Kolonel Dusartplein 28B 3500 Hasselt BE",
+        "coords": [
+          5.342737,
+          50.931316
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0684.696.967",
+    "name": "Hummingbirds",
+    "site": "www.hummingbirds.be",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "Morinnestraat 7 8500 Kortrijk BE",
+        "coords": [
+          3.301272,
+          50.816073
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0695.715.870",
+    "name": "H-solution",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Middelweg 128 A 1130 Bruxelles BE",
+        "coords": [
+          4.42031,
+          50.88747
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Middelweg 130 D 1130 Bruxelles BE",
+        "coords": [
+          4.41977,
+          50.88668
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "meise",
+        "address": "Groendal 13 1860 Meise BE",
+        "coords": [
+          4.345534,
+          50.930287
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Middelweg 128 1130 Bruxelles BE",
+        "coords": [
+          4.42031,
+          50.88747
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Middelweg 130C 1130 Bruxelles BE",
+        "coords": [
+          4.42023,
+          50.88718
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0704.629.279",
+    "name": "Hlm It-solutions",
+    "site": "www.hlm.be",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "sankt-vith",
+        "address": "Bahnhofstrasse 25 4780 Sankt Vith BE",
+        "coords": [
+          6.128082,
+          50.281203
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "welkenraedt",
+        "address": "Rue de l'Usine 2 4840 Welkenraedt BE",
+        "coords": [
+          5.969006,
+          50.665634
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0712.522.012",
+    "name": "Hr Webmanagement",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "herent",
+        "address": "Half Daghmael 1 k 3020 Herent BE",
+        "coords": [
+          4.677735,
+          50.905878
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0713.472.513",
+    "name": "High Production",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "grez-doiceau",
+        "address": "Rue des Genêts 55 1390 Grez-Doiceau BE",
+        "coords": [
+          4.66351,
+          50.73849
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0713.668.590",
+    "name": "Hpnw Group",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue Stevin 48 1000 Bruxelles BE",
+        "coords": [
+          4.377267,
+          50.845671
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "anderlecht",
+        "address": "Rue Gheude 15-19 1070 Anderlecht BE",
+        "coords": [
+          4.334819,
+          50.84218
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0718.934.108",
+    "name": "Hello 7",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "mont-saint-guibert",
+        "address": "Rue du Fond Cattelain 2 1435 Mont-Saint-Guibert BE",
+        "coords": [
+          4.62496,
+          50.657379
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "watermaal-bosvoorde",
+        "address": "Chaussée de La Hulpe 185 1170 Watermael-Boitsfort BE",
+        "coords": [
+          4.405307,
+          50.795248
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0726.699.848",
+    "name": "Hungry Nuggets",
+    "site": "www.hungrynuggets.com",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "ottignies-louvain-la-neuve",
+        "address": "Avenue des Combattants 31 1340 Ottignies-Louvain-la-Neuve BE",
+        "coords": [
+          4.56609,
+          50.66474
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0726.970.458",
+    "name": "Hoist Global Tech Solutions Europe",
+    "site": "www.syntrium.eu",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kalmthout",
+        "address": "Kapellaan 83 2920 Kalmthout BE",
+        "coords": [
+          4.470393,
+          51.398637
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0732.894.386",
+    "name": "Humanx",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0734.535.963",
+    "name": "Happeningit",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "vilvoorde",
+        "address": "Luchthavenlaan 25 B 1800 Vilvoorde BE",
+        "coords": [
+          4.44076,
+          50.92446
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0740.798.995",
+    "name": "Helpit",
+    "site": "www.helpit.be",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "braine-le-chateau",
+        "address": "Sentier Cigarette 2 1440 Braine-le-Château BE",
+        "coords": [
+          4.306355,
+          50.687585
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "braine-lalleud",
+        "address": "Avenue du Commerce 38 1420 Braine-l'Alleud BE",
+        "coords": [
+          4.359506,
+          50.693588
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0742.521.043",
+    "name": "Hi-t",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Boombekelaan 7 2660 Antwerpen BE",
+        "coords": [
+          4.340213,
+          51.179185
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0746.778.452",
+    "name": "Hightekers",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "watermaal-bosvoorde",
+        "address": "Boulevard du Souverain 36 15 1170 Watermael-Boitsfort BE",
+        "coords": [
+          4.424774,
+          50.803508
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 57,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0748.395.184",
+    "name": "Henchman",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Moutstraat 64 502 9000 Gent BE",
+        "coords": [
+          3.735791,
+          51.029631
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 19,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0750.678.842",
+    "name": "Hgmn",
+    "site": "hgmn.be",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "heron",
+        "address": "Rue des Mésanges 8 4217 Héron BE",
+        "coords": [
+          5.09672,
+          50.552957
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0759.612.839",
+    "name": "Heta",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "Hermeslaan 9 1831 Machelen BE",
+        "coords": [
+          4.43721,
+          50.879275
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 20,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0759.819.707",
+    "name": "Heliovision",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Asstraat 5 3000 Leuven BE",
+        "coords": [
+          4.701315,
+          50.888399
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0760.438.527",
+    "name": "House Raccoon",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Montevideostraat 6C 2000 Antwerpen BE",
+        "coords": [
+          4.40357,
+          51.23288
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0770.485.054",
+    "name": "Hr Capital",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "lochristi",
+        "address": "Vitsakkerlaan 6 9080 Lochristi BE",
+        "coords": [
+          3.852994,
+          51.098493
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0782.674.588",
+    "name": "Humain",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0785.383.165",
+    "name": "House Of It Support",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "roeselare",
+        "address": "Beversesteenweg 576 8800 Roeselare BE",
+        "coords": [
+          3.16041,
+          50.973663
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0792.973.515",
+    "name": "Havik",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 35 C 2550 Kontich BE",
+        "coords": [
+          4.4424,
+          51.141844
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Duboisstraat 50 2060 Antwerpen BE",
+        "coords": [
+          4.418221,
+          51.228734
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0806.380.893",
+    "name": "High-sea",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "wavre",
+        "address": "Avenue Voltaire 3 1300 Wavre BE",
+        "coords": [
+          4.630201,
+          50.707432
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0810.328.694",
+    "name": "Hays Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "Brugsesteenweg 255 8500 Kortrijk BE",
+        "coords": [
+          3.266382,
+          50.844107
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "mont-saint-guibert",
+        "address": "Rue Granbonpré 11 10 1435 Mont-Saint-Guibert BE",
+        "coords": [
+          4.64287,
+          50.66034
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "Culliganlaan 2A 1831 Machelen BE",
+        "coords": [
+          4.45147,
+          50.88565
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Noordersingel 23/ARC 4 2140 Antwerpen BE",
+        "coords": [
+          4.44926,
+          51.21932
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "brugge",
+        "address": "Dampoortstraat 265 4 8310 Brugge BE",
+        "coords": [
+          3.23546,
+          51.22113
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Kortrijksesteenweg 1084 9000 Gent BE",
+        "coords": [
+          3.69005,
+          51.02247
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Louise 326 14 1050 Ixelles BE",
+        "coords": [
+          4.368897,
+          50.823057
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "herentals",
+        "address": "Atealaan 34 A 2200 Herentals BE",
+        "coords": [
+          4.788028,
+          51.1643
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 46,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0833.198.821",
+    "name": "Hrmc",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0835.536.917",
+    "name": "Humix",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0840.488.568",
+    "name": "Hive Finances",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "seneffe",
+        "address": "Rue de Profondrieux 12B 7180 Seneffe BE",
+        "coords": [
+          4.288868,
+          50.536084
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0846.058.150",
+    "name": "Huntr",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Drabstraat 8 c 2800 Mechelen BE",
+        "coords": [
+          4.476303,
+          51.027246
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0871.438.595",
+    "name": "Hr Path Be",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Groenenborgerlaan 84 4 2610 Antwerpen BE",
+        "coords": [
+          4.406807,
+          51.17366
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0873.473.914",
+    "name": "Hex - Rays",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Rue Rennequin-Sualem 34 4000 Liège BE",
+        "coords": [
+          5.563727,
+          50.631259
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0876.917.909",
+    "name": "Heli And Co",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "grace-hollogne",
+        "address": "Rue Saint-Exupéry 22 1 4460 Grâce-Hollogne BE",
+        "coords": [
+          5.430966,
+          50.637391
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0881.330.320",
+    "name": "Headmind Partners Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Louise 480 1050 Ixelles BE",
+        "coords": [
+          4.3722,
+          50.81707
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 90,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0881.692.386",
+    "name": "Hf Informatique",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Rue Burenville 88 4000 Liège BE",
+        "coords": [
+          5.542466,
+          50.640205
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0890.888.085",
+    "name": "Helianthe",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "anderlecht",
+        "address": "Rue Guillaume Lekeu 14 1070 Anderlecht BE",
+        "coords": [
+          4.296825,
+          50.829581
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0891.298.653",
+    "name": "Half Blue",
+    "site": "www.halfblue.eu",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "asse",
+        "address": "Z. 1 Researchpark 40 1731 Asse BE",
+        "coords": [
+          4.290495,
+          50.881004
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0895.216.166",
+    "name": "Hestia",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Prins Boudewijnlaan 24 C 2550 Kontich BE",
+        "coords": [
+          4.438778,
+          51.140031
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0895.367.903",
+    "name": "Hook It",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "Meensesteenweg 140 8501 Kortrijk BE",
+        "coords": [
+          3.238766,
+          50.826397
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0895.910.707",
+    "name": "Havo Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "scherpenheuvel-zichem",
+        "address": "August Nihoulstraat 122 3270 Scherpenheuvel-Zichem BE",
+        "coords": [
+          4.973283,
+          50.975494
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0450.218.867",
+    "name": "HIVELAB",
+    "site": "https://www.hivelab.be/",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Rue de Lantin 155 B 4000 Liège BE",
+        "coords": [
+          5.53894,
+          50.676524
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2.4,
+    "founded": 1993,
+    "proof": []
+  }
+]

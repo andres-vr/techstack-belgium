@@ -1,0 +1,3232 @@
+[
+  {
+    "cbe": "0417.964.882",
+    "name": "Fiduciaire S.o.c.a.f.",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Rue du Parc 69 4020 Liège BE",
+        "coords": [
+          5.576569,
+          50.630336
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 1978,
+    "proof": []
+  },
+  {
+    "cbe": "0419.247.955",
+    "name": "Francois",
+    "site": "www.sospc.be/",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "courcelles",
+        "address": "Rue Christian Mendiaux(CO) 30 A 6180 Courcelles BE",
+        "coords": [
+          4.366687,
+          50.449879
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 1979,
+    "proof": []
+  },
+  {
+    "cbe": "0420.155.894",
+    "name": "F.f.f. Informatique",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "aubel",
+        "address": "Rue Hostert 14 A 4880 Aubel BE",
+        "coords": [
+          5.854475,
+          50.698259
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 1980,
+    "proof": []
+  },
+  {
+    "cbe": "0434.852.681",
+    "name": "Food It-solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "lier",
+        "address": "Antwerpsesteenweg 280 2500 Lier BE",
+        "coords": [
+          4.55059,
+          51.141977
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 1988,
+    "proof": []
+  },
+  {
+    "cbe": "0447.292.833",
+    "name": "Find",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "braine-le-comte",
+        "address": "Rue du Chenois 50 7090 Braine-le-Comte BE",
+        "coords": [
+          4.175269,
+          50.644019
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "ittre",
+        "address": "Rue Edgard Bierny 2 1460 Ittre BE",
+        "coords": [
+          4.206727,
+          50.64182
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 1992,
+    "proof": []
+  },
+  {
+    "cbe": "0448.356.665",
+    "name": "Fidelity Soft",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zemst",
+        "address": "Cardijnstraat 5-7 1980 Zemst BE",
+        "coords": [
+          4.455462,
+          50.96145
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 1992,
+    "proof": []
+  },
+  {
+    "cbe": "0450.653.882",
+    "name": "Froyen & Zeitler",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "begijnendijk",
+        "address": "Aarschotsesteenweg 111 3130 Begijnendijk BE",
+        "coords": [
+          4.712243,
+          50.908511
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 1993,
+    "proof": []
+  },
+  {
+    "cbe": "0454.414.514",
+    "name": "Foreign Relocation Service",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "sint-genesius-rode",
+        "address": "Avenue des Chênes 34 1640 Sint-Genesius-Rode BE",
+        "coords": [
+          4.380289,
+          50.754535
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 1995,
+    "proof": []
+  },
+  {
+    "cbe": "0458.581.158",
+    "name": "Fit It",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "merelbeke-melle",
+        "address": "Verlorenbroodstraat 122 9820 Merelbeke-Melle BE",
+        "coords": [
+          3.750147,
+          51.009246
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 137,
+    "founded": 1996,
+    "proof": []
+  },
+  {
+    "cbe": "0460.563.918",
+    "name": "Flowsparks",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Ottergemsesteenweg-Zuid 808 B 545 9000 Gent BE",
+        "coords": [
+          3.733061,
+          51.015577
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 40,
+    "founded": 1997,
+    "proof": []
+  },
+  {
+    "cbe": "0464.055.918",
+    "name": "Formal And Knowledge Systems",
+    "site": "www.fks.be",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Grote Baan 79 3511 Hasselt BE",
+        "coords": [
+          5.303422,
+          50.941101
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 1998,
+    "proof": []
+  },
+  {
+    "cbe": "0465.332.061",
+    "name": "Flag 2000",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "floreffe",
+        "address": "Rue des Artisans 30 5150 Floreffe BE",
+        "coords": [
+          4.769715,
+          50.445865
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 20,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0473.035.544",
+    "name": "Farmad",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Lange Leemstraat 187 2018 Antwerpen BE",
+        "coords": [
+          4.416449,
+          51.206483
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Schaliënhoevedreef 20 2D 2800 Mechelen BE",
+        "coords": [
+          4.458295,
+          51.055908
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 38,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0474.391.861",
+    "name": "Flandersit Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "brugge",
+        "address": "Vredestraat 77 8310 Brugge BE",
+        "coords": [
+          3.247572,
+          51.207288
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0478.299.377",
+    "name": "Fjul",
+    "site": "www.fjul.be",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Da Vincilaan 1 1930 Zaventem BE",
+        "coords": [
+          4.460156,
+          50.887966
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2002,
+    "proof": []
+  },
+  {
+    "cbe": "0502.404.768",
+    "name": "Federate",
+    "site": "www.federate.eu",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "schaerbeek",
+        "address": "Rue Artan 120 1030 Schaerbeek BE",
+        "coords": [
+          4.384693,
+          50.853295
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0508.649.489",
+    "name": "Flexamit",
+    "site": "www.flexamit.com",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Jordaensstraat 54 2550 Kontich BE",
+        "coords": [
+          4.440509,
+          51.135299
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0524.702.296",
+    "name": "Fastback",
+    "site": "www.fastback.be",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "namur-city",
+        "address": "Chaussée de Marche 458 5101 Namur BE",
+        "coords": [
+          4.89698,
+          50.44674
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0534.440.405",
+    "name": "Finomarker",
+    "site": "www.finomarker.be",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "brugge",
+        "address": "Rooigem 1 8310 Brugge BE",
+        "coords": [
+          3.26429,
+          51.2178
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0539.758.379",
+    "name": "Fw4",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Technologielaan 3 3001 Leuven BE",
+        "coords": [
+          4.728175,
+          50.8539
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0540.833.002",
+    "name": "Friends Of Zeus",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Heernislaan 108 9000 Gent BE",
+        "coords": [
+          3.745165,
+          51.047836
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0553.556.729",
+    "name": "Features Analytics",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "nivelles",
+        "address": "Rue de Charleroi 2 1400 Nivelles BE",
+        "coords": [
+          4.325923,
+          50.596587
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0597.632.737",
+    "name": "Flux En 3dconfig",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Frankrijklei 67 2000 Antwerpen BE",
+        "coords": [
+          4.413992,
+          51.215061
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0599.995.379",
+    "name": "Forma-libre",
+    "site": "www.claroline.com",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "saint-ghislain",
+        "address": "Rue de Chièvres 512 7332 Saint-Ghislain BE",
+        "coords": [
+          3.798606,
+          50.540076
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0627.792.215",
+    "name": "Frostyfroggs",
+    "site": "www.frostyfroggs.com",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-gillis",
+        "address": "Avenue de la Porte de Hal 1 1060 Saint-Gilles BE",
+        "coords": [
+          4.344685,
+          50.832347
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "waterloo",
+        "address": "Chaussée de Bruxelles 94B 1410 Waterloo BE",
+        "coords": [
+          4.39768,
+          50.72693
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0628.596.127",
+    "name": "Foresee",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "zulte",
+        "address": "Binnenaert 9 9870 Zulte BE",
+        "coords": [
+          3.458503,
+          50.93412
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0634.966.453",
+    "name": "Forganiser",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Namenstraat 13-15 2000 Antwerpen BE",
+        "coords": [
+          4.385461,
+          51.207789
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0635.607.445",
+    "name": "Flagstone",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "harelbeke",
+        "address": "Stedestraat 51 8530 Harelbeke BE",
+        "coords": [
+          3.303931,
+          50.857424
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0650.765.476",
+    "name": "Fresh Chef",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-pieters-woluwe",
+        "address": "Avenue Eugène Godaux 26 1150 Woluwe-Saint-Pierre BE",
+        "coords": [
+          4.411457,
+          50.831188
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "huldenberg",
+        "address": "Wolfshaegen 2 A 3040 Huldenberg BE",
+        "coords": [
+          4.61263,
+          50.77472
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "grimbergen",
+        "address": "Waardbeekdreef 7 1850 Grimbergen BE",
+        "coords": [
+          4.35675,
+          50.94005
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Arnaud Fraiteur 15/23 1050 Ixelles BE",
+        "coords": [
+          4.395968,
+          50.817416
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 42,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0651.648.473",
+    "name": "Fintensy",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "wavre",
+        "address": "Chemin du Stocquoy 1 1300 Wavre BE",
+        "coords": [
+          4.61498,
+          50.689226
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0654.854.720",
+    "name": "Froomle",
+    "site": "www.froomle.com",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Borsbeeksebrug 28/0 2600 Antwerpen BE",
+        "coords": [
+          4.434907,
+          51.199098
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0657.777.982",
+    "name": "Fid-manager",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "waterloo",
+        "address": "Drève Richelle 161J 71 1410 Waterloo BE",
+        "coords": [
+          4.411927,
+          50.710303
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0660.739.056",
+    "name": "Fidelo",
+    "site": "www.fidelo.be",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "gembloux",
+        "address": "Rue Phocas Lejeune,Isnes 25 3 5032 Gembloux BE",
+        "coords": [
+          4.718996,
+          50.500111
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0663.923.329",
+    "name": "Flipaw",
+    "site": "www.tipaw.com",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "uccle",
+        "address": "Avenue de la Sapinière 51b 1180 Uccle BE",
+        "coords": [
+          4.372505,
+          50.776345
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "charleroi",
+        "address": "Square des Martyrs 1 6000 Charleroi BE",
+        "coords": [
+          4.435636,
+          50.442599
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0665.957.656",
+    "name": "Fuzed",
+    "site": "www.fuzed.app",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "herentals",
+        "address": "Atealaan 34 2200 Herentals BE",
+        "coords": [
+          4.788028,
+          51.1643
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0668.668.906",
+    "name": "Flexso For People",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 58,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0675.558.874",
+    "name": "Flowfactor",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 21,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0675.916.982",
+    "name": "Frigro Services",
+    "site": "www.frigro.be/nl/frigro-services/",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "wevelgem",
+        "address": "Drieslaan 10 8560 Wevelgem BE",
+        "coords": [
+          3.178711,
+          50.846726
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0680.576.645",
+    "name": "Forty-seven",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "zoersel",
+        "address": "St. Antoniusbaan 95 2980 Zoersel BE",
+        "coords": [
+          4.676628,
+          51.268776
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0685.572.937",
+    "name": "Fire Falcom",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "mons",
+        "address": "Rue Emile Vandervelde 288 7000 Mons BE",
+        "coords": [
+          3.940567,
+          50.440041
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "la-louviere",
+        "address": "Rue de Bignault 29 7110 La Louvière BE",
+        "coords": [
+          4.14057,
+          50.488198
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0694.877.811",
+    "name": "Frontletter",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "oostkamp",
+        "address": "De Leiteweg 32 8020 Oostkamp BE",
+        "coords": [
+          3.220266,
+          51.101478
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0713.960.877",
+    "name": "Firewise Studio's",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "diepenbeek",
+        "address": "Watertorenstraat 2 3590 Diepenbeek BE",
+        "coords": [
+          5.420342,
+          50.894647
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0720.949.530",
+    "name": "Ftrprf",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "deinze",
+        "address": "Kerkakkerstraat 2 A 9850 Deinze BE",
+        "coords": [
+          3.534633,
+          51.073912
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0721.709.989",
+    "name": "Fotosoft",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Avenue Pré-Aily 24 4031 Liège BE",
+        "coords": [
+          5.564553,
+          50.596706
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0728.569.671",
+    "name": "Fintrax",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Ketelvest 23 K 9000 Gent BE",
+        "coords": [
+          3.72435,
+          51.04928
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0736.767.161",
+    "name": "Frontforce",
+    "site": "www.frontforce.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Romeynsweel 7 2030 Antwerpen BE",
+        "coords": [
+          4.390143,
+          51.266723
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 25,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0747.723.708",
+    "name": "Flow Event Solutions",
+    "site": "www.floweventsolutions.com",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "duffel",
+        "address": "Berthoutstraat 2 2570 Duffel BE",
+        "coords": [
+          4.513375,
+          51.088248
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "lier",
+        "address": "Ondernemersstraat 4A 2500 Lier BE",
+        "coords": [
+          4.5592,
+          51.14434
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0747.931.366",
+    "name": "Fulcra",
+    "site": "www.fulcra.be",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "hamme",
+        "address": "Akkerstraat 4 9220 Hamme BE",
+        "coords": [
+          4.130503,
+          51.086543
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0750.519.781",
+    "name": "Fima Group",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "sint-niklaas",
+        "address": "Industriepark-West 41 A 9100 Sint-Niklaas BE",
+        "coords": [
+          4.16114,
+          51.140268
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "diepenbeek",
+        "address": "Ambachtsstraat 9 3590 Diepenbeek BE",
+        "coords": [
+          5.435293,
+          50.901272
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0754.490.150",
+    "name": "Fm Mc Consult",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "ham-sur-heure-nalinnes",
+        "address": "Rue de Châtelet 160 9 6120 Ham-sur-Heure-Nalinnes BE",
+        "coords": [
+          4.456086,
+          50.338329
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0756.963.452",
+    "name": "Fairville",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "nazareth-de-pinte",
+        "address": "Steenweg Deinze 154 9810 Nazareth-De Pinte BE",
+        "coords": [
+          3.626918,
+          50.929957
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0765.265.068",
+    "name": "Fitlab",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Rotterdamstraat 68 201 2060 Antwerpen BE",
+        "coords": [
+          4.420159,
+          51.22235
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0769.974.914",
+    "name": "Fcube",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "fernelmont",
+        "address": "Rue Georges Cosse, ZI, Nov. 26 5380 Fernelmont BE",
+        "coords": [
+          4.968219,
+          50.535931
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0776.711.167",
+    "name": "Fline",
+    "site": "www.fline-events.com",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "wavre",
+        "address": "Avenue Edison 5 1300 Wavre BE",
+        "coords": [
+          4.600118,
+          50.737189
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0776.977.720",
+    "name": "Fox-ware",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Rue des Chasseurs-Ardennais 10 4031 Liège BE",
+        "coords": [
+          5.564846,
+          50.599898
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0777.531.412",
+    "name": "Fleur Xl",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Martelaarslaan 92 9000 Gent BE",
+        "coords": [
+          3.713027,
+          51.046474
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0783.804.738",
+    "name": "Flyflow",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-lambrechts-woluwe",
+        "address": "Chemin des Deux Maisons 73 3 1200 Woluwe-Saint-Lambert BE",
+        "coords": [
+          4.425871,
+          50.852069
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0786.609.226",
+    "name": "Faqir Institute",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "dilbeek",
+        "address": "Koutergatstraat 2 1703 Dilbeek BE",
+        "coords": [
+          4.217707,
+          50.844965
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Kliniekstraat 27A 9050 Gent BE",
+        "coords": [
+          3.75574,
+          51.04303
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0788.509.535",
+    "name": "Freshminds",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Ottergemsesteenweg-Zuid 808 300 9000 Gent BE",
+        "coords": [
+          3.733061,
+          51.015577
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 26,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0794.919.156",
+    "name": "Fixxer",
+    "site": "fixxer.eu",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-joost-ten-node",
+        "address": "Place Charles Rogier 11 1210 Saint-Josse-ten-Noode BE",
+        "coords": [
+          4.35921,
+          50.856232
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue de l'Ecuyer 48 1000 Bruxelles BE",
+        "coords": [
+          4.355618,
+          50.848816
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0795.254.696",
+    "name": "Focus Hospitality",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Fotografielaan 5 2610 Antwerpen BE",
+        "coords": [
+          4.370896,
+          51.153417
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0802.648.571",
+    "name": "Fundprocess Srl",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "chaudfontaine",
+        "address": "Avenue du Centenaire 26 4053 Chaudfontaine BE",
+        "coords": [
+          5.611956,
+          50.593016
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0807.677.428",
+    "name": "Fcr Media Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "anderlecht",
+        "address": "Square Marie Curie 50 1070 Anderlecht BE",
+        "coords": [
+          4.285151,
+          50.822224
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Uitbreidingstraat 82 2600 Antwerpen BE",
+        "coords": [
+          4.417632,
+          51.192663
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Oktrooiplein 1 9000 Gent BE",
+        "coords": [
+          3.73953,
+          51.057631
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Bld Emile-de-Laveleye 191 4020 Liège BE",
+        "coords": [
+          5.592286,
+          50.619691
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 182,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0809.511.718",
+    "name": "Fenego",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Kempische steenweg 311 5.01 3500 Hasselt BE",
+        "coords": [
+          5.352192,
+          50.951874
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 23,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0810.589.507",
+    "name": "Fg-software",
+    "site": "www.fg-software.com",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "temse",
+        "address": "Frank Van Dyckelaan 14 9140 Temse BE",
+        "coords": [
+          4.20273,
+          51.119841
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0810.913.961",
+    "name": "Fixsus",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "evergem",
+        "address": "Jacques Paryslaan 10 6 9940 Evergem BE",
+        "coords": [
+          3.739005,
+          51.136085
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 20,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0817.146.806",
+    "name": "Feops",
+    "site": "www.feops.com",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Technologiepark-Zwijnaarde 122 9052 Gent BE",
+        "coords": [
+          3.709377,
+          51.013309
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 31,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0818.399.886",
+    "name": "Freedelity",
+    "site": "www.freedelity.be",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "nivelles",
+        "address": "Rue Altiero Spinelli 7 1401 Nivelles BE",
+        "coords": [
+          4.33199,
+          50.61817
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0829.086.120",
+    "name": "Fusor",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "braine-lalleud",
+        "address": "Rue du Faisan 7 1420 Braine-l'Alleud BE",
+        "coords": [
+          4.374683,
+          50.694377
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "lasne",
+        "address": "Chemin de La Maison du Roi 34 A 1380 Lasne BE",
+        "coords": [
+          4.415182,
+          50.652298
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0835.786.642",
+    "name": "Flexmail",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "genk",
+        "address": "Jaarbeurslaan 29 31 3600 Genk BE",
+        "coords": [
+          5.48348,
+          50.96403
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 20,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0840.081.564",
+    "name": "Flexvision",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "oupeye",
+        "address": "Rue Vallée 13 4 4681 Oupeye BE",
+        "coords": [
+          5.681448,
+          50.713811
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0840.115.218",
+    "name": "Fleetmaster",
+    "site": "www.fleetmastersoftware.com",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Ottergemsesteenweg-Zuid 808 B139 9000 Gent BE",
+        "coords": [
+          3.733061,
+          51.015577
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 23,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0841.205.774",
+    "name": "Faktion",
+    "site": "www.faktion.com",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Oudeleeuwenrui 39 2000 Antwerpen BE",
+        "coords": [
+          4.40892,
+          51.22754
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 21,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0860.407.321",
+    "name": "First-it",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Antwerpsesteenweg 261 4 2800 Mechelen BE",
+        "coords": [
+          4.460765,
+          51.057327
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 29,
+    "founded": 2003,
+    "proof": []
+  },
+  {
+    "cbe": "0865.716.288",
+    "name": "Flexso",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Prins Boudewijnlaan 24 A 2550 Kontich BE",
+        "coords": [
+          4.438778,
+          51.140031
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 129,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0867.274.426",
+    "name": "Faros",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Gaston Geenslaan 11 B4 3001 Leuven BE",
+        "coords": [
+          4.669279,
+          50.864801
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 44,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0869.514.730",
+    "name": "Factory Systems",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "herve",
+        "address": "Avenue du Parc 38 4650 Herve BE",
+        "coords": [
+          5.83236,
+          50.62492
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0872.787.192",
+    "name": "Foxconcept",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "sombreffe",
+        "address": "Rue Mathias, Tong. 9 5140 Sombreffe BE",
+        "coords": [
+          4.602276,
+          50.508215
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0877.160.706",
+    "name": "Fluidda",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Groeningenlei 132 2550 Kontich BE",
+        "coords": [
+          4.412447,
+          51.143494
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0882.386.729",
+    "name": "Fluo Visual",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "brugge",
+        "address": "Gistelse Steenweg 302 1 8200 Brugge BE",
+        "coords": [
+          3.1935,
+          51.20066
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0883.520.342",
+    "name": "Forcea",
+    "site": "ww.forcea.be",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Da Vincilaan 7 1930 Zaventem BE",
+        "coords": [
+          4.458596,
+          50.888812
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 45,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0884.008.510",
+    "name": "Fleetgo Zonnegem",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "sint-lievens-houtem",
+        "address": "Hazenakkerstraat 24 9520 Sint-Lievens-Houtem BE",
+        "coords": [
+          3.92067,
+          50.92649
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0895.193.994",
+    "name": "Flexina",
+    "site": "www.myflexina.com",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Boulevard de la Sauvenière 144 4000 Liège BE",
+        "coords": [
+          5.567229,
+          50.640945
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0898.587.313",
+    "name": "Federation Regionale Des Associations De Telematique Medicale",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Boulevard de Patience et Beaujonc 9 4000 Liège BE",
+        "coords": [
+          5.5356,
+          50.64612
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "charleroi",
+        "address": "Square des Martyrs 1 6000 Charleroi BE",
+        "coords": [
+          4.435636,
+          50.442599
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 17,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0899.986.685",
+    "name": "Fishing Cactus",
+    "site": "www.fishingcactus.be",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "mons",
+        "address": "Avenue Guibal et Devillez 1 7000 Mons BE",
+        "coords": [
+          3.926436,
+          50.45684
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 33,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0424.612.055",
+    "name": "Flying Service",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Luchthavenlei zn 2100 Antwerpen BE",
+        "coords": [
+          4.450663,
+          51.188979
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 77,
+    "founded": 1983,
+    "proof": []
+  },
+  {
+    "cbe": "0430.262.405",
+    "name": "Fujitsu Technology Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "Culliganlaan 5 901 1831 Machelen BE",
+        "coords": [
+          4.453805,
+          50.887924
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 218,
+    "founded": 1987,
+    "proof": []
+  },
+  {
+    "cbe": "0436.743.389",
+    "name": "Finauxa",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "charleroi",
+        "address": "Avenue Général Michel 1E 6000 Charleroi BE",
+        "coords": [
+          4.450202,
+          50.410113
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 1989,
+    "proof": []
+  },
+  {
+    "cbe": "0437.242.148",
+    "name": "Flowtronic Sa",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "welkenraedt",
+        "address": "Chemin des Tilleuls 32 a 4840 Welkenraedt BE",
+        "coords": [
+          5.985251,
+          50.648707
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 1989,
+    "proof": []
+  },
+  {
+    "cbe": "0438.518.192",
+    "name": "Formatech New Technologies",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "namur-city",
+        "address": "Chaussée de Marche 637 5100 Namur BE",
+        "coords": [
+          4.912004,
+          50.438159
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 1989,
+    "proof": []
+  },
+  {
+    "cbe": "0442.150.843",
+    "name": "Fiduciaire Fisconseils",
+    "site": "www.fisconseils.Be",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "gerpinnes",
+        "address": "Rue de Bertransart 61 6280 Gerpinnes BE",
+        "coords": [
+          4.481704,
+          50.332557
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "nivelles",
+        "address": "Rue Joseph-Wauters 55 1400 Nivelles BE",
+        "coords": [
+          4.317858,
+          50.601753
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 1990,
+    "proof": []
+  },
+  {
+    "cbe": "0466.971.955",
+    "name": "Facil Corporate",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "genk",
+        "address": "Geleenlaan 20 3600 Genk BE",
+        "coords": [
+          5.513576,
+          50.918829
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 24,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0473.012.580",
+    "name": "Frabolec",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "lier",
+        "address": "Vakenderveld 5.3 2500 Lier BE",
+        "coords": [
+          4.556521,
+          51.142672
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0507.925.652",
+    "name": "Fournet",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Generaal De Wittelaan 7 2800 Mechelen BE",
+        "coords": [
+          4.451194,
+          51.056771
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0536.178.584",
+    "name": "Fbss",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "temse",
+        "address": "Frank Van Dyckelaan 10 9140 Temse BE",
+        "coords": [
+          4.20189,
+          51.12041
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0541.805.574",
+    "name": "Fujitsu Talent Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "Culliganlaan 5 902 1831 Machelen BE",
+        "coords": [
+          4.453805,
+          50.887924
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 81,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0546.885.604",
+    "name": "Fp Consulting Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "chaumont-gistoux",
+        "address": "Rue d'En-Haut, Bonlez 46 1325 Chaumont-Gistoux BE",
+        "coords": [
+          4.696218,
+          50.700777
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0550.788.566",
+    "name": "Forlink",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "geel",
+        "address": "Dr.-Van de Perrestraat 248 A 2440 Geel BE",
+        "coords": [
+          4.985017,
+          51.179957
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0563.781.222",
+    "name": "Fluves",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Stropkaai 55 9000 Gent BE",
+        "coords": [
+          3.73374,
+          51.032478
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0627.815.078",
+    "name": "Fonzer",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 10 2550 Kontich BE",
+        "coords": [
+          4.441572,
+          51.142322
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0628.954.928",
+    "name": "Finsource",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 18,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0634.820.557",
+    "name": "Facts",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "meise",
+        "address": "Vilvoordsesteenweg 205A 1860 Meise BE",
+        "coords": [
+          4.32495,
+          50.94532
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0640.884.938",
+    "name": "Floorenter",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Pauline Van Pottelsberghelaan 10 9051 Gent BE",
+        "coords": [
+          3.689015,
+          51.029289
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0642.656.771",
+    "name": "Fandigo",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "la-louviere",
+        "address": "Rue de la Croix du Maïeur 15 7110 La Louvière BE",
+        "coords": [
+          4.113973,
+          50.486628
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0647.631.485",
+    "name": "Force International",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "westerlo",
+        "address": "Olenseweg 160 2260 Westerlo BE",
+        "coords": [
+          4.869426,
+          51.110617
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0651.979.263",
+    "name": "Fullup",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "kraainem",
+        "address": "Chaussée de Malines 455 1950 Kraainem BE",
+        "coords": [
+          4.476913,
+          50.820835
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0655.839.170",
+    "name": "Factry",
+    "site": "www.factry.io",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Korianderstraat 2 G 9000 Gent BE",
+        "coords": [
+          3.72764,
+          51.048723
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0673.543.848",
+    "name": "Forward Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Kempische steenweg 311 5.01 3500 Hasselt BE",
+        "coords": [
+          5.352192,
+          50.951874
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 43,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0678.943.481",
+    "name": "Franveer",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "harelbeke",
+        "address": "Bavikhovedorp 22 8531 Harelbeke BE",
+        "coords": [
+          3.310662,
+          50.874784
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0680.777.078",
+    "name": "Funkey",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Rooigemlaan 532 9000 Gent BE",
+        "coords": [
+          3.697243,
+          51.064785
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0687.986.356",
+    "name": "Foster & Little Health Management",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "ottignies-louvain-la-neuve",
+        "address": "Rue de la Malaise 16 1340 Ottignies-Louvain-la-Neuve BE",
+        "coords": [
+          4.598099,
+          50.657172
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0694.999.060",
+    "name": "Fluens",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "herent",
+        "address": "Leo Meulemansstraat 43 3020 Herent BE",
+        "coords": [
+          4.673796,
+          50.901236
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0718.596.685",
+    "name": "Floris Verhoeven",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "anzegem",
+        "address": "Sint Antoniusstraat 112 8570 Anzegem BE",
+        "coords": [
+          3.424068,
+          50.836922
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "deerlijk",
+        "address": "Groenstraat 63 8540 Deerlijk BE",
+        "coords": [
+          3.374437,
+          50.826735
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0726.833.866",
+    "name": "Folksoft",
+    "site": "www.folksoft.tech",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "yvoir",
+        "address": "Rochers de Fidevoye 3 5530 Yvoir BE",
+        "coords": [
+          4.874851,
+          50.336135
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0735.998.881",
+    "name": "Fourcast For Education",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "lokeren",
+        "address": "Bouwstraat 14 Y1 9160 Lokeren BE",
+        "coords": [
+          3.982021,
+          51.075602
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0736.509.320",
+    "name": "Fortinet Belgium Bv",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "Pegasuslaan 5 1831 Machelen BE",
+        "coords": [
+          4.448383,
+          50.885615
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 73,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0736.970.960",
+    "name": "Facily & Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "uccle",
+        "address": "Chaussée d'Alsemberg 837 1180 Uccle BE",
+        "coords": [
+          4.336273,
+          50.801197
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "vorst",
+        "address": "Rue des Lutins 9 1190 Forest BE",
+        "coords": [
+          4.315521,
+          50.800128
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 21,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0741.810.963",
+    "name": "Feel’in",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "ottignies-louvain-la-neuve",
+        "address": "Chemin du Cyclotron 6 1348 Ottignies-Louvain-la-Neuve BE",
+        "coords": [
+          4.62368,
+          50.66513
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-pieters-woluwe",
+        "address": "Avenue de Tervueren 197 1150 Woluwe-Saint-Pierre BE",
+        "coords": [
+          4.408892,
+          50.836724
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0745.720.954",
+    "name": "Future Marketing Agency",
+    "site": "www.futuremarketing.agency",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Sint-Pietersvliet 7 2000 Antwerpen BE",
+        "coords": [
+          4.400851,
+          51.225599
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0746.784.291",
+    "name": "Futurewave",
+    "site": "www.futurewave.design",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Fabrieksstraat 43 1930 Zaventem BE",
+        "coords": [
+          4.463041,
+          50.886124
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "watermaal-bosvoorde",
+        "address": "Avenue des Coccinelles 81 1170 Watermael-Boitsfort BE",
+        "coords": [
+          4.40161,
+          50.797916
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 19,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0748.816.739",
+    "name": "Fullsend",
+    "site": "www.fullsend.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Frankrijklei 112 8 2000 Antwerpen BE",
+        "coords": [
+          4.41169,
+          51.21468
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0758.857.130",
+    "name": "Fixform",
+    "site": "www.fixform.com",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Sassevaartstraat 46 204 9000 Gent BE",
+        "coords": [
+          3.728883,
+          51.06911
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0763.522.929",
+    "name": "Forecast Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "waterloo",
+        "address": "Avenue des Heures Claires 15 1410 Waterloo BE",
+        "coords": [
+          4.376364,
+          50.713955
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Arnaud Fraiteur 15-23 1050 Ixelles BE",
+        "coords": [
+          4.395968,
+          50.817416
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "rixensart",
+        "address": "Rue de la Tasnière 85 1332 Rixensart BE",
+        "coords": [
+          4.507008,
+          50.729359
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0771.930.255",
+    "name": "Friends Of",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "braine-le-chateau",
+        "address": "Parc Industriel 37 1440 Braine-le-Château BE",
+        "coords": [
+          4.326371,
+          50.688286
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0775.474.022",
+    "name": "Family Concept",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "verviers",
+        "address": "Avenue de Spa 81 4802 Verviers BE",
+        "coords": [
+          5.864796,
+          50.580646
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "theux",
+        "address": "Place du Perron 7 4910 Theux BE",
+        "coords": [
+          5.813003,
+          50.535086
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0785.724.645",
+    "name": "Fix & Swap",
+    "site": "fixandswap.be",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "namur-city",
+        "address": "Place d'Armes 16 5000 Namur BE",
+        "coords": [
+          4.867792,
+          50.463402
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "wavre",
+        "address": "Rue Haute 20 1300 Wavre BE",
+        "coords": [
+          4.609374,
+          50.716536
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "ath",
+        "address": "Rue aux Gâdes 7 7800 Ath BE",
+        "coords": [
+          3.776573,
+          50.630246
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0788.922.873",
+    "name": "Fincons Be",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue Joseph Stevens 7 1000 Bruxelles BE",
+        "coords": [
+          4.352477,
+          50.841326
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0795.968.934",
+    "name": "Fluo",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Sint-Salvatorstraat 18 303 9000 Gent BE",
+        "coords": [
+          3.729531,
+          51.065586
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0807.353.863",
+    "name": "Flexso Digital",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 64,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0811.804.084",
+    "name": "Famo",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "hove",
+        "address": "Mortselsesteenweg 101 2540 Hove BE",
+        "coords": [
+          4.470276,
+          51.161059
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0819.164.109",
+    "name": "F'usness",
+    "site": "www.fusness.com/",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "la-bruyere",
+        "address": "Rue de Bovesse, Bovesse 29 5081 La Bruyère BE",
+        "coords": [
+          4.77493,
+          50.519497
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-jans-molenbeek",
+        "address": "Avenue du Condor 8 B005 1080 Molenbeek-Saint-Jean BE",
+        "coords": [
+          4.306041,
+          50.852486
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0825.374.087",
+    "name": "Fatalexception",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "heist-op-den-berg",
+        "address": "Kroonstraat 9 A 2220 Heist-op-den-Berg BE",
+        "coords": [
+          4.689411,
+          51.06693
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0833.079.055",
+    "name": "Fyrco",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Wayenborgstraat 5 2800 Mechelen BE",
+        "coords": [
+          4.442167,
+          51.050401
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0836.536.215",
+    "name": "Formica",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 20,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0841.288.324",
+    "name": "Foursevens",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0880.270.050",
+    "name": "Flexcity Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-gillis",
+        "address": "Boulevard Poincaré 78-79 1060 Saint-Gilles BE",
+        "coords": [
+          4.340015,
+          50.840048
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Parvis Sainte-Gudule 5 1000 Bruxelles BE",
+        "coords": [
+          4.35892,
+          50.84747
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 21,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0880.889.068",
+    "name": "Finit Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Booiebos 3 9031 Gent BE",
+        "coords": [
+          3.604062,
+          51.041804
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0884.445.406",
+    "name": "Fleet Complete Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Kerkstraat 108 9050 Gent BE",
+        "coords": [
+          3.750989,
+          51.044493
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0884.448.176",
+    "name": "Fosea",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "chaumont-gistoux",
+        "address": "Rue du Brocsous, Dion-V. 104 1325 Chaumont-Gistoux BE",
+        "coords": [
+          4.648506,
+          50.692751
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0887.232.967",
+    "name": "Financial Partners",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "sint-katelijne-waver",
+        "address": "Mechelbaan 144 2861 Sint-Katelijne-Waver BE",
+        "coords": [
+          4.542893,
+          51.05119
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0887.610.871",
+    "name": "Four Pees",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Leiekaai 26 9000 Gent BE",
+        "coords": [
+          3.704881,
+          51.056806
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0890.789.008",
+    "name": "Fastnet",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "tongeren-borgloon",
+        "address": "Limesweg 1 3700 Tongeren-Borgloon BE",
+        "coords": [
+          5.521445,
+          50.790455
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 68,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0890.944.505",
+    "name": "Fb Computers",
+    "site": "www.fbcomputers.exellent-it.be",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "eghezee",
+        "address": "Chaussée de Louvain 107 5310 Eghezée BE",
+        "coords": [
+          4.90344,
+          50.59957
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0891.395.158",
+    "name": "Fj Info",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "welkenraedt",
+        "address": "Village 12 4841 Welkenraedt BE",
+        "coords": [
+          5.931902,
+          50.677245
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0893.926.957",
+    "name": "Facorg",
+    "site": "www.facorg.com",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "ottignies-louvain-la-neuve",
+        "address": "Rue Victor Horta 48 1348 Ottignies-Louvain-la-Neuve BE",
+        "coords": [
+          4.605575,
+          50.664044
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0896.110.645",
+    "name": "Fiba Technics",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "tremelo",
+        "address": "Kruisstraat 110 3120 Tremelo BE",
+        "coords": [
+          4.694235,
+          50.99511
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0897.598.111",
+    "name": "Focus Consulting Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "sint-truiden",
+        "address": "Zepperenweg 98 3800 Sint-Truiden BE",
+        "coords": [
+          5.204023,
+          50.818849
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0898.889.892",
+    "name": "Flexso Brussels",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "mont-saint-guibert",
+        "address": "Rue Granbonpré 11 3 1435 Mont-Saint-Guibert BE",
+        "coords": [
+          4.64287,
+          50.66034
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 39,
+    "founded": 2008,
+    "proof": []
+  }
+]

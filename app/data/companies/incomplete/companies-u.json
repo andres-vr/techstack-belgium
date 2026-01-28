@@ -1,0 +1,1522 @@
+[
+  {
+    "cbe": "0430.748.690",
+    "name": "Unit 4 Business Software",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Meir 24 2000 Antwerpen BE",
+        "coords": [
+          4.406318,
+          51.217818
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 20,
+    "founded": 1987,
+    "proof": []
+  },
+  {
+    "cbe": "0433.236.444",
+    "name": "Usg Professionals",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Frankrijklei 101 2000 Antwerpen BE",
+        "coords": [
+          4.41119,
+          51.21294
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 158,
+    "founded": 1988,
+    "proof": []
+  },
+  {
+    "cbe": "0439.828.286",
+    "name": "Userfull",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "boom",
+        "address": "Scherpenhoek 91 2850 Boom BE",
+        "coords": [
+          4.35186,
+          51.09212
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 33,
+    "founded": 1990,
+    "proof": []
+  },
+  {
+    "cbe": "0460.714.168",
+    "name": "Upcom",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "etterbeek",
+        "address": "Boulevard Louis Schmidt 16 1040 Etterbeek BE",
+        "coords": [
+          4.399708,
+          50.828026
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 1997,
+    "proof": []
+  },
+  {
+    "cbe": "0466.524.864",
+    "name": "Unipartners Consultancy",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "rumst",
+        "address": "Kardinaal Cardijnstraat 7 2840 Rumst BE",
+        "coords": [
+          4.398932,
+          51.079151
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 81,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0471.729.212",
+    "name": "Underside",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "charleroi",
+        "address": "Avenue Georges Lemaitre 5 6041 Charleroi BE",
+        "coords": [
+          4.471324,
+          50.473228
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0472.383.367",
+    "name": "Uniweb",
+    "site": "www.uniweb.be",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "meise",
+        "address": "'s Herenweg 16 1860 Meise BE",
+        "coords": [
+          4.32771,
+          50.95546
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0472.985.658",
+    "name": "Uptime Technologies",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Prins Boudewijnlaan 24 C 2550 Kontich BE",
+        "coords": [
+          4.438778,
+          51.140031
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0475.099.268",
+    "name": "Ucamco",
+    "site": "www.ucamco.com",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Bijenstraat 19 9051 Gent BE",
+        "coords": [
+          3.68257,
+          51.020063
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 35,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0500.980.056",
+    "name": "Usw",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-agatha-berchem",
+        "address": "Chaussée de Gand 1299 1082 Berchem-Sainte-Agathe BE",
+        "coords": [
+          4.292828,
+          50.869119
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Deinsesteenweg 28 9031 Gent BE",
+        "coords": [
+          3.641571,
+          51.042218
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0540.892.685",
+    "name": "Ucast",
+    "site": "www.pixee.eu",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "beernem",
+        "address": "Sint-Jorisstraat 96 8730 Beernem BE",
+        "coords": [
+          3.34586,
+          51.126004
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0568.498.489",
+    "name": "Up-to-date Webdesign",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "lanaken",
+        "address": "Kloosterstraat 20 3620 Lanaken BE",
+        "coords": [
+          5.609169,
+          50.886564
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Hendrik van Veldekesingel 150 3500 Hasselt BE",
+        "coords": [
+          5.314947,
+          50.935604
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0635.520.937",
+    "name": "Unifly",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Luchthavenlei 7A 6 2100 Antwerpen BE",
+        "coords": [
+          4.451466,
+          51.190206
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 28,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0635.807.680",
+    "name": "Urbantz",
+    "site": "www.urbantz.com",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Louise 251 1050 Ixelles BE",
+        "coords": [
+          4.355166,
+          50.817496
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "charleroi",
+        "address": "Square des Martyrs 1 6000 Charleroi BE",
+        "coords": [
+          4.435636,
+          50.442599
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0646.696.327",
+    "name": "Uddan It Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Louise 54 1050 Ixelles BE",
+        "coords": [
+          4.357593,
+          50.818699
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0669.828.154",
+    "name": "Uq",
+    "site": "www.uqlearn.com",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Bouwensstraat 21 2140 Antwerpen BE",
+        "coords": [
+          4.430353,
+          51.21076
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0674.822.367",
+    "name": "Unlockd",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0695.841.376",
+    "name": "Unit-t Field Services",
+    "site": "www.unit-t.eu",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Bellevue 5 9 9050 Gent BE",
+        "coords": [
+          3.735757,
+          51.034752
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "roeselare",
+        "address": "Kwadestraat 141 8800 Roeselare BE",
+        "coords": [
+          3.171172,
+          50.92078
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Schaliënhoevedreef 20T 2800 Mechelen BE",
+        "coords": [
+          4.458172,
+          51.056011
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "herentals",
+        "address": "Saffierstraat 5 2200 Herentals BE",
+        "coords": [
+          4.791654,
+          51.163569
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 157,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0696.732.192",
+    "name": "Uware Technologies",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Boulevard de la Cambre 28-30 1000 Bruxelles BE",
+        "coords": [
+          4.37509,
+          50.816157
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0715.655.013",
+    "name": "Ubitech Energy",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "wemmel",
+        "address": "Avenue Reine Astrid 59B 1780 Wemmel BE",
+        "coords": [
+          4.314468,
+          50.896951
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Louise 367 1050 Ixelles BE",
+        "coords": [
+          4.36941,
+          50.82083
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0717.945.005",
+    "name": "Uman.ai",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Brusselsesteenweg 10 104 9050 Gent BE",
+        "coords": [
+          3.740968,
+          51.040958
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0722.743.436",
+    "name": "Uipath Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Ikaroslaan 1 1930 Zaventem BE",
+        "coords": [
+          4.49383,
+          50.87625
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0728.452.479",
+    "name": "Unpaid",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Port Arthurlaan 11 E 9000 Gent BE",
+        "coords": [
+          3.733519,
+          51.07393
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0740.580.152",
+    "name": "Unmatched",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "aalter",
+        "address": "Durmelaan 7 a 9880 Aalter BE",
+        "coords": [
+          3.457865,
+          51.105441
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0757.974.628",
+    "name": "Urban Mapping",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "Doornstraat 5 B 0051 8500 Kortrijk BE",
+        "coords": [
+          3.25397,
+          50.8296
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "oostende",
+        "address": "Christinastraat 95 8400 Oostende BE",
+        "coords": [
+          2.917863,
+          51.229856
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Kloosterstraat 15 2000 Antwerpen BE",
+        "coords": [
+          4.395467,
+          51.216676
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0768.248.908",
+    "name": "Unilight",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Moerstraat 87 9031 Gent BE",
+        "coords": [
+          3.581771,
+          51.031921
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Wittepaalstraat 27 9051 Gent BE",
+        "coords": [
+          3.654182,
+          51.025332
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0788.645.434",
+    "name": "Unigen",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "steenokkerzeel",
+        "address": "Driesstraat 10 1820 Steenokkerzeel BE",
+        "coords": [
+          4.495476,
+          50.931922
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0799.155.284",
+    "name": "Utiq",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue aux Laines 70 1000 Bruxelles BE",
+        "coords": [
+          4.352987,
+          50.836089
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0811.273.950",
+    "name": "Ubicum",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "brugge",
+        "address": "Gistelse Steenweg 231 8200 Brugge BE",
+        "coords": [
+          3.19726,
+          51.20044
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "brugge",
+        "address": "Sint-Baafsstraat 77 8200 Brugge BE",
+        "coords": [
+          3.201295,
+          51.198184
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0812.082.119",
+    "name": "Unipage",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "roeselare",
+        "address": "Kwadestraat 153 2.2 8800 Roeselare BE",
+        "coords": [
+          3.174946,
+          50.920301
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0829.501.339",
+    "name": "Unlocked",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "olen",
+        "address": "Industrielaan 24 2250 Olen BE",
+        "coords": [
+          4.87676,
+          51.148939
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Egide Walschaertsstraat 22 a 2800 Mechelen BE",
+        "coords": [
+          4.45677,
+          51.00857
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0860.448.495",
+    "name": "Ubench International",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "turnhout",
+        "address": "Antoine Coppenslaan 27 3 2300 Turnhout BE",
+        "coords": [
+          4.934964,
+          51.327486
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 43,
+    "founded": 2003,
+    "proof": []
+  },
+  {
+    "cbe": "0862.404.234",
+    "name": "Ubidata",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "etterbeek",
+        "address": "Rue des Francs 79 1040 Etterbeek BE",
+        "coords": [
+          4.399698,
+          50.837065
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2003,
+    "proof": []
+  },
+  {
+    "cbe": "0863.206.859",
+    "name": "Uni_link",
+    "site": "www.unilink.be",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "aarschot",
+        "address": "Nieuwlandlaan 66 113 3200 Aarschot BE",
+        "coords": [
+          4.817647,
+          50.983957
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0874.751.839",
+    "name": "Urbantech",
+    "site": "www.urbantech.be",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-jans-molenbeek",
+        "address": "Place de la Minoterie 10 1080 Molenbeek-Saint-Jean BE",
+        "coords": [
+          4.341272,
+          50.855373
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 25,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0882.440.771",
+    "name": "Unilogic",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "rixensart",
+        "address": "Rue des Templiers 5 1331 Rixensart BE",
+        "coords": [
+          4.567563,
+          50.729506
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0405.914.514",
+    "name": "Unisys Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "Telecomlaan 9 1831 Machelen BE",
+        "coords": [
+          4.439193,
+          50.88344
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 67,
+    "founded": 1966,
+    "proof": []
+  },
+  {
+    "cbe": "0454.644.839",
+    "name": "Unipartners Group",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "rumst",
+        "address": "Kardinaal Cardijnstraat 7 2840 Rumst BE",
+        "coords": [
+          4.398932,
+          51.079151
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 1995,
+    "proof": []
+  },
+  {
+    "cbe": "0465.604.156",
+    "name": "Ultra-it",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "waterloo",
+        "address": "Drève des Chasseurs 133 1410 Waterloo BE",
+        "coords": [
+          4.383587,
+          50.731107
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0465.878.231",
+    "name": "Unisys Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "Telecomlaan 9 1831 Machelen BE",
+        "coords": [
+          4.439193,
+          50.88344
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 63,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0471.730.202",
+    "name": "Unifiedpost",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "la-hulpe",
+        "address": "Avenue Reine Astrid 92A 1310 La Hulpe BE",
+        "coords": [
+          4.472177,
+          50.727053
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Prins Boudewijnlaan 7 101 2550 Kontich BE",
+        "coords": [
+          4.43592,
+          51.14078
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Kortrijksesteenweg 1146 9051 Gent BE",
+        "coords": [
+          3.672333,
+          51.018658
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 37,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0500.497.234",
+    "name": "Uptime Ict",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "grace-hollogne",
+        "address": "Rue du Fort 3 5 étage 4460 Grâce-Hollogne BE",
+        "coords": [
+          5.460388,
+          50.638818
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 35,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0501.540.082",
+    "name": "Unlimited Investments",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-gillis",
+        "address": "Rue de Livourne 7 4 1060 Saint-Gilles BE",
+        "coords": [
+          4.357767,
+          50.830928
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0501.621.444",
+    "name": "Univertel",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "herstal",
+        "address": "Rue Ferdinand Nicolay 5 4041 Herstal BE",
+        "coords": [
+          5.586304,
+          50.672332
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0541.885.352",
+    "name": "U2u",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "asse",
+        "address": "Z. 1 Researchpark 110 1731 Asse BE",
+        "coords": [
+          4.296725,
+          50.880246
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0628.496.751",
+    "name": "Upthrust",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Broederminstraat 9 2018 Antwerpen BE",
+        "coords": [
+          4.393136,
+          51.203168
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 36,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0630.617.190",
+    "name": "Uvion",
+    "site": "www.uvion.be",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "oudenaarde",
+        "address": "Zonnebloemstraat 37 9700 Oudenaarde BE",
+        "coords": [
+          3.60258,
+          50.83007
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 19,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0630.871.766",
+    "name": "Uncapped",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Solvynsstraat 60 2018 Antwerpen BE",
+        "coords": [
+          4.400962,
+          51.206077
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Miraeusstraat 32 1 2018 Antwerpen BE",
+        "coords": [
+          4.399694,
+          51.206488
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0646.870.234",
+    "name": "Ux-men",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0669.636.926",
+    "name": "Us",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Stationsstraat 55 2800 Mechelen BE",
+        "coords": [
+          4.48072,
+          51.01675
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 25,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0669.673.449",
+    "name": "Uflow",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Indiëstraat 67 2000 Antwerpen BE",
+        "coords": [
+          4.4133,
+          51.23461
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0674.802.670",
+    "name": "Ucxperts",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue de la Presse 4 1000 Bruxelles BE",
+        "coords": [
+          4.36684,
+          50.84914
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0725.861.391",
+    "name": "United Technologies Eu",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-joost-ten-node",
+        "address": "Boulevard Saint-Lazare 4-10 1210 Saint-Josse-ten-Noode BE",
+        "coords": [
+          4.362316,
+          50.85626
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0728.850.377",
+    "name": "Up Solutions",
+    "site": "www.kokirina.be",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "brugge",
+        "address": "Baron Ruzettelaan 1 0.3 8310 Brugge BE",
+        "coords": [
+          3.23117,
+          51.19912
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "brugge",
+        "address": "Langestraat 149 8000 Brugge BE",
+        "coords": [
+          3.237825,
+          51.212211
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0737.807.635",
+    "name": "Upsilon Informatique",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Coquilhatstraat 10 101 2000 Antwerpen BE",
+        "coords": [
+          4.396505,
+          51.208933
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0741.440.977",
+    "name": "Unanim.studio",
+    "site": "unanim.studio",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "braine-lalleud",
+        "address": "Rue d'Odeghien 88 H 1420 Braine-l'Alleud BE",
+        "coords": [
+          4.330282,
+          50.702124
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0757.507.939",
+    "name": "Uix Technologies",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "etterbeek",
+        "address": "Place du Roi Vainqueur 1 8 1040 Etterbeek BE",
+        "coords": [
+          4.397325,
+          50.832867
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0770.950.357",
+    "name": "Unicle Biomedical Data Science",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Kapeldreef 60 1.17 3001 Leuven BE",
+        "coords": [
+          4.671959,
+          50.862211
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0772.697.644",
+    "name": "Upeo",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-jans-molenbeek",
+        "address": "Chaussée de Ninove 135 A 1080 Molenbeek-Saint-Jean BE",
+        "coords": [
+          4.327267,
+          50.849459
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0809.835.479",
+    "name": "Ucaris",
+    "site": "www.realcgr.com",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Leuvensesteenweg 643/40 1930 Zaventem BE",
+        "coords": [
+          4.504161,
+          50.877855
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0810.979.782",
+    "name": "Urban Oasis",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-pieters-woluwe",
+        "address": "Avenue de Tervueren 206 8 1150 Woluwe-Saint-Pierre BE",
+        "coords": [
+          4.413983,
+          50.836552
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0837.352.696",
+    "name": "Urban Foods",
+    "site": "www.urbanfoodfactory.be",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "beringen",
+        "address": "Nijverheidsstraat 33 3580 Beringen BE",
+        "coords": [
+          5.214355,
+          51.052846
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0869.754.557",
+    "name": "Uniwan.be",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "fleurus",
+        "address": "Rue du Progrès 1 6220 Fleurus BE",
+        "coords": [
+          4.526739,
+          50.460408
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "charleroi",
+        "address": "Square des Martyrs 1 A6K 6000 Charleroi BE",
+        "coords": [
+          4.435636,
+          50.442599
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0891.053.282",
+    "name": "Universem",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "namur-city",
+        "address": "Avenue des Dessus de Lives 2 5101 Namur BE",
+        "coords": [
+          4.923718,
+          50.46173
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "oudergem",
+        "address": "Avenue Herrmann-Debroux 40 1160 Auderghem BE",
+        "coords": [
+          4.430679,
+          50.813223
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 49,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0891.959.243",
+    "name": "Uptime Group",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Prins Boudewijnlaan 24 C 2550 Kontich BE",
+        "coords": [
+          4.438778,
+          51.140031
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0892.573.115",
+    "name": "Ucan",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Battelsesteenweg 311 2800 Mechelen BE",
+        "coords": [
+          4.457988,
+          51.03284
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0894.307.633",
+    "name": "Unix-solutions",
+    "site": "www.unix-solutions.be",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Hoge Wei 37a 1930 Zaventem BE",
+        "coords": [
+          4.499384,
+          50.875347
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Grauwmeer 16 3001 Leuven BE",
+        "coords": [
+          4.724373,
+          50.84513
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2007,
+    "proof": []
+  }
+]

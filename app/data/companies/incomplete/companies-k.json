@@ -1,0 +1,1913 @@
+[
+  {
+    "cbe": "0432.758.570",
+    "name": "Key Business",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "braine-lalleud",
+        "address": "Place du Luxembourg 1 2 1420 Braine-l'Alleud BE",
+        "coords": [
+          4.381175,
+          50.665759
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 1987,
+    "proof": []
+  },
+  {
+    "cbe": "0440.183.822",
+    "name": "Korazon",
+    "site": "www.korazon.be",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "izegem",
+        "address": "Krekelmotestraat 109 8870 Izegem BE",
+        "coords": [
+          3.198364,
+          50.91654
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 1990,
+    "proof": []
+  },
+  {
+    "cbe": "0440.882.123",
+    "name": "Keyloop (belgium)",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "merelbeke-melle",
+        "address": "Gontrode Heirweg 334 9090 Merelbeke-Melle BE",
+        "coords": [
+          3.79766,
+          50.99168
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 36,
+    "founded": 1990,
+    "proof": []
+  },
+  {
+    "cbe": "0444.460.334",
+    "name": "Kl Information Systems Integration",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "drogenbos",
+        "address": "Rue Longue 319 1620 Drogenbos BE",
+        "coords": [
+          4.310836,
+          50.796773
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "nivelles",
+        "address": "Rue de Copenhague 14 1400 Nivelles BE",
+        "coords": [
+          4.32657,
+          50.61631
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 1991,
+    "proof": []
+  },
+  {
+    "cbe": "0458.237.106",
+    "name": "Keyrus",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "grimbergen",
+        "address": "Nijverheidslaan 3 2 1853 Grimbergen BE",
+        "coords": [
+          4.36188,
+          50.91217
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 102,
+    "founded": 1996,
+    "proof": []
+  },
+  {
+    "cbe": "0459.206.314",
+    "name": "Kennis En Co",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "De Leescorfstraat 22-26 2140 Antwerpen BE",
+        "coords": [
+          4.44879,
+          51.20128
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 1996,
+    "proof": []
+  },
+  {
+    "cbe": "0465.096.984",
+    "name": "Kap Evolution",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "ans",
+        "address": "Rue de l'Avancée Numérique 1 4430 Ans BE",
+        "coords": [
+          5.529592,
+          50.661996
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 1998,
+    "proof": []
+  },
+  {
+    "cbe": "0465.185.274",
+    "name": "Kris Maertens - Zakenkantoor",
+    "site": "www.MKZakenkantoor.be",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Domeinstraat 43 3010 Leuven BE",
+        "coords": [
+          4.72224,
+          50.89912
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0465.828.444",
+    "name": "Knowliah",
+    "site": "www.knowliah.com",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "boortmeerbeek",
+        "address": "Leuvensesteenweg 282 c 3190 Boortmeerbeek BE",
+        "coords": [
+          4.567947,
+          50.97114
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 22,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0468.210.684",
+    "name": "Korfina Development Center",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "Nijverheidskaai(Kor) 3 21 8500 Kortrijk BE",
+        "coords": [
+          3.257809,
+          50.830116
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0469.793.071",
+    "name": "Kangaroot",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Desguinlei 100 2018 Antwerpen BE",
+        "coords": [
+          4.404201,
+          51.194437
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 23,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0471.279.052",
+    "name": "Kono Consultants",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 31 2550 Kontich BE",
+        "coords": [
+          4.443344,
+          51.142801
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0473.304.867",
+    "name": "Kryolan-belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Naamsevest 52 3000 Leuven BE",
+        "coords": [
+          4.701318,
+          50.868542
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Brugstraat(MZN) 18 2812 Mechelen BE",
+        "coords": [
+          4.518201,
+          51.009886
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0475.885.562",
+    "name": "Kpd Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "halen",
+        "address": "Stadsbeemd 1013 3545 Halen BE",
+        "coords": [
+          5.103591,
+          50.948883
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 36,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0537.183.426",
+    "name": "Kde Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "landen",
+        "address": "Helstraat 21 3400 Landen BE",
+        "coords": [
+          5.042175,
+          50.770218
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0547.958.839",
+    "name": "Kiswe Mobile",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Kempische steenweg 305 6 3500 Hasselt BE",
+        "coords": [
+          5.3501,
+          50.95198
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0560.666.928",
+    "name": "Kdccvm",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Tinkstraat 8 9000 Gent BE",
+        "coords": [
+          3.742686,
+          51.046398
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Limburgstraat 78 9000 Gent BE",
+        "coords": [
+          3.727939,
+          51.051803
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Skaldenstraat 121 E2 9042 Gent BE",
+        "coords": [
+          3.789168,
+          51.113731
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0606.961.662",
+    "name": "Keep-it",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "sint-gillis-waas",
+        "address": "Potterstraat 150 9170 Sint-Gillis-Waas BE",
+        "coords": [
+          4.108744,
+          51.185838
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "sint-gillis-waas",
+        "address": "Potterstraat 148 9170 Sint-Gillis-Waas BE",
+        "coords": [
+          4.108727,
+          51.185973
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0630.601.948",
+    "name": "Kommerse",
+    "site": "www.kommerse.be",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "zwevegem",
+        "address": "James Ensorplein 4 8550 Zwevegem BE",
+        "coords": [
+          3.35474,
+          50.81902
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0633.558.171",
+    "name": "Key Job Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Avenue Louise 367 1050 Bruxelles BE",
+        "coords": [
+          4.36941,
+          50.82083
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 33,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0640.810.506",
+    "name": "Kwin",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Rue Henri Marichal 29 1050 Ixelles BE",
+        "coords": [
+          4.384405,
+          50.823885
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Avenue du Port 86C Floor 1 120 1000 Bruxelles BE",
+        "coords": [
+          4.348862,
+          50.86495
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0649.859.121",
+    "name": "Kabandy",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "etterbeek",
+        "address": "Rue des Pères Blancs 4 1040 Etterbeek BE",
+        "coords": [
+          4.400036,
+          50.826661
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "charleroi",
+        "address": "Square des Martyrs 1 6000 Charleroi BE",
+        "coords": [
+          4.435636,
+          50.442599
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0671.503.086",
+    "name": "Keyros",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "ottignies-louvain-la-neuve",
+        "address": "Rue de Clairvaux 10 1348 Ottignies-Louvain-la-Neuve BE",
+        "coords": [
+          4.618937,
+          50.676969
+        ]
+      },
+      {
+        "province": "luxembourg",
+        "municipality": "neufchateau",
+        "address": "Rue Docteur Hanozet,NEU 14 6840 Neufchâteau BE",
+        "coords": [
+          5.441651,
+          49.846285
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0673.621.844",
+    "name": "Key2info",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "lier",
+        "address": "Berlaarsestraat 31 6 2500 Lier BE",
+        "coords": [
+          4.576594,
+          51.130031
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0677.806.702",
+    "name": "Kindertand",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "boechout",
+        "address": "Provinciesteenweg 203 2 2530 Boechout BE",
+        "coords": [
+          4.49708,
+          51.16623
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0685.446.837",
+    "name": "Kainos Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "wommelgem",
+        "address": "Nijverheidsstraat 70 2160 Wommelgem BE",
+        "coords": [
+          4.510356,
+          51.210588
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0685.795.245",
+    "name": "Keyrock",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Louise 251 1050 Ixelles BE",
+        "coords": [
+          4.355166,
+          50.817496
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 27,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0686.740.105",
+    "name": "Konfidi It Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "lier",
+        "address": "Kanunnik Davidlaan 31 c 2500 Lier BE",
+        "coords": [
+          4.56552,
+          51.12953
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0691.909.710",
+    "name": "Kmo - Software",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "wielsbeke",
+        "address": "Beukenlaan 1 8710 Wielsbeke BE",
+        "coords": [
+          3.32404,
+          50.897597
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0729.642.413",
+    "name": "Kairon Labs",
+    "site": "www.kaironlabs.com",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Borsbeeksebrug 28 8 2600 Antwerpen BE",
+        "coords": [
+          4.434907,
+          51.199098
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0752.981.997",
+    "name": "Kadanza",
+    "site": "www.kadanza.com",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Kanunnik De Deckerstraat 20A 2800 Mechelen BE",
+        "coords": [
+          4.47876,
+          51.03193
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0755.815.486",
+    "name": "Kuubix",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mortsel",
+        "address": "Ten Dorpelei 16 2640 Mortsel BE",
+        "coords": [
+          4.449085,
+          51.174227
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0764.299.028",
+    "name": "Kyndryl Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "Hermeslaan 9 1831 Machelen BE",
+        "coords": [
+          4.43721,
+          50.879275
+        ]
+      },
+      {
+        "province": "luxembourg",
+        "municipality": "bastogne",
+        "address": "Rue de la Drève 7 6600 Bastogne BE",
+        "coords": [
+          5.68922,
+          49.9989
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Mercuriusstraat 27 1930 Zaventem BE",
+        "coords": [
+          4.502515,
+          50.873578
+        ]
+      },
+      {
+        "province": "luxembourg",
+        "municipality": "vaux-sur-sure",
+        "address": "Chaussée de Saint-Hubert,Morhet 1A 6640 Vaux-sur-Sûre BE",
+        "coords": [
+          5.590322,
+          49.954685
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 180,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0775.460.461",
+    "name": "Kreantis",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "herentals",
+        "address": "Herenthoutseweg 236 2200 Herentals BE",
+        "coords": [
+          4.80588,
+          51.155078
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0775.508.961",
+    "name": "Kohera Aan De Leie",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "Lucky Lukestraat 6 8500 Kortrijk BE",
+        "coords": [
+          3.258278,
+          50.83116
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0780.490.011",
+    "name": "Kmo Shops",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue aux Laines 70 1000 Bruxelles BE",
+        "coords": [
+          4.352987,
+          50.836089
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0783.900.550",
+    "name": "Kai-zen Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "waterloo",
+        "address": "Drève Richelle 161 57 1410 Waterloo BE",
+        "coords": [
+          4.409568,
+          50.708427
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0808.621.296",
+    "name": "Kitry",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "nivelles",
+        "address": "Rue du Commerce 12 1400 Nivelles BE",
+        "coords": [
+          4.363733,
+          50.589362
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0809.909.715",
+    "name": "Kefra Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "wavre",
+        "address": "Clos des Cytises 6 1300 Wavre BE",
+        "coords": [
+          4.559845,
+          50.696476
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0831.289.505",
+    "name": "Kidimedia",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "lummen",
+        "address": "Bosstraat 71 3560 Lummen BE",
+        "coords": [
+          5.200458,
+          50.993345
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0835.986.085",
+    "name": "Kenze",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "sint-katelijne-waver",
+        "address": "Meidoornstraat 1A 2860 Sint-Katelijne-Waver BE",
+        "coords": [
+          4.504928,
+          51.04594
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0837.602.918",
+    "name": "Kapernikov",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Wilselsesteenweg 75 .0001 3010 Leuven BE",
+        "coords": [
+          4.727855,
+          50.899118
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "anderlecht",
+        "address": "Rue Bara 173-177 1070 Anderlecht BE",
+        "coords": [
+          4.331241,
+          50.835615
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 19,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0845.906.217",
+    "name": "Kern It",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "etterbeek",
+        "address": "Rue Belliard 2A 1040 Etterbeek BE",
+        "coords": [
+          4.368084,
+          50.842776
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0861.077.215",
+    "name": "Kinamo",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Hessenstraatje 2 2000 Antwerpen BE",
+        "coords": [
+          4.40902,
+          51.226052
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2003,
+    "proof": []
+  },
+  {
+    "cbe": "0878.121.697",
+    "name": "Kameo",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "arendonk",
+        "address": "Vloedlaan 3 2370 Arendonk BE",
+        "coords": [
+          5.084627,
+          51.321679
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0882.431.071",
+    "name": "Kenso",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "aarschot",
+        "address": "Haterbeekstraat 138 3200 Aarschot BE",
+        "coords": [
+          4.864815,
+          50.976177
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0883.003.668",
+    "name": "Kmosites",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Gustaaf Callierlaan 213 9000 Gent BE",
+        "coords": [
+          3.734733,
+          51.040235
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0883.330.302",
+    "name": "Koko Arrose La Culture",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "chaudfontaine",
+        "address": "Au Rond Chêne 3 4053 Chaudfontaine BE",
+        "coords": [
+          5.62044,
+          50.584432
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "sprimont",
+        "address": "Rue Mathieu Van Roggen 26 4140 Sprimont BE",
+        "coords": [
+          5.657363,
+          50.506798
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Rue Lens 28 1050 Ixelles BE",
+        "coords": [
+          4.366022,
+          50.826923
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0885.143.311",
+    "name": "Kea",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "kluisbergen",
+        "address": "Beukendreef 2 9690 Kluisbergen BE",
+        "coords": [
+          3.48854,
+          50.76491
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0893.387.717",
+    "name": "Konato",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0898.489.917",
+    "name": "Komis",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue d'Egmont 15 4 1000 Bruxelles BE",
+        "coords": [
+          4.36576,
+          50.83881
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0898.740.533",
+    "name": "Keonys Belgique",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "waterloo",
+        "address": "Drève Richelle 161 1410 Waterloo BE",
+        "coords": [
+          4.409568,
+          50.708427
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0441.460.064",
+    "name": "Knx Association",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "De Kleetlaan 5 11 1831 Machelen BE",
+        "coords": [
+          4.449617,
+          50.888579
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 1990,
+    "proof": []
+  },
+  {
+    "cbe": "0462.675.053",
+    "name": "Keytel",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Holsbeeksesteenweg 133 3010 Leuven BE",
+        "coords": [
+          4.731818,
+          50.897835
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 1998,
+    "proof": []
+  },
+  {
+    "cbe": "0502.650.238",
+    "name": "Kanpeki",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "wavre",
+        "address": "Rue Antoine André 78 1300 Wavre BE",
+        "coords": [
+          4.59127,
+          50.686722
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0507.622.873",
+    "name": "Keystone Solutions",
+    "site": "www.keystone-solutions.be",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "kortenberg",
+        "address": "Patrijzenstraat 11 a 3078 Kortenberg BE",
+        "coords": [
+          4.532187,
+          50.871289
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-joost-ten-node",
+        "address": "Avenue des Arts 10-11 2 1210 Saint-Josse-ten-Noode BE",
+        "coords": [
+          4.374909,
+          50.849831
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 41,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0556.611.932",
+    "name": "Kejieng",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Ridder Portmansstraat 4 3500 Hasselt BE",
+        "coords": [
+          5.333509,
+          50.929347
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0559.852.821",
+    "name": "Kieback & Peter Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "roosdaal",
+        "address": "Omer De Vidtslaan 64 B 1760 Roosdaal BE",
+        "coords": [
+          4.090125,
+          50.832639
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0564.791.903",
+    "name": "Koalect",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue Picard 7 100 1000 Bruxelles BE",
+        "coords": [
+          4.34525,
+          50.86392
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0568.853.035",
+    "name": "Knight Moves",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Sint-Salvatorstraat 18 303 9000 Gent BE",
+        "coords": [
+          3.729531,
+          51.065586
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0628.865.054",
+    "name": "Kohera.sql",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0643.651.418",
+    "name": "Kevlinx Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Avenue Louise 279 1050 Bruxelles BE",
+        "coords": [
+          4.355166,
+          50.817496
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0651.995.101",
+    "name": "Korund9",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Jan van Gentstraat 7 402 2000 Antwerpen BE",
+        "coords": [
+          4.38777,
+          51.20558
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0655.941.021",
+    "name": "Klarrio",
+    "site": "www.klarrio.com",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Plantin en Moretuslei 1 A 2018 Antwerpen BE",
+        "coords": [
+          4.418879,
+          51.210611
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 65,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0666.820.362",
+    "name": "Kdn",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Gordunakaai 61 9000 Gent BE",
+        "coords": [
+          3.703487,
+          51.043547
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 27,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0674.440.604",
+    "name": "Keypoint",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "gistel",
+        "address": "Nieuwpoortse Steenweg 104 8470 Gistel BE",
+        "coords": [
+          2.955227,
+          51.150467
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0680.448.565",
+    "name": "Kps Transformation",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Desguinlei 100 10 2018 Antwerpen BE",
+        "coords": [
+          4.404201,
+          51.194437
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Uitbreidingstraat 84 2600 Antwerpen BE",
+        "coords": [
+          4.418059,
+          51.19254
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0681.490.821",
+    "name": "Keiro",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "mont-saint-guibert",
+        "address": "Rue Granbonpré 11 3 1435 Mont-Saint-Guibert BE",
+        "coords": [
+          4.64287,
+          50.66034
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "grace-hollogne",
+        "address": "Rue du Fort 3 5 4460 Grâce-Hollogne BE",
+        "coords": [
+          5.460388,
+          50.638818
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0685.697.057",
+    "name": "Kunlabora",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 38,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0691.667.309",
+    "name": "Ksakri",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Tichelrij 30 1 2800 Mechelen BE",
+        "coords": [
+          4.47349,
+          51.02797
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0715.936.709",
+    "name": "Kindee",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "dendermonde",
+        "address": "Zeelsebaan 83 Z 9200 Dendermonde BE",
+        "coords": [
+          4.09108,
+          51.04722
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0738.456.347",
+    "name": "Koutermolen",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "wortegem-petegem",
+        "address": "Kouter 3 9790 Wortegem-Petegem BE",
+        "coords": [
+          3.522731,
+          50.817446
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0738.463.770",
+    "name": "Konekto",
+    "site": "konekto.be",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "ottignies-louvain-la-neuve",
+        "address": "Chaussée de La Croix 47 1340 Ottignies-Louvain-la-Neuve BE",
+        "coords": [
+          4.576415,
+          50.66885
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0740.467.712",
+    "name": "Komplett",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "poperinge",
+        "address": "Kouter 1A 8970 Poperinge BE",
+        "coords": [
+          2.734637,
+          50.856161
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0771.349.938",
+    "name": "Kroll Associates",
+    "site": "kroll.com",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue du Commerce 31 1000 Bruxelles BE",
+        "coords": [
+          4.368068,
+          50.840885
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0772.726.051",
+    "name": "Krokant",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "boom",
+        "address": "Van Leriuslaan 154 2850 Boom BE",
+        "coords": [
+          4.376324,
+          51.097624
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0778.682.643",
+    "name": "Kaisha",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "beveren-kruibeke-zwijndrecht",
+        "address": "Kruibekestraat 154B 9150 Beveren-Kruibeke-Zwijndrecht BE",
+        "coords": [
+          4.300497,
+          51.154763
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 23,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0789.762.518",
+    "name": "Kooijman It",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "essen",
+        "address": "Kapelstraat 99 2910 Essen BE",
+        "coords": [
+          4.47513,
+          51.46154
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0789.878.720",
+    "name": "Klassif.ai",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0791.782.690",
+    "name": "Knz.2fiber",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "genk",
+        "address": "Mondeolaan 2c 6 3600 Genk BE",
+        "coords": [
+          5.493857,
+          50.933145
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0797.870.332",
+    "name": "Keleos",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0808.731.956",
+    "name": "Kontron Public Transportation",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "Culliganlaan 1A 1831 Machelen BE",
+        "coords": [
+          4.449106,
+          50.884352
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 27,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0830.682.462",
+    "name": "Kara Hr",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zoutleeuw",
+        "address": "Dorpsstraat 85 3440 Zoutleeuw BE",
+        "coords": [
+          5.105665,
+          50.802624
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0842.463.311",
+    "name": "Karel Thysebaerdt Consulting & Coordination",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "aalst",
+        "address": "Parklaan 223 2 9300 Aalst BE",
+        "coords": [
+          4.035479,
+          50.928147
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0876.100.634",
+    "name": "Korenlei 1",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Korenlei 1 9000 Gent BE",
+        "coords": [
+          3.720573,
+          51.05565
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0886.316.714",
+    "name": "Kohera",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "1006.033.421",
+    "name": "Knoware",
+    "site": "www.knoware.be",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "nivelles",
+        "address": "Rue Graham Bell 25 1402 Nivelles BE",
+        "coords": [
+          4.36855,
+          50.58005
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "brugge",
+        "address": "Pathoekeweg 9 8000 Brugge BE",
+        "coords": [
+          3.21561,
+          51.23515
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "watermaal-bosvoorde",
+        "address": "Boulevard du Souverain 68 1170 Watermael-Boitsfort BE",
+        "coords": [
+          4.425388,
+          50.804149
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 2024,
+    "proof": []
+  }
+]

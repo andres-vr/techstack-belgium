@@ -1,0 +1,2939 @@
+[
+  {
+    "cbe": "0404.641.636",
+    "name": "General Engineering & Technology",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "malle",
+        "address": "Antwerpsesteenweg 107 2390 Malle BE",
+        "coords": [
+          4.70934,
+          51.297656
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 86,
+    "founded": 1965,
+    "proof": []
+  },
+  {
+    "cbe": "0406.883.920",
+    "name": "G.i.a.",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "bree",
+        "address": "Industrieterrein Kanaal-Noord 1161 3960 Bree BE",
+        "coords": [
+          5.624381,
+          51.147869
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 1969,
+    "proof": []
+  },
+  {
+    "cbe": "0415.361.126",
+    "name": "Gallon",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "roeselare",
+        "address": "Kruisboommolenstraat 11 8800 Roeselare BE",
+        "coords": [
+          3.16104,
+          50.972451
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 1975,
+    "proof": []
+  },
+  {
+    "cbe": "0415.761.596",
+    "name": "General Computers",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "beringen",
+        "address": "Schemkensstraat 6 3583 Beringen BE",
+        "coords": [
+          5.176071,
+          51.050999
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "zonhoven",
+        "address": "Veldhinweg 28 3520 Zonhoven BE",
+        "coords": [
+          5.35678,
+          50.99105
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 1976,
+    "proof": []
+  },
+  {
+    "cbe": "0421.226.656",
+    "name": "Geodynamics",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "Dumolinlaan(Kor) 9 8500 Kortrijk BE",
+        "coords": [
+          3.245319,
+          50.81273
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 50,
+    "founded": 1981,
+    "proof": []
+  },
+  {
+    "cbe": "0422.851.308",
+    "name": "Green Island",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "grimbergen",
+        "address": "Treft 25 201 1853 Grimbergen BE",
+        "coords": [
+          4.33833,
+          50.9031
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 31,
+    "founded": 1982,
+    "proof": []
+  },
+  {
+    "cbe": "0429.941.513",
+    "name": "Geecon It Solutions",
+    "site": "www.geecon.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Oudekerkstraat 86 2018 Antwerpen BE",
+        "coords": [
+          4.395135,
+          51.199055
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "pelt",
+        "address": "Waterrijtstraat 9B 3900 Pelt BE",
+        "coords": [
+          5.378525,
+          51.228693
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 1986,
+    "proof": []
+  },
+  {
+    "cbe": "0435.526.832",
+    "name": "General Process Steering",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "genk",
+        "address": "Oosterring 9 3600 Genk BE",
+        "coords": [
+          5.527488,
+          50.925652
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 37,
+    "founded": 1988,
+    "proof": []
+  },
+  {
+    "cbe": "0435.589.287",
+    "name": "Gestion Assistee Par Informatique",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Route du Condroz 533 4031 Liège BE",
+        "coords": [
+          5.553206,
+          50.571605
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 26,
+    "founded": 1988,
+    "proof": []
+  },
+  {
+    "cbe": "0444.668.289",
+    "name": "Greisch Ingenierie",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Allée des Noisetiers 25 4031 Liège BE",
+        "coords": [
+          5.573685,
+          50.600299
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 63,
+    "founded": 1991,
+    "proof": []
+  },
+  {
+    "cbe": "0448.296.881",
+    "name": "Geotracer",
+    "site": "www.geotracer.be",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "oosterzele",
+        "address": "Lange Ambachtstraat 16 A 9860 Oosterzele BE",
+        "coords": [
+          3.81464,
+          50.95096
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 1992,
+    "proof": []
+  },
+  {
+    "cbe": "0451.261.222",
+    "name": "G.b.o. Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "sint-genesius-rode",
+        "address": "Place de la Station 2 1640 Sint-Genesius-Rode BE",
+        "coords": [
+          4.361055,
+          50.747916
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 1993,
+    "proof": []
+  },
+  {
+    "cbe": "0458.524.542",
+    "name": "Gmi Group",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "westerlo",
+        "address": "Nijverheidsstraat 13 2260 Westerlo BE",
+        "coords": [
+          4.925775,
+          51.135663
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Rijvisschestraat 126 9052 Gent BE",
+        "coords": [
+          3.694812,
+          51.017313
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 58,
+    "founded": 1996,
+    "proof": []
+  },
+  {
+    "cbe": "0459.718.731",
+    "name": "Generix Group Benelux",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Derbystraat 377 9051 Gent BE",
+        "coords": [
+          3.69837,
+          51.022943
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 1997,
+    "proof": []
+  },
+  {
+    "cbe": "0460.904.111",
+    "name": "Gamelink",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Beggaardenstraat 6 2000 Antwerpen BE",
+        "coords": [
+          4.40464,
+          51.21941
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Tweemontstraat 169 2100 Antwerpen BE",
+        "coords": [
+          4.448896,
+          51.233921
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 1997,
+    "proof": []
+  },
+  {
+    "cbe": "0464.610.402",
+    "name": "Gs Charleroi",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "courcelles",
+        "address": "Fonds de Corbeau(CO) 17 6180 Courcelles BE",
+        "coords": [
+          4.373246,
+          50.476123
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 1998,
+    "proof": []
+  },
+  {
+    "cbe": "0464.682.953",
+    "name": "Guideline Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "brugge",
+        "address": "Mariastraat 38 8000 Brugge BE",
+        "coords": [
+          3.222471,
+          51.20396
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 1998,
+    "proof": []
+  },
+  {
+    "cbe": "0466.065.895",
+    "name": "Globis",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "aalst",
+        "address": "Industrielaan 27 4 9320 Aalst BE",
+        "coords": [
+          4.04459,
+          50.91227
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 27,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0466.867.928",
+    "name": "Green",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "wavre",
+        "address": "Avenue Lavoisier 25 1300 Wavre BE",
+        "coords": [
+          4.58943,
+          50.73541
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0467.335.013",
+    "name": "Gartner Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Da Vincilaan 11 1930 Zaventem BE",
+        "coords": [
+          4.458019,
+          50.888595
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 81,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0471.946.966",
+    "name": "G2 Speech Belgie",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Interleuvenlaan 62 3001 Leuven BE",
+        "coords": [
+          4.73638,
+          50.84936
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0475.155.191",
+    "name": "Globule Bleu",
+    "site": "www.globulebleu.com",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Quai Mativa 62 4020 Liège BE",
+        "coords": [
+          5.580886,
+          50.623486
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 18,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0526.835.704",
+    "name": "Graphine",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Coupure 88 9000 Gent BE",
+        "coords": [
+          3.715953,
+          51.047369
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0536.215.505",
+    "name": "Gieteco Ict Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "geraardsbergen",
+        "address": "Gapenberg 13 9500 Geraardsbergen BE",
+        "coords": [
+          3.882884,
+          50.823113
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0550.675.829",
+    "name": "Guardsquare",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Tervuursevest 362 1 3000 Leuven BE",
+        "coords": [
+          4.684408,
+          50.876975
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Franklin Rooseveltlaan 348/G 9000 Gent BE",
+        "coords": [
+          3.731149,
+          51.044268
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 109,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0555.931.843",
+    "name": "Go Hr",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "wavre",
+        "address": "Chemin du Stocquoy 1 1300 Wavre BE",
+        "coords": [
+          4.61498,
+          50.689226
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "overijse",
+        "address": "Welriekendedreef 27 3090 Overijse BE",
+        "coords": [
+          4.47651,
+          50.79133
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0568.488.492",
+    "name": "G-soft",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "diest",
+        "address": "Jagersberg 15 3294 Diest BE",
+        "coords": [
+          5.026225,
+          50.999465
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0632.779.993",
+    "name": "Godevelop",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "tessenderlo-ham",
+        "address": "Nijverheidsweg 88 3945 Tessenderlo-Ham BE",
+        "coords": [
+          5.175432,
+          51.08114
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0636.843.897",
+    "name": "Growzer",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Rijnkaai 100 B12 2000 Antwerpen BE",
+        "coords": [
+          4.40129,
+          51.229144
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Emiel Banningstraat 41-47 2000 Antwerpen BE",
+        "coords": [
+          4.389119,
+          51.205153
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0638.901.287",
+    "name": "Go Vocal",
+    "site": "www.citizenlab.co",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Boulevard Pachéco 34 1000 Bruxelles BE",
+        "coords": [
+          4.36168,
+          50.85167
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 26,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0641.907.297",
+    "name": "Global Event Production",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "wavre",
+        "address": "Rue de la Corderie 33 1300 Wavre BE",
+        "coords": [
+          4.611894,
+          50.709936
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "nivelles",
+        "address": "Rue du Commerce 13 1400 Nivelles BE",
+        "coords": [
+          4.36722,
+          50.59023
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0642.985.680",
+    "name": "Gadgeon Europe",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "aartselaar",
+        "address": "Antwerpsesteenweg 124 54 2630 Aartselaar BE",
+        "coords": [
+          4.38071,
+          51.145252
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0659.761.534",
+    "name": "Guide2property",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Antoinette Vandeputtepad 25 102 9000 Gent BE",
+        "coords": [
+          3.707483,
+          51.067891
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0665.934.989",
+    "name": "Geopostcodes",
+    "site": "www.geopostcodes.com",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Boulevard Bischoffsheim 15 1000 Bruxelles BE",
+        "coords": [
+          4.368314,
+          50.850178
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 19,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0670.582.675",
+    "name": "Groovit",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "tournai",
+        "address": "Quai des Salines 30 A 105 7500 Tournai BE",
+        "coords": [
+          3.384149,
+          50.611804
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0672.456.656",
+    "name": "Geolives Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Quai Banning 6 4000 Liège BE",
+        "coords": [
+          5.575623,
+          50.614295
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0704.609.582",
+    "name": "Gunfire Europe",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "charleroi",
+        "address": "Boulevard Audent 14 6000 Charleroi BE",
+        "coords": [
+          4.44407,
+          50.40958
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 36,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0715.399.546",
+    "name": "Gm Association",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "genappe",
+        "address": "Rue du Château 95 1470 Genappe BE",
+        "coords": [
+          4.525624,
+          50.62087
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 23,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0715.958.681",
+    "name": "Greentripper",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Cantersteen 47 1000 Bruxelles BE",
+        "coords": [
+          4.358233,
+          50.845598
+        ]
+      },
+      {
+        "province": "namur",
+        "municipality": "namur-city",
+        "address": "Rue de Lepante 33 5004 Namur BE",
+        "coords": [
+          4.903957,
+          50.47523
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Frankrijklei 5 2000 Antwerpen BE",
+        "coords": [
+          4.41622,
+          51.218285
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue d'Accolay 15 1000 Bruxelles BE",
+        "coords": [
+          4.34904,
+          50.8429
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0717.600.654",
+    "name": "Gorillini",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Mechelsesteenweg 271 BOX 2.1 2018 Antwerpen BE",
+        "coords": [
+          4.41453,
+          51.20009
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 42,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0719.496.510",
+    "name": "Georges Martin",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "duffel",
+        "address": "Hermansstraat 24 2570 Duffel BE",
+        "coords": [
+          4.4952,
+          51.08751
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0726.933.836",
+    "name": "Gumbys",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0734.399.470",
+    "name": "Gvl-technics",
+    "site": "www.gvl-technics.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "heist-op-den-berg",
+        "address": "Kasteelstraat 2 d 2220 Heist-op-den-Berg BE",
+        "coords": [
+          4.7015,
+          51.07139
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0736.791.610",
+    "name": "Goodix Technology (belgium)",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Arnould Nobelstraat 32 3000 Leuven BE",
+        "coords": [
+          4.71371,
+          50.87723
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 27,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0741.569.057",
+    "name": "Greenstack",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Sneeuwbeslaan 20 2610 Antwerpen BE",
+        "coords": [
+          4.400783,
+          51.174252
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0745.838.443",
+    "name": "Gergo",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Kempenstraat 90 1607 2030 Antwerpen BE",
+        "coords": [
+          4.41413,
+          51.23128
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0745.992.455",
+    "name": "Granstudio Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "Nelson Mandelaplein 2 8500 Kortrijk BE",
+        "coords": [
+          3.255035,
+          50.825149
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0747.601.269",
+    "name": "Greight",
+    "site": "www.greight.be",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Quai Marcellis 17 61 4020 Liège BE",
+        "coords": [
+          5.575159,
+          50.634448
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0753.924.580",
+    "name": "Gdc Networks",
+    "site": "gdcnetworks.eu",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "wevelgem",
+        "address": "Dreef Ter Elst 12 8560 Wevelgem BE",
+        "coords": [
+          3.20904,
+          50.84178
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0759.788.528",
+    "name": "Grow To Excellence",
+    "site": "www.growtoexcellence.com",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "herve",
+        "address": "Coronmeuse 60 B 4650 Herve BE",
+        "coords": [
+          5.778696,
+          50.685735
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "seraing",
+        "address": "Esplanade du Val St-Lambert 1 4100 Seraing BE",
+        "coords": [
+          5.482637,
+          50.593274
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0760.342.022",
+    "name": "Greenomy",
+    "site": "www.greenomy.io/",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Louise 54 1050 Ixelles BE",
+        "coords": [
+          4.357593,
+          50.818699
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 20,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0764.878.949",
+    "name": "Green Island Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "grimbergen",
+        "address": "Treft 25 202 1853 Grimbergen BE",
+        "coords": [
+          4.33833,
+          50.9031
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 21,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0765.337.324",
+    "name": "Gmv Innovating Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-joost-ten-node",
+        "address": "Boulevard Saint-Lazare 4-10 ET6 1210 Saint-Josse-ten-Noode BE",
+        "coords": [
+          4.362316,
+          50.85626
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0769.335.308",
+    "name": "Group K",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "houthalen-helchteren",
+        "address": "Kunselveld 7 3530 Houthalen-Helchteren BE",
+        "coords": [
+          5.390464,
+          51.055653
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "houthalen-helchteren",
+        "address": "Pastorijstraat 30 3530 Houthalen-Helchteren BE",
+        "coords": [
+          5.372514,
+          51.028414
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 17,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0783.688.437",
+    "name": "Glaucus Group",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "lede",
+        "address": "Impedorp 73 9340 Lede BE",
+        "coords": [
+          3.950579,
+          50.960104
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0789.556.244",
+    "name": "Green Leaf Bidco",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "merelbeke-melle",
+        "address": "Brusselsesteenweg 94 201 9090 Merelbeke-Melle BE",
+        "coords": [
+          3.78132,
+          51.01747
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0793.608.270",
+    "name": "Genvision",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Petrusberg 22 3001 Leuven BE",
+        "coords": [
+          4.720236,
+          50.859226
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0793.864.529",
+    "name": "Gynzy Belgium",
+    "site": "www.gynzy.be",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue des Colonies 11 1000 Bruxelles BE",
+        "coords": [
+          4.35963,
+          50.84641
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0798.506.968",
+    "name": "Global Shares Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Boulevard du Régent 35 1000 Bruxelles BE",
+        "coords": [
+          4.36784,
+          50.84555
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0799.086.097",
+    "name": "Genko",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "anderlecht",
+        "address": "Rue Démosthène 87 3 1070 Anderlecht BE",
+        "coords": [
+          4.309606,
+          50.841646
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "seneffe",
+        "address": "Rue de l'Yser 3 1 7180 Seneffe BE",
+        "coords": [
+          4.260235,
+          50.529394
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0808.353.458",
+    "name": "Geosparc",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "destelbergen",
+        "address": "Molenweidestraat 24 9070 Destelbergen BE",
+        "coords": [
+          3.793862,
+          51.017245
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0810.022.452",
+    "name": "Goodjob",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "walcourt",
+        "address": "Rue des Marchaîs 2 5651 Walcourt BE",
+        "coords": [
+          4.483739,
+          50.295173
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0812.393.905",
+    "name": "Greenpig",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "namur-city",
+        "address": "Chaussée de Marche 680 5100 Namur BE",
+        "coords": [
+          4.916114,
+          50.434194
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 20,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0822.761.225",
+    "name": "Grizzly New Marketing",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Generaal Lemanstraat 55 2 2600 Antwerpen BE",
+        "coords": [
+          4.41136,
+          51.19448
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 27,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0825.431.297",
+    "name": "Global Process Automation Industry",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "ath",
+        "address": "Rue des Foudriers 28 7822 Ath BE",
+        "coords": [
+          3.870694,
+          50.663645
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "seraing",
+        "address": "Rue Ferrer 110 4100 Seraing BE",
+        "coords": [
+          5.507664,
+          50.609218
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 30,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0840.678.907",
+    "name": "Gdtec",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "sankt-vith",
+        "address": "Solvaystraße 4 4780 Sankt Vith BE",
+        "coords": [
+          6.098739,
+          50.285247
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0841.805.095",
+    "name": "Genexis Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Schaliënhoevedreef 20 A 2800 Mechelen BE",
+        "coords": [
+          4.458295,
+          51.055908
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0842.102.926",
+    "name": "Galeries",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Galerie de la Reine 26 1000 Bruxelles BE",
+        "coords": [
+          4.35462,
+          50.84745
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0845.220.584",
+    "name": "Galateia",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "gembloux",
+        "address": "Rue Jean Sonet,Isnes 17 5032 Gembloux BE",
+        "coords": [
+          4.712393,
+          50.503259
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 18,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0867.494.160",
+    "name": "Go-virtual",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "oudenburg",
+        "address": "Vanderkinderenweg 20 8460 Oudenburg BE",
+        "coords": [
+          3.038418,
+          51.166329
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "veurne",
+        "address": "Appelmarkt 4 3 8630 Veurne BE",
+        "coords": [
+          2.663266,
+          51.07178
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0877.878.209",
+    "name": "Gigaweb",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "ottignies-louvain-la-neuve",
+        "address": "Clos des Mésanges 53 1342 Ottignies-Louvain-la-Neuve BE",
+        "coords": [
+          4.55775,
+          50.675547
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0887.307.795",
+    "name": "Global Informatique Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "walcourt",
+        "address": "Rue d' Ossogne 3 5650 Walcourt BE",
+        "coords": [
+          4.315995,
+          50.263282
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "thuin",
+        "address": "Rue de Marchienne 2 6534 Thuin BE",
+        "coords": [
+          4.351393,
+          50.333646
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0888.908.493",
+    "name": "Geo Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "edegem",
+        "address": "Prins Boudewijnlaan 41 2650 Edegem BE",
+        "coords": [
+          4.436466,
+          51.147455
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 83,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0890.021.619",
+    "name": "Gambit Financial Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Rue de Mulhouse 36 4020 Liège BE",
+        "coords": [
+          5.586227,
+          50.632747
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Louise 231 1050 Ixelles BE",
+        "coords": [
+          4.355166,
+          50.817496
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 66,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0890.126.240",
+    "name": "Gosselin Support Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Belcrownlaan 23 2100 Antwerpen BE",
+        "coords": [
+          4.46557,
+          51.23804
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Keesinglaan 28 2100 Antwerpen BE",
+        "coords": [
+          4.464536,
+          51.236222
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 19,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0890.739.617",
+    "name": "Gabari",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Prins Albertlei 14 2600 Antwerpen BE",
+        "coords": [
+          4.412896,
+          51.198395
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0897.103.510",
+    "name": "Green Valley Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "beringen",
+        "address": "Industrieweg 83 3583 Beringen BE",
+        "coords": [
+          5.180559,
+          51.050362
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0898.121.614",
+    "name": "Grepi Technics",
+    "site": "www.grepi.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "bonheiden",
+        "address": "Putsesteenweg 246 2820 Bonheiden BE",
+        "coords": [
+          4.553175,
+          51.03661
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0451.539.750",
+    "name": "Genesis Consult",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-lambrechts-woluwe",
+        "address": "Boulevard de la Woluwe 64 3 1200 Woluwe-Saint-Lambert BE",
+        "coords": [
+          4.43718,
+          50.84284
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 57,
+    "founded": 1993,
+    "proof": []
+  },
+  {
+    "cbe": "0454.064.819",
+    "name": "G.i.m. - Geographic Information Management",
+    "site": "www.gim.be",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Philipssite 5 27 3001 Leuven BE",
+        "coords": [
+          4.712963,
+          50.867016
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 40,
+    "founded": 1994,
+    "proof": []
+  },
+  {
+    "cbe": "0465.888.327",
+    "name": "Go - 4 - It",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Bondgenotenlaan 119 3000 Leuven BE",
+        "coords": [
+          4.71038,
+          50.880732
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0474.703.944",
+    "name": "Group-wave",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0474.895.667",
+    "name": "Global Information Systems",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "oudenaarde",
+        "address": "Meersbloem-Melden 46 9700 Oudenaarde BE",
+        "coords": [
+          3.590345,
+          50.832216
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 203,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0477.473.887",
+    "name": "G.d.i.",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "seraing",
+        "address": "Avenue du Beau Site 26 4102 Seraing BE",
+        "coords": [
+          5.540707,
+          50.586377
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2002,
+    "proof": []
+  },
+  {
+    "cbe": "0478.419.341",
+    "name": "Gevanca",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "schilde",
+        "address": "Boerendreef 26 2970 Schilde BE",
+        "coords": [
+          4.565165,
+          51.229374
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2002,
+    "proof": []
+  },
+  {
+    "cbe": "0478.747.557",
+    "name": "Glue",
+    "site": "www.glue.be",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Dok-Noord 4E 205 9000 Gent BE",
+        "coords": [
+          3.731835,
+          51.06567
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2002,
+    "proof": []
+  },
+  {
+    "cbe": "0521.826.148",
+    "name": "Gc Partner Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "luxembourg",
+        "municipality": "marche-en-famenne",
+        "address": "Marloie, Aux Minières 2 6900 Marche-en-Famenne BE",
+        "coords": [
+          5.31615,
+          50.212297
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0526.998.228",
+    "name": "Geo Solutions Sud",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "wavre",
+        "address": "Avenue Pasteur 23 1300 Wavre BE",
+        "coords": [
+          4.58981,
+          50.73052
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0632.809.984",
+    "name": "Gocreate",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "londerzeel",
+        "address": "Topmolen 33A 301 1840 Londerzeel BE",
+        "coords": [
+          4.29477,
+          51.02296
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0642.624.604",
+    "name": "Garzini",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Tapuitstraat 9 9000 Gent BE",
+        "coords": [
+          3.717355,
+          51.075965
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0642.757.731",
+    "name": "Gang Of Geeks",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Rue Natalis 2 4020 Liège BE",
+        "coords": [
+          5.581878,
+          50.633461
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Vaartstraat 167 3000 Leuven BE",
+        "coords": [
+          4.701951,
+          50.886899
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 18,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0648.963.454",
+    "name": "Gluo",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 20,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0659.887.535",
+    "name": "Give A Day",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "ranst",
+        "address": "Veldstraat 98 2520 Ranst BE",
+        "coords": [
+          4.567715,
+          51.181447
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "rixensart",
+        "address": "Avenue des Combattants 28 1332 Rixensart BE",
+        "coords": [
+          4.502428,
+          50.717725
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "schaerbeek",
+        "address": "Rue des Mimosas 8 1030 Schaerbeek BE",
+        "coords": [
+          4.387296,
+          50.865763
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0660.821.111",
+    "name": "Genius Elevation",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "pont-a-celles",
+        "address": "Rue de Trazegnies 124 6230 Pont-à-Celles BE",
+        "coords": [
+          4.364467,
+          50.502047
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0665.689.521",
+    "name": "Gcare",
+    "site": "www.gmtgroup.eu",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "mont-saint-guibert",
+        "address": "Rue Edouard Belin 1 1435 Mont-Saint-Guibert BE",
+        "coords": [
+          4.626428,
+          50.65732
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0677.463.935",
+    "name": "Grovö",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-gillis",
+        "address": "Rue de Danemark 29 3 1060 Saint-Gilles BE",
+        "coords": [
+          4.335264,
+          50.832177
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0678.664.161",
+    "name": "Gemsotec",
+    "site": "www.gemsotec.com",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "herent",
+        "address": "Vilvoordse baan 73 3020 Herent BE",
+        "coords": [
+          4.382839,
+          50.881548
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0691.601.189",
+    "name": "Gunnis",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "sint-gillis-waas",
+        "address": "Potterstraat 139 9170 Sint-Gillis-Waas BE",
+        "coords": [
+          4.107929,
+          51.185645
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0717.681.917",
+    "name": "Georgette.bio",
+    "site": "www.georgette.bio",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Place du Batty 11 4000 Liège BE",
+        "coords": [
+          5.56407,
+          50.61955
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Place du Batty 3 4000 Liège BE",
+        "coords": [
+          5.5636,
+          50.6194
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0730.663.386",
+    "name": "Gem One",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "waregem",
+        "address": "Brabantstraat 15 8790 Waregem BE",
+        "coords": [
+          3.412611,
+          50.859074
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "Spinnerijstraat 99 23 8500 Kortrijk BE",
+        "coords": [
+          3.302456,
+          50.828582
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 21,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0740.583.815",
+    "name": "Grup Eina We",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "drogenbos",
+        "address": "Avenue W.A. Mozart 8 1620 Drogenbos BE",
+        "coords": [
+          4.30407,
+          50.811139
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0741.720.297",
+    "name": "Greenplug Engineering",
+    "site": "www.greenplug.eu",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue de la Couronne 236 b 1050 Ixelles BE",
+        "coords": [
+          4.38307,
+          50.82673
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0745.480.731",
+    "name": "Geva Sport",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "beveren-kruibeke-zwijndrecht",
+        "address": "Vesten 43 9120 Beveren-Kruibeke-Zwijndrecht BE",
+        "coords": [
+          4.267397,
+          51.218589
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0747.669.070",
+    "name": "Gig.tech",
+    "site": "www.gig.tech",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "lochristi",
+        "address": "Antwerpse Steenweg 19 9080 Lochristi BE",
+        "coords": [
+          3.820201,
+          51.092312
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0747.713.711",
+    "name": "Gema Computers; Jdv Consulting",
+    "site": "www.jdvcomputers.be",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "herzele",
+        "address": "Gentweg 51 9550 Herzele BE",
+        "coords": [
+          3.863825,
+          50.849702
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "liedekerke",
+        "address": "Stationsstraat 79 1770 Liedekerke BE",
+        "coords": [
+          4.08593,
+          50.87332
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "ninove",
+        "address": "Brakelsesteenweg 94 9400 Ninove BE",
+        "coords": [
+          4.003848,
+          50.835643
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0751.847.988",
+    "name": "Gmvv Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue Picard 15 69 1000 Bruxelles BE",
+        "coords": [
+          4.342048,
+          50.864987
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 23,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0755.409.868",
+    "name": "Gharacho Sputnik",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "oostende",
+        "address": "Europagalerij 5 1004 8400 Oostende BE",
+        "coords": [
+          2.915678,
+          51.232967
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0757.957.901",
+    "name": "Go Nogo",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Bankstraat 82 3000 Leuven BE",
+        "coords": [
+          4.687344,
+          50.876299
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0761.814.640",
+    "name": "Global Biodesign",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "uccle",
+        "address": "Avenue de l'Aulne 106 10 1180 Uccle BE",
+        "coords": [
+          4.331518,
+          50.802006
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0826.038.340",
+    "name": "Go4logistics",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Noorderlaan 147 30 2030 Antwerpen BE",
+        "coords": [
+          4.399705,
+          51.264035
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0834.789.522",
+    "name": "Go.fre",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Veldstraat 64 9000 Gent BE",
+        "coords": [
+          3.721717,
+          51.052128
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0834.939.871",
+    "name": "Gac Business Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Gaston Crommenlaan 4 9050 Gent BE",
+        "coords": [
+          3.73576,
+          51.036865
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 18,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0835.563.443",
+    "name": "Gentis",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-pieters-woluwe",
+        "address": "Boulevard de la Woluwe 2 1150 Woluwe-Saint-Pierre BE",
+        "coords": [
+          4.432786,
+          50.834443
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Roderveldlaan 4 2600 Antwerpen BE",
+        "coords": [
+          4.438904,
+          51.190366
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 115,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0836.995.281",
+    "name": "G Data Software Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "dilbeek",
+        "address": "Pastoor Cooremansstraat 3 1702 Dilbeek BE",
+        "coords": [
+          4.28332,
+          50.87492
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0838.730.888",
+    "name": "Goit",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "tessenderlo-ham",
+        "address": "Nijverheidsweg 88 3945 Tessenderlo-Ham BE",
+        "coords": [
+          5.175432,
+          51.08114
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0838.976.457",
+    "name": "Global Management Information Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "overijse",
+        "address": "Brusselsesteenweg 671 3090 Overijse BE",
+        "coords": [
+          4.481473,
+          50.79367
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0839.821.248",
+    "name": "G&d Invest",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "wijnegem",
+        "address": "Ruggeveldstraat 1 Unit D2-D3 2110 Wijnegem BE",
+        "coords": [
+          4.505109,
+          51.225838
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0841.744.719",
+    "name": "Grisk Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "mont-saint-guibert",
+        "address": "Grand'Route 91 1435 Mont-Saint-Guibert BE",
+        "coords": [
+          4.648806,
+          50.639786
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0842.797.267",
+    "name": "Galenus",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "heist-op-den-berg",
+        "address": "Kleine steenweg 154 C 2221 Heist-op-den-Berg BE",
+        "coords": [
+          4.772648,
+          51.035652
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0847.610.843",
+    "name": "Gumption",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Satenrozen 10 2550 Kontich BE",
+        "coords": [
+          4.419992,
+          51.12639
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Satenrozen 14 2550 Kontich BE",
+        "coords": [
+          4.418579,
+          51.125918
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "genk",
+        "address": "Thor Park 8300 6 3600 Genk BE",
+        "coords": [
+          5.538129,
+          50.994024
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "destelbergen",
+        "address": "Molenweidestraat 24 9070 Destelbergen BE",
+        "coords": [
+          3.793862,
+          51.017245
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "wavre",
+        "address": "Avenue Pasteur 9 1300 Wavre BE",
+        "coords": [
+          4.591825,
+          50.729141
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "brugge",
+        "address": "Baron Ruzettelaan 3 4.3 8310 Brugge BE",
+        "coords": [
+          3.231197,
+          51.199143
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 26,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0864.496.761",
+    "name": "Gmt Consulting",
+    "site": "www.gmtgroup.eu",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "mont-saint-guibert",
+        "address": "Rue Edouard Belin 1 1 1435 Mont-Saint-Guibert BE",
+        "coords": [
+          4.626428,
+          50.65732
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0867.526.230",
+    "name": "Geo-it",
+    "site": "www.geoit.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Potvlietlaan 5B 2600 Antwerpen BE",
+        "coords": [
+          4.441713,
+          51.204179
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Louise 231 1050 Ixelles BE",
+        "coords": [
+          4.355166,
+          50.817496
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 28,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0867.635.207",
+    "name": "Guardis",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "hannuit",
+        "address": "Rue de Landen 150 4280 Hannut BE",
+        "coords": [
+          5.0825,
+          50.69701
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0869.839.382",
+    "name": "G.e.c. Technology",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "villers-le-bouillet",
+        "address": "Rue du Ruisseau 22 4530 Villers-le-Bouillet BE",
+        "coords": [
+          5.26884,
+          50.57261
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0879.699.532",
+    "name": "Global Knowledge Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Zandvoortstraat 1 2800 Mechelen BE",
+        "coords": [
+          4.447873,
+          51.051309
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0880.565.505",
+    "name": "Gl Automation",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "zoersel",
+        "address": "Sniederspad 103 2980 Zoersel BE",
+        "coords": [
+          4.63178,
+          51.238233
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0880.672.106",
+    "name": "Gabitasoft",
+    "site": "www.gabitasoft.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kapellen",
+        "address": "Leo Baekelandstraat 6 5 2950 Kapellen BE",
+        "coords": [
+          4.434491,
+          51.298989
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0888.052.222",
+    "name": "Gim Wallonie",
+    "site": "www.gim.be",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "gembloux",
+        "address": "Rue Camille Hubert,Isnes 13 C 5032 Gembloux BE",
+        "coords": [
+          4.715326,
+          50.504257
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 25,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0894.753.734",
+    "name": "G.d. Solutions It",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "wavre",
+        "address": "Rue des Fontaines 46 A 1300 Wavre BE",
+        "coords": [
+          4.608685,
+          50.713992
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0899.145.953",
+    "name": "Group Joos",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "turnhout",
+        "address": "Everdongenlaan 14 2300 Turnhout BE",
+        "coords": [
+          4.942488,
+          51.300833
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 88,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "1003.623.861",
+    "name": "Go Flow",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Wijnbergenstraat 5 3010 Leuven BE",
+        "coords": [
+          4.737336,
+          50.901567
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0863.846.267",
+    "name": "Geo Square",
+    "site": "https://geosquare.eu/",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "edegem",
+        "address": "Prins Boudewijnlaan 41 2650 Edegem BE",
+        "coords": [
+          4.436466,
+          51.147455
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5.7,
+    "founded": 2004,
+    "proof": []
+  }
+]

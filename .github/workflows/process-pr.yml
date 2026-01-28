@@ -1,0 +1,130 @@
+name: Process PR
+
+on:
+  pull_request:
+    types: [synchronize, reopened, labeled]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  process-pr:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout PR branch
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.ref }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Prevent self-trigger (exit if last commit authored by the bot)
+        run: |
+          last_author=$(git log -1 --pretty=format:'%ae' || echo "")
+          echo "Last commit author: $last_author"
+          if [ "$last_author" = "github-actions[bot]@users.noreply.github.com" ]; then
+            echo "Skipping workflow: last commit authored by workflow bot."
+            exit 0
+          fi
+
+      - name: Determine label type
+        id: label
+        run: |
+          labels='${{ toJson(github.event.pull_request.labels.*.name) }}'
+          echo "Labels: $labels"
+          if echo "$labels" | grep -q '"add"'; then
+            echo "type=add" >> $GITHUB_OUTPUT
+          elif echo "$labels" | grep -q '"update"'; then
+            echo "type=update" >> $GITHUB_OUTPUT
+          elif echo "$labels" | grep -q '"complete"'; then
+            echo "type=complete" >> $GITHUB_OUTPUT
+          else
+            echo "type=none" >> $GITHUB_OUTPUT
+          fi
+          echo "Detected type: $(cat $GITHUB_OUTPUT)"
+
+      - name: Exit if no matching label
+        if: steps.label.outputs.type == 'none'
+        run: |
+          echo "No matching label found (add, update, or complete). Exiting."
+          exit 0
+
+      - name: Setup Node.js
+        if: steps.label.outputs.type != 'none'
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        if: steps.label.outputs.type != 'none'
+        run: |
+          npm install --no-audit --no-fund --ignore-scripts
+          npm rebuild esbuild
+
+      - name: Process add
+        if: steps.label.outputs.type == 'add'
+        env:
+          IMGBB_API_KEY: ${{ secrets.IMGBB_API_KEY }}
+          BROWSERLESS_API_KEY: ${{ secrets.BROWSERLESS_API_KEY }}
+        run: |
+          set -e
+          npx tsx .github/scripts/process-add.ts
+
+      - name: Process update
+        if: steps.label.outputs.type == 'update'
+        env:
+          IMGBB_API_KEY: ${{ secrets.IMGBB_API_KEY }}
+          BROWSERLESS_API_KEY: ${{ secrets.BROWSERLESS_API_KEY }}
+        run: |
+          set -e
+          npx tsx .github/scripts/process-update.ts
+
+      - name: Process complete
+        if: steps.label.outputs.type == 'complete'
+        env:
+          IMGBB_API_KEY: ${{ secrets.IMGBB_API_KEY }}
+          BROWSERLESS_API_KEY: ${{ secrets.BROWSERLESS_API_KEY }}
+        run: |
+          set -e
+          npx tsx .github/scripts/process-complete.ts
+
+      - name: Commit changes
+        if: steps.label.outputs.type != 'none'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add app/data/companies/ app/data/submissions/
+
+          # Commit changes (anonymous / bot commit)
+          git diff --staged --quiet || git commit -m "Process ${{ steps.label.outputs.type }}: Update company files"
+          git push
+
+      - name: Comment on PR
+        if: steps.label.outputs.type != 'none'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs')
+            const type = '${{ steps.label.outputs.type }}'
+            const commentPaths = {
+              'add': '.github/add-comment.md',
+              'update': '.github/update-comment.md',
+              'complete': '.github/complete-comment.md'
+            }
+            const defaultMessages = {
+              'add': '✅ New company added successfully! Screenshots captured and company files added.',
+              'update': '✅ Update processed successfully! Screenshots captured and company files updated.',
+              'complete': '✅ Completion processed successfully! Screenshots captured and company added.'
+            }
+            const path = commentPaths[type]
+            let body = defaultMessages[type] || '✅ PR processed successfully!'
+            if (path && fs.existsSync(path)) {
+              body = fs.readFileSync(path, 'utf8')
+            }
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body
+            })

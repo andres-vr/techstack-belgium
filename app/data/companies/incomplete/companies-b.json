@@ -1,0 +1,6544 @@
+[
+  {
+    "cbe": "0404.308.965",
+    "name": "Bossaerts",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "hove",
+        "address": "Zilverschoon 562 2540 Hove BE",
+        "coords": [
+          4.483979,
+          51.143893
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 1941,
+    "proof": []
+  },
+  {
+    "cbe": "0412.581.778",
+    "name": "B.s. Productions",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "dilbeek",
+        "address": "Brusselstraat 125 1702 Dilbeek BE",
+        "coords": [
+          4.27102,
+          50.86876
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 1972,
+    "proof": []
+  },
+  {
+    "cbe": "0424.902.956",
+    "name": "Bmc Software Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "Hermeslaan 9 1831 Machelen BE",
+        "coords": [
+          4.43721,
+          50.879275
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 1983,
+    "proof": []
+  },
+  {
+    "cbe": "0428.144.142",
+    "name": "Bivteam",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "sambreville",
+        "address": "Pré des Haz(TAM) 40 5060 Sambreville BE",
+        "coords": [
+          4.60305,
+          50.42861
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "froidchapelle",
+        "address": "Rue de la Poterie(BLW) 15 6440 Froidchapelle BE",
+        "coords": [
+          4.382371,
+          50.226916
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 1986,
+    "proof": []
+  },
+  {
+    "cbe": "0429.288.445",
+    "name": "B-inside",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "waregem",
+        "address": "Grote Heerweg 75-77 8791 Waregem BE",
+        "coords": [
+          3.33079,
+          50.874725
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 43,
+    "founded": 1986,
+    "proof": []
+  },
+  {
+    "cbe": "0431.721.363",
+    "name": "Bleibcool.be",
+    "site": "www.bleibcool.be",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "sankt-vith",
+        "address": "John-Cockerill-Straße 12 4780 Sankt Vith BE",
+        "coords": [
+          6.09292,
+          50.2852
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 1987,
+    "proof": []
+  },
+  {
+    "cbe": "0435.946.803",
+    "name": "Bit By Bit",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Franklin Rooseveltplaats 12 2060 Antwerpen BE",
+        "coords": [
+          4.41774,
+          51.21899
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 1988,
+    "proof": []
+  },
+  {
+    "cbe": "0437.974.004",
+    "name": "Bricon",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "sint-niklaas",
+        "address": "Europark-Oost 15C 9100 Sint-Niklaas BE",
+        "coords": [
+          4.1774,
+          51.15891
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 1989,
+    "proof": []
+  },
+  {
+    "cbe": "0439.002.796",
+    "name": "Buildsoft",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "merelbeke-melle",
+        "address": "Hundelgemsesteenweg 244 1 9820 Merelbeke-Melle BE",
+        "coords": [
+          3.752485,
+          51.015637
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 1989,
+    "proof": []
+  },
+  {
+    "cbe": "0439.731.979",
+    "name": "Brainstorming",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "ans",
+        "address": "Rue de l'Avancée Numérique 1 1 4430 Ans BE",
+        "coords": [
+          5.529592,
+          50.661996
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 27,
+    "founded": 1989,
+    "proof": []
+  },
+  {
+    "cbe": "0440.734.148",
+    "name": "Bureau Van Dijk Editions Electroniques",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Louise 250 13 1050 Ixelles BE",
+        "coords": [
+          4.355166,
+          50.817496
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 277,
+    "founded": 1990,
+    "proof": []
+  },
+  {
+    "cbe": "0442.033.156",
+    "name": "Belux Mondial Engineering",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "koksijde",
+        "address": "Prof. Blanchardlaan(Kok) 20 501 8670 Koksijde BE",
+        "coords": [
+          2.62452,
+          51.11401
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 1990,
+    "proof": []
+  },
+  {
+    "cbe": "0444.431.036",
+    "name": "Bureau Conseils Et Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "chaumont-gistoux",
+        "address": "Rue Folle France 8 1325 Chaumont-Gistoux BE",
+        "coords": [
+          4.719123,
+          50.687829
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 286668,
+    "founded": 1991,
+    "proof": []
+  },
+  {
+    "cbe": "0444.555.552",
+    "name": "Buro - Tec Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "mons",
+        "address": "Avenue Foch 775 7012 Mons BE",
+        "coords": [
+          3.883246,
+          50.447859
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 1991,
+    "proof": []
+  },
+  {
+    "cbe": "0448.096.349",
+    "name": "Becosoft",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "temse",
+        "address": "Luxemburgstraat 1 9140 Temse BE",
+        "coords": [
+          4.188341,
+          51.141106
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 38,
+    "founded": 1992,
+    "proof": []
+  },
+  {
+    "cbe": "0448.845.526",
+    "name": "Break The Grid",
+    "site": "breakthegrid.com",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Rue de Visé 466 4020 Liège BE",
+        "coords": [
+          5.649593,
+          50.656609
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 1992,
+    "proof": []
+  },
+  {
+    "cbe": "0450.878.962",
+    "name": "Bestmix Software",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "maldegem",
+        "address": "Industrielaan 11 B 9990 Maldegem BE",
+        "coords": [
+          3.462644,
+          51.200773
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 94,
+    "founded": 1993,
+    "proof": []
+  },
+  {
+    "cbe": "0451.726.129",
+    "name": "Blue E-motion",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "lasne",
+        "address": "Chaussée de Louvain 431 E 1380 Lasne BE",
+        "coords": [
+          4.431638,
+          50.705123
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 1994,
+    "proof": []
+  },
+  {
+    "cbe": "0454.079.269",
+    "name": "Belgian Travel Network",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "aalst",
+        "address": "Industrielaan sn 9320 Aalst BE",
+        "coords": [
+          4.04171,
+          50.910571
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 1994,
+    "proof": []
+  },
+  {
+    "cbe": "0459.149.302",
+    "name": "Beta Nine",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Villerspark 5 1 3500 Hasselt BE",
+        "coords": [
+          5.33744,
+          50.92613
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 1996,
+    "proof": []
+  },
+  {
+    "cbe": "0459.160.980",
+    "name": "Bisoft",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "nivelles",
+        "address": "Avenue Thomas Edison 95 1402 Nivelles BE",
+        "coords": [
+          4.35651,
+          50.57687
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 1996,
+    "proof": []
+  },
+  {
+    "cbe": "0459.336.372",
+    "name": "Baho",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "lokeren",
+        "address": "Molenstraat 82 9160 Lokeren BE",
+        "coords": [
+          3.998192,
+          51.098025
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 1996,
+    "proof": []
+  },
+  {
+    "cbe": "0460.975.573",
+    "name": "Build-software",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "herselt",
+        "address": "Begijnendijksesteenweg(RAM) 59 2230 Herselt BE",
+        "coords": [
+          4.812533,
+          51.02735
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 20,
+    "founded": 1997,
+    "proof": []
+  },
+  {
+    "cbe": "0461.384.260",
+    "name": "Bluetime",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "oudergem",
+        "address": "Chaussée de Wavre 1100 4 1160 Auderghem BE",
+        "coords": [
+          4.402986,
+          50.823348
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 33,
+    "founded": 1997,
+    "proof": []
+  },
+  {
+    "cbe": "0463.026.629",
+    "name": "Brainbridge",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Straatsburgdok-Noordkaai 3 2030 Antwerpen BE",
+        "coords": [
+          4.418873,
+          51.242891
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "wavre",
+        "address": "Avenue Pasteur 6 1300 Wavre BE",
+        "coords": [
+          4.589168,
+          50.729738
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 21,
+    "founded": 1998,
+    "proof": []
+  },
+  {
+    "cbe": "0463.530.534",
+    "name": "Base 3 Systems",
+    "site": "www.base3.be",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "hannuit",
+        "address": "Rue de Landen 150 4280 Hannut BE",
+        "coords": [
+          5.0825,
+          50.69701
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 1998,
+    "proof": []
+  },
+  {
+    "cbe": "0465.290.192",
+    "name": "B.h.c.",
+    "site": "bhc.be",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "mons",
+        "address": "Rue des Carrières (G.) 56 7011 Mons BE",
+        "coords": [
+          3.91792,
+          50.487325
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "mons",
+        "address": "Boulevard Initialis 8 7000 Mons BE",
+        "coords": [
+          3.930776,
+          50.461571
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0466.040.458",
+    "name": "Blue Yonder Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-joost-ten-node",
+        "address": "Boulevard Saint-Lazare 4-10 ET6 1210 Saint-Josse-ten-Noode BE",
+        "coords": [
+          4.362316,
+          50.85626
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0467.143.684",
+    "name": "Bizzdev",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "tournai",
+        "address": "Rue du Progrès(FRY) 13 7503 Tournai BE",
+        "coords": [
+          3.34392,
+          50.61777
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 49,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0469.474.654",
+    "name": "Bao Technologies",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "eghezee",
+        "address": "Rue de la Terre Franche,Leuze 98 5310 Eghezée BE",
+        "coords": [
+          4.90105,
+          50.569226
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0469.588.678",
+    "name": "Beaulieu Ict",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "waregem",
+        "address": "Kalkhoevestraat 16 0.2 8790 Waregem BE",
+        "coords": [
+          3.44633,
+          50.87177
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 50,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0470.199.481",
+    "name": "B-side",
+    "site": "www.bside.be",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "tournai",
+        "address": "Rue du Follet(K) 10 7540 Tournai BE",
+        "coords": [
+          3.40975,
+          50.62887
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "tournai",
+        "address": "Rue de la Terre à Briques(MAR) 18 7522 Tournai BE",
+        "coords": [
+          3.33518,
+          50.61445
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0470.416.643",
+    "name": "Broekx",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "genk",
+        "address": "Koerweg 20 3600 Genk BE",
+        "coords": [
+          5.496076,
+          50.986027
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0471.510.664",
+    "name": "Bit It Consultancy",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "westerlo",
+        "address": "Gravin de Merodestraat 132 2260 Westerlo BE",
+        "coords": [
+          4.834277,
+          51.074956
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "westerlo",
+        "address": "Heiweg 27 2260 Westerlo BE",
+        "coords": [
+          4.833033,
+          51.074849
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 23,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0471.657.154",
+    "name": "Belgian International Trading And Shipping",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "oudenaarde",
+        "address": "Industriepark \"De Bruwaan\" 59 9700 Oudenaarde BE",
+        "coords": [
+          3.598284,
+          50.864092
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0471.762.369",
+    "name": "Bugi",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Rue François-Lefèbvre 10 A 4000 Liège BE",
+        "coords": [
+          5.54666,
+          50.676782
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0471.889.855",
+    "name": "Belcenter",
+    "site": "www.belcenter.be",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "braine-lalleud",
+        "address": "Boulevard de France 7 1420 Braine-l'Alleud BE",
+        "coords": [
+          4.379017,
+          50.666471
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0472.066.732",
+    "name": "Bitos",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "vosselaar",
+        "address": "Antwerpsesteenweg 49 4 2350 Vosselaar BE",
+        "coords": [
+          4.896322,
+          51.315644
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0472.477.102",
+    "name": "Bioaware",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "hannuit",
+        "address": "Rue du Henrifontaine 20 4280 Hannut BE",
+        "coords": [
+          5.089917,
+          50.691046
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0473.191.041",
+    "name": "Barco",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "Beneluxpark(Kor) 21 8500 Kortrijk BE",
+        "coords": [
+          3.275501,
+          50.798233
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "kuurne",
+        "address": "Noordlaan 3 8520 Kuurne BE",
+        "coords": [
+          3.256548,
+          50.851952
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Quai Banning 6 1C2 4000 Liège BE",
+        "coords": [
+          5.575623,
+          50.614295
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 1264,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0475.937.725",
+    "name": "Boarding Concept",
+    "site": "www.boardingconcept.be",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "oudergem",
+        "address": "Avenue des Héros 32 1160 Auderghem BE",
+        "coords": [
+          4.437144,
+          50.806598
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0475.986.819",
+    "name": "B.t.i. Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "fontaine-leveque",
+        "address": "Rue des Crocheux(F-E) 5 6140 Fontaine-l'Evêque BE",
+        "coords": [
+          4.325217,
+          50.404311
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0476.635.234",
+    "name": "Buro Design",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "halle",
+        "address": "Lenniksesteenweg 496 1500 Halle BE",
+        "coords": [
+          4.208716,
+          50.753167
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2002,
+    "proof": []
+  },
+  {
+    "cbe": "0476.979.979",
+    "name": "Brainlane",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Genkersteenweg 204 3500 Hasselt BE",
+        "coords": [
+          5.363276,
+          50.943546
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2002,
+    "proof": []
+  },
+  {
+    "cbe": "0477.090.243",
+    "name": "Besco",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "alken",
+        "address": "Aardbruggenstraat 81 3570 Alken BE",
+        "coords": [
+          5.29383,
+          50.87696
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2002,
+    "proof": []
+  },
+  {
+    "cbe": "0477.371.741",
+    "name": "Bureau347",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Armand Huysmans 174 8 1050 Ixelles BE",
+        "coords": [
+          4.388504,
+          50.810627
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2002,
+    "proof": []
+  },
+  {
+    "cbe": "0478.971.548",
+    "name": "Brainsolutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "hove",
+        "address": "Hoverheide 6B 2540 Hove BE",
+        "coords": [
+          4.460422,
+          51.160573
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2002,
+    "proof": []
+  },
+  {
+    "cbe": "0479.645.501",
+    "name": "B.a.",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Philipssite 5 1 3001 Leuven BE",
+        "coords": [
+          4.712963,
+          50.867016
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2003,
+    "proof": []
+  },
+  {
+    "cbe": "0479.863.354",
+    "name": "Bene Rail International",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-gillis",
+        "address": "Avenue de la Porte de Hal 40 1060 Saint-Gilles BE",
+        "coords": [
+          4.341476,
+          50.835967
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Quellinstraat 6 2018 Antwerpen BE",
+        "coords": [
+          4.41624,
+          51.21739
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2003,
+    "proof": []
+  },
+  {
+    "cbe": "0500.925.915",
+    "name": "Bnp Paribas Partners For Innovation Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Avenue du Bourget 42 1130 Bruxelles BE",
+        "coords": [
+          4.432027,
+          50.877166
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0501.535.431",
+    "name": "Bluesquare",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "etterbeek",
+        "address": "Rue des Francs 79 1040 Etterbeek BE",
+        "coords": [
+          4.399698,
+          50.837065
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "ellezelles",
+        "address": "Blanc Scourchet 17 7890 Ellezelles BE",
+        "coords": [
+          3.7047,
+          50.71957
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 24,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0502.253.726",
+    "name": "Blimp",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "kaprijke",
+        "address": "Ledestraat 31 A 9971 Kaprijke BE",
+        "coords": [
+          3.63521,
+          51.18287
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "evergem",
+        "address": "Durmakker 7 9940 Evergem BE",
+        "coords": [
+          3.69916,
+          51.102442
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0534.989.147",
+    "name": "Belamco",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "aalst",
+        "address": "Moorselbaan 391 9300 Aalst BE",
+        "coords": [
+          4.065323,
+          50.944561
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 43,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0537.365.350",
+    "name": "Breex Europe",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Moutstraat 66 601 9000 Gent BE",
+        "coords": [
+          3.735891,
+          51.029662
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Moutstraat 72 9000 Gent BE",
+        "coords": [
+          3.73619,
+          51.029759
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Prins Boudewijnlaan 24 A 2550 Kontich BE",
+        "coords": [
+          4.438778,
+          51.140031
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 45,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0538.477.187",
+    "name": "Brightest",
+    "site": "www.brightest.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Satenrozen 10 2550 Kontich BE",
+        "coords": [
+          4.419992,
+          51.12639
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Poortakkerstraat 93 9051 Gent BE",
+        "coords": [
+          3.68815,
+          51.03127
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "genk",
+        "address": "Thor Park 8300 6 3600 Genk BE",
+        "coords": [
+          5.538129,
+          50.994024
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 121,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0539.847.659",
+    "name": "Business And Ict Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue de la Régence 58 1000 Bruxelles BE",
+        "coords": [
+          4.35371,
+          50.83789
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 24,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0541.901.188",
+    "name": "Bestofit",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "chaudfontaine",
+        "address": "Voie de Liège 184 4053 Chaudfontaine BE",
+        "coords": [
+          5.617994,
+          50.585263
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0542.668.181",
+    "name": "Bindus",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "genk",
+        "address": "Slingerweg 52 3600 Genk BE",
+        "coords": [
+          5.490344,
+          50.927115
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0544.776.645",
+    "name": "Bigcaptain",
+    "site": "www.alleyoop.be",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "la-hulpe",
+        "address": "Rue François Dubois 2 16 1310 La Hulpe BE",
+        "coords": [
+          4.493852,
+          50.73445
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0550.845.578",
+    "name": "B2c Engineering",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "fexhe-le-haut-clocher",
+        "address": "Rue du Village 9 4347 Fexhe-le-Haut-Clocher BE",
+        "coords": [
+          5.406013,
+          50.680205
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 29,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0550.861.515",
+    "name": "Bloom Technologies",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Quai Sur Meuse 19 4000 Liège BE",
+        "coords": [
+          5.576496,
+          50.642075
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0552.757.171",
+    "name": "Bright Energy",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Ottergemsesteenweg-Zuid 713 9000 Gent BE",
+        "coords": [
+          3.741924,
+          51.017437
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0555.899.773",
+    "name": "Brightanalytics",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "hooglede",
+        "address": "Bruggesteenweg 311 2.2 8830 Hooglede BE",
+        "coords": [
+          3.119024,
+          50.980302
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 38,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0562.755.594",
+    "name": "Bmi Leisure",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "geel",
+        "address": "Molseweg 160 2440 Geel BE",
+        "coords": [
+          5.047658,
+          51.168176
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 17,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0563.846.944",
+    "name": "Billit",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Oktrooiplein 1 302 9000 Gent BE",
+        "coords": [
+          3.73953,
+          51.057631
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 25,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0567.948.757",
+    "name": "Beniro",
+    "site": "www.beniro.be",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Louise Derachestraat 8 9041 Gent BE",
+        "coords": [
+          3.78138,
+          51.081677
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0597.941.454",
+    "name": "Bynubian",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Elyzeese Velden 6 9000 Gent BE",
+        "coords": [
+          3.70538,
+          51.06121
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0627.727.481",
+    "name": "Blazeclan Europe",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue aux Laines 68/72 1000 Bruxelles BE",
+        "coords": [
+          4.353166,
+          50.836218
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0627.988.094",
+    "name": "Besco Projects",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "alken",
+        "address": "Aardbruggenstraat 81 3570 Alken BE",
+        "coords": [
+          5.29383,
+          50.87696
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0629.815.258",
+    "name": "Book'u",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "izegem",
+        "address": "Ambachtenstraat 33 8870 Izegem BE",
+        "coords": [
+          3.17769,
+          50.92194
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 18,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0632.842.351",
+    "name": "Bsit Technologies",
+    "site": "www.bsit.com",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Louise 251 1050 Ixelles BE",
+        "coords": [
+          4.355166,
+          50.817496
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0633.763.059",
+    "name": "Bright Square",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "brasschaat",
+        "address": "Bredabaan 124 2930 Brasschaat BE",
+        "coords": [
+          4.484358,
+          51.28595
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0637.760.944",
+    "name": "Beyond Energy It",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "hoegaarden",
+        "address": "Ernest Ourystraat 13 3320 Hoegaarden BE",
+        "coords": [
+          4.893885,
+          50.773966
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0647.889.625",
+    "name": "Beeple",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Borsbeeksebrug 34/1 2600 Antwerpen BE",
+        "coords": [
+          4.434024,
+          51.199956
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0648.719.667",
+    "name": "Bureel Visueel",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "Doornstraat 1 4 8500 Kortrijk BE",
+        "coords": [
+          3.25453,
+          50.82969
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0650.548.910",
+    "name": "Batman",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "aarschot",
+        "address": "Gijmelsesteenweg 81 3200 Aarschot BE",
+        "coords": [
+          4.843434,
+          50.996049
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0657.909.329",
+    "name": "Brightstaffing",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "hooglede",
+        "address": "Bruggesteenweg 311 2.2 8830 Hooglede BE",
+        "coords": [
+          3.119024,
+          50.980302
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0663.528.795",
+    "name": "Brood - En Banketbakkerij B&c",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "heist-op-den-berg",
+        "address": "Mechelsesteenweg 35 2220 Heist-op-den-Berg BE",
+        "coords": [
+          4.70485,
+          51.07281
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0664.921.043",
+    "name": "Bounce Rocks",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Rik Woutersstraat 36 A 2800 Mechelen BE",
+        "coords": [
+          4.483637,
+          51.027406
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0668.695.927",
+    "name": "Bao House",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Luchthavenlei 7 b 2100 Antwerpen BE",
+        "coords": [
+          4.4505,
+          51.190455
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0669.586.050",
+    "name": "Born Digital",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Kempische steenweg 293A /00 07 3500 Hasselt BE",
+        "coords": [
+          5.353763,
+          50.953665
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0669.625.345",
+    "name": "Bespoke Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0669.888.829",
+    "name": "Beoogo",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "verviers",
+        "address": "Thier Mère-Dieu 12 4800 Verviers BE",
+        "coords": [
+          5.868258,
+          50.59287
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-pieters-woluwe",
+        "address": "Rue Konkel 105 16 1150 Woluwe-Saint-Pierre BE",
+        "coords": [
+          4.445382,
+          50.838432
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0675.758.517",
+    "name": "Bingli",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Lange Gasthuisstraat 29 12 2000 Antwerpen BE",
+        "coords": [
+          4.40539,
+          51.21481
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0675.984.882",
+    "name": "Bancontact Payconiq Company",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue d'Arlon 82 1040 Bruxelles BE",
+        "coords": [
+          4.37352,
+          50.84233
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 53,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0677.547.473",
+    "name": "Bsa Groupe",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Karel Quitmannplein 3 1930 Zaventem BE",
+        "coords": [
+          4.469801,
+          50.886201
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0678.771.257",
+    "name": "Belu Concepts",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "aalter",
+        "address": "Zuidleiestraat 14F 9880 Aalter BE",
+        "coords": [
+          3.436933,
+          51.10633
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0682.965.815",
+    "name": "Belixys",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Louise 523 1050 Ixelles BE",
+        "coords": [
+          4.371815,
+          50.815277
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0683.452.397",
+    "name": "Brandimpact",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Wiedauwkaai 23 S 9000 Gent BE",
+        "coords": [
+          3.72582,
+          51.0717
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0684.532.463",
+    "name": "Black Cod",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Kloosterstraat 152 1 2000 Antwerpen BE",
+        "coords": [
+          4.393789,
+          51.212718
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0687.833.037",
+    "name": "B.ignited",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 24,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0688.674.363",
+    "name": "Brokercloud",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Uitbreidingstraat 84 2600 Antwerpen BE",
+        "coords": [
+          4.418059,
+          51.19254
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0688.928.147",
+    "name": "B-flow",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0691.828.942",
+    "name": "Bouher",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "aalter",
+        "address": "Bellemdorpweg 68 9881 Aalter BE",
+        "coords": [
+          3.488873,
+          51.091529
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0695.575.419",
+    "name": "B-skilled",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "meise",
+        "address": "Hazepootstraat 22 1860 Meise BE",
+        "coords": [
+          4.34546,
+          50.94682
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0695.906.605",
+    "name": "Business Solutions 30 Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Berchemstadionstraat 72 2600 Antwerpen BE",
+        "coords": [
+          4.437716,
+          51.188993
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "zele",
+        "address": "Herderstraat 6 9240 Zele BE",
+        "coords": [
+          4.053897,
+          51.074173
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "manage",
+        "address": "Rue Jean Perrin 5 7170 Manage BE",
+        "coords": [
+          4.251592,
+          50.506911
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 193,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0696.701.312",
+    "name": "Besloten Vennootschap Met Beperkte Aansprakelijkheid",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "sint-gillis-waas",
+        "address": "Aststraat 66 9170 Sint-Gillis-Waas BE",
+        "coords": [
+          4.107237,
+          51.214458
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0711.941.002",
+    "name": "Bnbe",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue des Patriotes 22 1000 Bruxelles BE",
+        "coords": [
+          4.388369,
+          50.847221
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0717.674.294",
+    "name": "Break The Ice",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "kraainem",
+        "address": "Chaussée de Malines 455 2 1950 Kraainem BE",
+        "coords": [
+          4.476913,
+          50.820835
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0725.421.527",
+    "name": "Blue Rose Technologies",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Avenue Louise 65 11 1050 Bruxelles BE",
+        "coords": [
+          4.356642,
+          50.818743
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0726.883.851",
+    "name": "Botko",
+    "site": "www.botko.be",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "lubbeek",
+        "address": "Endepoelstraat 3A 15 3210 Lubbeek BE",
+        "coords": [
+          4.792032,
+          50.892553
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0740.454.745",
+    "name": "Barestho",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "moeskroen",
+        "address": "Avenue de la Bourgogne 96 7700 Mouscron BE",
+        "coords": [
+          3.195895,
+          50.744649
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "mons",
+        "address": "Rue René Descartes 2 7000 Mons BE",
+        "coords": [
+          3.928047,
+          50.459929
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0744.369.684",
+    "name": "Burniaux Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "fleurus",
+        "address": "Rue Champs des Oiseaux 5 6224 Fleurus BE",
+        "coords": [
+          4.574668,
+          50.46808
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "fleurus",
+        "address": "Rue Poète Charles Michel 9 6224 Fleurus BE",
+        "coords": [
+          4.587649,
+          50.474534
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0744.908.035",
+    "name": "Batopin",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-joost-ten-node",
+        "address": "Boulevard Saint-Lazare 10 1210 Saint-Josse-ten-Noode BE",
+        "coords": [
+          4.362248,
+          50.855945
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 24,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0745.575.058",
+    "name": "Banana Navy",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "charleroi",
+        "address": "Rue Antoine de Saint-Exupéry 2 6041 Charleroi BE",
+        "coords": [
+          4.464199,
+          50.469062
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0746.718.173",
+    "name": "Bizzcontrol",
+    "site": "www.bizzcontrol.com",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Ottergemsesteenweg-Zuid 808 192 9000 Gent BE",
+        "coords": [
+          3.733061,
+          51.015577
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0747.906.424",
+    "name": "Billy",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Adolf Baeyensstraat 53 9040 Gent BE",
+        "coords": [
+          3.752404,
+          51.056348
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0751.684.078",
+    "name": "Byondfiles",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "torhout",
+        "address": "Keibergstraat 112 8820 Torhout BE",
+        "coords": [
+          3.117083,
+          51.077077
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0753.793.433",
+    "name": "Barq Europe",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "waregem",
+        "address": "Mannebeekstraat 5 8790 Waregem BE",
+        "coords": [
+          3.428609,
+          50.860879
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "deinze",
+        "address": "Karel Picquélaan 162 9800 Deinze BE",
+        "coords": [
+          3.541442,
+          50.988863
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0760.527.015",
+    "name": "Breex Easybox",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Moutstraat 66 601 9000 Gent BE",
+        "coords": [
+          3.735891,
+          51.029662
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0760.540.178",
+    "name": "Bits N Sites",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "roeselare",
+        "address": "Jules Lagaelaan 7 8800 Roeselare BE",
+        "coords": [
+          3.13201,
+          50.94637
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0761.508.297",
+    "name": "Business Bike Solutions Assembly",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "sint-niklaas",
+        "address": "Europark-Noord 48a 9100 Sint-Niklaas BE",
+        "coords": [
+          4.167054,
+          51.169314
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0762.615.186",
+    "name": "Boldmove Nation",
+    "site": "www.boldmove-nation.com",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "zuienkerke",
+        "address": "Blankenbergse Steenweg 10 8377 Zuienkerke BE",
+        "coords": [
+          3.18859,
+          51.25666
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Avenue du Port 86 C 1000 Bruxelles BE",
+        "coords": [
+          4.348862,
+          50.86495
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0764.659.809",
+    "name": "Briganti",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "schoten",
+        "address": "Amerlolaan 17 2900 Schoten BE",
+        "coords": [
+          4.481983,
+          51.252766
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0765.932.289",
+    "name": "Bhe It",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "evere",
+        "address": "Clos de la Glaisière 14 1 1140 Evere BE",
+        "coords": [
+          4.418599,
+          50.857132
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0769.717.863",
+    "name": "Boolean",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "alken",
+        "address": "Snoekstraat 8 3570 Alken BE",
+        "coords": [
+          5.308482,
+          50.866194
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "genk",
+        "address": "Thor Park 8027 2.08 3600 Genk BE",
+        "coords": [
+          5.533962,
+          50.995906
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0770.493.071",
+    "name": "Bizzy Ai",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Dok-Noord 5 A 9000 Gent BE",
+        "coords": [
+          3.733697,
+          51.066079
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 19,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0770.762.295",
+    "name": "Be-care",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "charleroi",
+        "address": "Square des Martyrs 1 6000 Charleroi BE",
+        "coords": [
+          4.435636,
+          50.442599
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0772.714.173",
+    "name": "B-recruited",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Freddy Damsstraat 9 2 2100 Antwerpen BE",
+        "coords": [
+          4.470785,
+          51.20214
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0773.960.129",
+    "name": "Bird Larsen",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "merelbeke-melle",
+        "address": "Collegebaan 2C 9090 Merelbeke-Melle BE",
+        "coords": [
+          3.811686,
+          50.998138
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0781.446.153",
+    "name": "Benelux Soft",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Da Vincilaan 1 1930 Zaventem BE",
+        "coords": [
+          4.460156,
+          50.887966
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0782.764.759",
+    "name": "Blue Soft Belux",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue des Colonies 11 1000 Bruxelles BE",
+        "coords": [
+          4.35963,
+          50.84641
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0786.482.433",
+    "name": "Bd Digital",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "bornem",
+        "address": "Klein-Mechelen 18A 2880 Bornem BE",
+        "coords": [
+          4.266265,
+          51.087605
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0788.809.146",
+    "name": "Begysoft",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "kapelle-op-den-bos",
+        "address": "Kuiermansstraat 54 1880 Kapelle-op-den-Bos BE",
+        "coords": [
+          4.361147,
+          51.005859
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0800.467.754",
+    "name": "Bloop",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "hoeilaart",
+        "address": "Guillaume Dekleermaekerstraat 85 1560 Hoeilaart BE",
+        "coords": [
+          4.477517,
+          50.780216
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0800.877.926",
+    "name": "Beebop",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Regine Beerplein 1 C209 2018 Antwerpen BE",
+        "coords": [
+          4.422072,
+          51.202541
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0802.928.188",
+    "name": "Basikon Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "chaumont-gistoux",
+        "address": "Rue Croisette 24 1325 Chaumont-Gistoux BE",
+        "coords": [
+          4.730332,
+          50.674093
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0803.123.871",
+    "name": "Bizzapps",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "lier",
+        "address": "Duwijckstraat 17 2500 Lier BE",
+        "coords": [
+          4.53521,
+          51.15208
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "sint-martens-latem",
+        "address": "Koperstraat 1/B 9830 Sint-Martens-Latem BE",
+        "coords": [
+          3.636215,
+          51.019777
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0806.661.007",
+    "name": "Be Ip",
+    "site": "www.beip.be",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "ottignies-louvain-la-neuve",
+        "address": "Fond Jean Pâques 4 1348 Ottignies-Louvain-la-Neuve BE",
+        "coords": [
+          4.63396,
+          50.6621
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0807.729.292",
+    "name": "Big Industries",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 31 2550 Kontich BE",
+        "coords": [
+          4.443344,
+          51.142801
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0809.111.147",
+    "name": "Balio Studio",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "mons",
+        "address": "Boulevard Initialis 28 7000 Mons BE",
+        "coords": [
+          3.926661,
+          50.457765
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 24,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0810.638.797",
+    "name": "Business It Supports",
+    "site": "businessitsupports.com",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "somme-leuze",
+        "address": "Rue des Ruelles, Bonsin 5 5377 Somme-Leuze BE",
+        "coords": [
+          5.379715,
+          50.374207
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0811.898.215",
+    "name": "B1ts",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "lummen",
+        "address": "Kanadastraat 3 3560 Lummen BE",
+        "coords": [
+          5.201905,
+          50.984762
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "lummen",
+        "address": "Bosstraat 46 0.22 3560 Lummen BE",
+        "coords": [
+          5.202154,
+          50.995724
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0819.424.524",
+    "name": "Bme",
+    "site": "www.bme.be",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "genk",
+        "address": "Henry Fordlaan 62 3600 Genk BE",
+        "coords": [
+          5.477547,
+          50.92931
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0819.665.539",
+    "name": "Belead",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue de la Couronne 236 B 1050 Ixelles BE",
+        "coords": [
+          4.38307,
+          50.82673
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0819.957.826",
+    "name": "B&c Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "willebroek",
+        "address": "Molenweg 94 2 2830 Willebroek BE",
+        "coords": [
+          4.366192,
+          51.050575
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0821.884.166",
+    "name": "Bel Web Communication",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue de la Presse 4 1000 Bruxelles BE",
+        "coords": [
+          4.36684,
+          50.84914
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "waterloo",
+        "address": "Drève Richelle 161 1410 Waterloo BE",
+        "coords": [
+          4.409568,
+          50.708427
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0822.658.483",
+    "name": "Belgian Mobility Company",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue de l'Evêque 1 1000 Bruxelles BE",
+        "coords": [
+          4.350476,
+          50.850715
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0823.340.354",
+    "name": "Brokers Star",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "roeselare",
+        "address": "Kwadestraat 157 70 8800 Roeselare BE",
+        "coords": [
+          3.174812,
+          50.9207
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0826.853.041",
+    "name": "Bite",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "begijnendijk",
+        "address": "Puttestraat 105 3130 Begijnendijk BE",
+        "coords": [
+          4.795284,
+          51.018025
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0827.599.743",
+    "name": "Bewell Innovations",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "merchtem",
+        "address": "Kwekelaarstraat 3 1785 Merchtem BE",
+        "coords": [
+          4.26347,
+          50.92417
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0832.929.496",
+    "name": "Bee Cleaning",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "schaerbeek",
+        "address": "Chaussée de Louvain 496 3 1030 Schaerbeek BE",
+        "coords": [
+          4.392634,
+          50.853433
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0834.464.076",
+    "name": "Blue Planet Academy & Consulting",
+    "site": "www.blue-planet.be",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Kempische steenweg 293 3500 Hasselt BE",
+        "coords": [
+          5.35241,
+          50.95315
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "anderlecht",
+        "address": "Rue de l'Autonomie 13 1070 Anderlecht BE",
+        "coords": [
+          4.337619,
+          50.840336
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0841.371.367",
+    "name": "Bestburo",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Hendrik van Veldekesingel 150 141 3500 Hasselt BE",
+        "coords": [
+          5.314947,
+          50.935604
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0842.836.859",
+    "name": "Big Water Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "schaerbeek",
+        "address": "Boulevard Général Wahis 14 C1.2 1030 Schaerbeek BE",
+        "coords": [
+          4.393994,
+          50.860701
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 27,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0843.337.695",
+    "name": "B12 Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "ottignies-louvain-la-neuve",
+        "address": "Boucle Odon Godart 2 1348 Ottignies-Louvain-la-Neuve BE",
+        "coords": [
+          4.619527,
+          50.660872
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue d'Arenberg 44 1000 Bruxelles BE",
+        "coords": [
+          4.35703,
+          50.84801
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Martelarenplein 20E 3000 Leuven BE",
+        "coords": [
+          4.715796,
+          50.881045
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 35,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0843.418.760",
+    "name": "B-bright",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "hooglede",
+        "address": "Bruggesteenweg 311 2.2 8830 Hooglede BE",
+        "coords": [
+          3.119024,
+          50.980302
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 19,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0846.256.902",
+    "name": "Bricsys",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Bellevue 5 201 9050 Gent BE",
+        "coords": [
+          3.735757,
+          51.034752
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 107,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0847.423.870",
+    "name": "Base Design",
+    "site": "www.basedesign.com",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-gillis",
+        "address": "Chaussée de Forest 62 5 1060 Saint-Gilles BE",
+        "coords": [
+          4.340603,
+          50.831557
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0848.350.518",
+    "name": "Bullet Point",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "lichtervelde",
+        "address": "Statiestraat 83 8810 Lichtervelde BE",
+        "coords": [
+          3.136506,
+          51.025502
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0861.196.484",
+    "name": "Brighteye",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "ardooie",
+        "address": "Leen-ter Hellenstraat 1 8850 Ardooie BE",
+        "coords": [
+          3.181083,
+          50.972163
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 17,
+    "founded": 2003,
+    "proof": []
+  },
+  {
+    "cbe": "0861.301.008",
+    "name": "Bics",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "laakdal",
+        "address": "Dikstraat 15 2430 Laakdal BE",
+        "coords": [
+          5.069607,
+          51.087988
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2003,
+    "proof": []
+  },
+  {
+    "cbe": "0863.448.369",
+    "name": "Bridgers Technology",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue de l'Association 38 1000 Bruxelles BE",
+        "coords": [
+          4.366139,
+          50.850934
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0863.917.632",
+    "name": "Boyum It Solutions",
+    "site": "www.boyum-solutions.com",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Rijvisschestraat 122 9052 Gent BE",
+        "coords": [
+          3.694947,
+          51.017756
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0864.128.062",
+    "name": "Bimsoft",
+    "site": "www.bimsoft.be",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "Hospitaalweg 1C 3 8510 Kortrijk BE",
+        "coords": [
+          3.235619,
+          50.813036
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0872.265.570",
+    "name": "Beeznest Belgium",
+    "site": "beeznest.com",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "vorst",
+        "address": "Avenue de la Verrerie 136 1190 Forest BE",
+        "coords": [
+          4.31727,
+          50.804156
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0876.914.246",
+    "name": "Bbr Belgium",
+    "site": "www.emaprod.com",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-gillis",
+        "address": "Avenue Brugmann 27 A 1060 Saint-Gilles BE",
+        "coords": [
+          4.352876,
+          50.821895
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0879.896.797",
+    "name": "Big Smile Agency",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-pieters-woluwe",
+        "address": "Avenue de Tervueren 216 1150 Woluwe-Saint-Pierre BE",
+        "coords": [
+          4.414587,
+          50.836591
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0880.194.826",
+    "name": "Biorics",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Technologielaan 3 3001 Leuven BE",
+        "coords": [
+          4.728175,
+          50.8539
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0880.691.308",
+    "name": "Business Solutions And Services",
+    "site": "www.bss-it.be",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Allée des Noisetiers 2 4031 Liège BE",
+        "coords": [
+          5.57092,
+          50.5993
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0881.077.823",
+    "name": "Bulckaert Machine Vision",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "ieper",
+        "address": "Wijtschatestraat 3 8902 Ieper BE",
+        "coords": [
+          2.87513,
+          50.815203
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0881.308.841",
+    "name": "Beyond-it",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kalmthout",
+        "address": "Franseweg 31 2920 Kalmthout BE",
+        "coords": [
+          4.500749,
+          51.365634
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0881.959.533",
+    "name": "Be-mobile",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "merelbeke-melle",
+        "address": "Kardinaal Mercierlaan 1A 9090 Merelbeke-Melle BE",
+        "coords": [
+          3.768559,
+          51.019534
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 97,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0882.912.707",
+    "name": "Beckhoff Automation",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "lummen",
+        "address": "Klaverbladstraat 11.2 2 3560 Lummen BE",
+        "coords": [
+          5.227559,
+          50.996497
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "zwevegem",
+        "address": "Blokkestraat 41A 101 8550 Zwevegem BE",
+        "coords": [
+          3.335649,
+          50.820567
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 30,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0883.661.090",
+    "name": "Blackbee",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Weihoek 6B 1 1930 Zaventem BE",
+        "coords": [
+          4.506528,
+          50.87282
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0888.603.340",
+    "name": "Betoware",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "lokeren",
+        "address": "Spieveldstraat 45 9160 Lokeren BE",
+        "coords": [
+          3.994438,
+          51.083837
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0888.899.585",
+    "name": "Between The Brackets",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 31 2550 Kontich BE",
+        "coords": [
+          4.443344,
+          51.142801
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0890.993.401",
+    "name": "Boa",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "menen",
+        "address": "Spoorwegstraat 7 8930 Menen BE",
+        "coords": [
+          3.198387,
+          50.79427
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 44,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0892.063.765",
+    "name": "Belgian Monitoring Systems",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "Spinnerijstraat 99 1 8500 Kortrijk BE",
+        "coords": [
+          3.302456,
+          50.828582
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 66,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0893.097.707",
+    "name": "B&m Projects",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "bilzen-hoeselt",
+        "address": "Kieleberg 28 3740 Bilzen-Hoeselt BE",
+        "coords": [
+          5.503803,
+          50.907384
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0893.462.149",
+    "name": "Bogaerts Next Engineering",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "hoogstraten",
+        "address": "Hinnenboomstraat 1A 2320 Hoogstraten BE",
+        "coords": [
+          4.729034,
+          51.385899
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 70,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0895.149.652",
+    "name": "Beebole",
+    "site": "beebole.com",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-pieters-woluwe",
+        "address": "Rue du Bemel 67 1150 Woluwe-Saint-Pierre BE",
+        "coords": [
+          4.417868,
+          50.831429
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0895.330.883",
+    "name": "B-vip",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "floreffe",
+        "address": "Rue de l'Ancienne Verrerie 1 5150 Floreffe BE",
+        "coords": [
+          4.77653,
+          50.44306
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0895.978.310",
+    "name": "Belighted",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "ottignies-louvain-la-neuve",
+        "address": "Courbevoie 13 1348 Ottignies-Louvain-la-Neuve BE",
+        "coords": [
+          4.620546,
+          50.674505
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0898.648.481",
+    "name": "B-fam",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "landen",
+        "address": "Grote Steenweg 144 3400 Landen BE",
+        "coords": [
+          5.012023,
+          50.785182
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0899.469.023",
+    "name": "Biqs It",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "tessenderlo-ham",
+        "address": "Kolmen 35 1 3980 Tessenderlo-Ham BE",
+        "coords": [
+          5.086372,
+          51.068602
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "1005.546.144",
+    "name": "Breed Bio",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Kunstlaan 18 4 3500 Hasselt BE",
+        "coords": [
+          5.347533,
+          50.927136
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2024,
+    "proof": []
+  },
+  {
+    "cbe": "0403.839.209",
+    "name": "Bens Zakenkantoor",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "geel",
+        "address": "Antwerpseweg 84 2440 Geel BE",
+        "coords": [
+          4.956828,
+          51.145214
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "geel",
+        "address": "Drossaardshoevedreef 1 2440 Geel BE",
+        "coords": [
+          4.97245,
+          51.20597
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 1965,
+    "proof": []
+  },
+  {
+    "cbe": "0415.923.825",
+    "name": "Braeckmans",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kapellen",
+        "address": "Starrenhoflaan 44 BUS 3 2950 Kapellen BE",
+        "coords": [
+          4.411351,
+          51.330473
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 1976,
+    "proof": []
+  },
+  {
+    "cbe": "0422.231.201",
+    "name": "Bierhalle",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "merelbeke-melle",
+        "address": "Brusselsesteenweg 153A 9090 Merelbeke-Melle BE",
+        "coords": [
+          3.784725,
+          51.016537
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 1981,
+    "proof": []
+  },
+  {
+    "cbe": "0427.904.513",
+    "name": "Black Box Network Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Ikaroslaan 57 1930 Zaventem BE",
+        "coords": [
+          4.489549,
+          50.876312
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 1985,
+    "proof": []
+  },
+  {
+    "cbe": "0433.088.370",
+    "name": "Bureau D'etudes Informatiques Et De Recherches",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "seraing",
+        "address": "Rue du Bois St-Jean 6 4102 Seraing BE",
+        "coords": [
+          5.556814,
+          50.590353
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 1988,
+    "proof": []
+  },
+  {
+    "cbe": "0438.361.509",
+    "name": "Brunel Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Stationsstraat 102-108 2800 Mechelen BE",
+        "coords": [
+          4.485173,
+          51.019619
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 112,
+    "founded": 1989,
+    "proof": []
+  },
+  {
+    "cbe": "0449.226.004",
+    "name": "Blue One Management",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Quai aux Briques 22 1000 Bruxelles BE",
+        "coords": [
+          4.347508,
+          50.851264
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 1993,
+    "proof": []
+  },
+  {
+    "cbe": "0451.833.720",
+    "name": "B Et B Computer Solutions",
+    "site": "www.bbcs.be",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "ottignies-louvain-la-neuve",
+        "address": "Rue Laid Burniat 6 1348 Ottignies-Louvain-la-Neuve BE",
+        "coords": [
+          4.634541,
+          50.663774
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 1994,
+    "proof": []
+  },
+  {
+    "cbe": "0454.389.768",
+    "name": "Bizzmine",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "Engelse Wandeling 2K 2V 8500 Kortrijk BE",
+        "coords": [
+          3.275592,
+          50.826348
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Sluisweg 1 17 9000 Gent BE",
+        "coords": [
+          3.735381,
+          51.013483
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 19,
+    "founded": 1995,
+    "proof": []
+  },
+  {
+    "cbe": "0457.344.607",
+    "name": "Bogaert.net",
+    "site": "bogaert.net",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "dendermonde",
+        "address": "Volkaertwegel 19 A 9200 Dendermonde BE",
+        "coords": [
+          4.109721,
+          51.046026
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "zele",
+        "address": "Markt 52 9240 Zele BE",
+        "coords": [
+          4.03764,
+          51.06902
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 1996,
+    "proof": []
+  },
+  {
+    "cbe": "0457.731.320",
+    "name": "Bmb Gesellschaft Für Begleitsysteme Und Monitoring Brüssel",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue de la Pacification 67 1000 Bruxelles BE",
+        "coords": [
+          4.376324,
+          50.847901
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 1996,
+    "proof": []
+  },
+  {
+    "cbe": "0459.910.454",
+    "name": "Bdo Advisory",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Uitbreidingstraat 72 1 2600 Antwerpen BE",
+        "coords": [
+          4.41666,
+          51.192811
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "la-hulpe",
+        "address": "Avenue Reine Astrid 92 1310 La Hulpe BE",
+        "coords": [
+          4.472177,
+          50.727053
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Da Vincilaan 9 1930 Zaventem BE",
+        "coords": [
+          4.458086,
+          50.88934
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue Louise 326 30 1050 Ixelles BE",
+        "coords": [
+          4.368897,
+          50.823057
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "roeselare",
+        "address": "Kwadestraat 155/1102 8800 Roeselare BE",
+        "coords": [
+          3.172891,
+          50.920041
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "herve",
+        "address": "Rue de Waucomont 51. 4651 Herve BE",
+        "coords": [
+          5.832341,
+          50.64382
+        ]
+      },
+      {
+        "province": "namur",
+        "municipality": "gembloux",
+        "address": "Rue Phocas Lejeune,Isnes 30 5032 Gembloux BE",
+        "coords": [
+          4.718996,
+          50.500111
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Rue de Stassart 35 1050 Ixelles BE",
+        "coords": [
+          4.360625,
+          50.836709
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "moeskroen",
+        "address": "Drève Gustave Fache 1 7700 Mouscron BE",
+        "coords": [
+          3.25619,
+          50.74154
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Herkenrodesingel 10 3.01 3500 Hasselt BE",
+        "coords": [
+          5.322944,
+          50.942501
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 206,
+    "founded": 1997,
+    "proof": []
+  },
+  {
+    "cbe": "0462.918.840",
+    "name": "Brain²",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Belgicastraat 11 4 1930 Zaventem BE",
+        "coords": [
+          4.458466,
+          50.879051
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 33,
+    "founded": 1998,
+    "proof": []
+  },
+  {
+    "cbe": "0465.967.610",
+    "name": "Bmatix",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Satenrozen 10 2550 Kontich BE",
+        "coords": [
+          4.419992,
+          51.12639
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Satenrozen 14 2550 Kontich BE",
+        "coords": [
+          4.418579,
+          51.125918
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "genk",
+        "address": "Thor Park 8300 6 3600 Genk BE",
+        "coords": [
+          5.538129,
+          50.994024
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 35,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0467.512.284",
+    "name": "Bump",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "uccle",
+        "address": "Rue des Fidèles 44 4 1180 Uccle BE",
+        "coords": [
+          4.339205,
+          50.802778
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "uccle",
+        "address": "Rue de Nieuwenhove 3 1180 Uccle BE",
+        "coords": [
+          4.339251,
+          50.802557
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "sint-genesius-rode",
+        "address": "Chaussée de Waterloo 200 1640 Sint-Genesius-Rode BE",
+        "coords": [
+          4.39407,
+          50.74625
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0467.643.433",
+    "name": "Bct",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Kempische steenweg 303 45 3500 Hasselt BE",
+        "coords": [
+          5.35093,
+          50.95385
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0474.628.621",
+    "name": "Blue Skies",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Noorderlaan 133 9 2030 Antwerpen BE",
+        "coords": [
+          4.403265,
+          51.264051
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 24,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0476.324.141",
+    "name": "Binc",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "temse",
+        "address": "Boonakker 31 9140 Temse BE",
+        "coords": [
+          4.200798,
+          51.133102
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0501.527.711",
+    "name": "Be-wood",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "beersel",
+        "address": "Zevenbronnenstraat 70 1653 Beersel BE",
+        "coords": [
+          4.312678,
+          50.725637
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0502.775.447",
+    "name": "Bdl Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "la-louviere",
+        "address": "Rue Sylvain Guyaux 85 7 7100 La Louvière BE",
+        "coords": [
+          4.182328,
+          50.476134
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0506.762.939",
+    "name": "Bracor Electric Development",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "la-louviere",
+        "address": "Boulevard du Tivoli 37 3 7100 La Louvière BE",
+        "coords": [
+          4.198821,
+          50.477816
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0508.596.932",
+    "name": "Blue Moon",
+    "site": "",
+    "locations": [
+      {
+        "province": "luxembourg",
+        "municipality": "marche-en-famenne",
+        "address": "Marche, Avenue de France 9 6900 Marche-en-Famenne BE",
+        "coords": [
+          5.340834,
+          50.227117
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0508.622.369",
+    "name": "Big Pony Ventures",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "deinze",
+        "address": "Biezestraat 27 9850 Deinze BE",
+        "coords": [
+          3.595117,
+          51.075605
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0508.884.170",
+    "name": "Be One Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "courcelles",
+        "address": "Rue de Trazegnies 218 6180 Courcelles BE",
+        "coords": [
+          4.349347,
+          50.462791
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 17,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0526.904.691",
+    "name": "Bryxx",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33B 2550 Kontich BE",
+        "coords": [
+          4.443521,
+          51.142308
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0536.687.934",
+    "name": "Blueit Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "grobbendonk",
+        "address": "Pallieterdreef 53 2280 Grobbendonk BE",
+        "coords": [
+          4.736462,
+          51.17678
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0537.366.736",
+    "name": "Blueit On The Spot",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "grobbendonk",
+        "address": "Pallieterdreef 53 2280 Grobbendonk BE",
+        "coords": [
+          4.736462,
+          51.17678
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0541.659.084",
+    "name": "Belgian Mobile Id",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Place Sainte-Gudule 5 1000 Bruxelles BE",
+        "coords": [
+          4.35892,
+          50.84747
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 33,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0545.869.973",
+    "name": "B.o.s. Business",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "waterloo",
+        "address": "Drève Richelle 31 1410 Waterloo BE",
+        "coords": [
+          4.40514,
+          50.709985
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0554.870.781",
+    "name": "Blue Star Partners",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "ternat",
+        "address": "Assesteenweg 65 1740 Ternat BE",
+        "coords": [
+          4.167231,
+          50.881875
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Ferdinand Lousbergskaai 106 b2 9000 Gent BE",
+        "coords": [
+          3.73973,
+          51.04597
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0557.976.959",
+    "name": "Buzzworks",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 19,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0561.808.954",
+    "name": "Brainstorm Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "ottignies-louvain-la-neuve",
+        "address": "Rue du Bosquet 7 1348 Ottignies-Louvain-la-Neuve BE",
+        "coords": [
+          4.632712,
+          50.660708
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 32,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0561.929.215",
+    "name": "Brick9",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Dublinstraat 35 9 9000 Gent BE",
+        "coords": [
+          3.727767,
+          51.078206
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0566.947.479",
+    "name": "Bizz Arena",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "anderlecht",
+        "address": "Rue Georges Moreau 172 1070 Anderlecht BE",
+        "coords": [
+          4.324117,
+          50.834153
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0627.697.490",
+    "name": "Bhb Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Clos des Chardonnerets 32 4000 Liège BE",
+        "coords": [
+          5.555615,
+          50.663373
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0634.969.126",
+    "name": "Bluecie",
+    "site": "www.bluecie.com",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Kempische steenweg 311 2.09 3500 Hasselt BE",
+        "coords": [
+          5.352192,
+          50.951874
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0637.926.933",
+    "name": "Building Impact",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Casterstraat 72 3500 Hasselt BE",
+        "coords": [
+          5.348991,
+          50.926208
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0644.732.472",
+    "name": "Baudoin Hugues Informatique",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "rochefort",
+        "address": "Chemin des Aujes,Briquemont 3 5580 Rochefort BE",
+        "coords": [
+          5.143908,
+          50.181187
+        ]
+      },
+      {
+        "province": "namur",
+        "municipality": "ciney",
+        "address": "Avenue Schlogel 58 5590 Ciney BE",
+        "coords": [
+          5.10873,
+          50.29766
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0645.619.726",
+    "name": "Blinc",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "destelbergen",
+        "address": "Vossenstraat 45 9070 Destelbergen BE",
+        "coords": [
+          3.819331,
+          51.037937
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0648.879.916",
+    "name": "Back2buzz",
+    "site": "www.back2buzz.eu",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "wavre",
+        "address": "Avenue Zénobe Gramme 10 1300 Wavre BE",
+        "coords": [
+          4.58152,
+          50.73725
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0655.723.364",
+    "name": "Brightek",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue de la Pépinière 12 1000 Bruxelles BE",
+        "coords": [
+          4.361783,
+          50.839658
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0656.531.038",
+    "name": "Bonk",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "moorslede",
+        "address": "Hovingstraat 4 8890 Moorslede BE",
+        "coords": [
+          3.083999,
+          50.869004
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0657.817.970",
+    "name": "Binders Media",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Volmolenstraat 29 9000 Gent BE",
+        "coords": [
+          3.733111,
+          51.055479
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0657.822.623",
+    "name": "Bernard Bovijn",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "ronse",
+        "address": "Rue des Prêtres 7 9600 Ronse BE",
+        "coords": [
+          3.601633,
+          50.748901
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0663.689.440",
+    "name": "Bdg Company",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "enghien",
+        "address": "Rue de Bruxelles 45 7850 Enghien BE",
+        "coords": [
+          4.041053,
+          50.694328
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0666.803.239",
+    "name": "Between Horses",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "waterloo",
+        "address": "Chemin de la Papelotte 41 1410 Waterloo BE",
+        "coords": [
+          4.43395,
+          50.67999
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0668.664.550",
+    "name": "Brouwerij Hendrix",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-gillis",
+        "address": "Rue du Métal 15-21 1060 Saint-Gilles BE",
+        "coords": [
+          4.34954,
+          50.830521
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0669.692.750",
+    "name": "Brucoop",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-gillis",
+        "address": "Chaussée de Charleroi 112 1060 Saint-Gilles BE",
+        "coords": [
+          4.355515,
+          50.827699
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-lambrechts-woluwe",
+        "address": "Avenue du Chèvrefeuille 23 1200 Woluwe-Saint-Lambert BE",
+        "coords": [
+          4.441966,
+          50.839595
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-lambrechts-woluwe",
+        "address": "Avenue de Mai 100 1200 Woluwe-Saint-Lambert BE",
+        "coords": [
+          4.419701,
+          50.848797
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "etterbeek",
+        "address": "Chaussée de Wavre 718 1040 Etterbeek BE",
+        "coords": [
+          4.38977,
+          50.83082
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0670.546.350",
+    "name": "Bastille & Molko",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Zwartzustersstraat 8 14 2000 Antwerpen BE",
+        "coords": [
+          4.401073,
+          51.223449
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0675.439.209",
+    "name": "Business Elements Reply",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-lambrechts-woluwe",
+        "address": "Gulledelle 96 1200 Woluwe-Saint-Lambert BE",
+        "coords": [
+          4.424237,
+          50.856465
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 55,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0675.740.701",
+    "name": "Belgian Medicines Verification Organisation",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "temse",
+        "address": "Luxemburgstraat 20 9140 Temse BE",
+        "coords": [
+          4.186226,
+          51.142996
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0675.785.439",
+    "name": "Belgium Limousine Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-lambrechts-woluwe",
+        "address": "Avenue du Prince Héritier 6 1200 Woluwe-Saint-Lambert BE",
+        "coords": [
+          4.412116,
+          50.840635
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0677.769.880",
+    "name": "Benelux-it",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "londerzeel",
+        "address": "Steenkapperstraat 4 A203 1840 Londerzeel BE",
+        "coords": [
+          4.29902,
+          51.00995
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0678.407.310",
+    "name": "Bmk Solutions",
+    "site": "www.bmksolutions.be",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "houthalen-helchteren",
+        "address": "Hortelstraat 37 3530 Houthalen-Helchteren BE",
+        "coords": [
+          5.343556,
+          51.038212
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "genk",
+        "address": "Hoogstraat 69 1 3600 Genk BE",
+        "coords": [
+          5.50586,
+          50.959012
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0678.428.787",
+    "name": "Blaton & Nakopoulou",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Zemstbaan 80 2800 Mechelen BE",
+        "coords": [
+          4.471916,
+          51.001712
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0678.518.760",
+    "name": "Bpea Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-joost-ten-node",
+        "address": "Rue Wauwermans 11 4D 1210 Saint-Josse-ten-Noode BE",
+        "coords": [
+          4.380524,
+          50.851025
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0686.715.557",
+    "name": "B_robots",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Kempische steenweg 303 7 3500 Hasselt BE",
+        "coords": [
+          5.35093,
+          50.95385
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 21,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0689.681.282",
+    "name": "B.c.print",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "tournai",
+        "address": "Boulevard Léopold 39 7500 Tournai BE",
+        "coords": [
+          3.379186,
+          50.60802
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0690.558.638",
+    "name": "Biztory Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 31 2550 Kontich BE",
+        "coords": [
+          4.443344,
+          51.142801
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 27,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0690.784.114",
+    "name": "Benergic",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "sombreffe",
+        "address": "Rue des Bruyères 47 A 5140 Sombreffe BE",
+        "coords": [
+          4.597771,
+          50.553746
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0713.949.395",
+    "name": "Bright And Bridge",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue Picard 7 100 1000 Bruxelles BE",
+        "coords": [
+          4.34525,
+          50.86392
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0715.632.643",
+    "name": "Bipro Consult",
+    "site": "www.bipro.be",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "boutersem",
+        "address": "Lubbeeksestraat 59 3370 Boutersem BE",
+        "coords": [
+          4.863103,
+          50.836679
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "sint-truiden",
+        "address": "Tiensesteenweg 168 3800 Sint-Truiden BE",
+        "coords": [
+          5.166142,
+          50.814098
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0715.808.332",
+    "name": "Blents",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "lier",
+        "address": "Duwijckstraat 17 2500 Lier BE",
+        "coords": [
+          4.53521,
+          51.15208
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0718.685.767",
+    "name": "Ba Services 4 You",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Rue des Coquelicots 82 4020 Liège BE",
+        "coords": [
+          5.612835,
+          50.63687
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0719.267.965",
+    "name": "Biq",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 31 2550 Kontich BE",
+        "coords": [
+          4.443344,
+          51.142801
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0719.913.907",
+    "name": "Biostrand",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "diepenbeek",
+        "address": "Agoralaan Abis 3590 Diepenbeek BE",
+        "coords": [
+          5.393763,
+          50.929482
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0719.974.283",
+    "name": "Beego",
+    "site": "www.beego.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Turnhoutsebaan 139 A 2140 Antwerpen BE",
+        "coords": [
+          4.434542,
+          51.215413
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0728.841.469",
+    "name": "Bluecrux International",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "aalst",
+        "address": "Korte Keppestraat 19 6 9320 Aalst BE",
+        "coords": [
+          4.04087,
+          50.915885
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Schaliënhoevedreef 20 C 2800 Mechelen BE",
+        "coords": [
+          4.458295,
+          51.055908
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 69,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0728.989.147",
+    "name": "Behind Your Business",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "alken",
+        "address": "Industrieterrein Kolmen 1085 3570 Alken BE",
+        "coords": [
+          5.294392,
+          50.886535
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0730.685.954",
+    "name": "Baryon",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "herzele",
+        "address": "Vogelenzangstraat 7 B 9552 Herzele BE",
+        "coords": [
+          3.88807,
+          50.90433
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0732.698.408",
+    "name": "B!loba",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "tervuren",
+        "address": "Jagerslaan 23 3080 Tervuren BE",
+        "coords": [
+          4.554013,
+          50.845113
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0732.928.733",
+    "name": "Bluu",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Stationsstraat 55 2800 Mechelen BE",
+        "coords": [
+          4.48072,
+          51.01675
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0733.628.024",
+    "name": "Blr Consultancy",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "sint-katelijne-waver",
+        "address": "Korte Mussepi 8 2860 Sint-Katelijne-Waver BE",
+        "coords": [
+          4.507884,
+          51.049007
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0735.785.877",
+    "name": "Bundeling Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Ilgatlaan 21 3500 Hasselt BE",
+        "coords": [
+          5.353064,
+          50.921358
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0736.673.725",
+    "name": "Bpart",
+    "site": "www.bpart.be",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Maria-Theresiastraat 123 3000 Leuven BE",
+        "coords": [
+          4.714363,
+          50.880434
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0736.762.609",
+    "name": "Billions Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "grimbergen",
+        "address": "Binnenhof 8 1853 Grimbergen BE",
+        "coords": [
+          4.343815,
+          50.903847
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0744.395.420",
+    "name": "Bartle Be",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue Joseph Stevens 7 1000 Bruxelles BE",
+        "coords": [
+          4.352477,
+          50.841326
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0745.693.042",
+    "name": "Blackboxed",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Satenrozen 10 2550 Kontich BE",
+        "coords": [
+          4.419992,
+          51.12639
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0753.452.052",
+    "name": "Byvets",
+    "site": "www.byvets.be",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "huy",
+        "address": "Rue Joseph Wauters 67 4500 Huy BE",
+        "coords": [
+          5.222148,
+          50.518697
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0755.392.547",
+    "name": "Bytestream",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "beringen",
+        "address": "Kasteletsingel 17 2 3580 Beringen BE",
+        "coords": [
+          5.21832,
+          51.04802
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0759.701.723",
+    "name": "Betik",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "la-louviere",
+        "address": "Rue Cronos 5 7110 La Louvière BE",
+        "coords": [
+          4.173984,
+          50.507299
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0761.801.970",
+    "name": "Blue Goose",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0762.846.206",
+    "name": "Bebold",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 35 C 2550 Kontich BE",
+        "coords": [
+          4.4424,
+          51.141844
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Vlaanderenstraat 6-8 2000 Antwerpen BE",
+        "coords": [
+          4.394451,
+          51.216613
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0775.783.432",
+    "name": "Beams",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "tervuren",
+        "address": "Plintveld 35 3080 Tervuren BE",
+        "coords": [
+          4.562278,
+          50.838587
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0779.809.031",
+    "name": "Bulls-i",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0786.399.982",
+    "name": "Bee-relevant",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "Leonardo da Vincilaan 2 1831 Machelen BE",
+        "coords": [
+          4.4587,
+          50.89033
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0791.521.681",
+    "name": "Bronckaers Meat And More",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "gingelom",
+        "address": "Steenweg 147 3890 Gingelom BE",
+        "coords": [
+          5.132671,
+          50.74858
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0792.578.981",
+    "name": "Bfconception",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "couvin",
+        "address": "Rue Herdal, Pre. 17 5660 Couvin BE",
+        "coords": [
+          4.418502,
+          50.020583
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0797.274.177",
+    "name": "Be-sure Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "bilzen-hoeselt",
+        "address": "Veldstraat 8A 3740 Bilzen-Hoeselt BE",
+        "coords": [
+          5.455722,
+          50.829486
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0817.964.376",
+    "name": "Blueit Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "grobbendonk",
+        "address": "Pallieterdreef 53 2280 Grobbendonk BE",
+        "coords": [
+          4.736462,
+          51.17678
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0821.305.136",
+    "name": "Brightfox Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 20,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0827.863.524",
+    "name": "Bits Of Love",
+    "site": "www.bitsoflove.be",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "brugge",
+        "address": "Koning Albert I-laan 96A 1 8200 Brugge BE",
+        "coords": [
+          3.209943,
+          51.18957
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0829.024.455",
+    "name": "Bakermen",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Frankrijklei 5 2000 Antwerpen BE",
+        "coords": [
+          4.41622,
+          51.218285
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0829.745.027",
+    "name": "Bopartner Belgium/luxembourg",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "eghezee",
+        "address": "Route de Champion,Warêt 258 5310 Eghezée BE",
+        "coords": [
+          4.945274,
+          50.58007
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0832.589.996",
+    "name": "Belfaconstruct",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "herentals",
+        "address": "Welvaartstraat 22 2200 Herentals BE",
+        "coords": [
+          4.797532,
+          51.158765
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0833.017.885",
+    "name": "Btsystem",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "geer",
+        "address": "Rue Auguste Lambert 4 4254 Geer BE",
+        "coords": [
+          5.183179,
+          50.662189
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0834.636.795",
+    "name": "Baam",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "braine-le-chateau",
+        "address": "Place de Noucelles 8 1440 Braine-le-Château BE",
+        "coords": [
+          4.32381,
+          50.68558
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0835.374.292",
+    "name": "Brainbridge Technics",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Straatsburgdok-Noordkaai 3 2030 Antwerpen BE",
+        "coords": [
+          4.418873,
+          51.242891
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0837.552.240",
+    "name": "Bloovi",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "waasmunster",
+        "address": "Vinkenlaan 26 9250 Waasmunster BE",
+        "coords": [
+          4.084803,
+          51.127042
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0839.859.652",
+    "name": "Bossdata",
+    "site": "bossdata.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Broederminstraat 9 2018 Antwerpen BE",
+        "coords": [
+          4.393136,
+          51.203168
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Broederminstraat 9 8 2018 Antwerpen BE",
+        "coords": [
+          4.393136,
+          51.203168
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 28,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0840.370.188",
+    "name": "Batenburg Magion",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "schilde",
+        "address": "Zandhovensebaan 29 2970 Schilde BE",
+        "coords": [
+          4.597717,
+          51.237601
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0840.373.851",
+    "name": "Bluecrux",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "aalst",
+        "address": "Korte Keppestraat 19 6 9320 Aalst BE",
+        "coords": [
+          4.04087,
+          50.915885
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 76,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0841.969.403",
+    "name": "Belbog",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "stekene",
+        "address": "Heirweg 151 9190 Stekene BE",
+        "coords": [
+          4.00483,
+          51.18553
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0841.995.830",
+    "name": "Bechtle",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Square de Meeûs 35 1000 Bruxelles BE",
+        "coords": [
+          4.369375,
+          50.840738
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "pelt",
+        "address": "Peerderbaan 207 3910 Pelt BE",
+        "coords": [
+          5.465464,
+          51.197988
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "pelt",
+        "address": "Knooppunt 6 3910 Pelt BE",
+        "coords": [
+          5.437396,
+          51.218497
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 100,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0844.793.091",
+    "name": "Blueit Development",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "grobbendonk",
+        "address": "Pallieterdreef 53 2280 Grobbendonk BE",
+        "coords": [
+          4.736462,
+          51.17678
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0845.773.781",
+    "name": "Baldwin",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Dendermondsesteenweg 140C 9000 Gent BE",
+        "coords": [
+          3.74371,
+          51.05301
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0846.709.337",
+    "name": "Bruneau Technics",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "eghezee",
+        "address": "Rue Léon Dachelet,Hanret 41 5310 Eghezée BE",
+        "coords": [
+          4.948675,
+          50.581614
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0846.804.852",
+    "name": "Blastic",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0848.430.195",
+    "name": "Bmj Consulting",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-jans-molenbeek",
+        "address": "Rue Piers 85 1080 Molenbeek-Saint-Jean BE",
+        "coords": [
+          4.33701,
+          50.858362
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0861.542.023",
+    "name": "Be Quiet",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "sombreffe",
+        "address": "Rue de la Buse 19 5140 Sombreffe BE",
+        "coords": [
+          4.610301,
+          50.524106
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "ottignies-louvain-la-neuve",
+        "address": "Courbevoie 13 1348 Ottignies-Louvain-la-Neuve BE",
+        "coords": [
+          4.620546,
+          50.674505
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2003,
+    "proof": []
+  },
+  {
+    "cbe": "0861.911.415",
+    "name": "Busytec",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "bornem",
+        "address": "Puursesteenweg 371 2880 Bornem BE",
+        "coords": [
+          4.257169,
+          51.088554
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2003,
+    "proof": []
+  },
+  {
+    "cbe": "0863.232.593",
+    "name": "Broomstreet",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Borstelsstraat 32 3010 Leuven BE",
+        "coords": [
+          4.730584,
+          50.889525
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0872.943.877",
+    "name": "Belgoglass",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "remicourt",
+        "address": "Chaussée Verte 14 4350 Remicourt BE",
+        "coords": [
+          5.395584,
+          50.690831
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 18,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0873.941.096",
+    "name": "Bde -service Center",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "nivelles",
+        "address": "Avenue Thomas Edison 95 1402 Nivelles BE",
+        "coords": [
+          4.35651,
+          50.57687
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0881.357.242",
+    "name": "Box²",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hamont-achel",
+        "address": "Heikant 1 3930 Hamont-Achel BE",
+        "coords": [
+          5.47132,
+          51.278423
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 31,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0887.608.396",
+    "name": "Bitss",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "willebroek",
+        "address": "Overwinningsstraat 13 B 2830 Willebroek BE",
+        "coords": [
+          4.360224,
+          51.059512
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0887.866.734",
+    "name": "Bright Dots",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0889.424.573",
+    "name": "Budha Laxmi",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "bonheiden",
+        "address": "Rijmenamseweg 230 2820 Bonheiden BE",
+        "coords": [
+          4.593564,
+          51.011265
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0891.250.846",
+    "name": "Bk Partners",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue des Colonies 56 1000 Bruxelles BE",
+        "coords": [
+          4.36097,
+          50.84729
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0891.958.847",
+    "name": "Bonanza Group",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Bredestraat 4 2000 Antwerpen BE",
+        "coords": [
+          4.402,
+          51.21512
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0892.003.684",
+    "name": "Blackreit Management",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "rixensart",
+        "address": "Avenue des Cormiers 6 1332 Rixensart BE",
+        "coords": [
+          4.517967,
+          50.72669
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "0895.681.172",
+    "name": "Be Networks",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Antwerpsesteenweg 279 2800 Mechelen BE",
+        "coords": [
+          4.458341,
+          51.061958
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0898.557.124",
+    "name": "Blue Pimento Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "mont-saint-guibert",
+        "address": "Rue André Dumont 12 1435 Mont-Saint-Guibert BE",
+        "coords": [
+          4.625973,
+          50.657163
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "1003.084.918",
+    "name": "B4-it Services",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Koning Boudewijnlaan 20/A 3500 Hasselt BE",
+        "coords": [
+          5.34785,
+          50.93444
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2023,
+    "proof": []
+  }
+]

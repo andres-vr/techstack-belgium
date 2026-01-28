@@ -1,0 +1,879 @@
+[
+  {
+    "cbe": "0405.974.890",
+    "name": "Zakenkantoor Vermoesen-stas",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zemst",
+        "address": "Brusselsesteenweg 119 A 1980 Zemst BE",
+        "coords": [
+          4.458453,
+          50.977528
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 1968,
+    "proof": []
+  },
+  {
+    "cbe": "0408.425.626",
+    "name": "Zetes",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue de Strasbourg 3 1130 Bruxelles BE",
+        "coords": [
+          4.415545,
+          50.878795
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "sint-pieters-leeuw",
+        "address": "Villalaan 13 1601 Sint-Pieters-Leeuw BE",
+        "coords": [
+          4.296468,
+          50.783768
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "wommelgem",
+        "address": "Nijverheidsstraat 72 10 2160 Wommelgem BE",
+        "coords": [
+          4.51155,
+          51.210159
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 313,
+    "founded": 1971,
+    "proof": []
+  },
+  {
+    "cbe": "0425.609.373",
+    "name": "Zetes Industries",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue de Strasbourg 3 1130 Bruxelles BE",
+        "coords": [
+          4.415545,
+          50.878795
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "la-hulpe",
+        "address": "Avenue Reine Astrid 92 1310 La Hulpe BE",
+        "coords": [
+          4.472177,
+          50.727053
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 25,
+    "founded": 1984,
+    "proof": []
+  },
+  {
+    "cbe": "0465.382.442",
+    "name": "Zimmo",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Kolonel Begaultlaan 1A 12 3012 Leuven BE",
+        "coords": [
+          4.705573,
+          50.888612
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "waregem",
+        "address": "Vijfseweg 180 11 8790 Waregem BE",
+        "coords": [
+          3.415135,
+          50.901378
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 47,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0465.898.720",
+    "name": "Zabun",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "waregem",
+        "address": "Vijfseweg 180 11 8790 Waregem BE",
+        "coords": [
+          3.415135,
+          50.901378
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Kolonel Begaultlaan 1A 12 3012 Leuven BE",
+        "coords": [
+          4.705573,
+          50.888612
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0466.662.050",
+    "name": "Zeta Global",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "De Kleetlaan 4 1831 Machelen BE",
+        "coords": [
+          4.450388,
+          50.888377
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0471.481.366",
+    "name": "Zf Digital Solutions Belux",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "ieper",
+        "address": "Ter Waarde 91 8900 Ieper BE",
+        "coords": [
+          2.894184,
+          50.869029
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0475.533.392",
+    "name": "Zappware",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Ilgatlaan 21 3500 Hasselt BE",
+        "coords": [
+          5.353064,
+          50.921358
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 37,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0477.147.849",
+    "name": "Zeron",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Mechelsesteenweg 180 5 2018 Antwerpen BE",
+        "coords": [
+          4.41052,
+          51.20447
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2002,
+    "proof": []
+  },
+  {
+    "cbe": "0537.837.878",
+    "name": "Zensor",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "etterbeek",
+        "address": "Rue des Pères Blancs 4 1040 Etterbeek BE",
+        "coords": [
+          4.400036,
+          50.826661
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "landen",
+        "address": "Dorpsstraat 46 3404 Landen BE",
+        "coords": [
+          5.09552,
+          50.76616
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0552.588.214",
+    "name": "Zapfloor Next Generation",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Interleuvenlaan 74 3001 Leuven BE",
+        "coords": [
+          4.73182,
+          50.85104
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Molenbergstraat 10 25 2000 Antwerpen BE",
+        "coords": [
+          4.41564,
+          51.220223
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0647.962.374",
+    "name": "Zeus Soft",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "gembloux",
+        "address": "Rue Jean Sonet,Isnes 25 5032 Gembloux BE",
+        "coords": [
+          4.712393,
+          50.503259
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0663.531.468",
+    "name": "Zennit",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "watermaal-bosvoorde",
+        "address": "Avenue des Courtilières 2 1170 Watermael-Boitsfort BE",
+        "coords": [
+          4.402168,
+          50.798602
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0670.623.455",
+    "name": "Zastrugi",
+    "site": "www.airshaper.com",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Kreeftstraat 20 2018 Antwerpen BE",
+        "coords": [
+          4.431795,
+          51.207459
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0670.776.774",
+    "name": "Zapptax",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue du Boulet 42 2 1000 Bruxelles BE",
+        "coords": [
+          4.343025,
+          50.849426
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "etterbeek",
+        "address": "Cours Saint Michel 30A 1040 Etterbeek BE",
+        "coords": [
+          4.400816,
+          50.83655
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0687.837.292",
+    "name": "Zinderlabs",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0711.870.132",
+    "name": "Zero Friction",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Dok-Noord 3A 503 9000 Gent BE",
+        "coords": [
+          3.73357,
+          51.06581
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 28,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0721.757.204",
+    "name": "Zzam",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Rue de la Chaîne 75 4000 Liège BE",
+        "coords": [
+          5.577894,
+          50.656854
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0741.481.856",
+    "name": "Zure",
+    "site": "www.zure.com",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "sint-martens-latem",
+        "address": "Xavier De Cocklaan 70 3 9831 Sint-Martens-Latem BE",
+        "coords": [
+          3.616487,
+          51.002355
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0785.925.078",
+    "name": "Zeiko",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "dison",
+        "address": "Avenue du Centre 161 4821 Dison BE",
+        "coords": [
+          5.879203,
+          50.610653
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0793.592.137",
+    "name": "Zeus It",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "wielsbeke",
+        "address": "Eekhoutstraat 21 G 8710 Wielsbeke BE",
+        "coords": [
+          3.325152,
+          50.892698
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0825.526.022",
+    "name": "Zte Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-lambrechts-woluwe",
+        "address": "Rue de Bretagne 24 1200 Woluwe-Saint-Lambert BE",
+        "coords": [
+          4.426125,
+          50.855455
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 17,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0827.909.747",
+    "name": "Zentrick",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Kortrijksesteenweg 1084 9051 Gent BE",
+        "coords": [
+          3.69005,
+          51.02247
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 25,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0838.080.295",
+    "name": "Zeticon",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Bellevue 1-3 101 9050 Gent BE",
+        "coords": [
+          3.73549,
+          51.034716
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 27,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0845.418.247",
+    "name": "Zamia",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Bollebergen 2A 32 9052 Gent BE",
+        "coords": [
+          3.70568,
+          51.01365
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0846.055.774",
+    "name": "Zorgonline",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "bree",
+        "address": "Stadsplein 9 3960 Bree BE",
+        "coords": [
+          5.597426,
+          51.139404
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0849.393.861",
+    "name": "Zenchef Belgium",
+    "site": "www.tablebooker.be",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Lozenberg 11 1932 Zaventem BE",
+        "coords": [
+          4.463481,
+          50.868816
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0881.300.923",
+    "name": "Zf Digital Solutions International",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "ieper",
+        "address": "Ter Waarde 91 8900 Ieper BE",
+        "coords": [
+          2.894184,
+          50.869029
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 182,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0419.920.423",
+    "name": "Zorgi",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Boulevard Bischoffsheim 15 7de 1000 Bruxelles BE",
+        "coords": [
+          4.368314,
+          50.850178
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Interleuvenlaan 10 3001 Leuven BE",
+        "coords": [
+          4.726206,
+          50.848636
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Blarenberglaan 3 C 2800 Mechelen BE",
+        "coords": [
+          4.45395,
+          51.05217
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "herstal",
+        "address": "Parc Ind. des Hauts Sarts, 2e av 65 4040 Herstal BE",
+        "coords": [
+          5.61114,
+          50.69574
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "nivelles",
+        "address": "Rue Altiero Spinelli 3 1401 Nivelles BE",
+        "coords": [
+          4.33113,
+          50.61889
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "oostkamp",
+        "address": "Legeweg 157F 8020 Oostkamp BE",
+        "coords": [
+          3.248805,
+          51.171995
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 318,
+    "founded": 1979,
+    "proof": []
+  },
+  {
+    "cbe": "0468.599.080",
+    "name": "Zeus Computer",
+    "site": "www.zeuscomputer.be",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "mons",
+        "address": "Boulevard Initialis 26 7000 Mons BE",
+        "coords": [
+          3.926468,
+          50.458199
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0476.768.361",
+    "name": "Zoz",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "sint-truiden",
+        "address": "Sint-Gangulfusplein 2 3800 Sint-Truiden BE",
+        "coords": [
+          5.183054,
+          50.818569
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2002,
+    "proof": []
+  },
+  {
+    "cbe": "0687.945.378",
+    "name": "Ziedoes",
+    "site": "www.ziedoes.be",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "tielt",
+        "address": "Ruiseleedsesteenweg 37 8700 Tielt BE",
+        "coords": [
+          3.359415,
+          51.010107
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0746.618.797",
+    "name": "Zivix",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "zedelgem",
+        "address": "Groenestraat 141 8210 Zedelgem BE",
+        "coords": [
+          3.149018,
+          51.13252
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0749.764.468",
+    "name": "Zealogics Europe",
+    "site": "www.zealogics.com",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "houthalen-helchteren",
+        "address": "Centrum-Zuid 1111 3530 Houthalen-Helchteren BE",
+        "coords": [
+          5.37237,
+          51.02563
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0767.986.909",
+    "name": "Zendzend",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "diest",
+        "address": "Koning Albertstraat 79 3290 Diest BE",
+        "coords": [
+          5.054919,
+          50.986846
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0773.774.443",
+    "name": "Zygote",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0780.812.683",
+    "name": "Zeal Robotics",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Brixtonlaan 9 1930 Zaventem BE",
+        "coords": [
+          4.50026,
+          50.87147
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0823.902.261",
+    "name": "Zaffer Research And Development",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Weiveldlaan 41 B 1930 Zaventem BE",
+        "coords": [
+          4.506777,
+          50.871622
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2010,
+    "proof": []
+  }
+]

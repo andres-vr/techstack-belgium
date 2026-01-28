@@ -1,0 +1,2454 @@
+[
+  {
+    "cbe": "0401.950.974",
+    "name": "Webit",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Vorstermanstraat 14 2000 Antwerpen BE",
+        "coords": [
+          4.393643,
+          51.210575
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 1948,
+    "proof": []
+  },
+  {
+    "cbe": "0418.547.872",
+    "name": "Worldline",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Chaussée de Haecht 1442 1130 Bruxelles BE",
+        "coords": [
+          4.414776,
+          50.879957
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Chaussée de Haecht 1221 1130 Bruxelles BE",
+        "coords": [
+          4.413276,
+          50.880088
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "evere",
+        "address": "Avenue du Bourget 3 1140 Evere BE",
+        "coords": [
+          4.41426,
+          50.87642
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 622,
+    "founded": 1978,
+    "proof": []
+  },
+  {
+    "cbe": "0443.500.133",
+    "name": "Winking",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "koekelare",
+        "address": "Dorpsstraat 57 2 8680 Koekelare BE",
+        "coords": [
+          2.97461,
+          51.089328
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 1991,
+    "proof": []
+  },
+  {
+    "cbe": "0449.560.158",
+    "name": "Wonderland Office",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Interleuvenlaan 62 3001 Leuven BE",
+        "coords": [
+          4.73638,
+          50.84936
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 1993,
+    "proof": []
+  },
+  {
+    "cbe": "0458.073.095",
+    "name": "West Technologies",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "herentals",
+        "address": "Grensstraat (HRT) 4 2200 Herentals BE",
+        "coords": [
+          4.796741,
+          51.160621
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 1996,
+    "proof": []
+  },
+  {
+    "cbe": "0459.340.332",
+    "name": "Westsite",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "brugge",
+        "address": "Koningin Astridlaan 25 14 8200 Brugge BE",
+        "coords": [
+          3.203438,
+          51.188361
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 1996,
+    "proof": []
+  },
+  {
+    "cbe": "0460.672.893",
+    "name": "Windows Object Oriented Design Et Development",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "wavre",
+        "address": "Voie Maréchal Grouchy 24 1300 Wavre BE",
+        "coords": [
+          4.622054,
+          50.685268
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 1997,
+    "proof": []
+  },
+  {
+    "cbe": "0461.739.893",
+    "name": "Wolters Kluwer Financial Services Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Gaston Crommenlaan 8 11 9050 Gent BE",
+        "coords": [
+          3.734646,
+          51.036383
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Motstraat 30 2800 Mechelen BE",
+        "coords": [
+          4.48948,
+          51.013418
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 138,
+    "founded": 1997,
+    "proof": []
+  },
+  {
+    "cbe": "0463.126.696",
+    "name": "Wisa",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Abdij Vlierbeek 3 3010 Leuven BE",
+        "coords": [
+          4.73575,
+          50.89211
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 20,
+    "founded": 1998,
+    "proof": []
+  },
+  {
+    "cbe": "0466.617.609",
+    "name": "Webcare",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "sint-niklaas",
+        "address": "Vijfstraten 18 9100 Sint-Niklaas BE",
+        "coords": [
+          4.150543,
+          51.172789
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0471.483.940",
+    "name": "Whise",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "evere",
+        "address": "Chaussée de Louvain 775 1140 Evere BE",
+        "coords": [
+          4.412785,
+          50.859006
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 15,
+    "founded": 2000,
+    "proof": []
+  },
+  {
+    "cbe": "0474.306.343",
+    "name": "Web@vantage",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gavere",
+        "address": "Slaapstraat 31 A 9890 Gavere BE",
+        "coords": [
+          3.6473,
+          50.91284
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0476.068.773",
+    "name": "Winauditor",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "waterloo",
+        "address": "Drève Richelle 161J 71 1410 Waterloo BE",
+        "coords": [
+          4.411927,
+          50.710303
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2001,
+    "proof": []
+  },
+  {
+    "cbe": "0476.495.177",
+    "name": "We+",
+    "site": "www.we-plus.be",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Boulevard d'Ypres 41 1000 Bruxelles BE",
+        "coords": [
+          4.346866,
+          50.857838
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Herkenrodesingel 101 3500 Hasselt BE",
+        "coords": [
+          5.332403,
+          50.942052
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Motstraat 30 2800 Mechelen BE",
+        "coords": [
+          4.48948,
+          51.013418
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 113,
+    "founded": 2002,
+    "proof": []
+  },
+  {
+    "cbe": "0477.358.081",
+    "name": "Wallez",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "beloeil",
+        "address": "Rue de l'Eglise 14 7971 Beloeil BE",
+        "coords": [
+          3.64857,
+          50.539157
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2002,
+    "proof": []
+  },
+  {
+    "cbe": "0479.038.260",
+    "name": "Wynsweb, Wyns Prod, Wyns Properties, Kops, Panam Prod, Stream Box",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "uccle",
+        "address": "Chaussée d'Alsemberg 471 1180 Uccle BE",
+        "coords": [
+          4.337585,
+          50.811889
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2002,
+    "proof": []
+  },
+  {
+    "cbe": "0502.554.921",
+    "name": "Webhero",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Grauwmeer 1 3001 Leuven BE",
+        "coords": [
+          4.721144,
+          50.848877
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0503.920.245",
+    "name": "Wisemen",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "diepenbeek",
+        "address": "Watertorenstraat 2 3590 Diepenbeek BE",
+        "coords": [
+          5.420342,
+          50.894647
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 97,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0544.440.214",
+    "name": "We Are Digital",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Kolonel Begaultlaan 1A 3012 Leuven BE",
+        "coords": [
+          4.705573,
+          50.888612
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 19,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0544.746.258",
+    "name": "Waylay",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Blekersdijk 33A 9000 Gent BE",
+        "coords": [
+          3.73197,
+          51.05946
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0558.978.534",
+    "name": "Who Owns The Zebra",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Amelia Earhartlaan 2 401 9051 Gent BE",
+        "coords": [
+          3.68859,
+          51.03041
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 21,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0563.618.203",
+    "name": "Wallonex",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "la-louviere",
+        "address": "Rue des Châtaigniers 14 7100 La Louvière BE",
+        "coords": [
+          4.168757,
+          50.463596
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0563.691.645",
+    "name": "Wooclap",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "etterbeek",
+        "address": "Rue des Pères Blancs 4 1040 Etterbeek BE",
+        "coords": [
+          4.400036,
+          50.826661
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 21,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0564.871.679",
+    "name": "Woonpartners",
+    "site": "www.woonpartners.be",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "Meensesteenweg 409 8501 Kortrijk BE",
+        "coords": [
+          3.225918,
+          50.822703
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0567.808.009",
+    "name": "We Solve It",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "willebroek",
+        "address": "Dendermondsesteenweg 129 2830 Willebroek BE",
+        "coords": [
+          4.352539,
+          51.059624
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0628.984.523",
+    "name": "Watt Else",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "yvoir",
+        "address": "Rue du Jauviat 20 5530 Yvoir BE",
+        "coords": [
+          4.907285,
+          50.321321
+        ]
+      },
+      {
+        "province": "namur",
+        "municipality": "namur-city",
+        "address": "Rue de Jausse 178 5100 Namur BE",
+        "coords": [
+          4.950544,
+          50.425667
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0632.659.338",
+    "name": "Woorank",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "etterbeek",
+        "address": "Cours Saint Michel 30 B 1040 Etterbeek BE",
+        "coords": [
+          4.400816,
+          50.83655
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0632.694.673",
+    "name": "Webforce Benelux",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "braine-lalleud",
+        "address": "Avenue du Japon 1 1420 Braine-l'Alleud BE",
+        "coords": [
+          4.387036,
+          50.669099
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0641.701.817",
+    "name": "Wavebytes",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "diksmuide",
+        "address": "Hof ter Bloemmolens 4 8600 Diksmuide BE",
+        "coords": [
+          2.856796,
+          51.034628
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0646.658.913",
+    "name": "Wolters Kluwer Taa Europe",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Motstraat 30 2800 Mechelen BE",
+        "coords": [
+          4.48948,
+          51.013418
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0648.700.663",
+    "name": "Webclix",
+    "site": "www.webclix.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "bonheiden",
+        "address": "Schoolstraat 4 2820 Bonheiden BE",
+        "coords": [
+          4.547163,
+          51.02202
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0650.599.388",
+    "name": "We Connect Data",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "grimbergen",
+        "address": "Sint-Amandsstraat 86 1853 Grimbergen BE",
+        "coords": [
+          4.358772,
+          50.907958
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0661.684.114",
+    "name": "Welovedatascience",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "villers-la-ville",
+        "address": "Rue du Bosquet 42 1495 Villers-la-Ville BE",
+        "coords": [
+          4.5559,
+          50.55758
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0676.427.916",
+    "name": "Webflux",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "zonhoven",
+        "address": "Wijerstraat 4 3520 Zonhoven BE",
+        "coords": [
+          5.352752,
+          50.984795
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0677.868.464",
+    "name": "Websters",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Diestsesteenweg 104b 3010 Leuven BE",
+        "coords": [
+          4.72254,
+          50.88387
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0680.957.816",
+    "name": "Wegroup",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Ottergemsesteenweg-Zuid 808 372 9000 Gent BE",
+        "coords": [
+          3.733061,
+          51.015577
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0681.884.462",
+    "name": "Workero",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Avenue des Arts 56 1000 Bruxelles BE",
+        "coords": [
+          4.366717,
+          50.841105
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "wommelgem",
+        "address": "Nijverheidsstraat 70 2160 Wommelgem BE",
+        "coords": [
+          4.510356,
+          51.210588
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Da Vincilaan 1 1930 Zaventem BE",
+        "coords": [
+          4.460156,
+          50.887966
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0682.594.443",
+    "name": "W.a.s.s.p.",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "Kloosterdreef 56 8510 Kortrijk BE",
+        "coords": [
+          3.280862,
+          50.773749
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0682.752.514",
+    "name": "Webup",
+    "site": "",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "namur-city",
+        "address": "Rue de Jausse 109 5100 Namur BE",
+        "coords": [
+          4.940281,
+          50.421632
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-pieters-woluwe",
+        "address": "Avenue de Tervueren 296 1150 Woluwe-Saint-Pierre BE",
+        "coords": [
+          4.426915,
+          50.835314
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0685.510.084",
+    "name": "Wikiflow",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue de la Couronne 236 B 1050 Ixelles BE",
+        "coords": [
+          4.38307,
+          50.82673
+        ]
+      },
+      {
+        "province": "namur",
+        "municipality": "anhee",
+        "address": "Rue de Maredret, Denée 1 A 5537 Anhée BE",
+        "coords": [
+          4.748535,
+          50.314239
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0688.750.280",
+    "name": "Wsh",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-lambrechts-woluwe",
+        "address": "Avenue Paul Hymans 103 8 1200 Woluwe-Saint-Lambert BE",
+        "coords": [
+          4.430504,
+          50.847268
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "uccle",
+        "address": "Rue des Carmélites 167 A 1180 Uccle BE",
+        "coords": [
+          4.345765,
+          50.812436
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0698.913.308",
+    "name": "Whale",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "ronse",
+        "address": "Rue Large 22 9600 Ronse BE",
+        "coords": [
+          3.607335,
+          50.747064
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Foreestelaan 1 9000 Gent BE",
+        "coords": [
+          3.733194,
+          51.029933
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 21,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0721.652.086",
+    "name": "Webulous",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-pieters-woluwe",
+        "address": "Rue Konkel 105 16 1150 Woluwe-Saint-Pierre BE",
+        "coords": [
+          4.445382,
+          50.838432
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0731.903.107",
+    "name": "Waldoz",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Sleepstraat 82 D 9000 Gent BE",
+        "coords": [
+          3.726712,
+          51.061311
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0739.656.573",
+    "name": "Webstanz",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "mons",
+        "address": "Place de Vannes 20 7000 Mons BE",
+        "coords": [
+          3.946666,
+          50.455722
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 19,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0742.552.024",
+    "name": "Whisper",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0755.784.012",
+    "name": "Wenite",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Voskenslaan 95 A 9000 Gent BE",
+        "coords": [
+          3.708116,
+          51.032935
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2020,
+    "proof": []
+  },
+  {
+    "cbe": "0763.747.217",
+    "name": "Wequity",
+    "site": "www.wequity.app",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "hoeilaart",
+        "address": "J. B. Michielsstraat 17 1560 Hoeilaart BE",
+        "coords": [
+          4.468252,
+          50.76447
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Avenue de la Couronne 340 1050 Ixelles BE",
+        "coords": [
+          4.386428,
+          50.824026
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0773.878.569",
+    "name": "Weave.ly",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-joost-ten-node",
+        "address": "Avenue des Arts 1 1210 Saint-Josse-ten-Noode BE",
+        "coords": [
+          4.369666,
+          50.848778
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0777.858.143",
+    "name": "Wkf Engineering",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Herkenrodesingel 4A 3500 Hasselt BE",
+        "coords": [
+          5.318732,
+          50.94039
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0777.985.926",
+    "name": "Wide Marketing",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "waregem",
+        "address": "Pand 342 8790 Waregem BE",
+        "coords": [
+          3.43165,
+          50.88571
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0782.257.983",
+    "name": "Weichie.com",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zemst",
+        "address": "Broekstraat 55 1982 Zemst BE",
+        "coords": [
+          4.496322,
+          50.975827
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0783.790.979",
+    "name": "Winauditor.net",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "waterloo",
+        "address": "Drève Richelle 161J 71 1410 Waterloo BE",
+        "coords": [
+          4.411927,
+          50.710303
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 13,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0800.113.012",
+    "name": "Wiseworks",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "diest",
+        "address": "Steineweg 85 3293 Diest BE",
+        "coords": [
+          5.029957,
+          50.980268
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0800.787.953",
+    "name": "Wonka Ai",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Luikersteenweg 165 3500 Hasselt BE",
+        "coords": [
+          5.343869,
+          50.919236
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0806.389.803",
+    "name": "Woogie",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Rue Léon-Frédéricq 14 4020 Liège BE",
+        "coords": [
+          5.576099,
+          50.634213
+        ]
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue d'Alost 7/11 1000 Bruxelles BE",
+        "coords": [
+          4.342342,
+          50.852435
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0809.115.206",
+    "name": "Web Digitales",
+    "site": "www.webdigitales.be",
+    "locations": [
+      {
+        "province": "namur",
+        "municipality": "ciney",
+        "address": "Rue de la Croix Limont 7 B 5590 Ciney BE",
+        "coords": [
+          5.122933,
+          50.312765
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0816.909.452",
+    "name": "Withsecure",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Interleuvenlaan 62 56 3001 Leuven BE",
+        "coords": [
+          4.73638,
+          50.84936
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0823.054.797",
+    "name": "Websauce",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "merelbeke-melle",
+        "address": "Brusselsesteenweg 157 C 9090 Merelbeke-Melle BE",
+        "coords": [
+          3.785075,
+          51.015617
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0826.790.584",
+    "name": "Whitecube",
+    "site": "www.whitecube.be",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Rue des Anges 17 4000 Liège BE",
+        "coords": [
+          5.563139,
+          50.633465
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0827.405.743",
+    "name": "Wings Software",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "hulshout",
+        "address": "Probastraat 7 2235 Hulshout BE",
+        "coords": [
+          4.82449,
+          51.06229
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0840.194.796",
+    "name": "Wikipower",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Rue Natalis 2 4020 Liège BE",
+        "coords": [
+          5.581878,
+          50.633461
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "vilvoorde",
+        "address": "Medialaan 38 1800 Vilvoorde BE",
+        "coords": [
+          4.397457,
+          50.914613
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 31,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0847.024.883",
+    "name": "Woobie",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "lasne",
+        "address": "Clos de la Fontaine 1 1380 Lasne BE",
+        "coords": [
+          4.489653,
+          50.705188
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0849.253.707",
+    "name": "With",
+    "site": "www.with-services.com",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Jan Van Rijswijcklaan 135 2018 Antwerpen BE",
+        "coords": [
+          4.404027,
+          51.194997
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Mechelsesteenweg 271 1.1 2018 Antwerpen BE",
+        "coords": [
+          4.41453,
+          51.20009
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0870.417.424",
+    "name": "Webadev",
+    "site": "www.webadev.com",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Avenue Blonden 23 1 4000 Liège BE",
+        "coords": [
+          5.570119,
+          50.629889
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 8,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0871.704.059",
+    "name": "Winfuse",
+    "site": "www.winfuse.com",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "anderlecht",
+        "address": "Rue de Fiennes 69 1070 Anderlecht BE",
+        "coords": [
+          4.331598,
+          50.839302
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "affligem",
+        "address": "Blakmeers 58 1790 Affligem BE",
+        "coords": [
+          4.11973,
+          50.90151
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0877.456.456",
+    "name": "Weklimb",
+    "site": "www.weklimb.com",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "ixelles",
+        "address": "Rue Alfred Giron 31 1050 Ixelles BE",
+        "coords": [
+          4.378491,
+          50.827191
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0877.572.064",
+    "name": "Wininfo",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "herve",
+        "address": "Rue du Centre 15 4651 Herve BE",
+        "coords": [
+          5.820473,
+          50.648389
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 9,
+    "founded": 2005,
+    "proof": []
+  },
+  {
+    "cbe": "0880.828.195",
+    "name": "Web Solution Way",
+    "site": "www.web-solution-way.com",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "wanze",
+        "address": "Rue de Fumal 1 4520 Wanze BE",
+        "coords": [
+          5.21026,
+          50.56286
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0881.505.217",
+    "name": "Webdoos",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "brugge",
+        "address": "Baron Ruzettelaan 5 1.0 8310 Brugge BE",
+        "coords": [
+          3.231354,
+          51.199112
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0882.202.528",
+    "name": "Wewantmore.studio - Wwm - Wwm.studio",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Hessenstraatje 1G 2000 Antwerpen BE",
+        "coords": [
+          4.40822,
+          51.22607
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 25,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0882.332.685",
+    "name": "Werfix",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Mechelsveldstraat 30 2800 Mechelen BE",
+        "coords": [
+          4.47161,
+          51.01339
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0898.870.987",
+    "name": "Widder",
+    "site": "",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "poperinge",
+        "address": "Casselstraat 129 8970 Poperinge BE",
+        "coords": [
+          2.719096,
+          50.850595
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "poperinge",
+        "address": "Koestraat 12 8970 Poperinge BE",
+        "coords": [
+          2.718406,
+          50.850907
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 14,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0426.744.273",
+    "name": "Wits",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "vorst",
+        "address": "Av Général Dumonceau 58 1190 Forest BE",
+        "coords": [
+          4.317803,
+          50.806276
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "chaumont-gistoux",
+        "address": "Boulevard du Centenaire, Dion-V. 4 1 1325 Chaumont-Gistoux BE",
+        "coords": [
+          4.657168,
+          50.709999
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 21,
+    "founded": 1984,
+    "proof": []
+  },
+  {
+    "cbe": "0449.223.727",
+    "name": "Westpole Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "vilvoorde",
+        "address": "Mechelsesteenweg 542 1800 Vilvoorde BE",
+        "coords": [
+          4.43948,
+          50.9424
+        ]
+      },
+      {
+        "province": "walloon-brabant",
+        "municipality": "mont-saint-guibert",
+        "address": "Rue Emile Francqui 1 1435 Mont-Saint-Guibert BE",
+        "coords": [
+          4.623937,
+          50.656921
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 113,
+    "founded": 1992,
+    "proof": []
+  },
+  {
+    "cbe": "0456.265.630",
+    "name": "Webster Communications",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "braine-lalleud",
+        "address": "Ch du Blanc Caillou 17 1420 Braine-l'Alleud BE",
+        "coords": [
+          4.344684,
+          50.688207
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 1995,
+    "proof": []
+  },
+  {
+    "cbe": "0459.360.623",
+    "name": "Worldline E-commerce Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Da Vincilaan 3 1930 Zaventem BE",
+        "coords": [
+          4.459495,
+          50.888191
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 252,
+    "founded": 1996,
+    "proof": []
+  },
+  {
+    "cbe": "0466.784.784",
+    "name": "Wavenet",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "leuze-en-hainaut",
+        "address": "Rue de l'Artisanat 16 7900 Leuze-en-Hainaut BE",
+        "coords": [
+          3.62863,
+          50.601794
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 166,
+    "founded": 1999,
+    "proof": []
+  },
+  {
+    "cbe": "0500.804.862",
+    "name": "Well Played",
+    "site": "www.wellplayed.video",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Ottergemsesteenweg-Zuid 808 47 9000 Gent BE",
+        "coords": [
+          3.733061,
+          51.015577
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2012,
+    "proof": []
+  },
+  {
+    "cbe": "0533.726.068",
+    "name": "Web Market Solutions",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "mons",
+        "address": "Rue de la Petite Triperie 24 7000 Mons BE",
+        "coords": [
+          3.953167,
+          50.450897
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 7,
+    "founded": 2013,
+    "proof": []
+  },
+  {
+    "cbe": "0567.647.463",
+    "name": "Waowdeals.be",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Uitbreidingstraat 84 2600 Antwerpen BE",
+        "coords": [
+          4.418059,
+          51.19254
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2014,
+    "proof": []
+  },
+  {
+    "cbe": "0607.875.838",
+    "name": "Walkie Talkie",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Hundelgemsesteenweg 51 9050 Gent BE",
+        "coords": [
+          3.751605,
+          51.023472
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0630.946.297",
+    "name": "Workday Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Kardinaal Mercierplein 2 2800 Mechelen BE",
+        "coords": [
+          4.48265,
+          51.02156
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 21,
+    "founded": 2015,
+    "proof": []
+  },
+  {
+    "cbe": "0647.781.341",
+    "name": "Webdigit",
+    "site": "",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "ath",
+        "address": "Place de Moulbaix 10 7812 Ath BE",
+        "coords": [
+          3.713506,
+          50.600231
+        ]
+      },
+      {
+        "province": "hainaut",
+        "municipality": "ath",
+        "address": "Rue des Foudriers 2 7822 Ath BE",
+        "coords": [
+          3.86527,
+          50.66308
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0648.960.682",
+    "name": "We Like You",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2016,
+    "proof": []
+  },
+  {
+    "cbe": "0671.714.211",
+    "name": "Workplace Strategy",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gavere",
+        "address": "Hoogstraat 2/A 9890 Gavere BE",
+        "coords": [
+          3.684109,
+          50.91879
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 6,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0673.772.688",
+    "name": "Wiotic",
+    "site": "",
+    "locations": [
+      {
+        "province": "liege",
+        "municipality": "verviers",
+        "address": "Rue du Parc 20 4800 Verviers BE",
+        "coords": [
+          5.860346,
+          50.584099
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "dison",
+        "address": "Rue Zénobe Gramme 35 4821 Dison BE",
+        "coords": [
+          5.882435,
+          50.629904
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0676.575.790",
+    "name": "Whojo!",
+    "site": "www.whojo.be",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "kortrijk",
+        "address": "Koning Albertstraat 43 8500 Kortrijk BE",
+        "coords": [
+          3.261258,
+          50.826442
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 12,
+    "founded": 2017,
+    "proof": []
+  },
+  {
+    "cbe": "0696.963.212",
+    "name": "With Eleven",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "oudenaarde",
+        "address": "Kalkstraat 11 9700 Oudenaarde BE",
+        "coords": [
+          3.63481,
+          50.88682
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 11,
+    "founded": 2018,
+    "proof": []
+  },
+  {
+    "cbe": "0720.881.927",
+    "name": "Wheelhouse",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0729.967.857",
+    "name": "We Love It",
+    "site": "www.az-it.be",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "haacht",
+        "address": "Grote Baan 219 3150 Haacht BE",
+        "coords": [
+          4.616831,
+          50.961533
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0733.720.965",
+    "name": "Wave Of Engagement",
+    "site": "www.waveofengagement.com",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Frankrijklei 28 1A 2000 Antwerpen BE",
+        "coords": [
+          4.415154,
+          51.218649
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0735.764.893",
+    "name": "White Wolves",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Sint-Truidersteenweg 142 3500 Hasselt BE",
+        "coords": [
+          5.33164,
+          50.92236
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2019,
+    "proof": []
+  },
+  {
+    "cbe": "0764.503.421",
+    "name": "Wan Connect",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "beveren-kruibeke-zwijndrecht",
+        "address": "Beversebaan 125 2070 Beveren-Kruibeke-Zwijndrecht BE",
+        "coords": [
+          4.305055,
+          51.220191
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0766.830.233",
+    "name": "Wfi Phoenix",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Grauwmeer 1 59 3001 Leuven BE",
+        "coords": [
+          4.721144,
+          50.848877
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 95,
+    "founded": 2021,
+    "proof": []
+  },
+  {
+    "cbe": "0784.365.061",
+    "name": "Windgrid",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Boulevard de l'Empereur 20 1000 Bruxelles BE",
+        "coords": [
+          4.35376,
+          50.84287
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 4,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0784.671.897",
+    "name": "We Are Technology",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Brusselsesteenweg 6 9050 Gent BE",
+        "coords": [
+          3.740947,
+          51.041153
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0785.684.360",
+    "name": "Whodrop",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "watermaal-bosvoorde",
+        "address": "Chaussée de La Hulpe 177 1170 Watermael-Boitsfort BE",
+        "coords": [
+          4.403311,
+          50.795349
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0792.465.155",
+    "name": "Wohrmann Diensten Centrum",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "nivelles",
+        "address": "Chaussée de Mons 22 1400 Nivelles BE",
+        "coords": [
+          4.306899,
+          50.588611
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2022,
+    "proof": []
+  },
+  {
+    "cbe": "0803.709.435",
+    "name": "Watchmen",
+    "site": "www.watchmen.io",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Brusselstraat 51 2018 Antwerpen BE",
+        "coords": [
+          4.390824,
+          51.201975
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "0808.179.155",
+    "name": "Wincon",
+    "site": "",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "boutersem",
+        "address": "Molenhoek 4 3370 Boutersem BE",
+        "coords": [
+          4.83484,
+          50.813013
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2008,
+    "proof": []
+  },
+  {
+    "cbe": "0810.866.847",
+    "name": "Woelf",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Ekkelgaarden 6N 3500 Hasselt BE",
+        "coords": [
+          5.35044,
+          50.90693
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 3,
+    "founded": 2009,
+    "proof": []
+  },
+  {
+    "cbe": "0826.760.296",
+    "name": "Wasabi Group",
+    "site": "wolvesandwarriors.com",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "schilde",
+        "address": "Kotseheide 44 2970 Schilde BE",
+        "coords": [
+          4.617693,
+          51.287026
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "ranst",
+        "address": "Achterstraat 15 2520 Ranst BE",
+        "coords": [
+          4.59579,
+          51.21102
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2010,
+    "proof": []
+  },
+  {
+    "cbe": "0834.018.272",
+    "name": "Wikitree",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Rue d'Arlon 69 71 1040 Bruxelles BE",
+        "coords": [
+          4.37423,
+          50.84275
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 178,
+    "founded": 2011,
+    "proof": []
+  },
+  {
+    "cbe": "0867.410.127",
+    "name": "Willux.be",
+    "site": "www.willux.be",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "haaltert",
+        "address": "Hogendries 38 9450 Haaltert BE",
+        "coords": [
+          3.96051,
+          50.87383
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 16,
+    "founded": 2004,
+    "proof": []
+  },
+  {
+    "cbe": "0879.144.256",
+    "name": "Wengage International",
+    "site": "",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Kempische steenweg 311 3.01 3500 Hasselt BE",
+        "coords": [
+          5.352192,
+          50.951874
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Uitbreidingstraat 180 2600 Antwerpen BE",
+        "coords": [
+          4.419475,
+          51.192265
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "liege",
+        "address": "Rue Joffre 12 4000 Liège BE",
+        "coords": [
+          5.572165,
+          50.64432
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "machelen",
+        "address": "Woluwelaan 158 1831 Machelen BE",
+        "coords": [
+          4.450745,
+          50.891044
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Arnould Nobelstraat 32 3000 Leuven BE",
+        "coords": [
+          4.71371,
+          50.87723
+        ]
+      },
+      {
+        "province": "west-flanders",
+        "municipality": "oostende",
+        "address": "Konterdamkaai 1 8400 Oostende BE",
+        "coords": [
+          2.93478,
+          51.21961
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 71,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0879.683.397",
+    "name": "Wortell Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Sluisweg 1 9000 Gent BE",
+        "coords": [
+          3.735381,
+          51.013483
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 48,
+    "founded": 2006,
+    "proof": []
+  },
+  {
+    "cbe": "0889.962.726",
+    "name": "Whatever",
+    "site": "",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "mont-saint-guibert",
+        "address": "Rue Emile Francqui 1 1435 Mont-Saint-Guibert BE",
+        "coords": [
+          4.623937,
+          50.656921
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 10,
+    "founded": 2007,
+    "proof": []
+  },
+  {
+    "cbe": "1000.710.002",
+    "name": "Web Belgium",
+    "site": "",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "geel",
+        "address": "Kleinhoefstraat 5 8 2440 Geel BE",
+        "coords": [
+          4.965464,
+          51.161716
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 5,
+    "founded": 2023,
+    "proof": []
+  },
+  {
+    "cbe": "1002.980.790",
+    "name": "Wabee",
+    "site": "",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Boulevard Bischoffsheim 39 1000 Bruxelles BE",
+        "coords": [
+          4.36652,
+          50.85256
+        ]
+      }
+    ],
+    "tech": [],
+    "employees": 2,
+    "founded": 2023,
+    "proof": []
+  }
+]
