@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "cbe": "0895.229.925",
+    "name": "Exsertus",
+    "site": "https://www.exsertus.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [
+      "Angular",
+      "React",
+      "Azure",
+      "ASP.NET",
+      "C#"
+    ],
+    "employees": 21,
+    "founded": 2008,
+    "proof": [
+      {
+        "url": "https://www.exsertus.be/technology/",
+        "image": "https://i.ibb.co/LX8qkxCv/exsertus-1769626837917-0.png"
+      }
+    ],
+    "lastUpdated": "2026-01-28T19:00:42.687Z"
+  }
+]

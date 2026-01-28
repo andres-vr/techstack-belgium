@@ -5676,26 +5676,6 @@
     "proof": []
   },
   {
-    "cbe": "0895.229.925",
-    "name": "Exsertus",
-    "site": "",
-    "locations": [
-      {
-        "province": "antwerp",
-        "municipality": "kontich",
-        "address": "Veldkant 33 A 2550 Kontich BE",
-        "coords": [
-          4.442747,
-          51.142439
-        ]
-      }
-    ],
-    "tech": [],
-    "employees": 21,
-    "founded": 2008,
-    "proof": []
-  },
-  {
     "cbe": "0898.103.796",
     "name": "Exxoss",
     "site": "",
