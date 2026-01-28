@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "cbe": "0798.957.623",
+    "name": "Mr. Watts",
+    "site": "https://www.mrwatts.io",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Stationsstraat 55 2800 Mechelen BE",
+        "coords": [
+          4.48072,
+          51.01675
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Kempische Steenweg 311, 3500 Hasselt, Limburg, Belgium",
+        "coords": [
+          5.352192,
+          50.951874
+        ]
+      }
+    ],
+    "tech": [
+      "Node.js",
+      "C#",
+      "React",
+      "REST",
+      "GraphQL",
+      "Azure",
+      "PostgreSQL",
+      "TypeScript"
+    ],
+    "employees": 4,
+    "founded": 2023,
+    "proof": [
+      {
+        "url": "https://bluu.be/jobs/medior-full-stack-web-developer/",
+        "image": "https://i.ibb.co/8nJBLr2r/mr-watts-1769627557398-0.png"
+      }
+    ],
+    "lastUpdated": "2026-01-28T19:12:43.536Z"
+  }
+]

@@ -5339,26 +5339,6 @@
     "proof": []
   },
   {
-    "cbe": "0798.957.623",
-    "name": "Mr. Watts",
-    "site": "",
-    "locations": [
-      {
-        "province": "antwerp",
-        "municipality": "mechelen",
-        "address": "Stationsstraat 55 2800 Mechelen BE",
-        "coords": [
-          4.48072,
-          51.01675
-        ]
-      }
-    ],
-    "tech": [],
-    "employees": 4,
-    "founded": 2023,
-    "proof": []
-  },
-  {
     "cbe": "0804.131.879",
     "name": "Mavence Belgium",
     "site": "",
