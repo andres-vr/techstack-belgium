@@ -38,5 +38,40 @@
       }
     ],
     "lastUpdated": "2026-01-28T18:57:42.111Z"
+  },
+  {
+    "cbe": "0656.936.854",
+    "name": "Jstack",
+    "site": "https://jstack.eu",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 B 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [
+      "Angular",
+      "React",
+      "Node.js",
+      "Java",
+      "AWS",
+      "Azure",
+      "MongoDB",
+      "PostgreSQL"
+    ],
+    "employees": 10,
+    "founded": 2016,
+    "proof": [
+      {
+        "url": "https://jstack.eu/onze-aanpak",
+        "image": "https://i.ibb.co/8LQG7Y7n/jstack-1769627799891-0.png"
+      }
+    ],
+    "lastUpdated": "2026-01-28T19:16:49.019Z"
   }
 ]
