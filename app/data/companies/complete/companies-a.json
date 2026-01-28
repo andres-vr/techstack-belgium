@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "cbe": "0703.986.507",
+    "name": "Alpine Digital",
+    "site": "https://www.alpinedigital.be",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Walenstraat 94 3500 Hasselt BE",
+        "coords": [
+          5.361287,
+          50.953677
+        ]
+      }
+    ],
+    "tech": [
+      "Java",
+      "Python",
+      "Vue",
+      "React",
+      "Angular",
+      "Laravel",
+      "PHP",
+      "Spring Boot"
+    ],
+    "employees": 30,
+    "founded": 2018,
+    "proof": [
+      {
+        "url": "https://www.alpinedigital.be/developers",
+        "image": "https://i.ibb.co/KpCM2kkQ/alpine-digital-1769627067719-0.png"
+      }
+    ],
+    "lastUpdated": "2026-01-28T19:04:34.324Z"
+  }
+]
