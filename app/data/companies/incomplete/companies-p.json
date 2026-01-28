@@ -19,7 +19,7 @@
     "founded": 1979,
     "proof": []
   },
-   {
+  {
     "cbe": "0874.517.158",
     "name": "profit+",
     "site": "www.profitplus.be",
@@ -1725,26 +1725,6 @@
     "tech": [],
     "employees": 6,
     "founded": 2017,
-    "proof": []
-  },
-  {
-    "cbe": "0694.507.231",
-    "name": "Phpro",
-    "site": "",
-    "locations": [
-      {
-        "province": "antwerp",
-        "municipality": "kontich",
-        "address": "Veldkant 33 A 2550 Kontich BE",
-        "coords": [
-          4.442747,
-          51.142439
-        ]
-      }
-    ],
-    "tech": [],
-    "employees": 46,
-    "founded": 2018,
     "proof": []
   },
   {

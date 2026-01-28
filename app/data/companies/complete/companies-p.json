@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "cbe": "0694.507.231",
+    "name": "Phpro",
+    "site": "https://www.phpro.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "aalst",
+        "address": "Korte Keppestraat 7, 9320 Aalst, East Flanders, Belgium",
+        "coords": [
+          4.043989,
+          50.915232
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Kempische Steenweg 311, 3500 Hasselt, Limburg, Belgium",
+        "coords": [
+          5.352192,
+          50.951874
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Prins Boudewijnlaan 24, 2550 Kontich, Antwerp, Belgium",
+        "coords": [
+          4.438778,
+          51.140031
+        ]
+      }
+    ],
+    "tech": [
+      "Symfony",
+      "PHP",
+      "Node.js",
+      "MariaDB",
+      "MySQL",
+      "Vue",
+      "Angular",
+      "Tailwind CSS",
+      "Alpine.js",
+      "SASS",
+      "Bootstrap",
+      "jQuery",
+      "Next.js",
+      "Laravel"
+    ],
+    "employees": 46,
+    "founded": 2018,
+    "proof": [
+      {
+        "url": "https://www.phpro.be/nl/services/consultancy",
+        "image": "https://i.ibb.co/HTf1xP4X/phpro-1769627353643-0.png"
+      },
+      {
+        "url": "https://www.phpro.be/nl/services/custom-development",
+        "image": "https://i.ibb.co/2YnxgkzD/phpro-1769627360757-1.png"
+      }
+    ],
+    "lastUpdated": "2026-01-28T19:09:26.593Z"
+  }
+]
