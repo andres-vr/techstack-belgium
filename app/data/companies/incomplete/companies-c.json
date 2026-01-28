@@ -9745,26 +9745,6 @@
     "proof": []
   },
   {
-    "cbe": "1011.008.135",
-    "name": "Codana",
-    "site": "",
-    "locations": [
-      {
-        "province": "antwerp",
-        "municipality": "kontich",
-        "address": "Veldkant 33A 2550 Kontich BE",
-        "coords": [
-          4.442747,
-          51.142439
-        ]
-      }
-    ],
-    "tech": [],
-    "employees": 18,
-    "founded": 2024,
-    "proof": []
-  },
-  {
     "cbe": "1011.008.432",
     "name": "Calibrate",
     "site": "",
