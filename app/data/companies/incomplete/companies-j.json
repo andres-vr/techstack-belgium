@@ -160,26 +160,6 @@
     "proof": []
   },
   {
-    "cbe": "0656.936.854",
-    "name": "Jstack",
-    "site": "",
-    "locations": [
-      {
-        "province": "antwerp",
-        "municipality": "kontich",
-        "address": "Veldkant 33 B 2550 Kontich BE",
-        "coords": [
-          4.442747,
-          51.142439
-        ]
-      }
-    ],
-    "tech": [],
-    "employees": 10,
-    "founded": 2016,
-    "proof": []
-  },
-  {
     "cbe": "0659.954.940",
     "name": "Jams Consulting",
     "site": "",
