@@ -22,7 +22,7 @@
       "Angular",
       "Laravel",
       "PHP",
-      "Spring Boot"
+      "Spring"
     ],
     "employees": 30,
     "founded": 2018,
@@ -56,9 +56,10 @@
       "GitHub Actions",
       "Docker",
       "C#",
+      ".NET",
       "Kubernetes",
       "Kafka",
-      "Spring Boot",
+      "Spring",
       "Java",
       "AWS",
       "Kotlin",
