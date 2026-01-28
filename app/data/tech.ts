@@ -39,7 +39,7 @@ export const tech: Tech[] = [
 
   // Frameworks
   { name: 'AdonisJS', category: CategoryKey.BACKEND, type: TechType.FRAMEWORK, derives: [Derives.NODEJS] },
-  { name: 'ASP.NET', category: CategoryKey.BACKEND, type: TechType.FRAMEWORK, derives: [Derives.CSHARP] },
+  { name: '.NET', category: CategoryKey.BACKEND, type: TechType.FRAMEWORK, derives: [Derives.CSHARP] },
   { name: 'CakePHP', category: CategoryKey.BACKEND, type: TechType.FRAMEWORK, derives: [Derives.PHP] },
   { name: 'Django', category: CategoryKey.BACKEND, type: TechType.FRAMEWORK, derives: [Derives.PYTHON] },
   { name: 'FastAPI', category: CategoryKey.BACKEND, type: TechType.FRAMEWORK, derives: [Derives.PYTHON] },
@@ -51,7 +51,7 @@ export const tech: Tech[] = [
   { name: 'NestJS', category: CategoryKey.BACKEND, type: TechType.FRAMEWORK, derives: [Derives.NODEJS] },
   { name: 'Phoenix', category: CategoryKey.BACKEND, type: TechType.FRAMEWORK, derives: [Derives.ELIXIR] },
   { name: 'Ruby on Rails', category: CategoryKey.BACKEND, type: TechType.FRAMEWORK, derives: [Derives.RUBY] },
-  { name: 'Spring Boot', category: CategoryKey.BACKEND, type: TechType.FRAMEWORK, derives: [Derives.JAVA] },
+  { name: 'Spring', category: CategoryKey.BACKEND, type: TechType.FRAMEWORK, derives: [Derives.JAVA] },
   { name: 'Symfony', category: CategoryKey.BACKEND, type: TechType.FRAMEWORK, derives: [Derives.PHP] },
 
   // Communication

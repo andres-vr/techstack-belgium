@@ -53,7 +53,7 @@ export function useTech() {
     if (slug === 'angular') return `/tech/angular.png`
     // C# uses the `c.svg` asset in `public/tech`
     if (slug === 'csharp') return `/tech/csharp.svg`
-    if (slug === 'aspdotnet') return `/tech/dotnet.svg`
+    if (slug === 'dotnet') return `/tech/dotnet.svg`
     if (slug === 'aws') return `/tech/aws.webp`
     if (slug === 'azure') return `/tech/azure.png`
     if (slug === 'cakephp') return `/tech/cakephp.png`
@@ -63,6 +63,7 @@ export function useTech() {
     if (slug === 'grpc') return `/tech/grpc.png`
     if (slug === 'java') return `/tech/java.png`
     if (slug === 'kafka') return `/tech/kafka.png`
+    if (slug === 'spring') return `/tech/spring.png`
     if (slug === 'typescript') return `/tech/typescript.png`
     if (slug === 'websockets') return `/tech/websockets.png`
     return `/tech/${slug}.svg`
