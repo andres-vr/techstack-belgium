@@ -1,0 +1,38 @@
+{
+  "companyName": "Axxes",
+  "website": "https://www.axxes.com",
+  "locations": [
+    {
+      "province": "antwerp",
+      "municipality": "antwerpen",
+      "address": "Entrepotkaai 10 A 2000 Antwerpen BE",
+      "coords": [
+        4.41205,
+        51.22902
+      ]
+    }
+  ],
+  "techStack": [
+    "Angular",
+    "React",
+    "Azure",
+    "GitHub Actions",
+    "Docker",
+    "C#",
+    "Kubernetes",
+    "Kafka",
+    "Spring Boot",
+    "Java",
+    "AWS",
+    "Kotlin",
+    "GCP"
+  ],
+  "proofUrls": [
+    "https://www.axxes.com/services/software-engineering/.net",
+    "https://www.axxes.com/services/software-engineering/java",
+    "https://www.axxes.com/services/cloud"
+  ],
+  "cbe": "0462.721.177",
+  "employees": 289,
+  "founded": 1998
+}
