@@ -8386,26 +8386,6 @@
     "proof": []
   },
   {
-    "cbe": "0703.986.507",
-    "name": "Alpine Digital",
-    "site": "",
-    "locations": [
-      {
-        "province": "limburg",
-        "municipality": "hasselt",
-        "address": "Walenstraat 94 3500 Hasselt BE",
-        "coords": [
-          5.361287,
-          50.953677
-        ]
-      }
-    ],
-    "tech": [],
-    "employees": 30,
-    "founded": 2018,
-    "proof": []
-  },
-  {
     "cbe": "0704.737.266",
     "name": "Annotise",
     "site": "",
