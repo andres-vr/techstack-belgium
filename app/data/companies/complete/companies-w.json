@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "cbe": "0503.920.245",
+    "name": "Wisemen",
+    "site": "https://wisemen.digital",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "diepenbeek",
+        "address": "Watertorenstraat 2 3590 Diepenbeek BE",
+        "coords": [
+          5.420342,
+          50.894647
+        ]
+      }
+    ],
+    "tech": [
+      "Nuxt",
+      "Vue",
+      "NestJS",
+      "Node.js",
+      "PostgreSQL",
+      "Redis",
+      "Kubernetes",
+      "GitHub Actions",
+      "Flutter"
+    ],
+    "employees": 97,
+    "founded": 2013,
+    "proof": [
+      {
+        "url": "https://wisemen.digital/insights/the-wisemen-web-team-defining-the-future-of-web-experiences",
+        "image": "https://i.ibb.co/HLhq2fSK/wisemen-1769627953043-0.png"
+      }
+    ],
+    "lastUpdated": "2026-01-28T19:19:19.634Z"
+  }
+]
