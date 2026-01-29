@@ -17,24 +17,36 @@
       "Angular",
       "NestJS",
       "Node.js",
-      "REST"
+      "REST",
+      "AWS",
+      "PHP",
+      ".NET",
+      "C#"
     ],
     "employees": 61,
     "founded": 2009,
     "proof": [
       {
         "url": "https://icapps.com/development/web",
-        "image": "https://i.ibb.co/GvxjBY7G/icapps-1769708954814-0.png"
+        "image": "https://i.ibb.co/nsf54Z3Q/icapps-1769715721058-0.png"
       },
       {
         "url": "https://icapps.com/development/mobile",
-        "image": "https://i.ibb.co/vCyFMkTm/icapps-1769708961242-1.png"
+        "image": "https://i.ibb.co/hrhfbgZ/icapps-1769715726691-1.png"
       },
       {
         "url": "https://icapps-1677752785.teamtailor.com/jobs/6036899-lead-node-js-developer",
-        "image": "https://i.ibb.co/N2QfnNbz/icapps-1769708966434-2.png"
+        "image": "https://i.ibb.co/1fSBm4Bt/icapps-1769715731065-2.png"
+      },
+      {
+        "url": "https://icapps.com/cases/ethernetics",
+        "image": "https://i.ibb.co/MytsmFbf/icapps-1769715735370-3.png"
+      },
+      {
+        "url": "https://icapps.com/cases/my-kidslife",
+        "image": "https://i.ibb.co/yF3yFD09/icapps-1769715740473-4.png"
       }
     ],
-    "lastUpdated": "2026-01-29T17:49:31.434Z"
+    "lastUpdated": "2026-01-29T19:42:25.539Z"
   }
 ]
