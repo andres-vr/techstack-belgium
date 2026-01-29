@@ -864,26 +864,6 @@
     "proof": []
   },
   {
-    "cbe": "0634.604.286",
-    "name": "Lemon Companies",
-    "site": "",
-    "locations": [
-      {
-        "province": "antwerp",
-        "municipality": "kontich",
-        "address": "Groeningenlei 16 2550 Kontich BE",
-        "coords": [
-          4.436364,
-          51.138538
-        ]
-      }
-    ],
-    "tech": [],
-    "employees": 26,
-    "founded": 2015,
-    "proof": []
-  },
-  {
     "cbe": "0639.741.130",
     "name": "Lodder Software",
     "site": "",
