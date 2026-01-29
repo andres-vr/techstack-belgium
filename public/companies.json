@@ -502,6 +502,46 @@
     "lastUpdated": "2026-01-28T19:09:26.593Z"
   },
   {
+    "cbe": "0540.823.203",
+    "name": "Unikoo",
+    "site": "https://www.unikoo.be/",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "sint-niklaas",
+        "address": "Hulstbaan 158 9112 Sint-Niklaas BE",
+        "coords": [
+          4.036038,
+          51.147353
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Callensstraat 39 a 2600 Antwerpen BE",
+        "coords": [
+          4.429845,
+          51.198506
+        ]
+      }
+    ],
+    "tech": [
+      "React",
+      "Node.js",
+      "Python",
+      "AWS"
+    ],
+    "employees": 18.6,
+    "founded": 2013,
+    "proof": [
+      {
+        "url": "https://www.unikoo.be/en/jobs/ai-engineering-lead",
+        "image": "https://i.ibb.co/PZF9XVFq/unikoo-1769700421845-0.png"
+      }
+    ],
+    "lastUpdated": "2026-01-29T15:27:08.262Z"
+  },
+  {
     "cbe": "0503.920.245",
     "name": "Wisemen",
     "site": "https://wisemen.digital",
