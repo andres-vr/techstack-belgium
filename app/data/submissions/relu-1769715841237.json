@@ -1,0 +1,25 @@
+{
+  "companyName": "Relu",
+  "website": "https://www.relu.ai",
+  "locations": [
+    {
+      "province": "flemish-brabant",
+      "municipality": "leuven",
+      "address": "Kolonel Begaultlaan 1A 51 3012 Leuven BE"
+    }
+  ],
+  "techStack": [
+    "Vue",
+    "FastAPI",
+    "Python",
+    "Kubernetes",
+    "Docker",
+    "Terraform"
+  ],
+  "proofUrls": [
+    "https://relu.jobs.personio.com/job/2466670?language=en&display=en"
+  ],
+  "cbe": "0735.997.002",
+  "employees": 9,
+  "founded": 2019
+}
