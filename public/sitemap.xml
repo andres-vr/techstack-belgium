@@ -190,7 +190,7 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp?tech=php</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-29</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp?tech=spring</loc>
@@ -210,11 +210,11 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp?tech=c</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-29</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp?tech=net</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-29</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp?tech=kubernetes</loc>
@@ -689,6 +689,10 @@
     <lastmod>2026-01-29</lastmod>
   </url>
   <url>
+    <loc>https://techstack.be/companies/provinces/antwerp/municipalities/antwerpen?tech=php</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
     <loc>https://techstack.be/companies/provinces/antwerp/municipalities/antwerpen?tech=spring</loc>
     <lastmod>2026-01-28</lastmod>
   </url>
@@ -706,11 +710,11 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp/municipalities/antwerpen?tech=c</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-29</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp/municipalities/antwerpen?tech=net</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-29</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp/municipalities/antwerpen?tech=kubernetes</loc>
