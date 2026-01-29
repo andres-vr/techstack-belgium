@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "cbe": "0555.801.387",
+    "name": "Lemon",
+    "site": "https://www.lemon.be/",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Kattendijkdok-Westkaai 12.001 2000 Antwerpen BE"
+      }
+    ],
+    "tech": [
+      "Spring",
+      "Java",
+      "React",
+      "Angular",
+      "Express",
+      "Node.js",
+      "NestJS",
+      "MongoDB",
+      "PostgreSQL"
+    ],
+    "employees": null,
+    "founded": 2014,
+    "proof": [
+      {
+        "url": "https://jobs.lemon.be/jobs/6684169-fullstack-java-software-engineer-m-v-x-lemon",
+        "image": "https://i.ibb.co/nNpNjtWD/lemon-1769723695883-0.png"
+      },
+      {
+        "url": "https://jobs.lemon.be/jobs/6684224-fullstack-nodejs-software-engineer-m-v-x-lemon",
+        "image": "https://i.ibb.co/mVpMKRc5/lemon-1769723701565-1.png"
+      }
+    ],
+    "lastUpdated": "2026-01-29T21:55:06.398Z"
+  }
+]
