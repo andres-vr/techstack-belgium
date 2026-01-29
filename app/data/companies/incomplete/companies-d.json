@@ -28,7 +28,7 @@
     "founded": 1974,
     "proof": []
   },
-   {
+  {
     "cbe": "0895.169.646",
     "name": "D.Y.V",
     "site": "",
@@ -1667,35 +1667,6 @@
     ],
     "tech": [],
     "employees": 6,
-    "founded": 2016,
-    "proof": []
-  },
-  {
-    "cbe": "0647.518.550",
-    "name": "Dynamate",
-    "site": "",
-    "locations": [
-      {
-        "province": "west-flanders",
-        "municipality": "zonnebeke",
-        "address": "Passendalestraat 199 8980 Zonnebeke BE",
-        "coords": [
-          3.018173,
-          50.897318
-        ]
-      },
-      {
-        "province": "west-flanders",
-        "municipality": "roeselare",
-        "address": "Moorseelsesteenweg 17 8800 Roeselare BE",
-        "coords": [
-          3.140641,
-          50.922178
-        ]
-      }
-    ],
-    "tech": [],
-    "employees": 53,
     "founded": 2016,
     "proof": []
   },

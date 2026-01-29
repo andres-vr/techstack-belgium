@@ -46,7 +46,47 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/west-flanders</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/west-flanders?tech=java</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/west-flanders?tech=react</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/west-flanders?tech=laravel</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/west-flanders?tech=php</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/west-flanders?tech=azure</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/west-flanders?tech=symfony</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/west-flanders?tech=next-js</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/west-flanders?tech=react-native</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/west-flanders?tech=gitlab-ci</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/west-flanders?tech=flutter</loc>
+    <lastmod>2026-01-29</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/east-flanders</loc>
@@ -110,11 +150,11 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/east-flanders?tech=symfony</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-29</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/east-flanders?tech=next-js</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-29</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/east-flanders?tech=tailwind-css</loc>
@@ -135,6 +175,18 @@
   <url>
     <loc>https://techstack.be/companies/provinces/east-flanders?tech=rest</loc>
     <lastmod>2026-01-28</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/east-flanders?tech=react-native</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/east-flanders?tech=gitlab-ci</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/east-flanders?tech=flutter</loc>
+    <lastmod>2026-01-29</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/east-flanders?tech=nuxt</loc>
@@ -506,11 +558,11 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/limburg?tech=symfony</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-29</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/limburg?tech=next-js</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-29</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/limburg?tech=tailwind-css</loc>
@@ -545,8 +597,12 @@
     <lastmod>2026-01-29</lastmod>
   </url>
   <url>
+    <loc>https://techstack.be/companies/provinces/limburg?tech=gitlab-ci</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
     <loc>https://techstack.be/companies/provinces/limburg?tech=flutter</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-29</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/limburg?tech=nuxt</loc>
@@ -1498,7 +1554,7 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/east-flanders/municipalities/gent?tech=react</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-29</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/east-flanders/municipalities/gent?tech=angular</loc>
@@ -1542,11 +1598,11 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/east-flanders/municipalities/gent?tech=symfony</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-29</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/east-flanders/municipalities/gent?tech=next-js</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-29</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/east-flanders/municipalities/gent?tech=tailwind-css</loc>
@@ -1567,6 +1623,18 @@
   <url>
     <loc>https://techstack.be/companies/provinces/east-flanders/municipalities/gent?tech=rest</loc>
     <lastmod>2026-01-28</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/east-flanders/municipalities/gent?tech=react-native</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/east-flanders/municipalities/gent?tech=gitlab-ci</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/east-flanders/municipalities/gent?tech=flutter</loc>
+    <lastmod>2026-01-29</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/east-flanders/municipalities/gent?tech=nuxt</loc>
@@ -2701,6 +2769,10 @@
     <lastmod>2026-01-29</lastmod>
   </url>
   <url>
+    <loc>https://techstack.be/companies/provinces/limburg/municipalities/genk?tech=react</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
     <loc>https://techstack.be/companies/provinces/limburg/municipalities/genk?tech=angular</loc>
     <lastmod>2026-01-29</lastmod>
   </url>
@@ -2717,6 +2789,10 @@
     <lastmod>2026-01-29</lastmod>
   </url>
   <url>
+    <loc>https://techstack.be/companies/provinces/limburg/municipalities/genk?tech=azure</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
     <loc>https://techstack.be/companies/provinces/limburg/municipalities/genk?tech=docker</loc>
     <lastmod>2026-01-29</lastmod>
   </url>
@@ -2730,6 +2806,26 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/limburg/municipalities/genk?tech=node-js</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/limburg/municipalities/genk?tech=symfony</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/limburg/municipalities/genk?tech=next-js</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/limburg/municipalities/genk?tech=react-native</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/limburg/municipalities/genk?tech=gitlab-ci</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/limburg/municipalities/genk?tech=flutter</loc>
     <lastmod>2026-01-29</lastmod>
   </url>
   <url>
@@ -3270,7 +3366,47 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/west-flanders/municipalities/brugge</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/west-flanders/municipalities/brugge?tech=java</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/west-flanders/municipalities/brugge?tech=react</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/west-flanders/municipalities/brugge?tech=laravel</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/west-flanders/municipalities/brugge?tech=php</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/west-flanders/municipalities/brugge?tech=azure</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/west-flanders/municipalities/brugge?tech=symfony</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/west-flanders/municipalities/brugge?tech=next-js</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/west-flanders/municipalities/brugge?tech=react-native</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/west-flanders/municipalities/brugge?tech=gitlab-ci</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/west-flanders/municipalities/brugge?tech=flutter</loc>
+    <lastmod>2026-01-29</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/west-flanders/municipalities/damme</loc>
@@ -3346,7 +3482,47 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/west-flanders/municipalities/kortrijk</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/west-flanders/municipalities/kortrijk?tech=java</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/west-flanders/municipalities/kortrijk?tech=react</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/west-flanders/municipalities/kortrijk?tech=laravel</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/west-flanders/municipalities/kortrijk?tech=php</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/west-flanders/municipalities/kortrijk?tech=azure</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/west-flanders/municipalities/kortrijk?tech=symfony</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/west-flanders/municipalities/kortrijk?tech=next-js</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/west-flanders/municipalities/kortrijk?tech=react-native</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/west-flanders/municipalities/kortrijk?tech=gitlab-ci</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/west-flanders/municipalities/kortrijk?tech=flutter</loc>
+    <lastmod>2026-01-29</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/west-flanders/municipalities/kuurne</loc>
@@ -3402,7 +3578,47 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/west-flanders/municipalities/roeselare</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/west-flanders/municipalities/roeselare?tech=java</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/west-flanders/municipalities/roeselare?tech=react</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/west-flanders/municipalities/roeselare?tech=laravel</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/west-flanders/municipalities/roeselare?tech=php</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/west-flanders/municipalities/roeselare?tech=azure</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/west-flanders/municipalities/roeselare?tech=symfony</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/west-flanders/municipalities/roeselare?tech=next-js</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/west-flanders/municipalities/roeselare?tech=react-native</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/west-flanders/municipalities/roeselare?tech=gitlab-ci</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/west-flanders/municipalities/roeselare?tech=flutter</loc>
+    <lastmod>2026-01-29</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/west-flanders/municipalities/spiere-helkijn</loc>
@@ -3450,7 +3666,47 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/west-flanders/municipalities/zonnebeke</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/west-flanders/municipalities/zonnebeke?tech=java</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/west-flanders/municipalities/zonnebeke?tech=react</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/west-flanders/municipalities/zonnebeke?tech=laravel</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/west-flanders/municipalities/zonnebeke?tech=php</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/west-flanders/municipalities/zonnebeke?tech=azure</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/west-flanders/municipalities/zonnebeke?tech=symfony</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/west-flanders/municipalities/zonnebeke?tech=next-js</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/west-flanders/municipalities/zonnebeke?tech=react-native</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/west-flanders/municipalities/zonnebeke?tech=gitlab-ci</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/west-flanders/municipalities/zonnebeke?tech=flutter</loc>
+    <lastmod>2026-01-29</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/west-flanders/municipalities/zuienkerke</loc>
@@ -3538,11 +3794,11 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/technologies/symfony</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-29</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/technologies/next-js</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-29</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/technologies/tailwind-css</loc>
@@ -3578,6 +3834,10 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/technologies/react-native</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/technologies/gitlab-ci</loc>
     <lastmod>2026-01-29</lastmod>
   </url>
   <url>
@@ -3650,6 +3910,10 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/cheops-technology</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/dynamate</loc>
     <lastmod>2026-01-29</lastmod>
   </url>
   <url>
@@ -8702,10 +8966,6 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/digital-transformers</loc>
-    <lastmod>2026-01-29</lastmod>
-  </url>
-  <url>
-    <loc>https://techstack.be/companies/dynamate</loc>
     <lastmod>2026-01-29</lastmod>
   </url>
   <url>
