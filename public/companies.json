@@ -368,6 +368,44 @@
     "lastUpdated": "2026-01-29T10:27:04.554Z"
   },
   {
+    "cbe": "0819.575.764",
+    "name": "Icapps",
+    "site": "https://icapps.com",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Rijnkaai 100 16 2000 Antwerpen BE"
+      }
+    ],
+    "tech": [
+      "Flutter",
+      "React Native",
+      "React",
+      "Angular",
+      "NestJS",
+      "Node.js",
+      "REST"
+    ],
+    "employees": 61,
+    "founded": 2009,
+    "proof": [
+      {
+        "url": "https://icapps.com/development/web",
+        "image": "https://i.ibb.co/GvxjBY7G/icapps-1769708954814-0.png"
+      },
+      {
+        "url": "https://icapps.com/development/mobile",
+        "image": "https://i.ibb.co/vCyFMkTm/icapps-1769708961242-1.png"
+      },
+      {
+        "url": "https://icapps-1677752785.teamtailor.com/jobs/6036899-lead-node-js-developer",
+        "image": "https://i.ibb.co/N2QfnNbz/icapps-1769708966434-2.png"
+      }
+    ],
+    "lastUpdated": "2026-01-29T17:49:31.434Z"
+  },
+  {
     "cbe": "0735.411.735",
     "name": "Just Russel",
     "site": "www.justrussel.com",
@@ -55819,26 +55857,6 @@
     ],
     "tech": [],
     "employees": 5,
-    "founded": 2009,
-    "proof": []
-  },
-  {
-    "cbe": "0819.575.764",
-    "name": "Icapps",
-    "site": "",
-    "locations": [
-      {
-        "province": "antwerp",
-        "municipality": "antwerpen",
-        "address": "Rijnkaai 100 16 2000 Antwerpen BE",
-        "coords": [
-          4.40129,
-          51.229144
-        ]
-      }
-    ],
-    "tech": [],
-    "employees": 61,
     "founded": 2009,
     "proof": []
   },

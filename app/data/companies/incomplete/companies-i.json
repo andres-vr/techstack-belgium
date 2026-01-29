@@ -6248,26 +6248,6 @@
     "proof": []
   },
   {
-    "cbe": "0819.575.764",
-    "name": "Icapps",
-    "site": "",
-    "locations": [
-      {
-        "province": "antwerp",
-        "municipality": "antwerpen",
-        "address": "Rijnkaai 100 16 2000 Antwerpen BE",
-        "coords": [
-          4.40129,
-          51.229144
-        ]
-      }
-    ],
-    "tech": [],
-    "employees": 61,
-    "founded": 2009,
-    "proof": []
-  },
-  {
     "cbe": "0823.776.062",
     "name": "I-teconsult",
     "site": "",
