@@ -47,7 +47,7 @@ export default defineNuxtConfig({
         logo: {
           modifiers: ({
             format: 'webp',
-            quality: 5,
+            quality: 40,
             width: 37,
             height: 37
           } as any)

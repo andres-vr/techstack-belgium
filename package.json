@@ -7,10 +7,7 @@
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "postinstall": "nuxt prepare",
-    "process:submission": "tsx .github/scripts/process-submission.ts",
-    "process:update": "tsx .github/scripts/process-update.ts",
-    "cron": "tsx server/api/cron/update-companies.get.ts"
+    "postinstall": "nuxt prepare"
   },
   "dependencies": {
     "@nuxt/image": "^2.0.0",
