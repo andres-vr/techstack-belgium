@@ -326,7 +326,7 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/flemish-brabant?tech=react</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-29</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/flemish-brabant?tech=angular</loc>
@@ -383,6 +383,18 @@
   <url>
     <loc>https://techstack.be/companies/provinces/flemish-brabant?tech=elasticsearch</loc>
     <lastmod>2026-01-28</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/flemish-brabant?tech=graphql</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/flemish-brabant?tech=typescript</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/flemish-brabant?tech=flutter</loc>
+    <lastmod>2026-01-29</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/limburg</loc>
@@ -509,11 +521,11 @@
     <lastmod>2026-01-28</lastmod>
   </url>
   <url>
-    <loc>https://techstack.be/companies/provinces/limburg?tech=nestjs</loc>
+    <loc>https://techstack.be/companies/provinces/limburg?tech=flutter</loc>
     <lastmod>2026-01-28</lastmod>
   </url>
   <url>
-    <loc>https://techstack.be/companies/provinces/limburg?tech=flutter</loc>
+    <loc>https://techstack.be/companies/provinces/limburg?tech=nestjs</loc>
     <lastmod>2026-01-28</lastmod>
   </url>
   <url>
@@ -1906,7 +1918,27 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/flemish-brabant/municipalities/zaventem</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/flemish-brabant/municipalities/zaventem?tech=react</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/flemish-brabant/municipalities/zaventem?tech=node-js</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/flemish-brabant/municipalities/zaventem?tech=graphql</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/flemish-brabant/municipalities/zaventem?tech=typescript</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/flemish-brabant/municipalities/zaventem?tech=flutter</loc>
+    <lastmod>2026-01-29</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/flemish-brabant/municipalities/zemst</loc>
@@ -2453,11 +2485,11 @@
     <lastmod>2026-01-28</lastmod>
   </url>
   <url>
-    <loc>https://techstack.be/companies/provinces/limburg/municipalities/diepenbeek?tech=nestjs</loc>
+    <loc>https://techstack.be/companies/provinces/limburg/municipalities/diepenbeek?tech=flutter</loc>
     <lastmod>2026-01-28</lastmod>
   </url>
   <url>
-    <loc>https://techstack.be/companies/provinces/limburg/municipalities/diepenbeek?tech=flutter</loc>
+    <loc>https://techstack.be/companies/provinces/limburg/municipalities/diepenbeek?tech=nestjs</loc>
     <lastmod>2026-01-28</lastmod>
   </url>
   <url>
@@ -3334,11 +3366,11 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/technologies/graphql</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-29</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/technologies/typescript</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-29</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/technologies/mariadb</loc>
@@ -3365,11 +3397,11 @@
     <lastmod>2026-01-28</lastmod>
   </url>
   <url>
-    <loc>https://techstack.be/companies/technologies/nestjs</loc>
-    <lastmod>2026-01-28</lastmod>
+    <loc>https://techstack.be/companies/technologies/flutter</loc>
+    <lastmod>2026-01-29</lastmod>
   </url>
   <url>
-    <loc>https://techstack.be/companies/technologies/flutter</loc>
+    <loc>https://techstack.be/companies/technologies/nestjs</loc>
     <lastmod>2026-01-28</lastmod>
   </url>
   <url>
@@ -3414,6 +3446,10 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/unikoo</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/ventory</loc>
     <lastmod>2026-01-29</lastmod>
   </url>
   <url>
@@ -22702,10 +22738,6 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/veterinary-services-logistics</loc>
-    <lastmod>2026-01-29</lastmod>
-  </url>
-  <url>
-    <loc>https://techstack.be/companies/ventory</loc>
     <lastmod>2026-01-29</lastmod>
   </url>
   <url>
