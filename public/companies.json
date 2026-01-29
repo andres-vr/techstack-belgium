@@ -638,6 +638,64 @@
     "lastUpdated": "2026-01-28T19:16:49.019Z"
   },
   {
+    "cbe": "0634.604.286",
+    "name": "Lemon Companies",
+    "site": "https://www.lemon.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Groeningenlei 16 2550 Kontich BE",
+        "coords": [
+          4.436364,
+          51.138538
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Rooigemlaan 532, 9000 Gent, East Flanders, Belgium",
+        "coords": [
+          3.697243,
+          51.064785
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Vaartstraat 76, 3000 Leuven, Flemish Brabant, Belgium",
+        "coords": [
+          4.701196,
+          50.884414
+        ]
+      }
+    ],
+    "tech": [
+      "React",
+      "Angular",
+      "Java",
+      "Express",
+      "Node.js",
+      "NestJS",
+      "Spring",
+      "PostgreSQL",
+      "MongoDB"
+    ],
+    "employees": 26,
+    "founded": 2015,
+    "proof": [
+      {
+        "url": "https://jobs.lemon.be/jobs/6684169-fullstack-java-software-engineer-m-v-x-lemon",
+        "image": "https://i.ibb.co/r23PSH9q/lemon-companies-1769724229271-0.png"
+      },
+      {
+        "url": "https://jobs.lemon.be/jobs/6684224-fullstack-nodejs-software-engineer-m-v-x-lemon",
+        "image": "https://i.ibb.co/mVpcgrpR/lemon-companies-1769724234078-1.png"
+      }
+    ],
+    "lastUpdated": "2026-01-29T22:03:58.725Z"
+  },
+  {
     "cbe": "0798.957.623",
     "name": "Mr. Watts",
     "site": "https://www.mrwatts.io",
@@ -60776,26 +60834,6 @@
     ],
     "tech": [],
     "employees": 3,
-    "founded": 2015,
-    "proof": []
-  },
-  {
-    "cbe": "0634.604.286",
-    "name": "Lemon Companies",
-    "site": "",
-    "locations": [
-      {
-        "province": "antwerp",
-        "municipality": "kontich",
-        "address": "Groeningenlei 16 2550 Kontich BE",
-        "coords": [
-          4.436364,
-          51.138538
-        ]
-      }
-    ],
-    "tech": [],
-    "employees": 26,
     "founded": 2015,
     "proof": []
   },
