@@ -1,0 +1,87 @@
+{
+  "companyName": "Dynamate",
+  "website": "https://www.dynamate.be",
+  "locations": [
+    {
+      "province": "west-flanders",
+      "municipality": "zonnebeke",
+      "address": "Passendalestraat 199 8980 Zonnebeke BE",
+      "coords": [
+        3.018173,
+        50.897318
+      ]
+    },
+    {
+      "province": "west-flanders",
+      "municipality": "roeselare",
+      "address": "Moorseelsesteenweg 17 8800 Roeselare BE",
+      "coords": [
+        3.140641,
+        50.922178
+      ]
+    },
+    {
+      "province": "west-flanders",
+      "municipality": "brugge",
+      "address": "Bargeweg 2, 8000 Brugge, West Flanders, Belgium",
+      "coords": [
+        3.228825,
+        51.199368
+      ]
+    },
+    {
+      "province": "east-flanders",
+      "municipality": "gent",
+      "address": "Coupure Rechts 620, 9000 Gent, East Flanders, Belgium",
+      "coords": [
+        3.70975,
+        51.05467
+      ]
+    },
+    {
+      "province": "limburg",
+      "municipality": "genk",
+      "address": "C-Mine 129, 3600 Genk, Limburg, Belgium",
+      "coords": [
+        5.48637,
+        50.98315
+      ]
+    },
+    {
+      "province": "west-flanders",
+      "municipality": "kortrijk",
+      "address": "Dumolinlaan 6, 8510 Kortrijk, West Flanders, Belgium",
+      "coords": [
+        3.242585,
+        50.811886
+      ]
+    },
+    {
+      "province": "east-flanders",
+      "municipality": "gent",
+      "address": "Kortrijksesteenweg 1084, 9051 Gent, East Flanders, Belgium",
+      "coords": [
+        3.69005,
+        51.02247
+      ]
+    }
+  ],
+  "techStack": [
+    "Next.js",
+    "React",
+    "Java",
+    "Laravel",
+    "PHP",
+    "Symfony",
+    "GitLab CI",
+    "Flutter",
+    "React Native",
+    "Azure"
+  ],
+  "proofUrls": [
+    "https://www.dynamate.be/technologies"
+  ],
+  "cbe": "0647.518.550",
+  "employees": 53,
+  "founded": 2016
+}
