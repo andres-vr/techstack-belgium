@@ -2833,26 +2833,6 @@
     "proof": []
   },
   {
-    "cbe": "0735.997.002",
-    "name": "Relu",
-    "site": "www.relu.eu",
-    "locations": [
-      {
-        "province": "flemish-brabant",
-        "municipality": "leuven",
-        "address": "Kolonel Begaultlaan 1A 51 3012 Leuven BE",
-        "coords": [
-          4.705573,
-          50.888612
-        ]
-      }
-    ],
-    "tech": [],
-    "employees": 9,
-    "founded": 2019,
-    "proof": []
-  },
-  {
     "cbe": "0746.874.561",
     "name": "Roosevelt Services Belgium",
     "site": "",
