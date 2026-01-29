@@ -1,0 +1,28 @@
+{
+  "companyName": "Ventory",
+  "website": "https://www.ventory.io",
+  "locations": [
+    {
+      "province": "flemish-brabant",
+      "municipality": "zaventem",
+      "address": "Excelsiorlaan 8 1930 Zaventem BE",
+      "coords": [
+        4.457603,
+        50.88239
+      ]
+    }
+  ],
+  "techStack": [
+    "React",
+    "Flutter",
+    "GraphQL",
+    "Node.js",
+    "TypeScript"
+  ],
+  "proofUrls": [
+    "https://www.vdab.be/vindeenjob/vacatures/71953116/full-stack-engineer?source=vindeenjob&medium=vacaturedashboard"
+  ],
+  "cbe": "1001.714.644",
+  "employees": 2,
+  "founded": 2023
+}
