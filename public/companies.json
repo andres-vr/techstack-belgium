@@ -187,6 +187,64 @@
     "lastUpdated": "2026-01-28T18:51:33.170Z"
   },
   {
+    "cbe": "0822.555.050",
+    "name": "Collide",
+    "site": "https://collide.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "herentals",
+        "address": "Diamantstraat 10 2200 Herentals BE",
+        "coords": [
+          4.80647,
+          51.15908
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Kempische Steenweg 309, 3500 Hasselt, Limburg, Belgium",
+        "coords": [
+          5.351431,
+          50.951768
+        ]
+      }
+    ],
+    "tech": [
+      "React",
+      "Vue",
+      "Angular",
+      "GraphQL",
+      "REST",
+      "Node.js",
+      "Java",
+      "Spring",
+      "Docker",
+      "AWS",
+      "Azure",
+      "NestJS",
+      "Swift",
+      "React Native"
+    ],
+    "employees": 33,
+    "founded": 2010,
+    "proof": [
+      {
+        "url": "https://collide.be/oplossingen/pro-code/#solutions",
+        "image": "https://i.ibb.co/7NJrgSbf/collide-1769700978075-0.png"
+      },
+      {
+        "url": "https://collide.be/cases/stg-group/",
+        "image": "https://i.ibb.co/chHppJsw/collide-1769700986870-1.png"
+      },
+      {
+        "url": "https://collide.be/cases/vrt-max/",
+        "image": "https://i.ibb.co/MySzCcyn/collide-1769700992614-2.png"
+      }
+    ],
+    "lastUpdated": "2026-01-29T15:36:40.625Z"
+  },
+  {
     "cbe": "0895.229.925",
     "name": "Exsertus",
     "site": "https://www.exsertus.be",
@@ -26095,26 +26153,6 @@
     ],
     "tech": [],
     "employees": 5,
-    "founded": 2010,
-    "proof": []
-  },
-  {
-    "cbe": "0822.555.050",
-    "name": "Collide",
-    "site": "",
-    "locations": [
-      {
-        "province": "antwerp",
-        "municipality": "herentals",
-        "address": "Diamantstraat 10 2200 Herentals BE",
-        "coords": [
-          4.80647,
-          51.15908
-        ]
-      }
-    ],
-    "tech": [],
-    "employees": 33,
     "founded": 2010,
     "proof": []
   },
