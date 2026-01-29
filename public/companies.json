@@ -542,6 +542,38 @@
     "lastUpdated": "2026-01-29T15:27:08.262Z"
   },
   {
+    "cbe": "1001.714.644",
+    "name": "Ventory",
+    "site": "https://www.ventory.io",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Excelsiorlaan 8 1930 Zaventem BE",
+        "coords": [
+          4.457603,
+          50.88239
+        ]
+      }
+    ],
+    "tech": [
+      "React",
+      "Flutter",
+      "GraphQL",
+      "Node.js",
+      "TypeScript"
+    ],
+    "employees": 2,
+    "founded": 2023,
+    "proof": [
+      {
+        "url": "https://www.vdab.be/vindeenjob/vacatures/71953116/full-stack-engineer?source=vindeenjob&medium=vacaturedashboard",
+        "image": "https://i.ibb.co/6ckYz4y2/ventory-1769700801569-0.png"
+      }
+    ],
+    "lastUpdated": "2026-01-29T15:33:27.139Z"
+  },
+  {
     "cbe": "0503.920.245",
     "name": "Wisemen",
     "site": "https://wisemen.digital",
@@ -109325,26 +109357,6 @@
     "tech": [],
     "employees": 34,
     "founded": 2008,
-    "proof": []
-  },
-  {
-    "cbe": "1001.714.644",
-    "name": "Ventory",
-    "site": "",
-    "locations": [
-      {
-        "province": "flemish-brabant",
-        "municipality": "zaventem",
-        "address": "Excelsiorlaan 8 1930 Zaventem BE",
-        "coords": [
-          4.457603,
-          50.88239
-        ]
-      }
-    ],
-    "tech": [],
-    "employees": 2,
-    "founded": 2023,
     "proof": []
   },
   {

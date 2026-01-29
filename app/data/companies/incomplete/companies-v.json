@@ -2802,25 +2802,5 @@
     "employees": 34,
     "founded": 2008,
     "proof": []
-  },
-  {
-    "cbe": "1001.714.644",
-    "name": "Ventory",
-    "site": "",
-    "locations": [
-      {
-        "province": "flemish-brabant",
-        "municipality": "zaventem",
-        "address": "Excelsiorlaan 8 1930 Zaventem BE",
-        "coords": [
-          4.457603,
-          50.88239
-        ]
-      }
-    ],
-    "tech": [],
-    "employees": 2,
-    "founded": 2023,
-    "proof": []
   }
 ]
