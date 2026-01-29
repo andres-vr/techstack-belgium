@@ -74,13 +74,14 @@ Visit [http://localhost:3000](http://localhost:3000) to see the app.
 
 ## Available Scripts
 
-| Command            | Description                                                       |
-| ------------------ | ----------------------------------------------------------------- |
-| `npm run dev`      | Start development server                                          |
-| `npm run build`    | Build for production                                              |
-| `npm run preview`  | Preview production build locally                                  |
-| `npm run generate` | Generate static site                                              |
-| `npm run cron`     | Run the data update cron job (updates companies.json and sitemap) |
+| Command            | Description                      |
+| ------------------ | -------------------------------- |
+| `npm run dev`      | Start development server         |
+| `npm run build`    | Build for production             |
+| `npm run preview`  | Preview production build locally |
+| `npm run generate` | Generate static site             |
+
+**Note**: The `companies.json` file and sitemap are automatically updated by the GitHub Actions workflow when companies are added, updated, or completed via PRs.
 
 ## Tech Stack
 

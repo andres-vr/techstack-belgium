@@ -89,15 +89,21 @@ jobs:
           set -e
           npx tsx .github/scripts/process-complete.ts
 
+      - name: Update companies.json and sitemap
+        if: steps.label.outputs.type != 'none'
+        run: |
+          set -e
+          npx tsx server/api/update-companies.get.ts
+
       - name: Commit changes
         if: steps.label.outputs.type != 'none'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add app/data/companies/ app/data/submissions/
+          git add app/data/companies/ app/data/submissions/ public/companies.json public/sitemap.xml
 
           # Commit changes (anonymous / bot commit)
-          git diff --staged --quiet || git commit -m "Process ${{ steps.label.outputs.type }}: Update company files"
+          git diff --staged --quiet || git commit -m "Process ${{ steps.label.outputs.type }}: Update company files, companies.json and sitemap"
           git push
 
       - name: Comment on PR
