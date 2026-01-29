@@ -373,6 +373,10 @@
     <lastmod>2026-01-29</lastmod>
   </url>
   <url>
+    <loc>https://techstack.be/companies/provinces/flemish-brabant?tech=kubernetes</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
     <loc>https://techstack.be/companies/provinces/flemish-brabant?tech=node-js</loc>
     <lastmod>2026-01-29</lastmod>
   </url>
@@ -410,6 +414,14 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/flemish-brabant?tech=typescript</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/flemish-brabant?tech=fastapi</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/flemish-brabant?tech=terraform</loc>
     <lastmod>2026-01-29</lastmod>
   </url>
   <url>
@@ -1897,6 +1909,10 @@
     <lastmod>2026-01-29</lastmod>
   </url>
   <url>
+    <loc>https://techstack.be/companies/provinces/flemish-brabant/municipalities/leuven?tech=kubernetes</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
     <loc>https://techstack.be/companies/provinces/flemish-brabant/municipalities/leuven?tech=node-js</loc>
     <lastmod>2026-01-29</lastmod>
   </url>
@@ -1923,6 +1939,14 @@
   <url>
     <loc>https://techstack.be/companies/provinces/flemish-brabant/municipalities/leuven?tech=elasticsearch</loc>
     <lastmod>2026-01-28</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/flemish-brabant/municipalities/leuven?tech=fastapi</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/flemish-brabant/municipalities/leuven?tech=terraform</loc>
+    <lastmod>2026-01-29</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/flemish-brabant/municipalities/liedekerke</loc>
@@ -3430,7 +3454,7 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/technologies/kubernetes</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-29</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/technologies/kafka</loc>
@@ -3537,6 +3561,14 @@
     <lastmod>2026-01-28</lastmod>
   </url>
   <url>
+    <loc>https://techstack.be/companies/technologies/fastapi</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/technologies/terraform</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
     <loc>https://techstack.be/companies/alpine-digital</loc>
     <lastmod>2026-01-28</lastmod>
   </url>
@@ -3583,6 +3615,10 @@
   <url>
     <loc>https://techstack.be/companies/phpro</loc>
     <lastmod>2026-01-28</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/relu</loc>
+    <lastmod>2026-01-29</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/unikoo</loc>
@@ -19122,10 +19158,6 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/rundcrun</loc>
-    <lastmod>2026-01-29</lastmod>
-  </url>
-  <url>
-    <loc>https://techstack.be/companies/relu</loc>
     <lastmod>2026-01-29</lastmod>
   </url>
   <url>
