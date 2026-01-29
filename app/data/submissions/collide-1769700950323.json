@@ -1,0 +1,48 @@
+{
+  "companyName": "Collide",
+  "website": "https://collide.be",
+  "locations": [
+    {
+      "province": "antwerp",
+      "municipality": "herentals",
+      "address": "Diamantstraat 10 2200 Herentals BE",
+      "coords": [
+        4.80647,
+        51.15908
+      ]
+    },
+    {
+      "province": "limburg",
+      "municipality": "hasselt",
+      "address": "Kempische Steenweg 309, 3500 Hasselt, Limburg, Belgium",
+      "coords": [
+        5.351431,
+        50.951768
+      ]
+    }
+  ],
+  "techStack": [
+    "React",
+    "Vue",
+    "Angular",
+    "GraphQL",
+    "REST",
+    "Node.js",
+    "Java",
+    "Spring",
+    "Docker",
+    "AWS",
+    "Azure",
+    "NestJS",
+    "Swift",
+    "React Native"
+  ],
+  "proofUrls": [
+    "https://collide.be/oplossingen/pro-code/#solutions",
+    "https://collide.be/cases/stg-group/",
+    "https://collide.be/cases/vrt-max/"
+  ],
+  "cbe": "0822.555.050",
+  "employees": 33,
+  "founded": 2010
+}
