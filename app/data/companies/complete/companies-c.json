@@ -159,5 +159,59 @@
       }
     ],
     "lastUpdated": "2026-01-29T15:36:40.625Z"
+  },
+  {
+    "cbe": "0438.846.311",
+    "name": "Cheops Technology",
+    "site": "https://www.cheops.com",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Prins Boudewijnlaan 7B 2550 Kontich BE"
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "zaventem",
+        "address": "Da Vincilaan 1 1930 Zaventem BE"
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Ottergemsesteenweg-Zuid 808 9000 Gent BE"
+      },
+      {
+        "province": "antwerp",
+        "municipality": "herentals",
+        "address": "Dikberd(HRT) 34 1D 2200 Herentals BE"
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Bredestraat 19 2000 Antwerpen BE"
+      }
+    ],
+    "tech": [
+      "Azure",
+      "AWS",
+      ".NET",
+      "C#",
+      "Spring",
+      "Java",
+      "Angular"
+    ],
+    "employees": 328,
+    "founded": 1989,
+    "proof": [
+      {
+        "url": "https://www.cheops.com/en/solutions/it-experts/experts-java-net/",
+        "image": "https://i.ibb.co/j9B2x60k/cheops-technology-1769716217482-0.png"
+      },
+      {
+        "url": "https://www.cheops.com/en/solutions/cloud/",
+        "image": "https://i.ibb.co/Y7FbLJnP/cheops-technology-1769716223767-1.png"
+      }
+    ],
+    "lastUpdated": "2026-01-29T19:50:30.059Z"
   }
 ]
