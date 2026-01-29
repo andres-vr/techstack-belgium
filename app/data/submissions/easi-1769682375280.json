@@ -1,0 +1,81 @@
+{
+  "companyName": "Easi",
+  "website": "https://easi.net",
+  "locations": [
+    {
+      "province": "walloon-brabant",
+      "municipality": "nivelles",
+      "address": "Avenue Robert Schuman 12 1400 Nivelles BE",
+      "coords": [
+        4.328261,
+        50.620203
+      ]
+    },
+    {
+      "province": "flemish-brabant",
+      "municipality": "leuven",
+      "address": "Havenkant 6 3000 Leuven BE",
+      "coords": [
+        4.70052,
+        50.88722
+      ]
+    },
+    {
+      "province": "liege",
+      "municipality": "grace-hollogne",
+      "address": "Rue du Fort 3 4460 Grâce-Hollogne BE",
+      "coords": [
+        5.460388,
+        50.638818
+      ]
+    },
+    {
+      "province": "east-flanders",
+      "municipality": "gent",
+      "address": "Rijvisschestraat 124 9052 Gent BE",
+      "coords": [
+        3.695404,
+        51.017588
+      ]
+    },
+    {
+      "province": "limburg",
+      "municipality": "genk",
+      "address": "C-Mine 1 13 3600 Genk BE",
+      "coords": [
+        5.491895,
+        50.981967
+      ]
+    },
+    {
+      "province": "east-flanders",
+      "municipality": "ronse",
+      "address": "Rue Oscar Delghust 60 9600 Ronse BE",
+      "coords": [
+        3.616923,
+        50.750268
+      ]
+    }
+  ],
+  "techStack": [
+    "Angular",
+    "Vue",
+    ".NET",
+    "C#",
+    "Laravel",
+    "PHP",
+    "Python",
+    "Node.js",
+    "Docker",
+    "Spring",
+    "Java"
+  ],
+  "proofUrls": [
+    "https://easi.net/nl/services/application-development",
+    "https://easi.net/en/jobs/junior-software-developer-10-open-positions",
+    "https://easi.net/en/jobs/mediorsenior-software-developer"
+  ],
+  "cbe": "0465.741.144",
+  "employees": 468,
+  "founded": 1999
+}
