@@ -1,5 +1,543 @@
 [
   {
+    "cbe": "0703.986.507",
+    "name": "Alpine Digital",
+    "site": "https://www.alpinedigital.be",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Walenstraat 94 3500 Hasselt BE",
+        "coords": [
+          5.361287,
+          50.953677
+        ]
+      }
+    ],
+    "tech": [
+      "Java",
+      "Python",
+      "Vue",
+      "React",
+      "Angular",
+      "Laravel",
+      "PHP",
+      "Spring"
+    ],
+    "employees": 30,
+    "founded": 2018,
+    "proof": [
+      {
+        "url": "https://www.alpinedigital.be/developers",
+        "image": "https://i.ibb.co/KpCM2kkQ/alpine-digital-1769627067719-0.png"
+      }
+    ],
+    "lastUpdated": "2026-01-28T19:04:34.324Z"
+  },
+  {
+    "cbe": "0462.721.177",
+    "name": "Axxes",
+    "site": "https://www.axxes.com",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Entrepotkaai 10 A 2000 Antwerpen BE",
+        "coords": [
+          4.41205,
+          51.22902
+        ]
+      }
+    ],
+    "tech": [
+      "Angular",
+      "React",
+      "Azure",
+      "GitHub Actions",
+      "Docker",
+      "C#",
+      ".NET",
+      "Kubernetes",
+      "Kafka",
+      "Spring",
+      "Java",
+      "AWS",
+      "Kotlin",
+      "GCP"
+    ],
+    "employees": 289,
+    "founded": 1998,
+    "proof": [
+      {
+        "url": "https://www.axxes.com/services/software-engineering/.net",
+        "image": "https://i.ibb.co/kV4RTjmy/axxes-1769628515328-0.png"
+      },
+      {
+        "url": "https://www.axxes.com/services/software-engineering/java",
+        "image": "https://i.ibb.co/DPJm0fMz/axxes-1769628521578-1.png"
+      },
+      {
+        "url": "https://www.axxes.com/services/cloud",
+        "image": "https://i.ibb.co/pk6MWBd/axxes-1769628526465-2.png"
+      }
+    ],
+    "lastUpdated": "2026-01-28T19:28:51.163Z"
+  },
+  {
+    "cbe": "1011.008.135",
+    "name": "Codana",
+    "site": "https://www.codana.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 7, 2550 Kontich, Antwerp, Belgium",
+        "coords": [
+          4.439609,
+          51.141143
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Gaston Geenslaan 11, 3001 Leuven, Flemish Brabant, Belgium",
+        "coords": [
+          4.669279,
+          50.864801
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Bellevuestraat 1, 9050 Gent, East Flanders, Belgium",
+        "coords": [
+          3.735889,
+          51.034772
+        ]
+      }
+    ],
+    "tech": [
+      "Node.js",
+      "Laravel",
+      "PHP",
+      "Symfony",
+      "React",
+      "Next.js",
+      "Vue",
+      "Tailwind CSS",
+      "Docker",
+      "PostgreSQL",
+      "Redis",
+      "Elasticsearch"
+    ],
+    "employees": 18,
+    "founded": 2024,
+    "proof": [
+      {
+        "url": "https://www.codana.be/nl/wat-we-doen",
+        "image": "https://i.ibb.co/gZSYvJfP/codana-1769625211461-0.png"
+      }
+    ],
+    "lastUpdated": "2026-01-28T18:33:36.796Z"
+  },
+  {
+    "cbe": "1011.008.828",
+    "name": "Craftcode",
+    "site": "https://craftcode.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "edegem",
+        "address": "Prins Boudewijnlaan 43 2650 Edegem BE",
+        "coords": [
+          4.436157,
+          51.14866
+        ]
+      }
+    ],
+    "tech": [
+      "Java",
+      "Kotlin",
+      "AWS",
+      "Azure",
+      "GCP",
+      "React",
+      "Angular",
+      "Vue",
+      "Node.js",
+      "Spring"
+    ],
+    "employees": 13,
+    "founded": 2024,
+    "proof": [
+      {
+        "url": "https://craftcode.be/",
+        "image": "https://i.ibb.co/tPYrsqbk/craftcode-1769626280768-0.png"
+      }
+    ],
+    "lastUpdated": "2026-01-28T18:51:33.170Z"
+  },
+  {
+    "cbe": "0895.229.925",
+    "name": "Exsertus",
+    "site": "https://www.exsertus.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [
+      "Angular",
+      "React",
+      "Azure",
+      ".NET",
+      "C#"
+    ],
+    "employees": 21,
+    "founded": 2008,
+    "proof": [
+      {
+        "url": "https://www.exsertus.be/technology/",
+        "image": "https://i.ibb.co/LX8qkxCv/exsertus-1769626837917-0.png"
+      }
+    ],
+    "lastUpdated": "2026-01-28T19:00:42.687Z"
+  },
+  {
+    "cbe": "0465.741.144",
+    "name": "Easi",
+    "site": "https://easi.net",
+    "locations": [
+      {
+        "province": "walloon-brabant",
+        "municipality": "nivelles",
+        "address": "Avenue Robert Schuman 12 1400 Nivelles BE",
+        "coords": [
+          4.328261,
+          50.620203
+        ]
+      },
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Havenkant 6 3000 Leuven BE",
+        "coords": [
+          4.70052,
+          50.88722
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "grace-hollogne",
+        "address": "Rue du Fort 3 4460 Grâce-Hollogne BE",
+        "coords": [
+          5.460388,
+          50.638818
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Rijvisschestraat 124 9052 Gent BE",
+        "coords": [
+          3.695404,
+          51.017588
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "genk",
+        "address": "C-Mine 1 13 3600 Genk BE",
+        "coords": [
+          5.491895,
+          50.981967
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "ronse",
+        "address": "Rue Oscar Delghust 60 9600 Ronse BE",
+        "coords": [
+          3.616923,
+          50.750268
+        ]
+      }
+    ],
+    "tech": [
+      "Angular",
+      "Vue",
+      ".NET",
+      "C#",
+      "Laravel",
+      "PHP",
+      "Python",
+      "Node.js",
+      "Docker",
+      "Spring",
+      "Java"
+    ],
+    "employees": 468,
+    "founded": 1999,
+    "proof": [
+      {
+        "url": "https://easi.net/nl/services/application-development",
+        "image": "https://i.ibb.co/F4LLxVBQ/easi-1769682401231-0.png"
+      },
+      {
+        "url": "https://easi.net/en/jobs/junior-software-developer-10-open-positions",
+        "image": "https://i.ibb.co/wmNzBKc/easi-1769682410250-1.png"
+      },
+      {
+        "url": "https://easi.net/en/jobs/mediorsenior-software-developer",
+        "image": "https://i.ibb.co/JWW99dJq/easi-1769682417097-2.png"
+      }
+    ],
+    "lastUpdated": "2026-01-29T10:27:04.554Z"
+  },
+  {
+    "cbe": "0735.411.735",
+    "name": "Just Russel",
+    "site": "www.justrussel.com",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Baarledorpstraat 95 . 9031 Gent BE",
+        "coords": [
+          3.613219,
+          51.034748
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "deinze",
+        "address": "Damstraat 46 9850 Deinze BE",
+        "coords": [
+          3.565497,
+          51.023157
+        ]
+      }
+    ],
+    "tech": [
+      "Vue",
+      "Nuxt",
+      "REST",
+      "Tailwind CSS"
+    ],
+    "employees": 47.4,
+    "founded": 2019,
+    "proof": [
+      {
+        "url": "https://justrussel.com/vacature-detail-page-frontend-software-engineer/",
+        "image": "https://i.ibb.co/s9qRLDD5/just-russel-1769626656228-0.png"
+      }
+    ],
+    "lastUpdated": "2026-01-28T18:57:42.111Z"
+  },
+  {
+    "cbe": "0656.936.854",
+    "name": "Jstack",
+    "site": "https://jstack.eu",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 B 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      }
+    ],
+    "tech": [
+      "Angular",
+      "React",
+      "Node.js",
+      "Java",
+      "AWS",
+      "Azure",
+      "MongoDB",
+      "PostgreSQL"
+    ],
+    "employees": 10,
+    "founded": 2016,
+    "proof": [
+      {
+        "url": "https://jstack.eu/onze-aanpak",
+        "image": "https://i.ibb.co/8LQG7Y7n/jstack-1769627799891-0.png"
+      }
+    ],
+    "lastUpdated": "2026-01-28T19:16:49.019Z"
+  },
+  {
+    "cbe": "0798.957.623",
+    "name": "Mr. Watts",
+    "site": "https://www.mrwatts.io",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "mechelen",
+        "address": "Stationsstraat 55 2800 Mechelen BE",
+        "coords": [
+          4.48072,
+          51.01675
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Kempische Steenweg 311, 3500 Hasselt, Limburg, Belgium",
+        "coords": [
+          5.352192,
+          50.951874
+        ]
+      }
+    ],
+    "tech": [
+      "Node.js",
+      "C#",
+      ".NET",
+      "React",
+      "REST",
+      "GraphQL",
+      "Azure",
+      "PostgreSQL",
+      "TypeScript"
+    ],
+    "employees": 4,
+    "founded": 2023,
+    "proof": [
+      {
+        "url": "https://bluu.be/jobs/medior-full-stack-web-developer/",
+        "image": "https://i.ibb.co/8nJBLr2r/mr-watts-1769627557398-0.png"
+      }
+    ],
+    "lastUpdated": "2026-01-28T19:12:43.536Z"
+  },
+  {
+    "cbe": "0694.507.231",
+    "name": "Phpro",
+    "site": "https://www.phpro.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "aalst",
+        "address": "Korte Keppestraat 7, 9320 Aalst, East Flanders, Belgium",
+        "coords": [
+          4.043989,
+          50.915232
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Kempische Steenweg 311, 3500 Hasselt, Limburg, Belgium",
+        "coords": [
+          5.352192,
+          50.951874
+        ]
+      },
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Prins Boudewijnlaan 24, 2550 Kontich, Antwerp, Belgium",
+        "coords": [
+          4.438778,
+          51.140031
+        ]
+      }
+    ],
+    "tech": [
+      "Symfony",
+      "PHP",
+      "Node.js",
+      "MariaDB",
+      "MySQL",
+      "Vue",
+      "Angular",
+      "Tailwind CSS",
+      "Alpine.js",
+      "SASS",
+      "Bootstrap",
+      "jQuery",
+      "Next.js",
+      "Laravel"
+    ],
+    "employees": 46,
+    "founded": 2018,
+    "proof": [
+      {
+        "url": "https://www.phpro.be/nl/services/consultancy",
+        "image": "https://i.ibb.co/HTf1xP4X/phpro-1769627353643-0.png"
+      },
+      {
+        "url": "https://www.phpro.be/nl/services/custom-development",
+        "image": "https://i.ibb.co/2YnxgkzD/phpro-1769627360757-1.png"
+      }
+    ],
+    "lastUpdated": "2026-01-28T19:09:26.593Z"
+  },
+  {
+    "cbe": "0503.920.245",
+    "name": "Wisemen",
+    "site": "https://wisemen.digital",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "diepenbeek",
+        "address": "Watertorenstraat 2 3590 Diepenbeek BE",
+        "coords": [
+          5.420342,
+          50.894647
+        ]
+      }
+    ],
+    "tech": [
+      "Nuxt",
+      "Vue",
+      "NestJS",
+      "Node.js",
+      "PostgreSQL",
+      "Redis",
+      "Kubernetes",
+      "GitHub Actions",
+      "Flutter"
+    ],
+    "employees": 97,
+    "founded": 2013,
+    "proof": [
+      {
+        "url": "https://wisemen.digital/insights/the-wisemen-web-team-defining-the-future-of-web-experiences",
+        "image": "https://i.ibb.co/HLhq2fSK/wisemen-1769627953043-0.png"
+      }
+    ],
+    "lastUpdated": "2026-01-28T19:19:19.634Z"
+  },
+  {
     "cbe": "0401.848.135",
     "name": "Atos Belgium",
     "site": "",
@@ -1246,26 +1784,6 @@
     "tech": [],
     "employees": 21,
     "founded": 1997,
-    "proof": []
-  },
-  {
-    "cbe": "0462.721.177",
-    "name": "Axxes",
-    "site": "",
-    "locations": [
-      {
-        "province": "antwerp",
-        "municipality": "antwerpen",
-        "address": "Entrepotkaai 10 A 2000 Antwerpen BE",
-        "coords": [
-          4.41205,
-          51.22902
-        ]
-      }
-    ],
-    "tech": [],
-    "employees": 289,
-    "founded": 1998,
     "proof": []
   },
   {
@@ -8382,26 +8900,6 @@
     ],
     "tech": [],
     "employees": 5,
-    "founded": 2018,
-    "proof": []
-  },
-  {
-    "cbe": "0703.986.507",
-    "name": "Alpine Digital",
-    "site": "",
-    "locations": [
-      {
-        "province": "limburg",
-        "municipality": "hasselt",
-        "address": "Walenstraat 94 3500 Hasselt BE",
-        "coords": [
-          5.361287,
-          50.953677
-        ]
-      }
-    ],
-    "tech": [],
-    "employees": 30,
     "founded": 2018,
     "proof": []
   },
@@ -26388,26 +26886,6 @@
     "proof": []
   },
   {
-    "cbe": "1011.008.135",
-    "name": "Codana",
-    "site": "",
-    "locations": [
-      {
-        "province": "antwerp",
-        "municipality": "kontich",
-        "address": "Veldkant 33A 2550 Kontich BE",
-        "coords": [
-          4.442747,
-          51.142439
-        ]
-      }
-    ],
-    "tech": [],
-    "employees": 18,
-    "founded": 2024,
-    "proof": []
-  },
-  {
     "cbe": "1011.008.432",
     "name": "Calibrate",
     "site": "",
@@ -26424,26 +26902,6 @@
     ],
     "tech": [],
     "employees": 30,
-    "founded": 2024,
-    "proof": []
-  },
-  {
-    "cbe": "1011.008.828",
-    "name": "Craftcode",
-    "site": "",
-    "locations": [
-      {
-        "province": "antwerp",
-        "municipality": "edegem",
-        "address": "Prins Boudewijnlaan 43 2650 Edegem BE",
-        "coords": [
-          4.436157,
-          51.14866
-        ]
-      }
-    ],
-    "tech": [],
-    "employees": 13,
     "founded": 2024,
     "proof": []
   },
@@ -34666,71 +35124,6 @@
     "proof": []
   },
   {
-    "cbe": "0465.741.144",
-    "name": "Easi",
-    "site": "www.easi.net",
-    "locations": [
-      {
-        "province": "walloon-brabant",
-        "municipality": "nivelles",
-        "address": "Avenue Robert Schuman 12 1400 Nivelles BE",
-        "coords": [
-          4.328261,
-          50.620203
-        ]
-      },
-      {
-        "province": "flemish-brabant",
-        "municipality": "leuven",
-        "address": "Havenkant 6 3000 Leuven BE",
-        "coords": [
-          4.70052,
-          50.88722
-        ]
-      },
-      {
-        "province": "liege",
-        "municipality": "grace-hollogne",
-        "address": "Rue du Fort 3 4460 Grâce-Hollogne BE",
-        "coords": [
-          5.460388,
-          50.638818
-        ]
-      },
-      {
-        "province": "east-flanders",
-        "municipality": "gent",
-        "address": "Rijvisschestraat 124 9052 Gent BE",
-        "coords": [
-          3.695404,
-          51.017588
-        ]
-      },
-      {
-        "province": "limburg",
-        "municipality": "genk",
-        "address": "C-Mine 1 13 3600 Genk BE",
-        "coords": [
-          5.491895,
-          50.981967
-        ]
-      },
-      {
-        "province": "east-flanders",
-        "municipality": "ronse",
-        "address": "Rue Oscar Delghust 60 9600 Ronse BE",
-        "coords": [
-          3.616923,
-          50.750268
-        ]
-      }
-    ],
-    "tech": [],
-    "employees": 468,
-    "founded": 1999,
-    "proof": []
-  },
-  {
     "cbe": "0466.323.342",
     "name": "Eplan",
     "site": "www.eplan.be",
@@ -39700,26 +40093,6 @@
     "tech": [],
     "employees": 12,
     "founded": 2007,
-    "proof": []
-  },
-  {
-    "cbe": "0895.229.925",
-    "name": "Exsertus",
-    "site": "",
-    "locations": [
-      {
-        "province": "antwerp",
-        "municipality": "kontich",
-        "address": "Veldkant 33 A 2550 Kontich BE",
-        "coords": [
-          4.442747,
-          51.142439
-        ]
-      }
-    ],
-    "tech": [],
-    "employees": 21,
-    "founded": 2008,
     "proof": []
   },
   {
@@ -56399,26 +56772,6 @@
     "proof": []
   },
   {
-    "cbe": "0656.936.854",
-    "name": "Jstack",
-    "site": "",
-    "locations": [
-      {
-        "province": "antwerp",
-        "municipality": "kontich",
-        "address": "Veldkant 33 B 2550 Kontich BE",
-        "coords": [
-          4.442747,
-          51.142439
-        ]
-      }
-    ],
-    "tech": [],
-    "employees": 10,
-    "founded": 2016,
-    "proof": []
-  },
-  {
     "cbe": "0659.954.940",
     "name": "Jams Consulting",
     "site": "",
@@ -68272,26 +68625,6 @@
     "proof": []
   },
   {
-    "cbe": "0798.957.623",
-    "name": "Mr. Watts",
-    "site": "",
-    "locations": [
-      {
-        "province": "antwerp",
-        "municipality": "mechelen",
-        "address": "Stationsstraat 55 2800 Mechelen BE",
-        "coords": [
-          4.48072,
-          51.01675
-        ]
-      }
-    ],
-    "tech": [],
-    "employees": 4,
-    "founded": 2023,
-    "proof": []
-  },
-  {
     "cbe": "0804.131.879",
     "name": "Mavence Belgium",
     "site": "",
@@ -79724,26 +80057,6 @@
     "tech": [],
     "employees": 6,
     "founded": 2017,
-    "proof": []
-  },
-  {
-    "cbe": "0694.507.231",
-    "name": "Phpro",
-    "site": "",
-    "locations": [
-      {
-        "province": "antwerp",
-        "municipality": "kontich",
-        "address": "Veldkant 33 A 2550 Kontich BE",
-        "coords": [
-          4.442747,
-          51.142439
-        ]
-      }
-    ],
-    "tech": [],
-    "employees": 46,
-    "founded": 2018,
     "proof": []
   },
   {
@@ -109376,26 +109689,6 @@
     ],
     "tech": [],
     "employees": 10,
-    "founded": 2013,
-    "proof": []
-  },
-  {
-    "cbe": "0503.920.245",
-    "name": "Wisemen",
-    "site": "",
-    "locations": [
-      {
-        "province": "limburg",
-        "municipality": "diepenbeek",
-        "address": "Watertorenstraat 2 3590 Diepenbeek BE",
-        "coords": [
-          5.420342,
-          50.894647
-        ]
-      }
-    ],
-    "tech": [],
-    "employees": 97,
     "founded": 2013,
     "proof": []
   },
