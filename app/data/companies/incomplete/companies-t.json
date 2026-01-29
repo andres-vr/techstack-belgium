@@ -2534,35 +2534,6 @@
     "proof": []
   },
   {
-    "cbe": "0762.706.050",
-    "name": "Thoughtworks",
-    "site": "",
-    "locations": [
-      {
-        "province": "hainaut",
-        "municipality": "silly",
-        "address": "Chaussée d'Enghien 49 7830 Silly BE",
-        "coords": [
-          4.032499,
-          50.676733
-        ]
-      },
-      {
-        "province": "brussels-capital",
-        "municipality": "sint-joost-ten-node",
-        "address": "Avenue du Boulevard 21 1210 Saint-Josse-ten-Noode BE",
-        "coords": [
-          4.356967,
-          50.856202
-        ]
-      }
-    ],
-    "tech": [],
-    "employees": 35,
-    "founded": 2021,
-    "proof": []
-  },
-  {
     "cbe": "0765.819.849",
     "name": "The Pack Wallonia",
     "site": "",

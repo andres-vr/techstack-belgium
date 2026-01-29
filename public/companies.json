@@ -820,6 +820,44 @@
     "lastUpdated": "2026-01-29T19:44:36.331Z"
   },
   {
+    "cbe": "0762.706.050",
+    "name": "Thoughtworks",
+    "site": "https://thoughtlabs.be",
+    "locations": [
+      {
+        "province": "hainaut",
+        "municipality": "silly",
+        "address": "Chaussée d'Enghien 49 7830 Silly BE"
+      },
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-joost-ten-node",
+        "address": "Avenue du Boulevard 21 1210 Saint-Josse-ten-Noode BE"
+      }
+    ],
+    "tech": [
+      "MySQL",
+      "PHP",
+      "Next.js",
+      "React",
+      "Angular",
+      "GraphQL",
+      "Node.js",
+      "MongoDB",
+      "Express",
+      "Tailwind CSS"
+    ],
+    "employees": 35,
+    "founded": 2021,
+    "proof": [
+      {
+        "url": "https://thoughtlabs.be/our-works",
+        "image": "https://i.ibb.co/2Q5pdjD/thoughtworks-1769723355513-0.png"
+      }
+    ],
+    "lastUpdated": "2026-01-29T21:49:22.960Z"
+  },
+  {
     "cbe": "0540.823.203",
     "name": "Unikoo",
     "site": "https://www.unikoo.be/",
@@ -101180,35 +101218,6 @@
     ],
     "tech": [],
     "employees": 5,
-    "founded": 2021,
-    "proof": []
-  },
-  {
-    "cbe": "0762.706.050",
-    "name": "Thoughtworks",
-    "site": "",
-    "locations": [
-      {
-        "province": "hainaut",
-        "municipality": "silly",
-        "address": "Chaussée d'Enghien 49 7830 Silly BE",
-        "coords": [
-          4.032499,
-          50.676733
-        ]
-      },
-      {
-        "province": "brussels-capital",
-        "municipality": "sint-joost-ten-node",
-        "address": "Avenue du Boulevard 21 1210 Saint-Josse-ten-Noode BE",
-        "coords": [
-          4.356967,
-          50.856202
-        ]
-      }
-    ],
-    "tech": [],
-    "employees": 35,
     "founded": 2021,
     "proof": []
   },

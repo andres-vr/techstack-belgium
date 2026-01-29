@@ -382,7 +382,47 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/brussels-capital</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/brussels-capital?tech=react</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/brussels-capital?tech=angular</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/brussels-capital?tech=php</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/brussels-capital?tech=node-js</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/brussels-capital?tech=next-js</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/brussels-capital?tech=tailwind-css</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/brussels-capital?tech=graphql</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/brussels-capital?tech=mongodb</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/brussels-capital?tech=mysql</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/brussels-capital?tech=express</loc>
+    <lastmod>2026-01-29</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/flemish-brabant</loc>
@@ -642,7 +682,47 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/hainaut</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/hainaut?tech=react</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/hainaut?tech=angular</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/hainaut?tech=php</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/hainaut?tech=node-js</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/hainaut?tech=next-js</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/hainaut?tech=tailwind-css</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/hainaut?tech=graphql</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/hainaut?tech=mongodb</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/hainaut?tech=mysql</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/hainaut?tech=express</loc>
+    <lastmod>2026-01-29</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/walloon-brabant</loc>
@@ -1398,7 +1478,47 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/brussels-capital/municipalities/sint-joost-ten-node</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/brussels-capital/municipalities/sint-joost-ten-node?tech=react</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/brussels-capital/municipalities/sint-joost-ten-node?tech=angular</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/brussels-capital/municipalities/sint-joost-ten-node?tech=php</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/brussels-capital/municipalities/sint-joost-ten-node?tech=node-js</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/brussels-capital/municipalities/sint-joost-ten-node?tech=next-js</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/brussels-capital/municipalities/sint-joost-ten-node?tech=tailwind-css</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/brussels-capital/municipalities/sint-joost-ten-node?tech=graphql</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/brussels-capital/municipalities/sint-joost-ten-node?tech=mongodb</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/brussels-capital/municipalities/sint-joost-ten-node?tech=mysql</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/brussels-capital/municipalities/sint-joost-ten-node?tech=express</loc>
+    <lastmod>2026-01-29</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/brussels-capital/municipalities/sint-lambrechts-woluwe</loc>
@@ -2398,7 +2518,47 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/hainaut/municipalities/silly</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/hainaut/municipalities/silly?tech=react</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/hainaut/municipalities/silly?tech=angular</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/hainaut/municipalities/silly?tech=php</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/hainaut/municipalities/silly?tech=node-js</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/hainaut/municipalities/silly?tech=next-js</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/hainaut/municipalities/silly?tech=tailwind-css</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/hainaut/municipalities/silly?tech=graphql</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/hainaut/municipalities/silly?tech=mongodb</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/hainaut/municipalities/silly?tech=mysql</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/hainaut/municipalities/silly?tech=express</loc>
+    <lastmod>2026-01-29</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/hainaut/municipalities/soignies</loc>
@@ -3818,7 +3978,7 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/technologies/tailwind-css</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-29</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/technologies/postgresql</loc>
@@ -3882,7 +4042,7 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/technologies/mysql</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-29</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/technologies/alpine-js</loc>
@@ -3906,6 +4066,10 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/technologies/terraform</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/technologies/express</loc>
     <lastmod>2026-01-29</lastmod>
   </url>
   <url>
@@ -3970,6 +4134,10 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/relu</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/thoughtworks</loc>
     <lastmod>2026-01-29</lastmod>
   </url>
   <url>
@@ -21758,10 +21926,6 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/toster-software</loc>
-    <lastmod>2026-01-29</lastmod>
-  </url>
-  <url>
-    <loc>https://techstack.be/companies/thoughtworks</loc>
     <lastmod>2026-01-29</lastmod>
   </url>
   <url>
