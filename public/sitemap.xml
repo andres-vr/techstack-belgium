@@ -285,6 +285,10 @@
     <lastmod>2026-01-29</lastmod>
   </url>
   <url>
+    <loc>https://techstack.be/companies/provinces/antwerp?tech=flutter</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
     <loc>https://techstack.be/companies/provinces/antwerp?tech=mongodb</loc>
     <lastmod>2026-01-28</lastmod>
   </url>
@@ -401,11 +405,11 @@
     <lastmod>2026-01-29</lastmod>
   </url>
   <url>
-    <loc>https://techstack.be/companies/provinces/flemish-brabant?tech=typescript</loc>
+    <loc>https://techstack.be/companies/provinces/flemish-brabant?tech=flutter</loc>
     <lastmod>2026-01-29</lastmod>
   </url>
   <url>
-    <loc>https://techstack.be/companies/provinces/flemish-brabant?tech=flutter</loc>
+    <loc>https://techstack.be/companies/provinces/flemish-brabant?tech=typescript</loc>
     <lastmod>2026-01-29</lastmod>
   </url>
   <url>
@@ -517,6 +521,10 @@
     <lastmod>2026-01-29</lastmod>
   </url>
   <url>
+    <loc>https://techstack.be/companies/provinces/limburg?tech=flutter</loc>
+    <lastmod>2026-01-28</lastmod>
+  </url>
+  <url>
     <loc>https://techstack.be/companies/provinces/limburg?tech=nuxt</loc>
     <lastmod>2026-01-28</lastmod>
   </url>
@@ -546,14 +554,6 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/limburg?tech=jquery</loc>
-    <lastmod>2026-01-28</lastmod>
-  </url>
-  <url>
-    <loc>https://techstack.be/companies/provinces/limburg?tech=flutter</loc>
-    <lastmod>2026-01-28</lastmod>
-  </url>
-  <url>
-    <loc>https://techstack.be/companies/provinces/limburg?tech=nestjs</loc>
     <lastmod>2026-01-28</lastmod>
   </url>
   <url>
@@ -686,7 +686,7 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp/municipalities/antwerpen?tech=angular</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-29</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp/municipalities/antwerpen?tech=spring</loc>
@@ -734,6 +734,22 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp/municipalities/antwerpen?tech=node-js</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/antwerp/municipalities/antwerpen?tech=rest</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/antwerp/municipalities/antwerpen?tech=nestjs</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/antwerp/municipalities/antwerpen?tech=react-native</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/antwerp/municipalities/antwerpen?tech=flutter</loc>
     <lastmod>2026-01-29</lastmod>
   </url>
   <url>
@@ -2017,11 +2033,11 @@
     <lastmod>2026-01-29</lastmod>
   </url>
   <url>
-    <loc>https://techstack.be/companies/provinces/flemish-brabant/municipalities/zaventem?tech=typescript</loc>
+    <loc>https://techstack.be/companies/provinces/flemish-brabant/municipalities/zaventem?tech=flutter</loc>
     <lastmod>2026-01-29</lastmod>
   </url>
   <url>
-    <loc>https://techstack.be/companies/provinces/flemish-brabant/municipalities/zaventem?tech=flutter</loc>
+    <loc>https://techstack.be/companies/provinces/flemish-brabant/municipalities/zaventem?tech=typescript</loc>
     <lastmod>2026-01-29</lastmod>
   </url>
   <url>
@@ -2569,11 +2585,11 @@
     <lastmod>2026-01-28</lastmod>
   </url>
   <url>
-    <loc>https://techstack.be/companies/provinces/limburg/municipalities/diepenbeek?tech=nuxt</loc>
+    <loc>https://techstack.be/companies/provinces/limburg/municipalities/diepenbeek?tech=flutter</loc>
     <lastmod>2026-01-28</lastmod>
   </url>
   <url>
-    <loc>https://techstack.be/companies/provinces/limburg/municipalities/diepenbeek?tech=nestjs</loc>
+    <loc>https://techstack.be/companies/provinces/limburg/municipalities/diepenbeek?tech=nuxt</loc>
     <lastmod>2026-01-28</lastmod>
   </url>
   <url>
@@ -3477,6 +3493,10 @@
     <lastmod>2026-01-29</lastmod>
   </url>
   <url>
+    <loc>https://techstack.be/companies/technologies/flutter</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
     <loc>https://techstack.be/companies/technologies/nuxt</loc>
     <lastmod>2026-01-28</lastmod>
   </url>
@@ -3513,14 +3533,6 @@
     <lastmod>2026-01-28</lastmod>
   </url>
   <url>
-    <loc>https://techstack.be/companies/technologies/flutter</loc>
-    <lastmod>2026-01-29</lastmod>
-  </url>
-  <url>
-    <loc>https://techstack.be/companies/technologies/nestjs</loc>
-    <lastmod>2026-01-28</lastmod>
-  </url>
-  <url>
     <loc>https://techstack.be/companies/alpine-digital</loc>
     <lastmod>2026-01-28</lastmod>
   </url>
@@ -3546,6 +3558,10 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/easi</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/icapps</loc>
     <lastmod>2026-01-29</lastmod>
   </url>
   <url>
@@ -13498,10 +13514,6 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/innomedio</loc>
-    <lastmod>2026-01-29</lastmod>
-  </url>
-  <url>
-    <loc>https://techstack.be/companies/icapps</loc>
     <lastmod>2026-01-29</lastmod>
   </url>
   <url>
