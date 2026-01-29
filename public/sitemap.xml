@@ -310,7 +310,7 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp?tech=postgresql</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-29</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp?tech=redis</loc>
@@ -346,7 +346,11 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp?tech=mongodb</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/antwerp?tech=express</loc>
+    <lastmod>2026-01-29</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp?tech=typescript</loc>
@@ -821,6 +825,10 @@
     <lastmod>2026-01-29</lastmod>
   </url>
   <url>
+    <loc>https://techstack.be/companies/provinces/antwerp/municipalities/antwerpen?tech=postgresql</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
     <loc>https://techstack.be/companies/provinces/antwerp/municipalities/antwerpen?tech=rest</loc>
     <lastmod>2026-01-29</lastmod>
   </url>
@@ -834,6 +842,14 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp/municipalities/antwerpen?tech=flutter</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/antwerp/municipalities/antwerpen?tech=mongodb</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/antwerp/municipalities/antwerpen?tech=express</loc>
     <lastmod>2026-01-29</lastmod>
   </url>
   <url>
@@ -3806,7 +3822,7 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/technologies/postgresql</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-29</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/technologies/redis</loc>
@@ -3850,7 +3866,11 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/technologies/mongodb</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/technologies/express</loc>
+    <lastmod>2026-01-29</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/technologies/typescript</loc>
@@ -3935,6 +3955,10 @@
   <url>
     <loc>https://techstack.be/companies/jstack</loc>
     <lastmod>2026-01-28</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/lemon</loc>
+    <lastmod>2026-01-29</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/mr-watts</loc>
