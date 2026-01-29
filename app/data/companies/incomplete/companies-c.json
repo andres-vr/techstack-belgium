@@ -8886,26 +8886,6 @@
     "proof": []
   },
   {
-    "cbe": "0822.555.050",
-    "name": "Collide",
-    "site": "",
-    "locations": [
-      {
-        "province": "antwerp",
-        "municipality": "herentals",
-        "address": "Diamantstraat 10 2200 Herentals BE",
-        "coords": [
-          4.80647,
-          51.15908
-        ]
-      }
-    ],
-    "tech": [],
-    "employees": 33,
-    "founded": 2010,
-    "proof": []
-  },
-  {
     "cbe": "0826.619.548",
     "name": "Cubewise Belgium",
     "site": "",
