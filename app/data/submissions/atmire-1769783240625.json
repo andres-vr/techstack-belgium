@@ -1,0 +1,35 @@
+{
+  "companyName": "Atmire",
+  "website": "https://www.atmire.com",
+  "locations": [
+    {
+      "province": "flemish-brabant",
+      "municipality": "leuven",
+      "address": "Gaston Geenslaan 14 3001 Leuven BE",
+      "coords": [
+        4.667866,
+        50.864983
+      ]
+    }
+  ],
+  "techStack": [
+    "Bootstrap",
+    "SASS",
+    "Angular",
+    "Java",
+    "Node.js",
+    "TypeScript",
+    "REST",
+    "PostgreSQL",
+    "Ansible",
+    "GitLab CI",
+    "AWS"
+  ],
+  "proofUrls": [
+    "https://github.com/DSpace/DSpace",
+    "https://www.atmire.com/career"
+  ],
+  "cbe": "0886.066.294",
+  "employees": 26,
+  "founded": 2006
+}
