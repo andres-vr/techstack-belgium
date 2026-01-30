@@ -883,6 +883,51 @@
     "lastUpdated": "2026-01-28T19:12:43.536Z"
   },
   {
+    "cbe": "0677.439.585",
+    "name": "Nimbleops",
+    "site": "https://hivecpq.com",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "Kleindokkaai 17 9000 Gent BE",
+        "coords": [
+          3.738631,
+          51.058799
+        ]
+      }
+    ],
+    "tech": [
+      "Angular",
+      "MySQL",
+      "AWS",
+      "Azure",
+      "Java",
+      "Python",
+      "TypeScript",
+      "Node.js",
+      "FastAPI",
+      "REST",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Spring",
+      "SASS"
+    ],
+    "employees": 16,
+    "founded": 2017,
+    "proof": [
+      {
+        "url": "https://hivecpq.com/en/careers/implementation-consultant",
+        "image": "https://i.ibb.co/nMVxCkHX/nimbleops-1769785986454-0.png"
+      }
+    ],
+    "lastUpdated": "2026-01-30T15:13:14.012Z"
+  },
+  {
     "cbe": "0694.507.231",
     "name": "Phpro",
     "site": "https://www.phpro.be",
@@ -70889,26 +70934,6 @@
     ],
     "tech": [],
     "employees": 7,
-    "founded": 2017,
-    "proof": []
-  },
-  {
-    "cbe": "0677.439.585",
-    "name": "Nimbleops",
-    "site": "",
-    "locations": [
-      {
-        "province": "east-flanders",
-        "municipality": "gent",
-        "address": "Kleindokkaai 17 9000 Gent BE",
-        "coords": [
-          3.738631,
-          51.058799
-        ]
-      }
-    ],
-    "tech": [],
-    "employees": 16,
     "founded": 2017,
     "proof": []
   },

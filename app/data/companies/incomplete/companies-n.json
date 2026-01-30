@@ -935,26 +935,6 @@
     "proof": []
   },
   {
-    "cbe": "0677.439.585",
-    "name": "Nimbleops",
-    "site": "",
-    "locations": [
-      {
-        "province": "east-flanders",
-        "municipality": "gent",
-        "address": "Kleindokkaai 17 9000 Gent BE",
-        "coords": [
-          3.738631,
-          51.058799
-        ]
-      }
-    ],
-    "tech": [],
-    "employees": 16,
-    "founded": 2017,
-    "proof": []
-  },
-  {
     "cbe": "0678.541.625",
     "name": "Neterium",
     "site": "www.neterium.io",
