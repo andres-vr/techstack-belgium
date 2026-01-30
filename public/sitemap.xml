@@ -145,6 +145,10 @@
     <lastmod>2026-01-29</lastmod>
   </url>
   <url>
+    <loc>https://techstack.be/companies/provinces/east-flanders?tech=rest</loc>
+    <lastmod>2026-01-28</lastmod>
+  </url>
+  <url>
     <loc>https://techstack.be/companies/provinces/east-flanders?tech=node-js</loc>
     <lastmod>2026-01-29</lastmod>
   </url>
@@ -170,10 +174,6 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/east-flanders?tech=elasticsearch</loc>
-    <lastmod>2026-01-28</lastmod>
-  </url>
-  <url>
-    <loc>https://techstack.be/companies/provinces/east-flanders?tech=rest</loc>
     <lastmod>2026-01-28</lastmod>
   </url>
   <url>
@@ -234,7 +234,7 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp?tech=java</loc>
-    <lastmod>2026-01-29</lastmod>
+    <lastmod>2026-01-30</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp?tech=python</loc>
@@ -286,11 +286,11 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp?tech=kubernetes</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-30</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp?tech=kafka</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-30</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp?tech=aws</loc>
@@ -298,10 +298,14 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp?tech=kotlin</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-30</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp?tech=gcp</loc>
+    <lastmod>2026-01-30</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/antwerp?tech=rest</loc>
     <lastmod>2026-01-30</lastmod>
   </url>
   <url>
@@ -334,10 +338,6 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp?tech=graphql</loc>
-    <lastmod>2026-01-29</lastmod>
-  </url>
-  <url>
-    <loc>https://techstack.be/companies/provinces/antwerp?tech=rest</loc>
     <lastmod>2026-01-29</lastmod>
   </url>
   <url>
@@ -625,6 +625,10 @@
     <lastmod>2026-01-29</lastmod>
   </url>
   <url>
+    <loc>https://techstack.be/companies/provinces/limburg?tech=rest</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
     <loc>https://techstack.be/companies/provinces/limburg?tech=node-js</loc>
     <lastmod>2026-01-29</lastmod>
   </url>
@@ -650,10 +654,6 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/limburg?tech=graphql</loc>
-    <lastmod>2026-01-29</lastmod>
-  </url>
-  <url>
-    <loc>https://techstack.be/companies/provinces/limburg?tech=rest</loc>
     <lastmod>2026-01-29</lastmod>
   </url>
   <url>
@@ -866,7 +866,7 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp/municipalities/antwerpen?tech=java</loc>
-    <lastmod>2026-01-29</lastmod>
+    <lastmod>2026-01-30</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp/municipalities/antwerpen?tech=python</loc>
@@ -910,11 +910,11 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp/municipalities/antwerpen?tech=kubernetes</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-30</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp/municipalities/antwerpen?tech=kafka</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-30</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp/municipalities/antwerpen?tech=aws</loc>
@@ -922,18 +922,18 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp/municipalities/antwerpen?tech=kotlin</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-30</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp/municipalities/antwerpen?tech=gcp</loc>
     <lastmod>2026-01-30</lastmod>
   </url>
   <url>
-    <loc>https://techstack.be/companies/provinces/antwerp/municipalities/antwerpen?tech=node-js</loc>
-    <lastmod>2026-01-29</lastmod>
+    <loc>https://techstack.be/companies/provinces/antwerp/municipalities/antwerpen?tech=rest</loc>
+    <lastmod>2026-01-30</lastmod>
   </url>
   <url>
-    <loc>https://techstack.be/companies/provinces/antwerp/municipalities/antwerpen?tech=rest</loc>
+    <loc>https://techstack.be/companies/provinces/antwerp/municipalities/antwerpen?tech=node-js</loc>
     <lastmod>2026-01-29</lastmod>
   </url>
   <url>
@@ -1109,15 +1109,15 @@
     <lastmod>2026-01-29</lastmod>
   </url>
   <url>
+    <loc>https://techstack.be/companies/provinces/antwerp/municipalities/herentals?tech=rest</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
     <loc>https://techstack.be/companies/provinces/antwerp/municipalities/herentals?tech=node-js</loc>
     <lastmod>2026-01-29</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp/municipalities/herentals?tech=graphql</loc>
-    <lastmod>2026-01-29</lastmod>
-  </url>
-  <url>
-    <loc>https://techstack.be/companies/provinces/antwerp/municipalities/herentals?tech=rest</loc>
     <lastmod>2026-01-29</lastmod>
   </url>
   <url>
@@ -1317,6 +1317,10 @@
     <lastmod>2026-01-28</lastmod>
   </url>
   <url>
+    <loc>https://techstack.be/companies/provinces/antwerp/municipalities/mechelen?tech=rest</loc>
+    <lastmod>2026-01-28</lastmod>
+  </url>
+  <url>
     <loc>https://techstack.be/companies/provinces/antwerp/municipalities/mechelen?tech=node-js</loc>
     <lastmod>2026-01-28</lastmod>
   </url>
@@ -1326,10 +1330,6 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp/municipalities/mechelen?tech=graphql</loc>
-    <lastmod>2026-01-28</lastmod>
-  </url>
-  <url>
-    <loc>https://techstack.be/companies/provinces/antwerp/municipalities/mechelen?tech=rest</loc>
     <lastmod>2026-01-28</lastmod>
   </url>
   <url>
@@ -1661,11 +1661,11 @@
     <lastmod>2026-01-28</lastmod>
   </url>
   <url>
-    <loc>https://techstack.be/companies/provinces/east-flanders/municipalities/deinze?tech=tailwind-css</loc>
+    <loc>https://techstack.be/companies/provinces/east-flanders/municipalities/deinze?tech=rest</loc>
     <lastmod>2026-01-28</lastmod>
   </url>
   <url>
-    <loc>https://techstack.be/companies/provinces/east-flanders/municipalities/deinze?tech=rest</loc>
+    <loc>https://techstack.be/companies/provinces/east-flanders/municipalities/deinze?tech=tailwind-css</loc>
     <lastmod>2026-01-28</lastmod>
   </url>
   <url>
@@ -1757,6 +1757,10 @@
     <lastmod>2026-01-29</lastmod>
   </url>
   <url>
+    <loc>https://techstack.be/companies/provinces/east-flanders/municipalities/gent?tech=rest</loc>
+    <lastmod>2026-01-28</lastmod>
+  </url>
+  <url>
     <loc>https://techstack.be/companies/provinces/east-flanders/municipalities/gent?tech=node-js</loc>
     <lastmod>2026-01-29</lastmod>
   </url>
@@ -1782,10 +1786,6 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/east-flanders/municipalities/gent?tech=elasticsearch</loc>
-    <lastmod>2026-01-28</lastmod>
-  </url>
-  <url>
-    <loc>https://techstack.be/companies/provinces/east-flanders/municipalities/gent?tech=rest</loc>
     <lastmod>2026-01-28</lastmod>
   </url>
   <url>
@@ -3125,6 +3125,10 @@
     <lastmod>2026-01-29</lastmod>
   </url>
   <url>
+    <loc>https://techstack.be/companies/provinces/limburg/municipalities/hasselt?tech=rest</loc>
+    <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
     <loc>https://techstack.be/companies/provinces/limburg/municipalities/hasselt?tech=node-js</loc>
     <lastmod>2026-01-29</lastmod>
   </url>
@@ -3146,10 +3150,6 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/limburg/municipalities/hasselt?tech=graphql</loc>
-    <lastmod>2026-01-29</lastmod>
-  </url>
-  <url>
-    <loc>https://techstack.be/companies/provinces/limburg/municipalities/hasselt?tech=rest</loc>
     <lastmod>2026-01-29</lastmod>
   </url>
   <url>
@@ -3946,7 +3946,7 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/technologies/java</loc>
-    <lastmod>2026-01-29</lastmod>
+    <lastmod>2026-01-30</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/technologies/python</loc>
@@ -3998,11 +3998,11 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/technologies/kubernetes</loc>
-    <lastmod>2026-01-29</lastmod>
+    <lastmod>2026-01-30</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/technologies/kafka</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-30</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/technologies/aws</loc>
@@ -4010,10 +4010,14 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/technologies/kotlin</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-30</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/technologies/gcp</loc>
+    <lastmod>2026-01-30</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/technologies/rest</loc>
     <lastmod>2026-01-30</lastmod>
   </url>
   <url>
@@ -4046,10 +4050,6 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/technologies/graphql</loc>
-    <lastmod>2026-01-29</lastmod>
-  </url>
-  <url>
-    <loc>https://techstack.be/companies/technologies/rest</loc>
     <lastmod>2026-01-29</lastmod>
   </url>
   <url>
@@ -4127,6 +4127,10 @@
   <url>
     <loc>https://techstack.be/companies/axxes</loc>
     <lastmod>2026-01-28</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/aloxy</loc>
+    <lastmod>2026-01-30</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/codana</loc>
@@ -20786,6 +20790,10 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/softedge-studio</loc>
+    <lastmod>2026-01-30</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/sparklink</loc>
     <lastmod>2026-01-30</lastmod>
   </url>
   <url>
