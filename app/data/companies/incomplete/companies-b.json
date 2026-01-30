@@ -3492,26 +3492,6 @@
     "proof": []
   },
   {
-    "cbe": "0881.959.533",
-    "name": "Be-mobile",
-    "site": "",
-    "locations": [
-      {
-        "province": "east-flanders",
-        "municipality": "merelbeke-melle",
-        "address": "Kardinaal Mercierlaan 1A 9090 Merelbeke-Melle BE",
-        "coords": [
-          3.768559,
-          51.019534
-        ]
-      }
-    ],
-    "tech": [],
-    "employees": 97,
-    "founded": 2006,
-    "proof": []
-  },
-  {
     "cbe": "0882.912.707",
     "name": "Beckhoff Automation",
     "site": "",

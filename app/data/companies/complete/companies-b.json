@@ -1,1 +1,45 @@
-[]
+[
+  {
+    "cbe": "0881.959.533",
+    "name": "Be-mobile",
+    "site": "https://be-mobile.com",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "merelbeke-melle",
+        "address": "Kardinaal Mercierlaan 1A 9090 Merelbeke-Melle BE",
+        "coords": [
+          3.768559,
+          51.019534
+        ]
+      }
+    ],
+    "tech": [
+      "Vue",
+      "Go",
+      "Kafka",
+      "gRPC",
+      "REST",
+      "MongoDB",
+      "Elasticsearch",
+      "Docker",
+      "Ansible",
+      "Jenkins",
+      "Kubernetes",
+      "Terraform"
+    ],
+    "employees": 97,
+    "founded": 2006,
+    "proof": [
+      {
+        "url": "https://careers.be-mobile.com/o/backend-software-engineer-product-platform-context",
+        "image": "https://i.ibb.co/RGH4pHbB/be-mobile-1769778875457-0.png"
+      },
+      {
+        "url": "https://careers.be-mobile.com/o/fullstack-software-engineer-product-platform-context",
+        "image": "https://i.ibb.co/hRVcxdX0/be-mobile-1769778881038-1.png"
+      }
+    ],
+    "lastUpdated": "2026-01-30T13:14:45.556Z"
+  }
+]
