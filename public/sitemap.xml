@@ -246,7 +246,7 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp?tech=react</loc>
-    <lastmod>2026-01-29</lastmod>
+    <lastmod>2026-01-30</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp?tech=angular</loc>
@@ -266,7 +266,7 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp?tech=azure</loc>
-    <lastmod>2026-01-29</lastmod>
+    <lastmod>2026-01-30</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp?tech=github-actions</loc>
@@ -294,7 +294,7 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp?tech=aws</loc>
-    <lastmod>2026-01-29</lastmod>
+    <lastmod>2026-01-30</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp?tech=kotlin</loc>
@@ -302,7 +302,7 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp?tech=gcp</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-30</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp?tech=rest</loc>
@@ -354,7 +354,7 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp?tech=flutter</loc>
-    <lastmod>2026-01-29</lastmod>
+    <lastmod>2026-01-30</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp?tech=mongodb</loc>
@@ -391,6 +391,10 @@
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp?tech=jquery</loc>
     <lastmod>2026-01-28</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/antwerp?tech=terraform</loc>
+    <lastmod>2026-01-30</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/brussels-capital</loc>
@@ -870,7 +874,7 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp/municipalities/antwerpen?tech=react</loc>
-    <lastmod>2026-01-29</lastmod>
+    <lastmod>2026-01-30</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp/municipalities/antwerpen?tech=angular</loc>
@@ -886,7 +890,7 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp/municipalities/antwerpen?tech=azure</loc>
-    <lastmod>2026-01-29</lastmod>
+    <lastmod>2026-01-30</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp/municipalities/antwerpen?tech=github-actions</loc>
@@ -914,7 +918,7 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp/municipalities/antwerpen?tech=aws</loc>
-    <lastmod>2026-01-29</lastmod>
+    <lastmod>2026-01-30</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp/municipalities/antwerpen?tech=kotlin</loc>
@@ -922,7 +926,7 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp/municipalities/antwerpen?tech=gcp</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-30</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp/municipalities/antwerpen?tech=rest</loc>
@@ -942,7 +946,11 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp/municipalities/antwerpen?tech=flutter</loc>
-    <lastmod>2026-01-29</lastmod>
+    <lastmod>2026-01-30</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/antwerp/municipalities/antwerpen?tech=terraform</loc>
+    <lastmod>2026-01-30</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp/municipalities/arendonk</loc>
@@ -3950,7 +3958,7 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/technologies/react</loc>
-    <lastmod>2026-01-29</lastmod>
+    <lastmod>2026-01-30</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/technologies/angular</loc>
@@ -3970,7 +3978,7 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/technologies/azure</loc>
-    <lastmod>2026-01-29</lastmod>
+    <lastmod>2026-01-30</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/technologies/github-actions</loc>
@@ -3998,7 +4006,7 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/technologies/aws</loc>
-    <lastmod>2026-01-29</lastmod>
+    <lastmod>2026-01-30</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/technologies/kotlin</loc>
@@ -4006,7 +4014,7 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/technologies/gcp</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-30</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/technologies/rest</loc>
@@ -4062,7 +4070,7 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/technologies/flutter</loc>
-    <lastmod>2026-01-29</lastmod>
+    <lastmod>2026-01-30</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/technologies/nuxt</loc>
@@ -4110,7 +4118,7 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/technologies/terraform</loc>
-    <lastmod>2026-01-29</lastmod>
+    <lastmod>2026-01-30</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/alpine-digital</loc>
@@ -4179,6 +4187,10 @@
   <url>
     <loc>https://techstack.be/companies/relu</loc>
     <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/sparklink</loc>
+    <lastmod>2026-01-30</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/thoughtworks</loc>
@@ -4770,6 +4782,10 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/abrata-consulting</loc>
+    <lastmod>2026-01-30</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/aloxy</loc>
     <lastmod>2026-01-30</lastmod>
   </url>
   <url>
