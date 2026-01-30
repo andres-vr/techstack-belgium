@@ -883,6 +883,43 @@
     "lastUpdated": "2026-01-28T19:12:43.536Z"
   },
   {
+    "cbe": "0842.864.474",
+    "name": "Norento",
+    "site": "https://testingbot.com",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": null,
+        "address": "Vlinderhof 18 9180 Lokeren BE",
+        "coords": [
+          3.945013,
+          51.175444
+        ]
+      }
+    ],
+    "tech": [
+      "Tailwind CSS",
+      "jQuery",
+      "Ruby",
+      "Node.js",
+      "Ruby on Rails",
+      "MySQL",
+      "Docker",
+      "Jenkins",
+      "Ansible",
+      "GitHub Actions"
+    ],
+    "employees": null,
+    "founded": 2012,
+    "proof": [
+      {
+        "url": "https://testingbot.com/about",
+        "image": "https://i.ibb.co/PZdpVKWV/norento-1769799786932-0.png"
+      }
+    ],
+    "lastUpdated": "2026-01-30T19:03:12.879Z"
+  },
+  {
     "cbe": "0694.507.231",
     "name": "Phpro",
     "site": "https://www.phpro.be",
