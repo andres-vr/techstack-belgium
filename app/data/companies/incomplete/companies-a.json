@@ -3258,26 +3258,6 @@
     "proof": []
   },
   {
-    "cbe": "0684.650.150",
-    "name": "Aloxy",
-    "site": "",
-    "locations": [
-      {
-        "province": "antwerp",
-        "municipality": "antwerpen",
-        "address": "Sint-Pietersvliet 7 2000 Antwerpen BE",
-        "coords": [
-          4.400851,
-          51.225599
-        ]
-      }
-    ],
-    "tech": [],
-    "employees": 12,
-    "founded": 2017,
-    "proof": []
-  },
-  {
     "cbe": "0690.847.460",
     "name": "Adimian.be",
     "site": "www.adimian.com",
