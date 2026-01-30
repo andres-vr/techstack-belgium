@@ -3050,26 +3050,6 @@
     "proof": []
   },
   {
-    "cbe": "0838.033.676",
-    "name": "Pixeo",
-    "site": "",
-    "locations": [
-      {
-        "province": "antwerp",
-        "municipality": "arendonk",
-        "address": "Vrijheid 74 2370 Arendonk BE",
-        "coords": [
-          5.090196,
-          51.321212
-        ]
-      }
-    ],
-    "tech": [],
-    "employees": 5,
-    "founded": 2011,
-    "proof": []
-  },
-  {
     "cbe": "0838.968.638",
     "name": "Palo Alto Networks Belgium",
     "site": "",

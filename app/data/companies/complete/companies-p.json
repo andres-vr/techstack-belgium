@@ -70,5 +70,41 @@
       }
     ],
     "lastUpdated": "2026-01-28T19:09:26.593Z"
+  },
+  {
+    "cbe": "0838.033.676",
+    "name": "Pixeo",
+    "site": "https://www.pixeo.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "arendonk",
+        "address": "Vrijheid 74 2370 Arendonk BE",
+        "coords": [
+          5.090196,
+          51.321212
+        ]
+      }
+    ],
+    "tech": [
+      "Angular"
+    ],
+    "employees": 5,
+    "founded": 2011,
+    "proof": [
+      {
+        "url": "https://iflux.be/en-be/",
+        "image": "https://i.ibb.co/kgKSbynP/pixeo-1769784042280-0.png"
+      },
+      {
+        "url": "https://texturepainting.be/",
+        "image": "https://i.ibb.co/mVxFQ7Bb/pixeo-1769784050284-1.png"
+      },
+      {
+        "url": "https://coblavastgoed.com/",
+        "image": "https://i.ibb.co/kszqD8px/pixeo-1769784057705-2.png"
+      }
+    ],
+    "lastUpdated": "2026-01-30T14:41:06.517Z"
   }
 ]

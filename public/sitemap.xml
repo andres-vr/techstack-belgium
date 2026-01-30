@@ -1002,7 +1002,11 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp/municipalities/arendonk</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-30</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/antwerp/municipalities/arendonk?tech=angular</loc>
+    <lastmod>2026-01-30</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/antwerp/municipalities/baarle-hertog</loc>
@@ -4331,6 +4335,10 @@
   <url>
     <loc>https://techstack.be/companies/phpro</loc>
     <lastmod>2026-01-28</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/pixeo</loc>
+    <lastmod>2026-01-30</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/relu</loc>
@@ -18770,10 +18778,6 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/paf</loc>
-    <lastmod>2026-01-30</lastmod>
-  </url>
-  <url>
-    <loc>https://techstack.be/companies/pixeo</loc>
     <lastmod>2026-01-30</lastmod>
   </url>
   <url>
