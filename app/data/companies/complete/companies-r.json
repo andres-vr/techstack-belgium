@@ -7,7 +7,11 @@
       {
         "province": "flemish-brabant",
         "municipality": "leuven",
-        "address": "Kolonel Begaultlaan 1A 51 3012 Leuven BE"
+        "address": "Kolonel Begaultlaan 1A 51 3012 Leuven BE",
+        "coords": [
+          4.705573,
+          50.888612
+        ]
       }
     ],
     "tech": [
@@ -26,6 +30,6 @@
         "image": "https://i.ibb.co/XZjBxgtM/relu-1769715872913-0.png"
       }
     ],
-    "lastUpdated": "2026-01-29T19:44:36.331Z"
+    "lastUpdated": "2026-01-30T11:17:50.731Z"
   }
 ]

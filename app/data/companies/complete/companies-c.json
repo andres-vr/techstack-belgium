@@ -168,27 +168,47 @@
       {
         "province": "antwerp",
         "municipality": "kontich",
-        "address": "Prins Boudewijnlaan 7B 2550 Kontich BE"
+        "address": "Prins Boudewijnlaan 7B 2550 Kontich BE",
+        "coords": [
+          4.436202,
+          51.140545
+        ]
       },
       {
         "province": "flemish-brabant",
         "municipality": "zaventem",
-        "address": "Da Vincilaan 1 1930 Zaventem BE"
+        "address": "Da Vincilaan 1 1930 Zaventem BE",
+        "coords": [
+          4.460156,
+          50.887966
+        ]
       },
       {
         "province": "east-flanders",
         "municipality": "gent",
-        "address": "Ottergemsesteenweg-Zuid 808 9000 Gent BE"
+        "address": "Ottergemsesteenweg-Zuid 808 9000 Gent BE",
+        "coords": [
+          3.733061,
+          51.015577
+        ]
       },
       {
         "province": "antwerp",
         "municipality": "herentals",
-        "address": "Dikberd(HRT) 34 1D 2200 Herentals BE"
+        "address": "Dikberd(HRT) 34 1D 2200 Herentals BE",
+        "coords": [
+          4.850742,
+          51.165461
+        ]
       },
       {
         "province": "antwerp",
         "municipality": "antwerpen",
-        "address": "Bredestraat 19 2000 Antwerpen BE"
+        "address": "Bredestraat 19 2000 Antwerpen BE",
+        "coords": [
+          4.40226,
+          51.214554
+        ]
       }
     ],
     "tech": [
@@ -212,6 +232,6 @@
         "image": "https://i.ibb.co/Y7FbLJnP/cheops-technology-1769716223767-1.png"
       }
     ],
-    "lastUpdated": "2026-01-29T19:50:30.059Z"
+    "lastUpdated": "2026-01-30T11:17:50.321Z"
   }
 ]
