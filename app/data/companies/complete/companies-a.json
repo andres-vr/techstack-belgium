@@ -82,5 +82,34 @@
       }
     ],
     "lastUpdated": "2026-01-28T19:28:51.163Z"
+  },
+  {
+    "cbe": "0684.650.150",
+    "name": "Aloxy",
+    "site": "https://www.aloxy.io",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Sint-Pietersvliet 7 2000 Antwerpen BE"
+      }
+    ],
+    "tech": [
+      "Kubernetes",
+      "Kotlin",
+      "Java",
+      "Angular",
+      "Kafka",
+      "REST"
+    ],
+    "employees": 12,
+    "founded": 2017,
+    "proof": [
+      {
+        "url": "https://www.aloxy.io/vacancies/fullstack-software-engineer",
+        "image": "https://i.ibb.co/zVZz9qgf/aloxy-1769769699100-0.png"
+      }
+    ],
+    "lastUpdated": "2026-01-30T10:41:43.085Z"
   }
 ]
