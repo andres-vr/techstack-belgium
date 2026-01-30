@@ -610,7 +610,7 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/limburg</loc>
-    <lastmod>2026-01-29</lastmod>
+    <lastmod>2026-01-30</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/limburg?tech=java</loc>
@@ -630,7 +630,7 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/limburg?tech=angular</loc>
-    <lastmod>2026-01-29</lastmod>
+    <lastmod>2026-01-30</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/limburg?tech=laravel</loc>
@@ -654,11 +654,11 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/limburg?tech=docker</loc>
-    <lastmod>2026-01-29</lastmod>
+    <lastmod>2026-01-30</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/limburg?tech=c</loc>
-    <lastmod>2026-01-29</lastmod>
+    <lastmod>2026-01-30</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/limburg?tech=net</loc>
@@ -674,7 +674,7 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/limburg?tech=rest</loc>
-    <lastmod>2026-01-29</lastmod>
+    <lastmod>2026-01-30</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/limburg?tech=bootstrap</loc>
@@ -694,11 +694,15 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/limburg?tech=postgresql</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-30</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/limburg?tech=gitlab-ci</loc>
     <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/limburg?tech=grpc</loc>
+    <lastmod>2026-01-30</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/limburg?tech=symfony</loc>
@@ -706,7 +710,7 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/limburg?tech=next-js</loc>
-    <lastmod>2026-01-29</lastmod>
+    <lastmod>2026-01-30</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/limburg?tech=tailwind-css</loc>
@@ -714,7 +718,7 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/limburg?tech=redis</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-30</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/limburg?tech=graphql</loc>
@@ -3326,7 +3330,39 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/limburg/municipalities/heusden-zolder</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-30</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/limburg/municipalities/heusden-zolder?tech=angular</loc>
+    <lastmod>2026-01-30</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/limburg/municipalities/heusden-zolder?tech=docker</loc>
+    <lastmod>2026-01-30</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/limburg/municipalities/heusden-zolder?tech=c</loc>
+    <lastmod>2026-01-30</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/limburg/municipalities/heusden-zolder?tech=rest</loc>
+    <lastmod>2026-01-30</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/limburg/municipalities/heusden-zolder?tech=postgresql</loc>
+    <lastmod>2026-01-30</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/limburg/municipalities/heusden-zolder?tech=grpc</loc>
+    <lastmod>2026-01-30</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/limburg/municipalities/heusden-zolder?tech=next-js</loc>
+    <lastmod>2026-01-30</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/provinces/limburg/municipalities/heusden-zolder?tech=redis</loc>
+    <lastmod>2026-01-30</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/provinces/limburg/municipalities/houthalen-helchteren</loc>
@@ -4210,7 +4246,7 @@
   </url>
   <url>
     <loc>https://techstack.be/companies/technologies/redis</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-30</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/technologies/graphql</loc>
@@ -4351,6 +4387,10 @@
   <url>
     <loc>https://techstack.be/companies/ventory</loc>
     <lastmod>2026-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://techstack.be/companies/visuasoft</loc>
+    <lastmod>2026-01-30</lastmod>
   </url>
   <url>
     <loc>https://techstack.be/companies/wisemen</loc>

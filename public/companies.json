@@ -1149,6 +1149,49 @@
     "lastUpdated": "2026-01-29T15:33:27.139Z"
   },
   {
+    "cbe": "0538.682.075",
+    "name": "Visuasoft",
+    "site": "https://www.visuasoft.be",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "heusden-zolder",
+        "address": "Beatrijslaan 22 3550 Heusden-Zolder BE",
+        "coords": [
+          5.331736,
+          51.022207
+        ]
+      }
+    ],
+    "tech": [
+      "C#",
+      "Next.js",
+      "Angular",
+      "REST",
+      "gRPC",
+      "PostgreSQL",
+      "Redis",
+      "Docker"
+    ],
+    "employees": null,
+    "founded": 2013,
+    "proof": [
+      {
+        "url": "https://www.visuasoft.be",
+        "image": "https://i.ibb.co/yn6wXDMN/visuasoft-1769806813836-0.png"
+      },
+      {
+        "url": "https://github.com/visuasoft",
+        "image": "https://i.ibb.co/sJphPyhN/visuasoft-1769806816365-1.png"
+      },
+      {
+        "url": "https://github.com/suddenelfilio",
+        "image": "https://i.ibb.co/SwZjG2Bq/visuasoft-1769806819290-2.png"
+      }
+    ],
+    "lastUpdated": "2026-01-30T21:00:29.306Z"
+  },
+  {
     "cbe": "0503.920.245",
     "name": "Wisemen",
     "site": "https://wisemen.digital",
