@@ -1,0 +1,33 @@
+{
+  "companyName": "Visuasoft",
+  "website": "https://www.visuasoft.be",
+  "locations": [
+    {
+      "province": "limburg",
+      "municipality": "heusden-zolder",
+      "address": "Beatrijslaan 22 3550 Heusden-Zolder BE",
+      "coords": [
+        5.331736,
+        51.022207
+      ]
+    }
+  ],
+  "techStack": [
+    "C#",
+    "Next.js",
+    "Angular",
+    "REST",
+    "gRPC",
+    "PostgreSQL",
+    "Redis",
+    "Docker"
+  ],
+  "proofUrls": [
+    "https://www.visuasoft.be",
+    "https://github.com/visuasoft",
+    "https://github.com/suddenelfilio"
+  ],
+  "cbe": "0538.682.075",
+  "employees": null,
+  "founded": 2013
+}
