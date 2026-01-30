@@ -842,6 +842,41 @@
     "lastUpdated": "2026-01-29T19:44:36.331Z"
   },
   {
+    "cbe": "0847.240.461",
+    "name": "Sparklink",
+    "site": "https://sparklink.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Sint-Pietersvliet 6 2000 Antwerpen BE"
+      },
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Orteliuskaai 2 2000 Antwerpen BE"
+      }
+    ],
+    "tech": [
+      "Angular",
+      "GCP",
+      "AWS",
+      "Azure",
+      "React",
+      "Flutter",
+      "Terraform"
+    ],
+    "employees": 53,
+    "founded": 2012,
+    "proof": [
+      {
+        "url": "https://sparklink.be/en/what-we-do",
+        "image": "https://i.ibb.co/8g1bqDM6/sparklink-1769769976973-0.png"
+      }
+    ],
+    "lastUpdated": "2026-01-30T10:46:24.044Z"
+  },
+  {
     "cbe": "0762.706.050",
     "name": "Thoughtworks",
     "site": "https://thoughtlabs.be",
@@ -94380,35 +94415,6 @@
     ],
     "tech": [],
     "employees": 2,
-    "founded": 2012,
-    "proof": []
-  },
-  {
-    "cbe": "0847.240.461",
-    "name": "Sparklink",
-    "site": "sparklink.be",
-    "locations": [
-      {
-        "province": "antwerp",
-        "municipality": "antwerpen",
-        "address": "Sint-Pietersvliet 6 2000 Antwerpen BE",
-        "coords": [
-          4.400425,
-          51.225363
-        ]
-      },
-      {
-        "province": "antwerp",
-        "municipality": "antwerpen",
-        "address": "Orteliuskaai 2 2000 Antwerpen BE",
-        "coords": [
-          4.400258,
-          51.225589
-        ]
-      }
-    ],
-    "tech": [],
-    "employees": 53,
     "founded": 2012,
     "proof": []
   },

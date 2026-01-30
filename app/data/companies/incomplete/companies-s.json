@@ -5702,35 +5702,6 @@
     "proof": []
   },
   {
-    "cbe": "0847.240.461",
-    "name": "Sparklink",
-    "site": "sparklink.be",
-    "locations": [
-      {
-        "province": "antwerp",
-        "municipality": "antwerpen",
-        "address": "Sint-Pietersvliet 6 2000 Antwerpen BE",
-        "coords": [
-          4.400425,
-          51.225363
-        ]
-      },
-      {
-        "province": "antwerp",
-        "municipality": "antwerpen",
-        "address": "Orteliuskaai 2 2000 Antwerpen BE",
-        "coords": [
-          4.400258,
-          51.225589
-        ]
-      }
-    ],
-    "tech": [],
-    "employees": 53,
-    "founded": 2012,
-    "proof": []
-  },
-  {
     "cbe": "0849.854.711",
     "name": "Skwarel",
     "site": "",
