@@ -1,0 +1,41 @@
+{
+  "companyName": "Nimbleops",
+  "website": "https://hivecpq.com",
+  "locations": [
+    {
+      "province": "east-flanders",
+      "municipality": "gent",
+      "address": "Kleindokkaai 17 9000 Gent BE",
+      "coords": [
+        3.738631,
+        51.058799
+      ]
+    }
+  ],
+  "techStack": [
+    "Angular",
+    "MySQL",
+    "AWS",
+    "Azure",
+    "Java",
+    "Python",
+    "TypeScript",
+    "Node.js",
+    "FastAPI",
+    "REST",
+    "PostgreSQL",
+    "MongoDB",
+    "Redis",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "Spring",
+    "SASS"
+  ],
+  "proofUrls": [
+    "https://hivecpq.com/en/careers/implementation-consultant"
+  ],
+  "cbe": "0677.439.585",
+  "employees": 16,
+  "founded": 2017
+}
