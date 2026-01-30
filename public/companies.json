@@ -91,7 +91,11 @@
       {
         "province": "antwerp",
         "municipality": "antwerpen",
-        "address": "Sint-Pietersvliet 7 2000 Antwerpen BE"
+        "address": "Sint-Pietersvliet 7 2000 Antwerpen BE",
+        "coords": [
+          4.400851,
+          51.225599
+        ]
       }
     ],
     "tech": [
@@ -111,6 +115,49 @@
       }
     ],
     "lastUpdated": "2026-01-30T10:41:43.085Z"
+  },
+  {
+    "cbe": "0881.959.533",
+    "name": "Be-mobile",
+    "site": "https://be-mobile.com",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "merelbeke-melle",
+        "address": "Kardinaal Mercierlaan 1A 9090 Merelbeke-Melle BE",
+        "coords": [
+          3.768559,
+          51.019534
+        ]
+      }
+    ],
+    "tech": [
+      "Vue",
+      "Go",
+      "Kafka",
+      "gRPC",
+      "REST",
+      "MongoDB",
+      "Elasticsearch",
+      "Docker",
+      "Ansible",
+      "Jenkins",
+      "Kubernetes",
+      "Terraform"
+    ],
+    "employees": 97,
+    "founded": 2006,
+    "proof": [
+      {
+        "url": "https://careers.be-mobile.com/o/backend-software-engineer-product-platform-context",
+        "image": "https://i.ibb.co/RGH4pHbB/be-mobile-1769778875457-0.png"
+      },
+      {
+        "url": "https://careers.be-mobile.com/o/fullstack-software-engineer-product-platform-context",
+        "image": "https://i.ibb.co/hRVcxdX0/be-mobile-1769778881038-1.png"
+      }
+    ],
+    "lastUpdated": "2026-01-30T13:14:45.556Z"
   },
   {
     "cbe": "1011.008.135",
@@ -281,27 +328,47 @@
       {
         "province": "antwerp",
         "municipality": "kontich",
-        "address": "Prins Boudewijnlaan 7B 2550 Kontich BE"
+        "address": "Prins Boudewijnlaan 7B 2550 Kontich BE",
+        "coords": [
+          4.436202,
+          51.140545
+        ]
       },
       {
         "province": "flemish-brabant",
         "municipality": "zaventem",
-        "address": "Da Vincilaan 1 1930 Zaventem BE"
+        "address": "Da Vincilaan 1 1930 Zaventem BE",
+        "coords": [
+          4.460156,
+          50.887966
+        ]
       },
       {
         "province": "east-flanders",
         "municipality": "gent",
-        "address": "Ottergemsesteenweg-Zuid 808 9000 Gent BE"
+        "address": "Ottergemsesteenweg-Zuid 808 9000 Gent BE",
+        "coords": [
+          3.733061,
+          51.015577
+        ]
       },
       {
         "province": "antwerp",
         "municipality": "herentals",
-        "address": "Dikberd(HRT) 34 1D 2200 Herentals BE"
+        "address": "Dikberd(HRT) 34 1D 2200 Herentals BE",
+        "coords": [
+          4.850742,
+          51.165461
+        ]
       },
       {
         "province": "antwerp",
         "municipality": "antwerpen",
-        "address": "Bredestraat 19 2000 Antwerpen BE"
+        "address": "Bredestraat 19 2000 Antwerpen BE",
+        "coords": [
+          4.40226,
+          51.214554
+        ]
       }
     ],
     "tech": [
@@ -325,7 +392,7 @@
         "image": "https://i.ibb.co/Y7FbLJnP/cheops-technology-1769716223767-1.png"
       }
     ],
-    "lastUpdated": "2026-01-29T19:50:30.059Z"
+    "lastUpdated": "2026-01-30T11:17:50.321Z"
   },
   {
     "cbe": "0647.518.550",
@@ -549,7 +616,11 @@
       {
         "province": "antwerp",
         "municipality": "antwerpen",
-        "address": "Rijnkaai 100 16 2000 Antwerpen BE"
+        "address": "Rijnkaai 100 16 2000 Antwerpen BE",
+        "coords": [
+          4.40129,
+          51.229144
+        ]
       }
     ],
     "tech": [
@@ -589,7 +660,7 @@
         "image": "https://i.ibb.co/yF3yFD09/icapps-1769715740473-4.png"
       }
     ],
-    "lastUpdated": "2026-01-29T19:42:25.539Z"
+    "lastUpdated": "2026-01-30T11:17:50.549Z"
   },
   {
     "cbe": "0735.411.735",
@@ -849,7 +920,11 @@
       {
         "province": "flemish-brabant",
         "municipality": "leuven",
-        "address": "Kolonel Begaultlaan 1A 51 3012 Leuven BE"
+        "address": "Kolonel Begaultlaan 1A 51 3012 Leuven BE",
+        "coords": [
+          4.705573,
+          50.888612
+        ]
       }
     ],
     "tech": [
@@ -868,7 +943,7 @@
         "image": "https://i.ibb.co/XZjBxgtM/relu-1769715872913-0.png"
       }
     ],
-    "lastUpdated": "2026-01-29T19:44:36.331Z"
+    "lastUpdated": "2026-01-30T11:17:50.731Z"
   },
   {
     "cbe": "0847.240.461",
@@ -878,12 +953,20 @@
       {
         "province": "antwerp",
         "municipality": "antwerpen",
-        "address": "Sint-Pietersvliet 6 2000 Antwerpen BE"
+        "address": "Sint-Pietersvliet 6 2000 Antwerpen BE",
+        "coords": [
+          4.400425,
+          51.225363
+        ]
       },
       {
         "province": "antwerp",
         "municipality": "antwerpen",
-        "address": "Orteliuskaai 2 2000 Antwerpen BE"
+        "address": "Orteliuskaai 2 2000 Antwerpen BE",
+        "coords": [
+          4.400258,
+          51.225589
+        ]
       }
     ],
     "tech": [
@@ -913,12 +996,20 @@
       {
         "province": "hainaut",
         "municipality": "silly",
-        "address": "Chaussée d'Enghien 49 7830 Silly BE"
+        "address": "Chaussée d'Enghien 49 7830 Silly BE",
+        "coords": [
+          4.032499,
+          50.676733
+        ]
       },
       {
         "province": "brussels-capital",
         "municipality": "sint-joost-ten-node",
-        "address": "Avenue du Boulevard 21 1210 Saint-Josse-ten-Noode BE"
+        "address": "Avenue du Boulevard 21 1210 Saint-Josse-ten-Noode BE",
+        "coords": [
+          4.356967,
+          50.856202
+        ]
       }
     ],
     "tech": [
@@ -941,7 +1032,7 @@
         "image": "https://i.ibb.co/2Q5pdjD/thoughtworks-1769723355513-0.png"
       }
     ],
-    "lastUpdated": "2026-01-29T21:49:22.960Z"
+    "lastUpdated": "2026-01-30T11:17:51.544Z"
   },
   {
     "cbe": "0540.823.203",
@@ -14581,26 +14672,6 @@
     ],
     "tech": [],
     "employees": 5,
-    "founded": 2006,
-    "proof": []
-  },
-  {
-    "cbe": "0881.959.533",
-    "name": "Be-mobile",
-    "site": "",
-    "locations": [
-      {
-        "province": "east-flanders",
-        "municipality": "merelbeke-melle",
-        "address": "Kardinaal Mercierlaan 1A 9090 Merelbeke-Melle BE",
-        "coords": [
-          3.768559,
-          51.019534
-        ]
-      }
-    ],
-    "tech": [],
-    "employees": 97,
     "founded": 2006,
     "proof": []
   },
