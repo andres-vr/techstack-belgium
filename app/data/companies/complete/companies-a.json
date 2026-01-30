@@ -91,7 +91,11 @@
       {
         "province": "antwerp",
         "municipality": "antwerpen",
-        "address": "Sint-Pietersvliet 7 2000 Antwerpen BE"
+        "address": "Sint-Pietersvliet 7 2000 Antwerpen BE",
+        "coords": [
+          4.400851,
+          51.225599
+        ]
       }
     ],
     "tech": [

@@ -7,7 +7,11 @@
       {
         "province": "antwerp",
         "municipality": "antwerpen",
-        "address": "Rijnkaai 100 16 2000 Antwerpen BE"
+        "address": "Rijnkaai 100 16 2000 Antwerpen BE",
+        "coords": [
+          4.40129,
+          51.229144
+        ]
       }
     ],
     "tech": [
@@ -47,6 +51,6 @@
         "image": "https://i.ibb.co/yF3yFD09/icapps-1769715740473-4.png"
       }
     ],
-    "lastUpdated": "2026-01-29T19:42:25.539Z"
+    "lastUpdated": "2026-01-30T11:17:50.549Z"
   }
 ]

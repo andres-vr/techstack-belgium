@@ -7,12 +7,20 @@
       {
         "province": "antwerp",
         "municipality": "antwerpen",
-        "address": "Sint-Pietersvliet 6 2000 Antwerpen BE"
+        "address": "Sint-Pietersvliet 6 2000 Antwerpen BE",
+        "coords": [
+          4.400425,
+          51.225363
+        ]
       },
       {
         "province": "antwerp",
         "municipality": "antwerpen",
-        "address": "Orteliuskaai 2 2000 Antwerpen BE"
+        "address": "Orteliuskaai 2 2000 Antwerpen BE",
+        "coords": [
+          4.400258,
+          51.225589
+        ]
       }
     ],
     "tech": [

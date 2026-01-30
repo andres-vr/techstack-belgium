@@ -7,12 +7,20 @@
       {
         "province": "hainaut",
         "municipality": "silly",
-        "address": "Chaussée d'Enghien 49 7830 Silly BE"
+        "address": "Chaussée d'Enghien 49 7830 Silly BE",
+        "coords": [
+          4.032499,
+          50.676733
+        ]
       },
       {
         "province": "brussels-capital",
         "municipality": "sint-joost-ten-node",
-        "address": "Avenue du Boulevard 21 1210 Saint-Josse-ten-Noode BE"
+        "address": "Avenue du Boulevard 21 1210 Saint-Josse-ten-Noode BE",
+        "coords": [
+          4.356967,
+          50.856202
+        ]
       }
     ],
     "tech": [
@@ -35,6 +43,6 @@
         "image": "https://i.ibb.co/2Q5pdjD/thoughtworks-1769723355513-0.png"
       }
     ],
-    "lastUpdated": "2026-01-29T21:49:22.960Z"
+    "lastUpdated": "2026-01-30T11:17:51.544Z"
   }
 ]
