@@ -117,6 +117,48 @@
     "lastUpdated": "2026-01-30T10:41:43.085Z"
   },
   {
+    "cbe": "0886.066.294",
+    "name": "Atmire",
+    "site": "https://www.atmire.com",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "leuven",
+        "address": "Gaston Geenslaan 14 3001 Leuven BE",
+        "coords": [
+          4.667866,
+          50.864983
+        ]
+      }
+    ],
+    "tech": [
+      "Bootstrap",
+      "SASS",
+      "Angular",
+      "Java",
+      "Node.js",
+      "TypeScript",
+      "REST",
+      "PostgreSQL",
+      "Ansible",
+      "GitLab CI",
+      "AWS"
+    ],
+    "employees": 26,
+    "founded": 2006,
+    "proof": [
+      {
+        "url": "https://github.com/DSpace/DSpace",
+        "image": "https://i.ibb.co/chtHQTYp/atmire-1769783267938-0.png"
+      },
+      {
+        "url": "https://www.atmire.com/career",
+        "image": "https://i.ibb.co/tw1NsgCz/atmire-1769783273994-1.png"
+      }
+    ],
+    "lastUpdated": "2026-01-30T14:27:56.516Z"
+  },
+  {
     "cbe": "0881.959.533",
     "name": "Be-mobile",
     "site": "https://be-mobile.com",
@@ -7153,26 +7195,6 @@
     ],
     "tech": [],
     "employees": 5,
-    "founded": 2006,
-    "proof": []
-  },
-  {
-    "cbe": "0886.066.294",
-    "name": "Atmire",
-    "site": "",
-    "locations": [
-      {
-        "province": "flemish-brabant",
-        "municipality": "leuven",
-        "address": "Gaston Geenslaan 14 3001 Leuven BE",
-        "coords": [
-          4.667866,
-          50.864983
-        ]
-      }
-    ],
-    "tech": [],
-    "employees": 26,
     "founded": 2006,
     "proof": []
   },

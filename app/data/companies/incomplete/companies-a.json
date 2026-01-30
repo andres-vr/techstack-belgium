@@ -6014,26 +6014,6 @@
     "proof": []
   },
   {
-    "cbe": "0886.066.294",
-    "name": "Atmire",
-    "site": "",
-    "locations": [
-      {
-        "province": "flemish-brabant",
-        "municipality": "leuven",
-        "address": "Gaston Geenslaan 14 3001 Leuven BE",
-        "coords": [
-          4.667866,
-          50.864983
-        ]
-      }
-    ],
-    "tech": [],
-    "employees": 26,
-    "founded": 2006,
-    "proof": []
-  },
-  {
     "cbe": "0890.147.026",
     "name": "Arkance Systems Benelux",
     "site": "",
