@@ -1,0 +1,33 @@
+{
+  "companyName": "Norento",
+  "website": "https://testingbot.com",
+  "locations": [
+    {
+      "province": "east-flanders",
+      "municipality": null,
+      "address": "Vlinderhof 18 9180 Lokeren BE",
+      "coords": [
+        3.945013,
+        51.175444
+      ]
+    }
+  ],
+  "techStack": [
+    "Tailwind CSS",
+    "jQuery",
+    "Ruby",
+    "Node.js",
+    "Ruby on Rails",
+    "MySQL",
+    "Docker",
+    "Jenkins",
+    "Ansible",
+    "GitHub Actions"
+  ],
+  "proofUrls": [
+    "https://testingbot.com/about"
+  ],
+  "cbe": "0842.864.474",
+  "employees": null,
+  "founded": 2012
+}
