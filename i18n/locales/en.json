@@ -18,8 +18,8 @@
     "proofReferences": "Proof & References",
     "lastUpdated": "Last Updated",
     "verified": "Verified",
-    "verifiedByEmail": "This company has been verified via email confirmation",
-    "verifiedByProof": "This company has been verified with proof documentation",
+    "verifiedByEmail": "Verified by email",
+    "verifiedByProof": "Verified by proof",
     "emailVerificationTooltip": "The submitter's email matched this company's domain, confirming they have access to the company email."
   },
   "complete": {
