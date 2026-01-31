@@ -3396,26 +3396,6 @@
     "proof": []
   },
   {
-    "cbe": "0698.600.829",
-    "name": "Appeel.io",
-    "site": "",
-    "locations": [
-      {
-        "province": "antwerp",
-        "municipality": "kontich",
-        "address": "Veldkant 33 A 2550 Kontich BE",
-        "coords": [
-          4.442747,
-          51.142439
-        ]
-      }
-    ],
-    "tech": [],
-    "employees": 12,
-    "founded": 2018,
-    "proof": []
-  },
-  {
     "cbe": "0699.703.263",
     "name": "Aitie",
     "site": "",
