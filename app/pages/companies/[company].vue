@@ -56,12 +56,15 @@
                     (company.proof && company.proof.length > 0) ||
                     company.emailVerified
                   "
-                  class="mb-2 text-sm text-green-600 dark:text-green-400"
+                  class="mb-2 text-sm"
                 >
-                  <span v-if="company.emailVerified">
+                  <span
+                    v-if="company.emailVerified"
+                    class="text-green-600 dark:text-green-400"
+                  >
                     {{ t("ui.verifiedByEmail") }}
                   </span>
-                  <span v-else>
+                  <span v-else class="text-green-600 dark:text-green-400">
                     {{ t("ui.verifiedByProof") }}
                   </span>
                 </div>
@@ -217,12 +220,13 @@
                     :href="proof.image"
                     target="_blank"
                     rel="noopener noreferrer"
-                    class="flex items-center gap-2 px-3 py-1.5 text-sm text-gray-600 hover:text-gray-700 hover:bg-gray-100 rounded transition-colors"
+                    class="flex items-center gap-2 px-3 py-1.5 text-sm text-gray-600 hover:text-gray-700 hover:bg-gray-100 dark:hover:bg-gray-800 rounded transition-colors"
                   >
                     <NuxtImg
                       src="/icons/image.svg"
                       alt="screenshot"
-                      :size="14"
+                      width="20"
+                      height="20"
                     />
                     <span>Screenshot</span>
                   </a>
@@ -282,10 +286,18 @@ const displaySite = computed(() =>
 
 const { getMunicipalityName, getLocationsForDisplay } = useLocations();
 
+function formatDate(dateStr: string): string {
+  const d = new Date(dateStr);
+  const day = d.getDate();
+  const month = d.getMonth() + 1;
+  const year = d.getFullYear();
+  return `${day}-${month}-${year}`;
+}
+
 const lastUpdated = computed(() =>
   company.value?.lastUpdated
-    ? new Date(company.value.lastUpdated).toLocaleDateString()
-    : "Never",
+    ? formatDate(company.value.lastUpdated)
+    : t("ui.never"),
 );
 
 const locationRows = computed((): any[][] => {

@@ -18,8 +18,8 @@
     "proofReferences": "Beweise & Referenzen",
     "lastUpdated": "Zuletzt aktualisiert",
     "verified": "Verifiziert",
-    "verifiedByEmail": "Dieses Unternehmen wurde per E-Mail-Bestätigung verifiziert",
-    "verifiedByProof": "Dieses Unternehmen wurde mit Nachweisdokumenten verifiziert",
+    "verifiedByEmail": "Per E-Mail verifiziert",
+    "verifiedByProof": "Mit Nachweis verifiziert",
     "emailVerificationTooltip": "Die E-Mail-Adresse des Einreichers stimmte mit der Domäne dieses Unternehmens überein und bestätigt den Zugriff auf die Unternehmens-E-Mail."
   },
   "complete": {

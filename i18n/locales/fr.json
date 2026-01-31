@@ -18,8 +18,8 @@
     "proofReferences": "Preuves & Références",
     "lastUpdated": "Dernière mise à jour",
     "verified": "Vérifiée",
-    "verifiedByEmail": "Cette entreprise a été vérifiée par confirmation par e-mail",
-    "verifiedByProof": "Cette entreprise a été vérifiée avec de la documentation de preuve",
+    "verifiedByEmail": "Vérifiée par e-mail",
+    "verifiedByProof": "Vérifiée par preuve",
     "emailVerificationTooltip": "L'adresse e-mail du soumissionnaire correspondait au domaine de cette entreprise, confirmant qu'il avait accès à l'e-mail de l'entreprise."
   },
   "complete": {

@@ -40,19 +40,14 @@ export default defineNuxtConfig({
         icon16: 16,
         icon20: 20,
         icon24: 24,
-        icon28: 28,
-        logo32: 32,
-        logo37: 37,
-        logo40: 40,
-        favicon48: 48,
+        icon40: 40,
+        icon48: 48,
       },
       presets: {
         logo: {
           modifiers: ({
             format: 'webp',
-            quality: 40,
-            width: 37,
-            height: 37
+            quality: 5,
           } as any)
         }
       }

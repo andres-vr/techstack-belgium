@@ -18,8 +18,8 @@
     "proofReferences": "Bewijzen & Referenties",
     "lastUpdated": "Laatst bijgewerkt",
     "verified": "Geverifieerd",
-    "verifiedByEmail": "Dit bedrijf is geverifieerd via e-mailbevestiging",
-    "verifiedByProof": "Dit bedrijf is geverifieerd met bewijs documentatie",
+    "verifiedByEmail": "Geverifieerd via e-mail",
+    "verifiedByProof": "Geverifieerd met bewijs",
     "emailVerificationTooltip": "Het e-mailadres van de indiener kwam overeen met het domein van dit bedrijf, wat bewijst dat zij toegang hebben tot de bedrijfse-mail."
   },
   "complete": {
