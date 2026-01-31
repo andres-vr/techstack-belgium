@@ -211,6 +211,52 @@
           </ul>
         </section>
 
+        <!-- Verification -->
+        <section class="bg-surface border border-surface rounded-lg p-8">
+          <h2 class="text-2xl font-bold text-primary mb-4">
+            {{ t("about.verification") }}
+          </h2>
+          <p class="text-muted mb-6">
+            {{ t("about.verificationIntro") }}
+          </p>
+
+          <div class="space-y-6">
+            <!-- Email Verification -->
+            <div class="flex gap-4">
+              <div
+                class="flex-shrink-0 w-8 h-8 bg-blue-100 dark:bg-blue-900 text-blue-700 dark:text-blue-300 rounded-full flex items-center justify-center font-semibold text-sm"
+              >
+                1
+              </div>
+              <div>
+                <h3 class="font-semibold text-primary mb-2">
+                  {{ t("about.verificationByEmail") }}
+                </h3>
+                <p class="text-muted">
+                  {{ t("about.verificationByEmailText") }}
+                </p>
+              </div>
+            </div>
+
+            <!-- Proof Verification -->
+            <div class="flex gap-4">
+              <div
+                class="flex-shrink-0 w-8 h-8 bg-blue-100 dark:bg-blue-900 text-blue-700 dark:text-blue-300 rounded-full flex items-center justify-center font-semibold text-sm"
+              >
+                2
+              </div>
+              <div>
+                <h3 class="font-semibold text-primary mb-2">
+                  {{ t("about.verificationByProof") }}
+                </h3>
+                <p class="text-muted">
+                  {{ t("about.verificationByProofText") }}
+                </p>
+              </div>
+            </div>
+          </div>
+        </section>
+
         <!-- Community -->
         <section class="bg-surface border border-surface rounded-lg p-8">
           <h2 class="text-2xl font-bold text-primary mb-4">
@@ -222,23 +268,23 @@
           <div class="flex flex-wrap gap-3">
             <NuxtLink
               :to="localePath('/companies/add')"
-              class="inline-block bg-primary text-white px-4 py-2 rounded-lg hover:opacity-90 transition-opacity"
+              class="inline-block bg-primary text-black dark:text-white px-4 py-2 rounded-lg hover:opacity-90 transition-opacity"
             >
               {{ t("about.addNewCompany") }}
             </NuxtLink>
 
             <NuxtLink
               :to="localePath('/companies/complete')"
-              class="inline-block bg-primary text-white px-4 py-2 rounded-lg hover:opacity-90 transition-opacity"
+              class="inline-block bg-primary text-black dark:text-white px-4 py-2 rounded-lg hover:opacity-90 transition-opacity"
             >
-              {{ t("about.completeYourCompany") }}
+              {{ t("about.completeCompany") }}
             </NuxtLink>
 
             <NuxtLink
               :to="localePath('/companies/update')"
-              class="inline-block bg-primary text-white px-4 py-2 rounded-lg hover:opacity-90 transition-opacity"
+              class="inline-block bg-primary text-black dark:text-white px-4 py-2 rounded-lg hover:opacity-90 transition-opacity"
             >
-              {{ t("about.updateTechStack") }}
+              {{ t("about.updateCompany") }}
             </NuxtLink>
           </div>
         </section>
@@ -258,7 +304,7 @@
 </template>
 
 <script setup lang="ts">
-const { t, locale } = useI18n();
+const { t } = useI18n();
 const localePath = useLocalePath();
 
 useHead({

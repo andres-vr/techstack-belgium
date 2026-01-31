@@ -22,13 +22,49 @@
               <span>←</span>
               <span>{{ t("ui.backToDirectory") }}</span>
             </NuxtLink>
-            <div class="flex items-start justify-between mb-6">
+            <div class="flex items-start mb-6">
               <div>
                 <h1
-                  class="text-2xl sm:text-3xl md:text-4xl font-bold text-primary mb-2"
+                  class="flex items-center text-2xl sm:text-3xl md:text-4xl font-bold text-primary mb-2"
                 >
                   {{ company.name }}
+                  <!-- Verification Badge -->
+                  <span
+                    v-if="
+                      company.emailVerified ||
+                      (company.proof && company.proof.length > 0)
+                    "
+                    class="ml-3 inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-green-100 text-green-800 dark:bg-green-900 dark:text-green-300"
+                  >
+                    <svg
+                      class="w-3 h-3 mr-1"
+                      fill="currentColor"
+                      viewBox="0 0 20 20"
+                    >
+                      <path
+                        fill-rule="evenodd"
+                        d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+                        clip-rule="evenodd"
+                      ></path>
+                    </svg>
+                    {{ t("ui.verified") }}
+                  </span>
                 </h1>
+                <!-- Verification Status Message -->
+                <div
+                  v-if="
+                    (company.proof && company.proof.length > 0) ||
+                    company.emailVerified
+                  "
+                  class="mb-2 text-sm text-green-600 dark:text-green-400"
+                >
+                  <span v-if="company.emailVerified">
+                    {{ t("ui.verifiedByEmail") }}
+                  </span>
+                  <span v-else>
+                    {{ t("ui.verifiedByProof") }}
+                  </span>
+                </div>
                 <a
                   :href="company.site"
                   target="_blank"
@@ -193,7 +229,7 @@
                 </div>
                 <a
                   :href="proof.url"
-                  class="text-sm text-gray-900 break-all mb-3"
+                  class="text-sm text-gray-900 dark:text-gray-100 break-all mb-3"
                 >
                   {{ proof.url }}</a
                 >

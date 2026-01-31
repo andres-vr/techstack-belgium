@@ -252,6 +252,7 @@ export function buildCompanyFromCBEData(item: any) {
     employees: null as number | null,
     founded: founded || null,
     proof: [] as { url: string; image?: string }[],
+    emailVerified: false,
     lastUpdated: new Date().toISOString(),
   }
 }

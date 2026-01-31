@@ -40,8 +40,11 @@ export default defineNuxtConfig({
         icon16: 16,
         icon20: 20,
         icon24: 24,
+        icon28: 28,
+        logo32: 32,
         logo37: 37,
         logo40: 40,
+        favicon48: 48,
       },
       presets: {
         logo: {

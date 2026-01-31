@@ -9,44 +9,58 @@
   "ui": {
     "backToDirectory": "Zurück zum Verzeichnis",
     "companyNotFound": "Unternehmen nicht gefunden",
-    "companyPageTitle": "{name} - Tech Stack",
+    "companyPageTitle": "{name} - Tech-Stack",
     "companyPageDescription": "{name} verwendet {tech}. Erfahren Sie mehr über deren Tech-Stack und Standorte.",
     "employees": "Mitarbeiter",
     "founded": "Gegründet",
     "locations": "Standorte",
     "techStack": "Tech Stack",
     "proofReferences": "Beweise & Referenzen",
-    "lastUpdated": "Zuletzt aktualisiert"
+    "lastUpdated": "Zuletzt aktualisiert",
+    "verified": "Verifiziert",
+    "verifiedByEmail": "Dieses Unternehmen wurde per E-Mail-Bestätigung verifiziert",
+    "verifiedByProof": "Dieses Unternehmen wurde mit Nachweisdokumenten verifiziert",
+    "emailVerificationTooltip": "Die E-Mail-Adresse des Einreichers stimmte mit der Domäne dieses Unternehmens überein und bestätigt den Zugriff auf die Unternehmens-E-Mail."
   },
   "complete": {
     "title": "Unternehmen Vervollständigen",
     "subtitle": "Helfen Sie uns, die von belgischen Tech-Unternehmen verwendeten Technologien zu kartieren",
     "helpLocations": "Wenn Standorte fehlen, fügen Sie diese bitte hinzu. Wenn Ihr Unternehmen nicht in der Liste ist, können Sie es hinzufügen.",
     "noticeRedirectFromAddIncomplete": "Wir haben einen unvollständigen Eintrag für CBE {cbe} gefunden. Das Formular wurde vorausgefüllt, damit Sie fehlende Standorte oder Details hinzufügen können.",
-    "successMessage": "Vielen Dank! Ihre Einreichung wird geprüft."
+    "noticeRedirectFromAddComplete": "Ein Unternehmen mit CBE {cbe} wurde gefunden und geladen. Bitte vervollständigen Sie die Informationen nach Bedarf.",
+    "submit": "Unternehmen vervollständigen",
+    "submitting": "Vervollständigen...",
+    "successMessage": "Das Unternehmen \"{name}\" vervollständigt! Eine PR wurde zur Überprüfung erstellt.",
+    "submissionFailed": "Vervollständigen des Unternehmens fehlgeschlagen. Bitte versuchen Sie es erneut."
   },
   "update": {
     "title": "Firmeninfo Aktualisieren",
     "subtitle": "Aktualisieren Sie den Tech-Stack und die Details Ihres Unternehmens",
     "helpLocations": "Wenn Standorte fehlen, fügen Sie diese bitte hinzu. Wenn Ihr Unternehmen nicht in der Liste ist, können Sie es hinzufügen.",
-    "noticeRedirectFromAddComplete": "Ein Unternehmen mit CBE {cbe} wurde gefunden und geladen. Bitte aktualisieren Sie die Informationen falls nötig."
+    "noticeRedirectFromAddComplete": "Ein Unternehmen mit CBE {cbe} wurde gefunden und geladen. Bitte aktualisieren Sie die Informationen nach Bedarf.",
+    "noticeRedirectFromAddIncomplete": "Ein unvollständiger Eintrag für CBE {cbe} wurde gefunden und geladen. Bitte aktualisieren Sie die Informationen nach Bedarf.",
+    "submit": "Unternehmen aktualisieren",
+    "submitting": "Aktualisieren...",
+    "successMessage": "Das Unternehmen \"{name}\" aktualisiert! Eine PR wurde zur Überprüfung erstellt.",
+    "submissionFailed": "Aktualisieren des Unternehmens fehlgeschlagen. Bitte versuchen Sie es erneut."
   },
   "add": {
     "title": "Neues Unternehmen hinzufügen",
     "subtitle": "Fügen Sie ein Unternehmen, das noch nicht in unserer Datenbank enthalten ist, über die ZUE-Nummer (CBE) hinzu",
     "noticeRedirectToComplete": "Wir haben ein übereinstimmendes Unternehmen gefunden (CBE {cbe}) und leiten Sie zu Unternehmen vervollständigen weiter.",
     "noticeRedirectToUpdate": "Wir haben ein übereinstimmendes Unternehmen gefunden (CBE {cbe}) und leiten Sie zu Unternehmen aktualisieren weiter.",
-    "add": "Unternehmen hinzufügen",
-    "adding": "Unternehmen wird hinzugefügt...",
+    "submit": "Unternehmen hinzufügen",
+    "submitting": "Unternehmen wird hinzugefügt...",
     "loading": "Unternehmensdaten werden aus offiziellen Registern abgerufen...",
     "successMessage": "Das Unternehmen \"{name}\" wurde zur Prüfung hinzugefügt!",
     "addFailed": "Fehler beim Hinzufügen des Unternehmens. Bitte versuchen Sie es erneut.",
     "invalidCbe": "Bitte geben Sie eine gültige ZUE-Nummer ein (10 Stellen)",
-    "proofRequired": "Mindestens eine Nachweis-URL ist erforderlich"
+    "proofRequired": "Mindestens eine Nachweis-URL ist erforderlich",
+    "submissionFailed": "Fehler beim Hinzufügen des Unternehmens. Bitte versuchen Sie es erneut."
   },
   "form": {
-    "cbe": "ZUE-Nummer (CBE)",
-    "cbePlaceholder": "0123.456.789",
+    "cbe": "CBE-Nummer",
+    "cbePlaceholder": "z.B. 0123.456.789",
     "cbeHint": "Geben Sie die 10-stellige belgische Unternehmensnummer ein",
     "companyName": "Unternehmensname",
     "companyNamePlaceholder": "z.B. Acme Corp",
@@ -54,19 +68,49 @@
     "websitePlaceholder": "https://ihrUnternehmen.be",
     "websiteHint": "Muss eine gültige URL sein, die mit https:// oder http:// beginnt",
     "websiteHintAdd": "Geben Sie die Unternehmenswebsite ein (wird verwendet, wenn nicht im Register verfügbar)",
-
     "proofUrl": "Nachweis des Tech-Stacks",
     "proofUrlPlaceholder": "https://ihrUnternehmen.com/careers, Blog oder Jobbörsen-URL",
     "proofUrlHint": "Link zur Unternehmensseite (Karriere, Blog usw.) oder Jobbörse mit Ihrem Tech-Stack (erforderlich)",
     "proofUrlAdditional": "Beweis URL {n}",
     "proofUrlHintAdditional": "Zusätzliche Beweis-URL (Unternehmensseite oder Jobbörse)",
-
+    "verificationMethod": "Verifizierungsmethode",
+    "verificationMethodProof": "Proof-Links bereitstellen (Dokumentation, Stellenausschreibungen usw.)",
+    "verificationMethodEmail": "E-Mail-Verifizierung (falls kein Nachweis verfügbar ist)",
+    "contactEmail": "Kontakt-E-Mail",
+    "contactEmailPlaceholder": "kontakt{'@'}ihrunternehmen.com",
+    "contactEmailHint": "Unternehmens-E-Mail-Adresse zur Verifizierung. Muss mit Ihrer Website-Domain übereinstimmen.",
+    "emailDomainMismatch": "Die E-Mail-Domain muss mit Ihrer Website-Domain übereinstimmen (z.B. Name{'@'}ihrunternehmen.be für https://ihrunternehmen.be)",
+    "otpCode": "Verifizierungscode",
+    "otpCodePlaceholder": "6-stelligen Code eingeben",
+    "otpCodeHint": "Geben Sie den 6-stelligen Code ein, der an Ihre E-Mail gesendet wurde",
+    "sendVerificationEmail": "Verifizierungscode senden",
+    "sendingEmail": "Senden...",
+    "verifyingOtp": "Überprüfung...",
+    "verifyOtp": "Code überprüfen",
+    "resendOtp": "Code erneut senden",
+    "otpSent": "Verifizierungscode gesendet! Überprüfen Sie Ihren Posteingang für einen 6-stelligen Code.",
+    "emailVerificationSent": "Verifizierungscode gesendet! Überprüfen Sie Ihren Posteingang für einen 6-stelligen Code.",
+    "emailVerified": "E-Mail erfolgreich verifiziert!",
+    "emailVerifiedDescription": "Sie können nun Ihr Unternehmen zur Überprüfung einreichen.",
+    "emailVerificationFailed": "Verifizierungs-E-Mail konnte nicht gesendet werden. Bitte versuchen Sie es erneut.",
+    "otpInvalid": "Ungültiger Verifizierungscode. Bitte versuchen Sie es erneut.",
+    "otpExpired": "Verifizierungscode abgelaufen. Bitte fordern Sie einen neuen an.",
+    "otpError": "Der Verifizierungscode ist ungültig oder abgelaufen.",
+    "privacyNotice": "Ihre E-Mail wird nur zur Verifizierung verwendet und wird nach Abschluss gelöscht. Siehe unser",
+    "privacyPolicy": "Datenschutzrichtlinie",
     "locations": "Standorte",
     "address": "Adresse",
-    "remove": "Entfernen"
+    "addressPlaceholder": "z.B. 123 Hauptstraße, Brüssel 1000",
+    "remove": "Entfernen",
+    "locationPlaceholder": "Straße und Hausnummer",
+    "verificationPurpose": "Zweck der Verifizierung",
+    "verificationPurposeProof": "Der Tech-Stack wird anhand der bereitgestellten Proof-Links verifiziert.",
+    "verificationPurposeEmail": "Der Tech-Stack wird per E-Mail-Bestätigung von einer Unternehmensdomain verifiziert.",
+    "verificationMethodDisclaimer": "Bitte beachten Sie: Ihre Einreichung wird entweder über Proof-Links ODER über eine E-Mail-Verifizierung verifiziert, nicht beides."
   },
   "index": {
     "companies": "Unternehmen",
+    "companiesFound": "Unternehmen gefunden",
     "company": "Unternehmen",
     "search": "Nach einem Unternehmen suchen",
     "provinces": "Provinzen",
@@ -104,18 +148,18 @@
     "byTechnology": "Nach Technologie",
     "contribute": "Mitwirken",
     "addCompany": "Neues Unternehmen hinzufügen",
-    "submitTechStack": "Unternehmen vervollständigen",
-    "updateTechStack": "Unternehmen aktualisieren",
+    "completeCompany": "Unternehmen vervollständigen",
+    "updateCompany": "Unternehmen aktualisieren",
     "resources": "Ressourcen",
-    "apiDocs": "API",
-    "apiEndpoint": "Dokumentation",
+    "apiDocs": "API-Dokumentation",
+    "apiEndpoint": "API-Endpunkt",
     "about": "Über",
     "aboutProject": "Über das Projekt",
+    "privacy": "Datenschutzrichtlinie",
     "license": "Lizenz",
     "contact": "Kontakt",
     "description": "Techstack Belgien - Open-Source-Verzeichnis für Tech-Stacks in Belgien"
-  }
-  ,
+  },
   "breadcrumb": {
     "home": "Startseite",
     "companies": "Unternehmen",
@@ -148,10 +192,9 @@
     "introTemplate": "Diese Seite listet verifizierte belgische Softwareunternehmen in {location} auf, die {tech} verwenden. Jedes Unternehmen enthält Standort, Größe und Nachweislinks, die ihren Tech-Stack bestätigen.",
     "introNoTech": "Diese Seite listet verifizierte belgische Softwareunternehmen in {location} auf. Jedes Unternehmen enthält Standort, Größe und Nachweislinks, die ihren Tech-Stack bestätigen.",
     "introNoLocation": "Diese Seite listet verifizierte belgische Softwareunternehmen auf, die {tech} verwenden. Jedes Unternehmen enthält Standort, Größe und Nachweislinks, die ihren Tech-Stack bestätigen.",
-    "introDefault": "Diese Seite listet verifizierte belgische Softwareunternehmen auf. Jedes Unternehmen enthält Standort, Größe und Nachweislinks, die ihren Tech-Stack bestätigen."
-    ,"descriptionFallback": "Entdecken Sie belgische Softwareunternehmen und deren Tech-Stacks."
-  }
-  ,
+    "introDefault": "Diese Seite listet verifizierte belgische Softwareunternehmen auf. Jedes Unternehmen enthält Standort, Größe und Nachweislinks, die ihren Tech-Stack bestätigen.",
+    "descriptionFallback": "Entdecken Sie belgische Softwareunternehmen und deren Tech-Stacks."
+  },
   "search": {
     "byTechnology": "Unternehmen nach Technologie suchen",
     "byProvince": "Unternehmen nach Provinz suchen",
@@ -185,7 +228,7 @@
     "rateLimitsText": "Derzeit gibt es keine Ratenbegrenzung. Bitte seien Sie rücksichtsvoll und cachen Sie Antworten, wenn möglich.",
     "support": "Support",
     "supportText": "Für Fragen, Fehlerberichte oder Feature-Anfragen öffnen Sie bitte ein Issue auf GitHub:",
-    "githubIssues": "GitHub Issues"
+    "githubIssues": "GitHub-Issues"
   },
   "about": {
     "pageTitle": "Über - Techstack Belgien",
@@ -224,12 +267,71 @@
     "qualityPoint2": "Von der Gemeinschaft getriebene Aktualisierungen und Einreichungen für Tech-Stacks und Nachweislinks",
     "qualityPoint3": "Automatische Screenshot-Erfassung für Nachweisvalidierung",
     "qualityPoint4": "Regelmäßige Datenschutzupdates zur Aufrechterhaltung von Genauigkeit und Relevanz",
+    "verification": "Verifizierungsmethoden",
+    "verificationIntro": "Wir bieten zwei Möglichkeiten zur Verifizierung von Unternehmen-Tech-Stack-Einreichungen und stellen so Datenqualität und Authentizität sicher:",
+    "verificationByEmail": "E-Mail-Domänenverifizierung",
+    "verificationByEmailText": "Einreicher können ihr Unternehmen verifizieren, indem sie bestätigen, dass ihre E-Mail-Adresse der Unternehmensdomäne entspricht (z. B. {'@'}unternehmen.de). Dies bietet schnelle Überprüfung, dass der Einreicher Zugriff auf das Unternehmens-E-Mail-System hat.",
+    "verificationByProof": "Überprüfung von Nachweisdokumenten",
+    "verificationByProofText": "Alternativ können Einreicher Nachweis-URLs wie Stellenausschreibungen, Dokumentation oder öffentliche Referenzen bereitstellen, die deutlich den Tech-Stack des Unternehmens demonstrieren.",
     "community": "Tragen Sie zu unserem Datensatz bei",
     "communityText": "Fehlt Ihr Unternehmen oder ist es veraltet? Wir begrüßen Tech-Stack-Einreichungen und Aktualisierungen. Jeder verifizierte Tech-Stack trägt zu einem besseren Verständnis des belgischen Technologieökosystems bei.",
-    "completeYourCompany": "Tech-Stack vervollständigen",
+    "completeCompany": "Unternehmen vervollständigen",
     "addNewCompany": "Neues Unternehmen hinzufügen",
-    "updateTechStack": "Tech-Stack aktualisieren",
+    "updateCompany": "Unternehmen aktualisieren",
     "contact": "Kontakt & Rückmeldungen",
     "contactText": "Haben Sie Fragen zu unseren Daten, unserer Methodik oder möchten Sie einen Beitrag leisten? Bitte kontaktieren Sie uns auf GitHub. Wir freuen uns immer über Rückmeldungen und Gemeinschaftsbeiträge."
+  },
+  "emailVerification": {
+    "title": "E-Mail-Verifizierung",
+    "subtitle": "Verifizierung Ihrer E-Mail-Adresse",
+    "pageTitle": "E-Mail-Verifizierung - Techstack Belgien",
+    "pageDescription": "Verifizieren Sie Ihre geschäftliche E-Mail-Adresse für das Techstack Belgien Verzeichnis",
+    "verifying": "Ihre E-Mail-Adresse wird verifiziert...",
+    "success": "E-Mail erfolgreich verifiziert!",
+    "successMessage": "Ihre E-Mail wurde für das Unternehmen CBE {cbe} verifiziert. Ihr Unternehmen wird als verifiziert markiert.",
+    "error": "Verifizierung fehlgeschlagen",
+    "errorMessage": "Der Verifizierungslink ist ungültig oder abgelaufen. Bitte versuchen Sie erneut, Ihr Unternehmen einzureichen.",
+    "backToDirectory": "Zurück zum Unternehmensverzeichnis",
+    "tryAgain": "Versuchen Sie erneut, das Unternehmen hinzuzufügen"
+  },
+  "privacy": {
+    "title": "Datenschutzrichtlinie",
+    "subtitle": "Wie wir mit Ihren Daten umgehen",
+    "pageTitle": "Datenschutzrichtlinie - Techstack Belgien",
+    "pageDescription": "Datenschutzrichtlinie, die erklärt, wie Techstack Belgien die E-Mail-Verifizierung und Unternehmensdaten handhabt",
+    "emailUsage": {
+      "title": "E-Mail-Nutzung zur Verifizierung",
+      "purpose": "Wenn Sie ein Unternehmen mittels E-Mail-Verifizierung einreichen, erfassen wir Ihre E-Mail-Adresse ausschließlich zum Zweck der Verifizierung der Tech-Stack-Einreichung Ihres Unternehmens.",
+      "verification": "Ihre E-Mail wird verwendet, um einen einmaligen Verifizierungscode zu senden. Sobald Sie diesen Code eingegeben und den Verifizierungsprozess abgeschlossen haben, dient Ihre E-Mail als Nachweis, dass die Einreichung von jemandem mit Zugriff auf eine Unternehmens-E-Mail-Adresse vorgenommen wurde.",
+      "deletion": "Nach Abschluss der Verifizierung und Aufnahme Ihres Unternehmens in unser Verzeichnis wird Ihre E-Mail-Adresse dauerhaft aus unserer Datenbank gelöscht. Wir speichern, teilen oder verwenden Ihre E-Mail nicht für andere Zwecke."
+    },
+    "dataCollection": {
+      "title": "Datenerhebung",
+      "types": "Wir erheben die folgenden Arten von Daten:",
+      "companyInfo": "Unternehmensinformationen aus offiziellen belgischen Registern (CBE-Datenbank)",
+      "techStack": "Informationen zum Tech-Stack, die Sie bereitstellen",
+      "locations": "Standortdaten des Unternehmens",
+      "proofUrls": "Nachweis-URLs (bei Verwendung der URL-Verifizierungsmethode)",
+      "emailTemp": "E-Mail-Adressen vorübergehend zur Verifizierung (gelöscht nach Verifizierung)"
+    },
+    "dataRetention": {
+      "title": "Datenspeicherung",
+      "companyData": "Unternehmensinformationen, Tech-Stacks und Standorte werden dauerhaft als Teil unseres öffentlichen Verzeichnisses gespeichert, um der belgischen Tech-Community zu dienen.",
+      "emailData": "Zur Verifizierung verwendete E-Mail-Adressen werden unmittelbar nach erfolgreichem Abschluss der Verifizierung gelöscht."
+    },
+    "dataSources": {
+      "title": "Datenquellen",
+      "description": "Unsere Unternehmensdaten stammen von:",
+      "cbe": "Zentrale Datenbank der Unternehmen (CBE) für offizielle Unternehmensinformationen",
+      "nbb": "Belgische Nationalbank für Mitarbeiterdaten",
+      "community": "Beiträge und Aktualisierungen der Community für Tech-Stack-Informationen"
+    },
+    "contact": {
+      "title": "Kontaktieren Sie uns",
+      "description": "Falls Sie Fragen zu dieser Datenschutzrichtlinie haben oder die Löschung der Daten Ihres Unternehmens beantragen möchten, kontaktieren Sie uns bitte:",
+      "github": "GitHub-Repository"
+    },
+    "lastUpdated": "Zuletzt aktualisiert",
+    "lastUpdatedDate": "30. Januar 2026"
   }
 }

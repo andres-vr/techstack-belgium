@@ -58,206 +58,59 @@
               required
             />
 
-            <!-- Locations (up to 5). Auto-add next when previous filled -->
-            <div>
-              <label class="block text-sm font-medium text-slate-700 mb-2">
-                {{ t("form.locations") }} <span class="text-red-500">*</span>
-              </label>
-              <div class="space-y-3">
-                <div
-                  v-for="index in visibleLocationIndices"
-                  :key="index"
-                  class="flex gap-3 items-start p-3 bg-surface border border-surface rounded"
-                >
-                  <div class="flex-1">
-                    <FormField
-                      :id="`location-address-${index}`"
-                      :label="t('form.address')"
-                      :model-value="form.locations[index]?.address || ''"
-                      @update:model-value="
-                        (v) => {
-                          if (!isLockedLocation(index)) {
-                            if (!form.locations[index])
-                              form.locations[index] = {
-                                province: '',
-                                municipality: '',
-                                address: '',
-                              };
-                            form.locations[index].address = v;
-                          }
-                        }
-                      "
-                      type="text"
-                      :placeholder="t('form.addressPlaceholder')"
-                      :required="index === 0"
-                      :readonly="isLockedLocation(index)"
-                    />
-                  </div>
+            <!-- Locations -->
+            <FormLocations
+              v-model="form.locations"
+              :locked-indices="lockedLocationIndices"
+            />
 
-                  <button
-                    v-if="
-                      !isLockedLocation(index) &&
-                      (form.locations.length > 1 ||
-                        (form.locations[index]?.address &&
-                          form.locations[index].address.trim() !== ''))
-                    "
-                    type="button"
-                    @click="removeLocation(index)"
-                    class="p-2 text-slate-400 hover:text-red-600 mt-6"
-                  >
-                    {{ t("form.remove") }}
-                  </button>
-                </div>
-              </div>
-            </div>
+            <!-- Verification Method Selection -->
+            <FormVerificationMethodSelector v-model="form.verificationMethod" />
 
-            <!-- Proof URLs (First one required, up to 5 total) -->
-            <div
-              v-for="index in visibleProofFields"
-              :key="index"
-              class="space-y-1"
-            >
-              <FormField
-                :id="`proofUrl${index}`"
-                :label="
-                  index === 0
-                    ? t('form.proofUrl')
-                    : t('form.proofUrlAdditional', { n: index + 1 })
-                "
-                :model-value="form.proofUrls[index] ?? ''"
-                @update:model-value="form.proofUrls[index] = $event"
-                type="url"
-                :placeholder="t('form.proofUrlPlaceholder')"
-                :hint="
-                  index === 0
-                    ? t('form.proofUrlHint')
-                    : t('form.proofUrlHintAdditional')
-                "
-                :required="index === 0"
-              />
-            </div>
+            <!-- Proof URLs (shown when proof method is selected) -->
+            <FormProofUrls
+              v-if="form.verificationMethod === 'proof'"
+              v-model="form.proofUrls"
+            />
+
+            <!-- Email Verification (shown when email method is selected) -->
+            <FormEmailVerification
+              v-else-if="form.verificationMethod === 'email'"
+              :contact-email="form.contactEmail"
+              :website="form.website"
+              :otp-sent="otpSent"
+              :email-verified="emailVerified"
+              :sending-email="sendingEmail"
+              :verifying-otp="verifyingOtp"
+              :otp-error="otpError"
+              :email-domain-matches-website="emailDomainMatchesWebsite"
+              @update:contact-email="form.contactEmail = $event"
+              @send-verification-email="sendVerificationEmail"
+              @verify-otp="handleVerifyOtp"
+            />
           </div>
 
           <!-- Right column: tech stack -->
           <div class="space-y-6">
-            <div
-              v-for="category in techCategories"
-              :key="category.key"
-              class="mb-2"
-            >
-              <h1 class="text-lg font-bold">{{ category.label }}</h1>
-
-              <div v-if="category.key === CategoryKey.BACKEND">
-                <div class="text-sm font-medium text-slate-600 mb-1">
-                  Languages
-                </div>
-                <TechItem
-                  :items="
-                    tech.filter(
-                      (t) => t.category === category.key && !t.derives,
-                    )
-                  "
-                  :selected="form.techStack"
-                  :getCategoryClasses="getCategoryClasses"
-                  :toggleItem="toggleItem"
-                  class="mb-3"
-                />
-
-                <div class="text-sm font-medium text-slate-600 mb-1">
-                  Frameworks
-                </div>
-                <TechItem
-                  :items="
-                    tech.filter((t) => t.category === category.key && t.derives)
-                  "
-                  :selected="form.techStack"
-                  :getCategoryClasses="getCategoryClasses"
-                  :toggleItem="toggleItem"
-                />
-              </div>
-
-              <div v-else-if="category.key === CategoryKey.DATABASE">
-                <div class="text-sm font-medium text-slate-600 mb-1">SQL</div>
-                <TechItem
-                  :items="
-                    tech.filter(
-                      (t) =>
-                        t.category === category.key &&
-                        t.derives &&
-                        t.derives.includes(Derives.SQL),
-                    )
-                  "
-                  :selected="form.techStack"
-                  :getCategoryClasses="getCategoryClasses"
-                  :toggleItem="toggleItem"
-                  class="mb-3"
-                />
-
-                <div class="text-sm font-medium text-slate-600 mb-1">NoSQL</div>
-                <TechItem
-                  :items="
-                    tech.filter(
-                      (t) =>
-                        t.category === category.key &&
-                        t.derives &&
-                        t.derives.includes(Derives.NOSQL),
-                    )
-                  "
-                  :selected="form.techStack"
-                  :getCategoryClasses="getCategoryClasses"
-                  :toggleItem="toggleItem"
-                />
-              </div>
-
-              <div v-else>
-                <TechItem
-                  :items="tech.filter((t) => t.category === category.key)"
-                  :selected="form.techStack"
-                  :getCategoryClasses="getCategoryClasses"
-                  :toggleItem="toggleItem"
-                />
-              </div>
-            </div>
+            <FormTechStackSelector v-model="form.techStack" />
           </div>
         </div>
 
         <!-- Submit area: button, messages and guidelines -->
-        <div class="mt-4">
-          <div class="flex flex-col items-center gap-3">
-            <button
-              v-if="canSubmit"
-              type="submit"
-              :disabled="isSubmitting"
-              class="inline-flex items-center gap-2 bg-slate-900 dark:bg-slate-800 px-6 py-3 rounded-md hover:bg-slate-800 dark:hover:bg-slate-700 transition-colors disabled:opacity-60"
-            >
-              <span class="text-white">Complete</span>
-            </button>
-          </div>
-
-          <!-- Error Message -->
-          <div
-            v-if="error"
-            class="bg-red-50 border border-red-200 rounded-md p-4"
-          >
-            <p class="text-sm text-red-700">{{ error }}</p>
-          </div>
-
-          <!-- Success Message -->
-          <div
-            v-if="success"
-            class="bg-green-50 border border-green-200 rounded-md p-4"
-          >
-            <p class="text-sm text-green-700">{{ success }}</p>
-          </div>
-        </div>
+        <FormSubmit
+          :can-submit="canSubmit"
+          :is-submitting="isSubmitting"
+          :error="error"
+          :success="success"
+          submit-label="complete.submit"
+          submitting-label="complete.submitting"
+        />
       </form>
     </div>
   </div>
 </template>
 
 <script setup lang="ts">
-import FormSearchSelectField from "~/components/Form/FormSearchSelectField.vue";
-import { categories as techCategories } from "~/data/categories";
 import { antwerp } from "~/data/municipalities/antwerp";
 import { brusselsCapital } from "~/data/municipalities/brussels-capital";
 import { eastFlanders } from "~/data/municipalities/east-flanders";
@@ -269,8 +122,7 @@ import { luxembourg } from "~/data/municipalities/luxembourg";
 import { namur } from "~/data/municipalities/namur";
 import { walloonBrabant } from "~/data/municipalities/walloon-brabant";
 import { westFlanders } from "~/data/municipalities/west-flanders";
-import { languageDeriveMap, tech } from "~/data/tech";
-import { CategoryKey, Derives } from "~~/types";
+import { tech } from "~/data/tech";
 
 const { t } = useI18n();
 const redirectNotice = ref("");
@@ -290,75 +142,52 @@ const form = reactive({
   cbe: "" as string,
   employees: undefined as number | undefined,
   founded: undefined as number | undefined,
+  verificationMethod: "proof" as "proof" | "email",
+  contactEmail: "",
 });
+
+const {
+  otpSent,
+  emailVerified,
+  sendingEmail,
+  verifyingOtp,
+  error: emailError,
+  otpError,
+  emailDomainMatchesWebsite,
+  sendVerificationEmail,
+  verifyOtp,
+} = useEmailVerification(form);
 
 const isSubmitting = ref(false);
 const error = ref("");
+// Watch for errors from composable
+watch(emailError, (val) => {
+  if (val) error.value = val;
+});
 const success = ref("");
 const formVisible = ref(false);
 
-const canSubmit = computed(() => {
-  if (!form.companyName) return false;
-  if (!form.website) return false;
-  if (!Array.isArray(form.techStack) || form.techStack.length === 0)
-    return false;
-  const hasProof =
-    Array.isArray(form.proofUrls) &&
-    form.proofUrls.some((p) => (p || "").trim() !== "");
-  if (!hasProof) return false;
-  const hasLocation =
-    Array.isArray(form.locations) &&
-    form.locations.some((l) => {
-      return (
-        (l && l.province && l.municipality) ||
-        (l && l.address && (l.address || "").trim() !== "")
-      );
-    });
-  if (!hasLocation) return false;
-  return true;
-});
-
-// visible location indices based on filled previous entries (auto-add behavior)
-const MAX_LOCATIONS = 60;
-const visibleLocationIndices = computed(() => {
-  const indices: number[] = [0];
-  for (let i = 1; i < MAX_LOCATIONS; i++) {
-    const prev = form.locations[i - 1];
-    if (
-      prev &&
-      ((prev.province && prev.municipality) ||
-        (prev.address && (prev.address || "").trim() !== ""))
-    ) {
-      // ensure array has slot
-      if (!form.locations[i])
-        form.locations[i] = { province: "", municipality: "", address: "" };
-      indices.push(i);
-    }
-  }
-  return indices;
-});
-
-const visibleProofFields = computed(() => {
-  // Always show the first field. Show the next field when the previous one is filled.
-  const indices: number[] = [0];
-  for (let i = 1; i < 5; i++) {
-    if (form.proofUrls[i - 1]) {
-      indices.push(i);
-    }
-  }
-  return indices;
-});
-
-function getCategoryClasses(techName: string) {
-  const techItem = tech.find((t) => t.name === techName);
-  if (!techItem) return "border border-surface text-muted bg-surface";
-
-  if (form.techStack.includes(techName)) {
-    return techUtil.getCategoryClasses(techName);
-  }
-
-  return "border border-surface text-muted bg-surface hover:border-surface";
+// Wrapper for verifyOtp that receives code from component
+async function handleVerifyOtp(code: string) {
+  await verifyOtp(code);
 }
+
+// Centralized form validation
+const { canSubmit } = useFormValidation(form, {
+  emailVerified,
+  emailDomainMatchesWebsite,
+  formType: "complete",
+});
+
+// Compute locked location indices (original company locations that can't be modified)
+const lockedLocationIndices = computed(() => {
+  // Locations that were already on the company when loaded are "locked"
+  // We track this by the original locations count stored at load time
+  const originalCount = originalLocationCount.value;
+  return Array.from({ length: originalCount }, (_, i) => i);
+});
+
+const originalLocationCount = ref(0);
 
 // Load incomplete company modules (build-time glob) and prepare options for select
 const incompleteModules: Record<string, any> = import.meta.glob(
@@ -446,6 +275,8 @@ onMounted(() => {
 
 // Track how many locations are preloaded (locked)
 const preloadedCount = ref(0);
+// Max locations allowed (used when loading company data)
+const MAX_LOCATIONS = 60;
 
 function isLockedLocation(index: number) {
   return index < (preloadedCount.value || 0);
@@ -469,9 +300,16 @@ watch(
       return;
     }
 
-    // Try completed companies first, then incomplete
-    const data = (completedMap.get(name as string) ??
-      incompleteMap.get(name as string)) as any;
+    // If company is already completed, redirect to update page
+    const completedData = completedMap.get(name as string);
+    if (completedData) {
+      const cbe = String(completedData.cbe || "").replace(/\D/g, "");
+      navigateTo(localePath(`/companies/update?cbe=${cbe}&notice=complete`));
+      return;
+    }
+
+    // Otherwise, try incomplete
+    const data = incompleteMap.get(name as string) as any;
     if (!data) {
       formVisible.value = false;
       return;
@@ -513,79 +351,6 @@ watch(
   },
 );
 
-function toggleItem(name: string, checked: boolean) {
-  const techItem = techUtil.getTech(name);
-
-  if (checked) {
-    // Add the tech itself
-    if (!form.techStack.includes(name)) {
-      form.techStack.push(name);
-    }
-
-    // If it derives languages, add them too
-    if (techItem?.category === CategoryKey.BACKEND && techItem.derives) {
-      techItem.derives.forEach((derive) => {
-        const derivedTech = languageDeriveMap[derive];
-        if (derivedTech && !form.techStack.includes(derivedTech)) {
-          form.techStack.push(derivedTech);
-        }
-      });
-    }
-  } else {
-    // Remove the tech itself
-    form.techStack = form.techStack.filter((t) => t !== name);
-
-    // For derived languages, only remove if no other selected tech derives them
-    if (techItem?.category === CategoryKey.BACKEND && techItem.derives) {
-      techItem.derives.forEach((derive) => {
-        const derivedTech = languageDeriveMap[derive];
-        if (!derivedTech) return;
-
-        // Check if any OTHER selected tech still derives this language
-        const stillNeeded = form.techStack.some((selectedName) => {
-          const selectedTech = techUtil.getTech(selectedName);
-          return (
-            selectedTech?.category === CategoryKey.BACKEND &&
-            selectedTech.derives?.includes(derive)
-          );
-        });
-
-        if (!stillNeeded) {
-          form.techStack = form.techStack.filter((t) => t !== derivedTech);
-        }
-      });
-    }
-  }
-}
-
-function removeLocation(index: number) {
-  // Prevent removing locked/preloaded locations
-  if (isLockedLocation(index)) return;
-  form.locations.splice(index, 1);
-  if (form.locations.length === 0) {
-    // ensure at least one empty slot remains
-    form.locations.push({ province: "", municipality: "", address: "" });
-  }
-}
-
-function updateLocation(
-  index: number,
-  key: "province" | "municipality",
-  value: string,
-) {
-  // ensure slot exists, but don't exceed MAX_LOCATIONS
-  if (index >= MAX_LOCATIONS) return;
-  // Prevent editing locked/preloaded locations
-  if (isLockedLocation(index)) return;
-  if (!form.locations[index])
-    form.locations[index] = { province: "", municipality: "", address: "" };
-  form.locations[index][key] = value;
-  // if province changed, clear municipality
-  if (key === "province") {
-    form.locations[index].municipality = "";
-  }
-}
-
 async function handleSubmit() {
   error.value = "";
   success.value = "";
@@ -614,11 +379,8 @@ async function handleSubmit() {
   const rawProofs = form.proofUrls
     .map((u) => (u || "").trim())
     .filter((u) => u !== "");
-  if (!Array.isArray(rawProofs) || rawProofs.length === 0) {
-    error.value = "At least one proof URL is required";
-    return;
-  }
 
+  // Construct normalized payload and only include emailVerified flag (no contact email / useEmailVerification)
   const payload = {
     companyName: form.companyName,
     website: normalizedWebsite,
@@ -629,13 +391,39 @@ async function handleSubmit() {
         (l.address && (l.address || "").trim() !== ""),
     ),
     techStack: form.techStack,
-    proofUrls: rawProofs,
+    proofUrls: form.verificationMethod === "proof" ? rawProofs : [],
+    emailVerified: emailVerified.value || false,
     cbe: form.cbe || undefined,
     employees: form.employees,
     founded: form.founded,
   };
 
-  // Full client-side validation (basic)
+  // Full client-side validation: require either proof or email verification
+  const verificationResult = validateVerification({
+    verificationMethod: form.verificationMethod,
+    proofUrls: payload.proofUrls,
+    emailVerified: emailVerified.value,
+    emailDomainMatchesWebsite: emailDomainMatchesWebsite.value,
+  });
+  if (!verificationResult.ok) {
+    if (verificationResult.error === "proof-required") {
+      error.value = t("complete.errorProofRequired");
+      return;
+    }
+    if (verificationResult.error === "email-domain-mismatch") {
+      error.value = t("form.emailDomainMismatch");
+      return;
+    }
+    if (verificationResult.error === "email-not-verified") {
+      error.value = t("form.emailNotVerified");
+      return;
+    }
+    if (verificationResult.error === "proof-or-email") {
+      error.value = t("complete.errorProofRequired");
+      return;
+    }
+  }
+
   if (!payload.companyName || !payload.website) {
     error.value = "Missing required fields: companyName, website";
     return;
@@ -778,7 +566,7 @@ async function handleSubmit() {
     }
   } catch (err: any) {
     error.value =
-      err.data?.statusMessage || (t("errors.completionFailed") as string);
+      err.data?.statusMessage || (t("complete.submissionFailed") as string);
     console.error("[complete] Error:", err);
   } finally {
     isSubmitting.value = false;

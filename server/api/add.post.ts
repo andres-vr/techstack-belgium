@@ -21,13 +21,6 @@ export default defineEventHandler(async (event) => {
     })
   }
 
-  if (!Array.isArray(body.proofUrls) || body.proofUrls.length === 0) {
-    throw createError({
-      statusCode: 400,
-      statusMessage: 'At least one proof URL is required',
-    })
-  }
-
   if (!body.website || typeof body.website !== 'string' || body.website.trim() === '') {
     throw createError({
       statusCode: 400,
@@ -38,7 +31,7 @@ export default defineEventHandler(async (event) => {
   console.info('[api/add] Starting add process for CBE:', body.cbe)
 
   // Step 1: Enrich company data from CBE API
-  let company
+  let company;
   try {
     company = await enrichCompanyByCBE(body.cbe)
   } catch (err: any) {
@@ -108,16 +101,26 @@ export default defineEventHandler(async (event) => {
     company.site = body.website
   }
 
+  // Set verification status based on client-provided flag or presence of proof URLs
+  if (body.emailVerified === true) {
+    (company as any).emailVerified = true
+  } else if (Array.isArray(body.proofUrls) && body.proofUrls.length > 0) {
+    (company as any).emailVerified = true
+  }
+
   // Create submission payload for the PR
   const submissionPayload = {
     companyName: company.name,
     website: company.site,
     locations: company.locations,
     techStack: body.techStack,
-    proofUrls: body.proofUrls,
+    proofUrls: body.proofUrls || [],
     cbe: company.cbe,
     employees: company.employees,
     founded: company.founded,
+    verified: (body.emailVerified === true) || (body.proofUrls && body.proofUrls.length > 0),
+    verifiedByEmail: body.emailVerified === true,
+    emailVerified: (company as any).emailVerified,
   }
 
   console.info('[api/add] Creating PR for new company')
@@ -135,6 +138,7 @@ export default defineEventHandler(async (event) => {
       locations: company.locations,
       employees: company.employees,
       founded: company.founded,
+      emailVerified: company.emailVerified,
     },
     prNumber,
     prUrl: prResult?.html_url,

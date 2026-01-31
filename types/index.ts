@@ -36,6 +36,7 @@ export type Company = {
   employees?: number
   founded?: number
   proof?: Proof[]
+  emailVerified?: boolean
   lastUpdated: string
 }
 
@@ -95,13 +96,17 @@ export type SubmissionPayload = {
   cbe?: string
   employees?: number
   founded?: number
+  verified?: boolean
+  verifiedByEmail?: boolean
+  emailVerified?: boolean
 }
 
 export type AddPayload = {
   cbe: string           // Required - user enters this
   techStack: string[]   // User selects tech
   proofUrls: string[]   // User provides proof URLs
-  website?: string      // Optional fallback website
+  website: string
+  emailVerified?: boolean // Whether email verification was completed client-side
 }
 
 export type Tech = {

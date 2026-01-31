@@ -52,12 +52,12 @@
             </li>
             <li>
               <NuxtLink :to="localePath('/companies/complete')">{{
-                t("footer.submitTechStack")
+                t("footer.completeCompany")
               }}</NuxtLink>
             </li>
             <li>
               <NuxtLink :to="localePath('/companies/update')">{{
-                t("footer.updateTechStack")
+                t("footer.updateCompany")
               }}</NuxtLink>
             </li>
             <li>
@@ -79,9 +79,7 @@
               }}</NuxtLink>
             </li>
             <li>
-              <NuxtLink :to="localePath('/companies.json')">{{
-                t("footer.apiEndpoint")
-              }}</NuxtLink>
+              <a href="/companies.json">{{ t("footer.apiEndpoint") }}</a>
             </li>
           </ul>
         </div>
@@ -94,6 +92,11 @@
             <li>
               <NuxtLink :to="localePath('/about')">{{
                 t("footer.aboutProject")
+              }}</NuxtLink>
+            </li>
+            <li>
+              <NuxtLink :to="localePath('/privacy')">{{
+                t("footer.privacy")
               }}</NuxtLink>
             </li>
             <li>

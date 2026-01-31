@@ -101,7 +101,8 @@ h1 {
 .card {
     padding: 2em;
 }
-a:hover {
+a:hover,
+.dark a:hover {
     color: #5259ff;
 }
 .slider {
