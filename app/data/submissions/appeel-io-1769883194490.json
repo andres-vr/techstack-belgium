@@ -1,0 +1,59 @@
+{
+  "companyName": "Appeel.io",
+  "website": "https://appeel.io",
+  "locations": [
+    {
+      "province": "antwerp",
+      "municipality": "kontich",
+      "address": "Veldkant 33 A 2550 Kontich BE",
+      "coords": [
+        4.442747,
+        51.142439
+      ]
+    },
+    {
+      "province": "east-flanders",
+      "municipality": "",
+      "address": "Guldensporenpark, 9820 Merelbeke, East Flanders, Belgium",
+      "coords": [
+        3.755556,
+        51.005449
+      ]
+    },
+    {
+      "province": "east-flanders",
+      "municipality": "aalst",
+      "address": "Korte Keppestraat 7, 9320 Aalst, East Flanders, Belgium",
+      "coords": [
+        4.043989,
+        50.915232
+      ]
+    },
+    {
+      "province": "limburg",
+      "municipality": "hasselt",
+      "address": "Kempische Steenweg 311, 3500 Hasselt, Limburg, Belgium",
+      "coords": [
+        5.352192,
+        50.951874
+      ]
+    }
+  ],
+  "techStack": [
+    "React",
+    "Next.js",
+    "Vue",
+    "Nuxt",
+    "GraphQL",
+    "Tailwind CSS"
+  ],
+  "proofUrls": [
+    "https://appeel.io/portfolio/kayak",
+    "https://appeel.io/portfolio/arvesta",
+    "https://appeel.io/portfolio/routty"
+  ],
+  "emailVerified": false,
+  "cbe": "0698.600.829",
+  "employees": 12,
+  "founded": 2018
+}
