@@ -157,5 +157,73 @@
       }
     ],
     "lastUpdated": "2026-01-30T14:27:56.516Z"
+  },
+  {
+    "cbe": "0698.600.829",
+    "name": "Appeel.io",
+    "site": "https://appeel.io",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "kontich",
+        "address": "Veldkant 33 A 2550 Kontich BE",
+        "coords": [
+          4.442747,
+          51.142439
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "",
+        "address": "Guldensporenpark, 9820 Merelbeke, East Flanders, Belgium",
+        "coords": [
+          3.755556,
+          51.005449
+        ]
+      },
+      {
+        "province": "east-flanders",
+        "municipality": "aalst",
+        "address": "Korte Keppestraat 7, 9320 Aalst, East Flanders, Belgium",
+        "coords": [
+          4.043989,
+          50.915232
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "hasselt",
+        "address": "Kempische Steenweg 311, 3500 Hasselt, Limburg, Belgium",
+        "coords": [
+          5.352192,
+          50.951874
+        ]
+      }
+    ],
+    "tech": [
+      "React",
+      "Next.js",
+      "Vue",
+      "Nuxt",
+      "GraphQL",
+      "Tailwind CSS"
+    ],
+    "employees": 12,
+    "founded": 2018,
+    "proof": [
+      {
+        "url": "https://appeel.io/portfolio/kayak",
+        "image": "https://i.ibb.co/mr2gVjsP/appeel-io-1769883218155-0.png"
+      },
+      {
+        "url": "https://appeel.io/portfolio/arvesta",
+        "image": "https://i.ibb.co/9HkGKfDK/appeel-io-1769883224640-1.png"
+      },
+      {
+        "url": "https://appeel.io/portfolio/routty",
+        "image": "https://i.ibb.co/CpRT9HcB/appeel-io-1769883230034-2.png"
+      }
+    ],
+    "lastUpdated": "2026-01-31T18:13:54.829Z"
   }
 ]
