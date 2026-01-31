@@ -14,9 +14,18 @@
         <p class="text-sm md:text-base text-slate-600 dark:text-slate-400 mt-2">
           {{ t("update.helpLocations") }}
         </p>
-        <div v-if="redirectNotice" class="bg-blue-50 border border-blue-200 rounded-md p-4 mt-4 flex items-start justify-between">
+        <div
+          v-if="redirectNotice"
+          class="bg-blue-50 border border-blue-200 rounded-md p-4 mt-4 flex items-start justify-between"
+        >
           <p class="text-sm text-blue-700">{{ redirectNotice }}</p>
-          <button type="button" @click="redirectNotice = ''" class="text-blue-500 ml-4">Dismiss</button>
+          <button
+            type="button"
+            @click="redirectNotice = ''"
+            class="text-blue-500 ml-4"
+          >
+            Dismiss
+          </button>
         </div>
       </div>
 
@@ -38,208 +47,59 @@
         <div v-if="formVisible" class="grid gap-6 md:grid-cols-2">
           <!-- Left column: text inputs & proofs -->
           <div class="space-y-6">
-            <!-- Locations (up to 5). Auto-add next when previous filled -->
-            <div>
-              <label class="block text-sm font-medium text-slate-700 mb-2">
-                {{ t("form.locations") }} <span class="text-red-500">*</span>
-              </label>
-              <div class="space-y-3">
-                <div
-                  v-for="index in visibleLocationIndices"
-                  :key="index"
-                  class="flex gap-3 items-start p-3 bg-surface border border-surface rounded"
-                >
-                  <div class="flex-1">
-                    <FormField
-                      :id="`location-address-${index}`"
-                      :label="t('form.address')"
-                      :model-value="form.locations[index]?.address || ''"
-                      @update:model-value="
-                        (v) => {
-                          if (!isLockedLocation(index)) {
-                            if (!form.locations[index])
-                              form.locations[index] = {
-                                province: '',
-                                municipality: '',
-                                address: '',
-                              };
-                            form.locations[index].address = v;
-                          }
-                        }
-                      "
-                      type="text"
-                      :placeholder="t('form.addressPlaceholder')"
-                      :required="index === 0"
-                      :readonly="isLockedLocation(index)"
-                    />
-                  </div>
+            <!-- Locations -->
+            <FormLocations
+              v-model="form.locations"
+              :locked-indices="lockedLocationIndices"
+            />
 
-                  <button
-                    v-if="
-                      !isLockedLocation(index) &&
-                      (form.locations.length > 1 ||
-                        (form.locations[index]?.address &&
-                          form.locations[index].address.trim() !== ''))
-                    "
-                    type="button"
-                    @click="removeLocation(index)"
-                    class="p-2 text-slate-400 hover:text-red-600 mt-6"
-                  >
-                    {{ t("form.remove") }}
-                  </button>
-                </div>
-              </div>
-            </div>
+            <!-- Verification Method Selection -->
+            <FormVerificationMethodSelector v-model="form.verificationMethod" />
 
-            <!-- Proof URLs (First one required, up to 5 total) -->
-            <div
-              v-for="index in visibleProofFields"
-              :key="index"
-              class="space-y-1"
-            >
-              <FormField
-                :id="`proofUrl${index}`"
-                :label="
-                  index === 0
-                    ? t('form.proofUrl')
-                    : t('form.proofUrlAdditional', { n: index + 1 })
-                "
-                :model-value="form.proofUrls[index] ?? ''"
-                @update:model-value="form.proofUrls[index] = $event"
-                type="url"
-                :placeholder="t('form.proofUrlPlaceholder')"
-                :hint="
-                  index === 0
-                    ? t('form.proofUrlHint')
-                    : t('form.proofUrlHintAdditional')
-                "
-                :required="index === 0"
-              />
-            </div>
+            <!-- Proof URLs (shown when proof method is selected) -->
+            <FormProofUrls
+              v-if="form.verificationMethod === 'proof'"
+              v-model="form.proofUrls"
+            />
+
+            <!-- Email Verification (shown when email method is selected) -->
+            <FormEmailVerification
+              v-else-if="form.verificationMethod === 'email'"
+              :contact-email="form.contactEmail"
+              :website="form.website"
+              :otp-sent="otpSent"
+              :email-verified="emailVerified"
+              :sending-email="sendingEmail"
+              :verifying-otp="verifyingOtp"
+              :otp-error="otpError"
+              :email-domain-matches-website="emailDomainMatchesWebsite"
+              @update:contact-email="form.contactEmail = $event"
+              @send-verification-email="sendVerificationEmail"
+              @verify-otp="handleVerifyOtp"
+            />
           </div>
 
           <!-- Right column: tech stack -->
           <div class="space-y-6">
-            <div
-              v-for="category in techCategories"
-              :key="category.key"
-              class="mb-2"
-            >
-              <h1 class="text-lg font-bold">{{ category.label }}</h1>
-
-              <div v-if="category.key === CategoryKey.BACKEND">
-                <div class="text-sm font-medium text-slate-600 mb-1">
-                  Languages
-                </div>
-                <TechItem
-                  :items="
-                    tech.filter(
-                      (t: Tech) => t.category === category.key && !t.derives,
-                    )
-                  "
-                  :selected="form.techStack"
-                  :getCategoryClasses="getCategoryClasses"
-                  :toggleItem="toggleItem"
-                  class="mb-3"
-                />
-
-                <div class="text-sm font-medium text-slate-600 mb-1">
-                  Frameworks
-                </div>
-                <TechItem
-                  :items="
-                    tech.filter(
-                      (t: Tech) => t.category === category.key && t.derives,
-                    )
-                  "
-                  :selected="form.techStack"
-                  :getCategoryClasses="getCategoryClasses"
-                  :toggleItem="toggleItem"
-                />
-              </div>
-
-              <div v-else-if="category.key === CategoryKey.DATABASE">
-                <div class="text-sm font-medium text-slate-600 mb-1">SQL</div>
-                <TechItem
-                  :items="
-                    tech.filter(
-                      (t: Tech) =>
-                        t.category === category.key &&
-                        t.derives &&
-                        t.derives.includes(Derives.SQL),
-                    )
-                  "
-                  :selected="form.techStack"
-                  :getCategoryClasses="getCategoryClasses"
-                  :toggleItem="toggleItem"
-                  class="mb-3"
-                />
-
-                <div class="text-sm font-medium text-slate-600 mb-1">NoSQL</div>
-                <TechItem
-                  :items="
-                    tech.filter(
-                      (t: Tech) =>
-                        t.category === category.key &&
-                        t.derives &&
-                        t.derives.includes(Derives.NOSQL),
-                    )
-                  "
-                  :selected="form.techStack"
-                  :getCategoryClasses="getCategoryClasses"
-                  :toggleItem="toggleItem"
-                />
-              </div>
-
-              <div v-else>
-                <TechItem
-                  :items="tech.filter((t: Tech) => t.category === category.key)"
-                  :selected="form.techStack"
-                  :getCategoryClasses="getCategoryClasses"
-                  :toggleItem="toggleItem"
-                />
-              </div>
-            </div>
+            <FormTechStackSelector v-model="form.techStack" />
           </div>
         </div>
 
         <!-- Submit area: button, messages and guidelines -->
-        <div class="mt-4">
-          <div class="flex flex-col items-center gap-3">
-            <button
-              v-if="canSubmit"
-              type="submit"
-              :disabled="isSubmitting"
-              class="inline-flex items-center gap-2 bg-slate-900 dark:bg-slate-800 px-6 py-3 rounded-md hover:bg-slate-800 dark:hover:bg-slate-700 transition-colors disabled:opacity-60"
-            >
-              <span class="text-white">Submit</span>
-            </button>
-          </div>
-
-          <!-- Error Message -->
-          <div
-            v-if="error"
-            class="bg-red-50 border border-red-200 rounded-md p-4"
-          >
-            <p class="text-sm text-red-700">{{ error }}</p>
-          </div>
-
-          <!-- Success Message -->
-          <div
-            v-if="success"
-            class="bg-green-50 border border-green-200 rounded-md p-4"
-          >
-            <p class="text-sm text-green-700">{{ success }}</p>
-          </div>
-        </div>
+        <FormSubmit
+          :can-submit="canSubmit"
+          :is-submitting="isSubmitting"
+          :error="error"
+          :success="success"
+          submit-label="update.submit"
+          submitting-label="update.submitting"
+        />
       </form>
     </div>
   </div>
 </template>
 
 <script setup lang="ts">
-import FormSearchSelectField from "~/components/Form/FormSearchSelectField.vue";
-import { categories as techCategories } from "~/data/categories";
 import { antwerp } from "~/data/municipalities/antwerp";
 import { brusselsCapital } from "~/data/municipalities/brussels-capital";
 import { eastFlanders } from "~/data/municipalities/east-flanders";
@@ -251,13 +111,11 @@ import { luxembourg } from "~/data/municipalities/luxembourg";
 import { namur } from "~/data/municipalities/namur";
 import { walloonBrabant } from "~/data/municipalities/walloon-brabant";
 import { westFlanders } from "~/data/municipalities/west-flanders";
-import { languageDeriveMap, tech } from "~/data/tech";
-import { CategoryKey, Derives, type Tech } from "~~/types";
+import { tech } from "~/data/tech";
 
 const { t } = useI18n();
 const redirectNotice = ref("");
 const localePath = useLocalePath();
-const techUtil = useTech();
 
 const form = reactive({
   companyName: "",
@@ -268,40 +126,55 @@ const form = reactive({
   }>,
   techStack: [] as string[],
   proofUrls: ["", "", "", "", ""] as string[],
+  verificationMethod: "proof" as "proof" | "email",
+  contactEmail: "",
+  website: "", // We need this to check domain match
 });
+
+const {
+  otpSent,
+  emailVerified,
+  sendingEmail,
+  verifyingOtp,
+  error: emailError,
+  otpError,
+  emailDomainMatchesWebsite,
+  sendVerificationEmail,
+  verifyOtp,
+} = useEmailVerification(form);
 
 const isSubmitting = ref(false);
 // Track how many locations are preloaded (locked)
 const preloadedCount = ref(0);
 
+const error = ref("");
+// Watch for errors from composable
+watch(emailError, (val) => {
+  if (val) error.value = val;
+});
+
 function isLockedLocation(index: number) {
   return index < (preloadedCount.value || 0);
 }
-const error = ref("");
-const success = ref("");
-// determine if the form has the required fields filled
-const canSubmit = computed(() => {
-  if (!form.companyName) return false;
-  // at least one tech
-  if (!Array.isArray(form.techStack) || form.techStack.length === 0)
-    return false;
-  // at least one proof link non-empty
-  const hasProof =
-    Array.isArray(form.proofUrls) &&
-    form.proofUrls.some((p: string) => (p || "").trim() !== "");
-  if (!hasProof) return false;
-  // at least one valid location: either province+municipality or an address
-  const hasLocation =
-    Array.isArray(form.locations) &&
-    form.locations.some((l: any) => {
-      return (
-        (l && l.province && l.municipality) ||
-        (l && l.address && (l.address || "").trim() !== "")
-      );
-    });
-  if (!hasLocation) return false;
-  return true;
+
+// Compute locked location indices for FormLocations component
+const lockedLocationIndices = computed(() => {
+  return Array.from({ length: preloadedCount.value }, (_, i) => i);
 });
+
+// Wrapper for verifyOtp that receives code from component
+async function handleVerifyOtp(code: string) {
+  await verifyOtp(code);
+}
+
+// Centralized form validation
+const { canSubmit } = useFormValidation(form, {
+  emailVerified,
+  emailDomainMatchesWebsite,
+  formType: "update",
+});
+
+const success = ref("");
 
 // Load completed company modules (build-time glob) and prepare options for select
 const completedModules: Record<string, any> = import.meta.glob(
@@ -369,10 +242,14 @@ onMounted(() => {
 
       // Show redirect notice if query param present
       const notice = String(useRoute().query?.notice || "");
-      if (notice === 'complete') {
-        redirectNotice.value = t('update.noticeRedirectFromAddComplete', { cbe: cbeQuery });
-      } else if (notice === 'incomplete') {
-        redirectNotice.value = t('update.noticeRedirectFromAddIncomplete', { cbe: cbeQuery });
+      if (notice === "complete") {
+        redirectNotice.value = t("update.noticeRedirectFromAddComplete", {
+          cbe: cbeQuery,
+        });
+      } else if (notice === "incomplete") {
+        redirectNotice.value = t("update.noticeRedirectFromAddIncomplete", {
+          cbe: cbeQuery,
+        });
       }
     }
   } catch (e) {
@@ -405,6 +282,7 @@ watch(
     }
 
     // populate fields from the selected company
+    form.website = data.site || "";
     form.techStack = Array.isArray(data.tech) ? [...data.tech] : [];
     // map locations (ensure structure) and add one empty slot if allowed
     const locs = Array.isArray(data.locations)
@@ -436,95 +314,8 @@ watch(
   },
 );
 
-// visible location indices based on filled previous entries (auto-add behavior)
-// allow up to 60 locations
+// Max locations allowed (used when loading company data)
 const MAX_LOCATIONS = 60;
-const visibleLocationIndices = computed(() => {
-  const indices: number[] = [0];
-  for (let i = 1; i < MAX_LOCATIONS; i++) {
-    const prev = form.locations[i - 1];
-    if (
-      prev &&
-      ((prev.province && prev.municipality) ||
-        (prev.address && (prev.address || "").trim() !== ""))
-    ) {
-      // ensure array has slot
-      if (!form.locations[i])
-        form.locations[i] = { province: "", municipality: "", address: "" };
-      indices.push(i);
-    }
-  }
-  return indices;
-});
-
-const visibleProofFields = computed(() => {
-  // Always show the first field. Show the next field when the previous one is filled.
-  const indices: number[] = [0];
-  for (let i = 1; i < 5; i++) {
-    if (form.proofUrls[i - 1]) {
-      indices.push(i);
-    }
-  }
-  return indices;
-});
-
-function getCategoryClasses(techName: string) {
-  const techItem = tech.find((t) => t.name === techName);
-  if (!techItem) return "border border-surface text-muted bg-surface";
-
-  if (form.techStack.includes(techName)) {
-    return techUtil.getCategoryClasses(techName);
-  }
-
-  return "border border-surface text-muted bg-surface hover:border-surface";
-}
-
-function toggleItem(name: string, checked: boolean) {
-  const techItem = techUtil.getTech(name);
-
-  if (checked) {
-    // Add the tech itself
-    if (!form.techStack.includes(name)) {
-      form.techStack.push(name);
-    }
-
-    // If it derives languages, add them too
-    if (techItem?.category === CategoryKey.BACKEND && techItem.derives) {
-      techItem.derives.forEach((derive) => {
-        const derivedTech = languageDeriveMap[derive];
-        if (derivedTech && !form.techStack.includes(derivedTech)) {
-          form.techStack.push(derivedTech);
-        }
-      });
-    }
-  } else {
-    // Remove the tech itself
-    form.techStack = form.techStack.filter((t: string) => t !== name);
-
-    // For derived languages, only remove if no other selected tech derives them
-    if (techItem?.category === CategoryKey.BACKEND && techItem.derives) {
-      techItem.derives.forEach((derive) => {
-        const derivedTech = languageDeriveMap[derive];
-        if (!derivedTech) return;
-
-        // Check if any OTHER selected tech still derives this language
-        const stillNeeded = form.techStack.some((selectedName: string) => {
-          const selectedTech = techUtil.getTech(selectedName);
-          return (
-            selectedTech?.category === CategoryKey.BACKEND &&
-            selectedTech.derives?.includes(derive)
-          );
-        });
-
-        if (!stillNeeded) {
-          form.techStack = form.techStack.filter(
-            (t: string) => t !== derivedTech,
-          );
-        }
-      });
-    }
-  }
-}
 
 function removeLocation(index: number) {
   // Prevent removing locked/preloaded locations
@@ -549,27 +340,35 @@ async function handleSubmit() {
         (l.address && (l.address || "").trim() !== ""),
     ),
     techStack: form.techStack,
-    proofUrls: form.proofUrls.filter((url: string) => url.trim() !== ""),
+    proofUrls:
+      form.verificationMethod === "proof"
+        ? form.proofUrls.filter((url: string) => url.trim() !== "")
+        : [],
+    emailVerified: emailVerified.value || false,
   };
 
-  // Full client-side validation
-  if (
-    !Array.isArray(payload.proofUrls) ||
-    payload.proofUrls.length === 0 ||
-    !payload.proofUrls[0]
-  ) {
-    error.value = "At least one proof URL is required";
-    return;
-  }
+  // Full client-side validation: require proof or verified email
+  const verificationResult = validateVerification({
+    verificationMethod: form.verificationMethod,
+    proofUrls: payload.proofUrls,
+    emailVerified: emailVerified.value,
+    emailDomainMatchesWebsite: emailDomainMatchesWebsite.value,
+  });
 
-  // Validate URLs
-  try {
-    payload.proofUrls.forEach((url: string) => {
-      if (url) new URL(url);
-    });
-  } catch (err) {
-    error.value = "Invalid URL format";
-    return;
+  if (!verificationResult.ok) {
+    if (verificationResult.error === "proof-required") {
+      error.value =
+        "At least one proof URL is required when using proof verification";
+      return;
+    }
+    if (verificationResult.error === "email-domain-mismatch") {
+      error.value = "Email domain does not match website";
+      return;
+    }
+    if (verificationResult.error === "email-not-verified") {
+      error.value = "Email must be verified before submitting";
+      return;
+    }
   }
 
   if (!Array.isArray(payload.locations) || payload.locations.length === 0) {
@@ -691,7 +490,7 @@ async function handleSubmit() {
       body: payload,
     });
 
-    success.value = t("submit.successMessage") as string;
+    success.value = t("update.successMessage") as string;
     console.info("[update] success, will navigate home shortly");
 
     // Clear form
@@ -710,7 +509,7 @@ async function handleSubmit() {
     }
   } catch (err: any) {
     error.value =
-      err.data?.statusMessage || (t("errors.submissionFailed") as string);
+      err.data?.statusMessage || (t("update.submissionFailed") as string);
     console.error("[submit] Error:", err);
   } finally {
     isSubmitting.value = false;

@@ -53,6 +53,7 @@ export function useTech() {
     if (slug === 'csharp') return `/tech/csharp.svg`
     if (slug === 'dotnet') return `/tech/dotnet.svg`
     if (slug === 'dotnetmaui') return `/tech/dotnet.svg`
+    if (slug === 'java') return `/tech/java.webp`
     return `/tech/${slug}.svg`
   }
 

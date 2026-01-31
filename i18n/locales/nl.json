@@ -9,42 +9,58 @@
   "ui": {
     "backToDirectory": "Terug naar overzicht",
     "companyNotFound": "Bedrijf niet gevonden",
-    "companyPageTitle": "{name} - Tech Stack",
+    "companyPageTitle": "{name} - Tech stack",
     "companyPageDescription": "{name} gebruikt {tech}. Meer informatie over hun tech stack en locaties.",
     "employees": "Werknemers",
     "founded": "Opgericht",
     "locations": "Locaties",
     "techStack": "Tech Stack",
     "proofReferences": "Bewijzen & Referenties",
-    "lastUpdated": "Laatst bijgewerkt"
+    "lastUpdated": "Laatst bijgewerkt",
+    "verified": "Geverifieerd",
+    "verifiedByEmail": "Dit bedrijf is geverifieerd via e-mailbevestiging",
+    "verifiedByProof": "Dit bedrijf is geverifieerd met bewijs documentatie",
+    "emailVerificationTooltip": "Het e-mailadres van de indiener kwam overeen met het domein van dit bedrijf, wat bewijst dat zij toegang hebben tot de bedrijfse-mail."
   },
   "complete": {
     "title": "Bedrijf Voltooien",
     "subtitle": "Help ons de technologieën van Belgische techbedrijven in kaart te brengen",
     "helpLocations": "Als er locaties ontbreken, voeg deze dan toe. Als uw bedrijf niet in de lijst staat, kunt u het toevoegen.",
     "noticeRedirectFromAddIncomplete": "We hebben een onvolledig record gevonden voor KBO {cbe}. Het formulier is vooringevuld zodat u ontbrekende locaties of details kunt toevoegen.",
-    "successMessage": "Bedankt! Uw inzending is in afwachting van beoordeling."
+    "noticeRedirectFromAddComplete": "Een bedrijf met KBO {cbe} is gevonden en geladen. Vul alstublieft de informatie aan naar wens.",
+    "submit": "Bedrijf Voltooien",
+    "submitting": "Bedrijf wordt voltooid...",
+    "successMessage": "Bedrijf \"{name}\" voltooid! Een PR is aangemaakt voor beoordeling.",
+    "submissionFailed": "Bedrijf kon niet worden voltooid. Probeer alstublieft opnieuw."
   },
   "update": {
     "title": "Bedrijfsinfo Bijwerken",
     "subtitle": "Werk de tech stack en details van uw bedrijf bij",
     "helpLocations": "Als er locaties ontbreken, voeg deze dan toe. Als uw bedrijf niet in de lijst staat, kunt u het toevoegen.",
-    "noticeRedirectFromAddComplete": "Er is een bedrijf met KBO {cbe} gevonden en geladen. Werk de informatie indien nodig bij."
+    "noticeRedirectFromAddComplete": "Er is een bedrijf met KBO {cbe} gevonden en geladen. Werk de informatie indien nodig bij.",
+    "noticeRedirectFromAddIncomplete": "Een onvolledig record voor KBO {cbe} is gevonden en geladen. Werk de informatie indien nodig bij.",
+    "submit": "Bedrijf Bijwerken",
+    "submitting": "Bedrijf wordt bijgewerkt...",
+    "successMessage": "Bedrijf \"{name}\" bijgewerkt! Een PR is aangemaakt voor beoordeling.",
+    "submissionFailed": "Bedrijf kon niet worden bijgewerkt. Probeer alstublieft opnieuw."
   },
   "add": {
     "title": "Nieuw bedrijf toevoegen",
-    "subtitle": "Voeg een bedrijf toe dat nog niet in onze database staat via het KBO-nummer",    "noticeRedirectToComplete": "We hebben een overeenkomstig bedrijf gevonden (KBO {cbe}) en zullen u doorsturen naar Bedrijf voltooien.",
-    "noticeRedirectToUpdate": "We hebben een overeenkomstig bedrijf gevonden (KBO {cbe}) en zullen u doorsturen naar Bedrijf bijwerken.",    "add": "Bedrijf toevoegen",
+    "subtitle": "Voeg een bedrijf toe dat nog niet in onze database staat via het KBO-nummer",
+    "noticeRedirectToComplete": "We hebben een overeenkomstig bedrijf gevonden (KBO {cbe}) en zullen u doorsturen naar Bedrijf voltooien.",
+    "noticeRedirectToUpdate": "We hebben een overeenkomstig bedrijf gevonden (KBO {cbe}) en zullen u doorsturen naar Bedrijf bijwerken.",
+    "submit": "Bedrijf Toevoegen",
     "submitting": "Bedrijf toevoegen...",
     "loading": "Bedrijfsgegevens ophalen uit officiële registers...",
     "successMessage": "Bedrijf \"{name}\" is toegevoegd voor beoordeling!",
     "addFailed": "Toevoegen van bedrijf mislukt. Probeer het opnieuw.",
     "invalidCbe": "Voer een geldig KBO-nummer in (10 cijfers)",
-    "proofRequired": "Ten minste één bewijs-URL is vereist"
+    "proofRequired": "Ten minste één bewijs-URL is vereist",
+    "submissionFailed": "Toevoegen van bedrijf mislukt. Probeer het opnieuw."
   },
   "form": {
     "cbe": "KBO-nummer",
-    "cbePlaceholder": "0123.456.789",
+    "cbePlaceholder": "bijv. 0123.456.789",
     "cbeHint": "Voer het Belgische ondernemingsnummer in (10 cijfers)",
     "companyName": "Bedrijfsnaam",
     "companyNamePlaceholder": "bijv. Acme Corp",
@@ -57,10 +73,40 @@
     "proofUrlHint": "Link naar bedrijfspagina (careers, blog, enz.) of vacaturesite met uw tech stack (verplicht)",
     "proofUrlAdditional": "Bewijs URL {n}",
     "proofUrlHintAdditional": "Extra bewijs URL (bedrijfspagina of vacaturesite)",
-
+    "verificationMethod": "Verificatiemethode",
+    "verificationMethodProof": "Bewijs-URL's verstrekken (documentatie, vacatures, etc.)",
+    "verificationMethodEmail": "E-mailverificatie (indien geen bewijs beschikbaar)",
+    "contactEmail": "Contact E-mail",
+    "contactEmailPlaceholder": "contact{'@'}uwbedrijf.com",
+    "contactEmailHint": "Bedrijfs-e-mailadres voor verificatie. U ontvangt een verificatiecode.",
+    "emailDomainMismatch": "E-maildomein moet overeenkomen met uw websitedomein (bijv. naam{'@'}uwbedrijf.be voor https://uwbedrijf.be)",
+    "otpCode": "Verificatiecode",
+    "otpCodePlaceholder": "Voer 6-cijferige code in",
+    "otpCodeHint": "Voer de 6-cijferige code in die naar uw e-mail is verzonden",
+    "sendVerificationEmail": "Verstuur Verificatiecode",
+    "sendingEmail": "Verzenden...",
+    "verifyingOtp": "Verifiëren...",
+    "verifyOtp": "Code Verifiëren",
+    "resendOtp": "Code Opnieuw Versturen",
+    "otpSent": "Verificatiecode verzonden! Controleer uw inbox voor een 6-cijferige code.",
+    "emailVerificationSent": "Verificatiecode verzonden! Controleer uw inbox voor een 6-cijferige code.",
+    "emailVerified": "E-mail succesvol geverifieerd!",
+    "emailVerifiedDescription": "U kunt nu uw bedrijf indienen voor beoordeling.",
+    "emailVerificationFailed": "Fout bij verzenden verificatie e-mail. Probeer opnieuw.",
+    "otpInvalid": "Ongeldige verificatiecode. Probeer opnieuw.",
+    "otpExpired": "Verificatiecode verlopen. Vraag een nieuwe aan.",
+    "privacyNotice": "Uw e-mail wordt alleen gebruikt voor verificatie en wordt na voltooiing verwijderd. Zie ons",
+    "privacyPolicy": "Privacybeleid",
+    "otpError": "De verificatiecode is ongeldig of verlopen.",
     "locations": "Locaties",
     "address": "Adres",
-    "remove": "Verwijderen"
+    "addressPlaceholder": "bijv. Hoofdstraat 123, Brussel 1000",
+    "remove": "Verwijderen",
+    "locationPlaceholder": "Straat en huisnummer",
+    "verificationPurpose": "Verificatiedoel",
+    "verificationPurposeProof": "De tech stack wordt geverifieerd met behulp van de verstrekte bewijs-links.",
+    "verificationPurposeEmail": "De tech stack wordt geverifieerd door e-mailbevestiging van een bedrijfsdomein.",
+    "verificationMethodDisclaimer": "Opmerking: uw inzending wordt geverifieerd via OFWEL bewijs-links OF via e-mailverificatie, niet beide."
   },
   "index": {
     "companies": "Bedrijven",
@@ -70,7 +116,8 @@
     "municipalities": "Gemeenten",
     "technologies": "Technologieën",
     "viewAll": "Bekijk alles",
-    "companiesCount": "{count} bedrijven"
+    "companiesCount": "{count} bedrijven",
+    "companiesFound": "bedrijven gevonden"
   },
   "errors": {
     "missingRequired": "Vul alstublieft alle verplichte velden in.",
@@ -101,13 +148,14 @@
     "byTechnology": "Per technologie",
     "contribute": "Bijdragen",
     "addCompany": "Nieuw bedrijf toevoegen",
-    "submitTechStack": "Bedrijf voltooien",
-    "updateTechStack": "Bedrijf bijwerken",
+    "completeCompany": "Bedrijf voltooien",
+    "updateCompany": "Bedrijf bijwerken",
     "resources": "Bronnen",
     "apiDocs": "API Documentatie",
     "apiEndpoint": "API Eindpunt",
     "about": "Over",
-    "aboutProject": "Over het project",
+    "aboutProject": "Over het project",    
+    "privacy": "Privacybeleid",    
     "license": "Licentie",
     "contact": "Contact",
     "description": "Techstack België - Open source tech stack gids voor België"
@@ -220,12 +268,70 @@
     "qualityPoint2": "Door de gemeenschap aangestuurde updates en inzendingen voor tech stacks en bewijskoppelingen",
     "qualityPoint3": "Geautomatiseerde schermafbeelding voor bewijsvalidatie",
     "qualityPoint4": "Regelmatige gegevensvernieuwingen om nauwkeurigheid en relevantie te behouden",
+    "verification": "Verificatiemethoden",
+    "verificationIntro": "We bieden twee manieren om inzendingen van bedrijfstech stack te verifiëren, zodat gegevenskwaliteit en authenticiteit worden gewaarborgd:",
+    "verificationByEmail": "E-maildomeinverificatie",
+    "verificationByEmailText": "Indieners kunnen hun bedrijf verifiëren door hun e-mailadres te bevestigen dat overeenkomt met het domein van het bedrijf (bijv. {'@'}bedrijf.nl). Dit biedt snelle verificatie dat de indiener toegang heeft tot het bedrijfse-mailsysteem.",
+    "verificationByProof": "Verificatie van bewijsdocumentatie",
+    "verificationByProofText": "Alternatief kunnen indieners bewijslinks verstrekken, zoals vacatureberichten, documentatie of publieke referenties die duidelijk de technologiestapel van het bedrijf aantonen.",
     "community": "Draag bij aan onze dataset",
     "communityText": "Ontbreekt uw bedrijf of is het verouderd? We verwelkomen tech stack inzendingen en updates. Elke geverifieerde tech stack draagt bij aan een beter begrip van het Belgische tech-landschap.",
-    "completeYourCompany": "Voltooi Tech Stack",
-    "addNewCompany": "Voeg nieuw bedrijf toe",
-    "updateTechStack": "Update Tech Stack",
+    "completeCompany": "Bedrijf Voltooien",
+    "addNewCompany": "Nieuw bedrijf toevoegen",
+    "updateCompany": "Bedrijf bijwerken",
     "contact": "Contact & Feedback",
-    "contactText": "Heeft u vragen over onze gegevens, methodologie of wilt u bijdragen? Neem contact met ons op via GitHub. We zoeken altijd naar feedback en bijdragen uit de gemeenschap."
+    "contactText": "Heeft u vragen over onze gegevens, methodologie of wilt u bijdragen? Neem contact met ons op via GitHub. We zoeken altijd naar feedback en bijdragen uit de gemeenschap."  },
+  "emailVerification": {
+    "title": "E-mail Verificatie",
+    "subtitle": "Uw e-mailadres wordt geverifieerd",
+    "pageTitle": "E-mail Verificatie - Techstack Belgium",
+    "pageDescription": "Verifieer uw bedrijfs-e-mailadres voor de Techstack Belgium directory",
+    "verifying": "Uw e-mailadres wordt geverifieerd...",
+    "success": "E-mail Succesvol Geverifieerd!",
+    "successMessage": "Uw e-mail is geverifieerd voor bedrijf CBE {cbe}. Uw bedrijf wordt gemarkeerd als geverifieerd.",
+    "error": "Verificatie Mislukt",
+    "errorMessage": "De verificatielink is ongeldig of verlopen. Probeer uw bedrijf opnieuw in te dienen.",
+    "backToDirectory": "Terug naar Bedrijfsoverzicht",
+    "tryAgain": "Probeer Bedrijf Opnieuw Toe te Voegen"
+  },
+  "privacy": {
+    "title": "Privacybeleid",
+    "subtitle": "Hoe we omgaan met uw gegevens",
+    "pageTitle": "Privacybeleid - Techstack Belgium",
+    "pageDescription": "Privacybeleid waarin wordt uitgelegd hoe Techstack Belgium omgaat met e-mailverificatie en bedrijfsgegevens",
+    "emailUsage": {
+      "title": "E-mailgebruik voor Verificatie",
+      "purpose": "Wanneer u een bedrijf indient via e-mailverificatie, verzamelen we uw e-mailadres uitsluitend voor het verifiëren van uw bedrijfs tech stack indiening.",
+      "verification": "Uw e-mail wordt gebruikt om een eenmalige verificatielink te versturen. Zodra u op deze link klikt en het verificatieproces voltooit, dient uw e-mail als bewijs dat de indiening is gedaan door iemand met toegang tot een bedrijfs-e-mailadres.",
+      "deletion": "Na voltooiing van de verificatie en toevoeging van uw bedrijf aan ons overzicht, wordt uw e-mailadres permanent verwijderd uit onze database. We bewaren, delen of gebruiken uw e-mail niet voor andere doeleinden."
+    },
+    "dataCollection": {
+      "title": "Gegevensverzameling",
+      "types": "We verzamelen de volgende soorten gegevens:",
+      "companyInfo": "Bedrijfsinformatie uit officiële Belgische registers (CBE database)",
+      "techStack": "Technologie stack informatie die u verstrekt",
+      "locations": "Bedrijfslocatiegegevens",
+      "proofUrls": "Bewijs-URL's (bij gebruik van URL-verificatiemethode)",
+      "emailTemp": "E-mailadressen tijdelijk voor verificatie (verwijderd na verificatie)"
+    },
+    "dataRetention": {
+      "title": "Gegevensretentie",
+      "companyData": "Bedrijfsinformatie, tech stacks en locaties worden permanent bewaard als onderdeel van ons openbare overzicht ten dienste van de Belgische tech gemeenschap.",
+      "emailData": "E-mailadressen gebruikt voor verificatie worden onmiddellijk verwijderd na succesvolle verificatievoltooiing."
+    },
+    "dataSources": {
+      "title": "Gegevensbronnen",
+      "description": "Onze bedrijfsgegevens komen van:",
+      "cbe": "Belgische Kruispuntbank van Ondernemingen (CBE) voor officiële bedrijfsinformatie",
+      "nbb": "Nationale Bank van België voor werknemersgegevens",
+      "community": "Community indieningen en updates voor tech stack informatie"
+    },
+    "contact": {
+      "title": "Contact",
+      "description": "Als u vragen heeft over dit privacybeleid of verwijdering van uw bedrijfsgegevens wilt aanvragen, neem dan contact met ons op:",
+      "github": "GitHub Repository"
+    },
+    "lastUpdated": "Laatst bijgewerkt",
+    "lastUpdatedDate": "30 januari 2026"
   }
 }

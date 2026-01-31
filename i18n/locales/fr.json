@@ -16,31 +16,47 @@
     "locations": "Lieux",
     "techStack": "Stack technologique",
     "proofReferences": "Preuves & Références",
-    "lastUpdated": "Dernière mise à jour"
+    "lastUpdated": "Dernière mise à jour",
+    "verified": "Vérifiée",
+    "verifiedByEmail": "Cette entreprise a été vérifiée par confirmation par e-mail",
+    "verifiedByProof": "Cette entreprise a été vérifiée avec de la documentation de preuve",
+    "emailVerificationTooltip": "L'adresse e-mail du soumissionnaire correspondait au domaine de cette entreprise, confirmant qu'il avait accès à l'e-mail de l'entreprise."
   },
   "complete": {
     "title": "Compléter une Entreprise",
     "subtitle": "Aidez-nous à cartographier les technologies utilisées par les entreprises tech belges",
     "helpLocations": "Si des emplacements manquent, veuillez les ajouter. Si votre entreprise ne figure pas dans la liste, vous pouvez l'ajouter.",
     "noticeRedirectFromAddIncomplete": "Nous avons trouvé un enregistrement incomplet pour BCE {cbe}. Le formulaire a été prérempli pour que vous puissiez ajouter les emplacements ou détails manquants.",
-    "successMessage": "Merci ! Votre soumission est en attente de validation."
+    "noticeRedirectFromAddComplete": "Une entreprise avec le BCE {cbe} a été trouvée et chargée. Veuillez compléter les informations si nécessaire.",
+    "submit": "Compléter l'entreprise",
+    "submitting": "Complétion en cours...",
+    "successMessage": "L'entreprise \"{name}\" complétée ! Une PR a été créée pour examen.",
+    "submissionFailed": "Échec de la complétion de l'entreprise. Veuillez réessayer."
   },
   "update": {
     "title": "Mettre à Jour les Infos de l'Entreprise",
     "subtitle": "Mettez à jour le stack technologique et les détails de votre entreprise",
     "helpLocations": "Si des emplacements manquent, veuillez les ajouter. Si votre entreprise ne figure pas dans la liste, vous pouvez l'ajouter.",
-    "noticeRedirectFromAddComplete": "Une entreprise avec le BCE {cbe} a été trouvée et chargée. Veuillez mettre à jour les informations si nécessaire."
+    "noticeRedirectFromAddComplete": "Une entreprise avec le BCE {cbe} a été trouvée et chargée. Veuillez mettre à jour les informations si nécessaire.",
+    "noticeRedirectFromAddIncomplete": "Un enregistrement incomplet pour BCE {cbe} a été trouvé et chargé. Veuillez mettre à jour les informations si nécessaire.",
+    "submit": "Mettre à jour l'entreprise",
+    "submitting": "Mise à jour en cours...",
+    "successMessage": "L'entreprise \"{name}\" mise à jour ! Une PR a été créée pour examen.",
+    "submissionFailed": "Échec de la mise à jour de l'entreprise. Veuillez réessayer."
   },
   "add": {
     "title": "Ajouter une nouvelle entreprise",
-    "subtitle": "Ajoutez une entreprise qui ne figure pas encore dans notre base de données par son numéro BCE",    "noticeRedirectToComplete": "Nous avons trouvé une entreprise correspondante (BCE {cbe}) et vous redirigerons vers Compléter l'entreprise.",
-    "noticeRedirectToUpdate": "Nous avons trouvé une entreprise correspondante (BCE {cbe}) et vous redirigerons vers Mettre à jour l'entreprise.",    "add": "Ajouter l'entreprise",
-    "adding": "Ajout de l'entreprise...",
+    "subtitle": "Ajoutez une entreprise qui ne figure pas encore dans notre base de données par son numéro BCE",
+    "noticeRedirectToComplete": "Nous avons trouvé une entreprise correspondante (BCE {cbe}) et vous redirigerons vers Compléter l'entreprise.",
+    "noticeRedirectToUpdate": "Nous avons trouvé une entreprise correspondante (BCE {cbe}) et vous redirigerons vers Mettre à jour l'entreprise.",
+    "submit": "Ajouter l'entreprise",
+    "submitting": "Ajout en cours...",
     "loading": "Récupération des données de l'entreprise auprès des registres officiels...",
     "successMessage": "L'entreprise \"{name}\" a été ajoutée pour examen !",
     "addFailed": "Échec de l'ajout de l'entreprise. Veuillez réessayer.",
     "invalidCbe": "Veuillez entrer un numéro BCE valide (10 chiffres)",
-    "proofRequired": "Au moins une URL de preuve est requise"
+    "proofRequired": "Au moins une URL de preuve est requise",
+    "submissionFailed": "Échec de l'ajout de l'entreprise. Veuillez réessayer."
   },
   "form": {
     "cbe": "Numéro BCE",
@@ -59,7 +75,38 @@
     "proofUrlHintAdditional": "URL de preuve supplémentaire (page entreprise ou site d'emploi)",
     "locations": "Lieux",
     "address": "Adresse",
-    "remove": "Supprimer"
+    "addressPlaceholder": "p.ex. 123 Rue Principale, Bruxelles 1000",
+    "remove": "Supprimer",
+    "verificationMethod": "Méthode de vérification",
+    "verificationMethodProof": "Fournir des URLs de preuve (documentation, offres d'emploi, etc.)",
+    "verificationMethodEmail": "Vérification par e-mail (si aucune preuve n'est disponible)",
+    "contactEmail": "E-mail de contact",
+    "contactEmailPlaceholder": "contact{'@'}votreentreprise.com",
+    "contactEmailHint": "Adresse e-mail de l'entreprise pour la vérification. Doit correspondre au domaine de votre site web.",
+    "emailDomainMismatch": "Le domaine de l'e-mail doit correspondre au domaine de votre site web (ex. nom{'@'}votreentreprise.be pour https://votreentreprise.be)",
+    "sendVerificationEmail": "Envoyer le code de vérification",
+    "sendingEmail": "Envoi...",
+    "verifyingOtp": "Vérification...",
+    "verifyOtp": "Vérifier le code",
+    "resendOtp": "Renvoyer le code",
+    "emailVerificationSent": "Code de vérification envoyé ! Vérifiez votre boîte de réception pour un code à 6 chiffres.",
+    "emailVerified": "E-mail vérifié avec succès !",
+    "emailVerifiedDescription": "Vous pouvez maintenant soumettre votre entreprise pour examen.",
+    "emailVerificationFailed": "Échec de l'envoi de l'e-mail de vérification. Veuillez réessayer.",
+    "otpCode": "Code de vérification",
+    "otpCodePlaceholder": "Entrez le code à 6 chiffres",
+    "otpCodeHint": "Entrez le code à 6 chiffres envoyé à votre e-mail",
+    "otpSent": "Code de vérification envoyé ! Vérifiez votre boîte de réception pour un code à 6 chiffres.",
+    "otpInvalid": "Code de vérification invalide. Veuillez réessayer.",
+    "otpExpired": "Code de vérification expiré. Veuillez en demander un nouveau.",
+    "otpError": "Le code de vérification est invalide ou a expiré.",
+    "privacyNotice": "Votre e-mail est utilisé uniquement pour la vérification et sera supprimé une fois terminé. Voir notre",
+    "privacyPolicy": "Politique de confidentialité",
+    "locationPlaceholder": "Rue et numéro",
+    "verificationPurpose": "But de la vérification",
+    "verificationPurposeProof": "La pile technologique sera vérifiée à l'aide des liens de preuve fournis.",
+    "verificationPurposeEmail": "La pile technologique sera vérifiée par confirmation par e-mail à partir d'un domaine d'entreprise.",
+    "verificationMethodDisclaimer": "Veuillez noter : votre soumission est vérifiée soit par des liens de preuve, SOIT par vérification par e-mail, pas les deux."
   },
   "index": {
     "companies": "Entreprises",
@@ -69,7 +116,8 @@
     "municipalities": "Municipalités",
     "technologies": "Technologies",
     "viewAll": "Voir tout",
-    "companiesCount": "{count} entreprises"
+    "companiesCount": "{count} entreprises",
+    "companiesFound": "entreprises trouvées"
   },
   "errors": {
     "missingRequired": "Veuillez remplir tous les champs obligatoires.",
@@ -100,18 +148,17 @@
     "byTechnology": "Par technologie",
     "contribute": "Contribuer",
     "addCompany": "Ajouter une entreprise",
-    "submitTechStack": "Compléter l'entreprise",
-    "updateTechStack": "Mettre à jour l'entreprise",
+    "completeCompany": "Compléter l'entreprise",
+    "updateCompany": "Mettre à jour l'entreprise",
     "resources": "Ressources",
     "apiDocs": "Documentation API",
     "apiEndpoint": "Point de terminaison API",
     "about": "À propos",
     "aboutProject": "À propos du projet",
-    "license": "Licence",
+    "privacy": "Politique de confidentialité",
     "contact": "Contact",
     "description": "Techstack Belgique - Annuaire open source des stacks technologiques en Belgique"
-  }
-  ,
+  },
   "breadcrumb": {
     "home": "Accueil",
     "companies": "Sociétés",
@@ -144,10 +191,9 @@
     "introTemplate": "Cette page répertorie les entreprises de logiciels belges vérifiées à {location} utilisant {tech}. Chaque entreprise comprend l'emplacement, la taille et des liens de preuve confirmant leur pile technologique.",
     "introNoTech": "Cette page répertorie les entreprises de logiciels belges vérifiées à {location}. Chaque entreprise comprend l'emplacement, la taille et des liens de preuve confirmant leur pile technologique.",
     "introNoLocation": "Cette page répertorie les entreprises de logiciels belges vérifiées utilisant {tech}. Chaque entreprise comprend l'emplacement, la taille et des liens de preuve confirmant leur pile technologique.",
-    "introDefault": "Cette page répertorie les entreprises de logiciels belges vérifiées. Chaque entreprise comprend l'emplacement, la taille et des liens de preuve confirmant leur pile technologique."
-    ,"descriptionFallback": "Découvrez les entreprises logicielles belges et leurs stacks technologiques."
-  }
-  ,
+    "introDefault": "Cette page répertorie les entreprises de logiciels belges vérifiées. Chaque entreprise comprend l'emplacement, la taille et des liens de preuve confirmant leur pile technologique.",
+    "descriptionFallback": "Découvrez les entreprises logicielles belges et leurs stacks technologiques."
+  },
   "search": {
     "byTechnology": "Rechercher des entreprises par technologie",
     "byProvince": "Rechercher des entreprises par province",
@@ -181,7 +227,7 @@
     "rateLimitsText": "Il n'y a actuellement aucune limite de débit. Veuillez être respectueux et mettre en cache les réponses lorsque cela est possible.",
     "support": "Support",
     "supportText": "Pour des questions, des rapports de bugs ou des demandes de fonctionnalités, veuillez ouvrir un problème sur GitHub:",
-    "githubIssues": "GitHub Issues"
+    "githubIssues": "Issues GitHub"
   },
   "about": {
     "pageTitle": "À propos - Techstack Belgique",
@@ -220,12 +266,71 @@
     "qualityPoint2": "Mises à jour et soumissions gérées par la communauté pour les stacks technologiques et les liens de preuve",
     "qualityPoint3": "Capture automatique de capture d'écran pour la validation des preuves",
     "qualityPoint4": "Actualisations régulières des données pour maintenir l'exactitude et la pertinence",
+    "verification": "Méthodes de vérification",
+    "verificationIntro": "Nous offrons deux façons de vérifier les soumissions de pile technologique d'entreprise, garantissant la qualité et l'authenticité des données :",
+    "verificationByEmail": "Vérification du domaine de courrier électronique",
+    "verificationByEmailText": "Les soumissionnaires peuvent vérifier leur entreprise en confirmant que leur adresse e-mail correspond au domaine de l'entreprise (par exemple, {'@'}entreprise.fr). Cela fournit une vérification rapide que le soumissionnaire a accès au système de messagerie de l'entreprise.",
+    "verificationByProof": "Vérification par documentation de preuve",
+    "verificationByProofText": "Alternativement, les soumissionnaires peuvent fournir des URL de preuve telles que des offres d'emploi, de la documentation ou des références publiques qui démontrent clairement la pile technologique de l'entreprise.",
     "community": "Contribuez à notre jeu de données",
     "communityText": "Votre entreprise manque-t-elle ou est-elle obsolète ? Nous accueillons les soumissions et mises à jour de stacks technologiques. Chaque stack technologique vérifié contribue à une meilleure compréhension du paysage technologique belge.",
-    "completeYourCompany": "Compléter la stack technologique",
+    "completeCompany": "Compléter une Entreprise",
     "addNewCompany": "Ajouter une nouvelle entreprise",
-    "updateTechStack": "Mettre à jour la stack technologique",
+    "updateCompany": "Mettre à jour une Entreprise",
     "contact": "Contact et Commentaires",
     "contactText": "Avez-vous des questions sur nos données, notre méthodologie, ou souhaitez-vous contribuer ? Veuillez nous contacter sur GitHub. Nous recherchons toujours les commentaires et les contributions de la communauté."
+  },
+  "emailVerification": {
+    "title": "Vérification par e-mail",
+    "subtitle": "Vérification de votre adresse e-mail",
+    "pageTitle": "Vérification par e-mail - Techstack Belgique",
+    "pageDescription": "Vérifiez votre adresse e-mail d'entreprise pour l'annuaire Techstack Belgium",
+    "verifying": "Vérification de votre adresse e-mail...",
+    "success": "E-mail vérifié avec succès !",
+    "successMessage": "Votre e-mail a été vérifié pour l'entreprise BCE {cbe}. Votre entreprise sera marquée comme vérifiée.",
+    "error": "Échec de la vérification",
+    "errorMessage": "Le lien de vérification est invalide ou a expiré. Veuillez essayer de soumettre à nouveau votre entreprise.",
+    "backToDirectory": "Retour à l'annuaire des entreprises",
+    "tryAgain": "Réessayer d'ajouter l'entreprise"
+  },
+  "privacy": {
+    "title": "Politique de confidentialité",
+    "subtitle": "Comment nous traitons vos données",
+    "pageTitle": "Politique de confidentialité - Techstack Belgique",
+    "pageDescription": "Politique de confidentialité expliquant comment Techstack Belgique gère la vérification par e-mail et les données des entreprises",
+    "emailUsage": {
+      "title": "Utilisation de l'e-mail pour la vérification",
+      "purpose": "Lorsque vous soumettez une entreprise en utilisant la vérification par e-mail, nous collectons votre adresse e-mail uniquement dans le but de vérifier la soumission de la pile technologique de votre entreprise.",
+      "verification": "Votre e-mail est utilisé pour envoyer un code de vérification à usage unique. Une fois que vous avez saisi ce code et terminé le processus de vérification, votre e-mail sert de preuve que la soumission a été faite par une personne ayant accès à une adresse e-mail de l'entreprise.",
+      "deletion": "Une fois la vérification terminée et votre entreprise ajoutée à notre répertoire, votre adresse e-mail est définitivement supprimée de notre base de données. Nous ne stockons, ne partageons ni n'utilisons votre e-mail à d'autres fins."
+    },
+    "dataCollection": {
+      "title": "Collecte de données",
+      "types": "Nous collectons les types de données suivants :",
+      "companyInfo": "Informations sur l'entreprise provenant des registres officiels belges (base de données BCE)",
+      "techStack": "Informations sur la pile technologique que vous fournissez",
+      "locations": "Données de localisation de l'entreprise",
+      "proofUrls": "URLs de preuve (lors de l'utilisation de la méthode de vérification par URL)",
+      "emailTemp": "Adresses e-mail temporaires pour la vérification (supprimées après vérification)"
+    },
+    "dataRetention": {
+      "title": "Rétention des données",
+      "companyData": "Les informations sur l'entreprise, les piles technologiques et les emplacements sont conservés de manière permanente dans le cadre de notre annuaire public au service de la communauté tech belge.",
+      "emailData": "Les adresses e-mail utilisées pour la vérification sont supprimées immédiatement après la réussite du processus de vérification."
+    },
+    "dataSources": {
+      "title": "Sources de données",
+      "description": "Nos données d'entreprise proviennent de :",
+      "cbe": "Banque-Carrefour des Entreprises (BCE) pour les informations officielles sur les entreprises",
+      "nbb": "Banque Nationale de Belgique pour les données sur le nombre d'employés",
+      "community": "Soumissions et mises à jour de la communauté pour les informations sur la pile technologique"
+    },
+    "contact": {
+      "title": "Contactez-nous",
+      "description": "Si vous avez des questions sur cette politique de confidentialité ou si vous souhaitez demander la suppression des données de votre entreprise, veuillez nous contacter :",
+      "github": "Dépôt GitHub"
+    },
+    "lastUpdated": "Dernière mise à jour",
+    "lastUpdatedDate": "30 janvier 2026"
   }
 }

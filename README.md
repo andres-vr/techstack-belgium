@@ -90,6 +90,7 @@ Visit [http://localhost:3000](http://localhost:3000) to see the app.
 - **State Management**: [Pinia](https://pinia.vuejs.org/)
 - **Maps**: [MapLibre GL](https://maplibre.org/)
 - **i18n**: [@nuxtjs/i18n](https://i18n.nuxtjs.org/)
+- **Email Validation**: [Resend](https://resend.com/)
 - **Images**: [@nuxt/image](https://image.nuxt.com/) with Vercel provider
 - **Analytics**: Vercel Analytics & Speed Insights
 

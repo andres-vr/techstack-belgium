@@ -16,30 +16,47 @@
     "locations": "Locations",
     "techStack": "Tech Stack",
     "proofReferences": "Proof & References",
-    "lastUpdated": "Last Updated"
+    "lastUpdated": "Last Updated",
+    "verified": "Verified",
+    "verifiedByEmail": "This company has been verified via email confirmation",
+    "verifiedByProof": "This company has been verified with proof documentation",
+    "emailVerificationTooltip": "The submitter's email matched this company's domain, confirming they have access to the company email."
   },
   "complete": {
     "title": "Complete Company Tech Stack",
     "subtitle": "Help us map the technologies used by Belgian tech companies",
     "helpLocations": "If any locations are missing, please add them. If your company isn't in the list, you can add it.",
-    "noticeRedirectFromAddIncomplete": "We found an incomplete record for CBE {cbe}. We've prefilled the form so you can add missing locations or details."
+    "noticeRedirectFromAddIncomplete": "We found an incomplete record for CBE {cbe}. We've prefilled the form so you can add missing locations or details.",
+    "noticeRedirectFromAddComplete": "A company with CBE {cbe} was found and loaded. Please complete the information as needed.",
+    "submit": "Complete Company",
+    "submitting": "Completing company...",
+    "successMessage": "Company \"{name}\" completed! A PR has been created for review.",
+    "submissionFailed": "Failed to complete company. Please try again."
   },
   "update": {
     "title": "Update Company Info",
     "subtitle": "Update your company's tech stack and details",
     "helpLocations": "If any locations are missing, please add them. If your company isn't in the list, you can add it.",
-    "noticeRedirectFromAddComplete": "A company with CBE {cbe} was found and loaded. Please update the information as needed."
+    "noticeRedirectFromAddComplete": "A company with CBE {cbe} was found and loaded. Please update the information as needed.",
+    "noticeRedirectFromAddIncomplete": "An incomplete record for CBE {cbe} was found and loaded. Please update the information as needed.",
+    "submit": "Update Company",
+    "submitting": "Updating company...",
+    "successMessage": "Company \"{name}\" updated! A PR has been created for review.",
+    "submissionFailed": "Failed to update company. Please try again."
   },
   "add": {
     "title": "Add New Company",
-    "subtitle": "Add a company not yet in our database by CBE number",    "noticeRedirectToComplete": "We found a matching company (CBE {cbe}) and will redirect you to Complete Company.",
-    "noticeRedirectToUpdate": "We found a matching company (CBE {cbe}) and will redirect you to Update Company.",    "submit": "Add Company",
+    "subtitle": "Add a company not yet in our database by CBE number",
+    "noticeRedirectToComplete": "We found a matching company (CBE {cbe}) and will redirect you to Complete Company.",
+    "noticeRedirectToUpdate": "We found a matching company (CBE {cbe}) and will redirect you to Update Company.",
+    "submit": "Add Company",
     "submitting": "Adding company...",
     "loading": "Fetching company data from official registries...",
     "successMessage": "Company \"{name}\" has been added for review!",
     "addFailed": "Failed to add company. Please try again.",
     "invalidCbe": "Please enter a valid CBE number (10 digits)",
-    "proofRequired": "At least one proof URL is required"
+    "proofRequired": "At least one proof URL is required",
+    "submissionFailed": "Failed to add company. Please try again."
   },
   "form": {
     "cbe": "CBE Number",
@@ -56,9 +73,40 @@
     "proofUrlHint": "Link to company page (careers, blog, etc.) or job board showing your tech stack (required)",
     "proofUrlAdditional": "Proof URL {n}",
     "proofUrlHintAdditional": "Additional proof URL (company page or job board)",
+    "verificationMethod": "Verification Method",
+    "verificationMethodProof": "Provide proof URLs (documentation, job postings, etc.)",
+    "verificationMethodEmail": "Email verification (if no proof available)",
+    "contactEmail": "Contact Email",
+    "contactEmailPlaceholder": "contact{'@'}yourcompany.com",
+    "contactEmailHint": "Company email address for verification. You'll receive a verification code.",
+    "emailDomainMismatch": "Email domain must match your website domain (e.g. name{'@'}yourcompany.be for https://yourcompany.be)",
+    "otpCode": "Verification Code",
+    "otpCodePlaceholder": "Enter 6-digit code",
+    "otpCodeHint": "Enter the 6-digit code sent to your email",
+    "sendVerificationEmail": "Send Verification Code",
+    "sendingEmail": "Sending...",
+    "verifyingOtp": "Verifying...",
+    "verifyOtp": "Verify Code",
+    "resendOtp": "Resend Code",
+    "otpSent": "Verification code sent! Check your inbox for a 6-digit code.",
+    "emailVerificationSent": "Verification code sent! Check your inbox for a 6-digit code.",
+    "emailVerified": "Email verified successfully!",
+    "emailVerifiedDescription": "You can now submit your company for review.",
+    "emailVerificationFailed": "Failed to send verification email. Please try again.",
+    "otpInvalid": "Invalid verification code. Please try again.",
+    "otpExpired": "Verification code expired. Please request a new one.",
+    "privacyNotice": "Your email is used only for verification and will be deleted after completion. See our",
+    "privacyPolicy": "Privacy Policy",
+    "otpError": "The verification code is invalid or has expired.",
     "locations": "Locations",
     "address": "Address",
-    "remove": "Remove"
+    "addressPlaceholder": "e.g., 123 Main Street, Brussels 1000",
+    "remove": "Remove",
+    "locationPlaceholder": "Street and house number",
+    "verificationPurpose": "Verification Purpose",
+    "verificationPurposeProof": "The tech stack will be verified using the provided proof links.",
+    "verificationPurposeEmail": "The tech stack will be verified by email confirmation from a company domain.",
+    "verificationMethodDisclaimer": "Please note: Your submission is verified by EITHER proof links OR email verification, not both."
   },
   "index": {
     "companies": "Companies",
@@ -68,7 +116,8 @@
     "municipalities": "Municipalities",
     "technologies": "Technologies",
     "viewAll": "View all",
-    "companiesCount": "{count} companies"
+    "companiesCount": "{count} companies",
+    "companiesFound": "companies found"
   },
   "errors": {
     "missingRequired": "Please fill in all required fields.",
@@ -99,13 +148,14 @@
     "byTechnology": "By Technology",
     "contribute": "Contribute",
     "addCompany": "Add New Company",
-    "submitTechStack": "Complete Company",
-    "updateTechStack": "Update Company",
+    "completeCompany": "Complete Company",
+    "updateCompany": "Update Company",
     "resources": "Resources",
     "apiDocs": "API Documentation",
     "apiEndpoint": "API Endpoint",
     "about": "About",
     "aboutProject": "About Project",
+    "privacy": "Privacy Policy",
     "license": "License",
     "contact": "Contact",
     "description": "Techstack Belgium - Open source tech stack directory for Belgium"
@@ -219,12 +269,71 @@
     "qualityPoint2": "Community-driven updates and submissions for tech stacks and proof links",
     "qualityPoint3": "Automated screenshot capture for proof validation",
     "qualityPoint4": "Regular data refreshes to maintain accuracy and relevance",
+    "verification": "Verification Methods",
+    "verificationIntro": "We offer two ways to verify company tech stack submissions, ensuring data quality and authenticity:",
+    "verificationByEmail": "Email Domain Verification",
+    "verificationByEmailText": "Submitters can verify their company by confirming their email address matches the company's domain (e.g., {'@'}company.com). This provides quick verification that the submitter has access to the company email system.",
+    "verificationByProof": "Proof Documentation Verification",
+    "verificationByProofText": "Alternatively, submitters can provide proof URLs such as job postings, documentation, or public references that clearly demonstrate the company's technology stack.",
     "community": "Contribute to our dataset",
     "communityText": "Is your company missing or outdated? We welcome tech stack submissions and updates. Every verified tech stack contributes to a better understanding of Belgium's tech landscape.",
-    "completeYourCompany": "Complete Tech Stack",
+    "completeCompany": "Complete Company",
     "addNewCompany": "Add New Company",
-    "updateTechStack": "Update Tech Stack",
+    "updateCompany": "Update Company",
     "contact": "Contact & Feedback",
     "contactText": "Have questions about our data, methodology, or want to contribute? Please reach out to us on GitHub. We're always looking for feedback and community contributions."
+  },
+  "emailVerification": {
+    "title": "Email Verification",
+    "subtitle": "Verifying your email address",
+    "pageTitle": "Email Verification - Techstack Belgium",
+    "pageDescription": "Verify your company email address for Techstack Belgium directory",
+    "verifying": "Verifying your email address...",
+    "success": "Email Verified Successfully!",
+    "successMessage": "Your email has been verified for company CBE {cbe}. Your company will be marked as verified.",
+    "error": "Verification Failed",
+    "errorMessage": "The verification link is invalid or has expired. Please try submitting your company again.",
+    "backToDirectory": "Back to Company Directory",
+    "tryAgain": "Try Adding Company Again"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "subtitle": "How we handle your data",
+    "pageTitle": "Privacy Policy - Techstack Belgium",
+    "pageDescription": "Privacy policy explaining how Techstack Belgium handles email verification and company data",
+    "emailUsage": {
+      "title": "Email Usage for Verification",
+      "purpose": "When you submit a company using email verification, we collect your email address solely for the purpose of verifying your company's tech stack submission.",
+      "verification": "Your email is used to send a one-time verification link. Once you click this link and complete the verification process, your email serves as proof that the submission was made by someone with access to a company email address.",
+      "deletion": "After verification is complete and your company is added to our directory, your email address is permanently deleted from our database. We do not store, share, or use your email for any other purposes."
+    },
+    "dataCollection": {
+      "title": "Data Collection",
+      "types": "We collect the following types of data:",
+      "companyInfo": "Company information from official Belgian registries (CBE database)",
+      "techStack": "Technology stack information you provide",
+      "locations": "Company location data",
+      "proofUrls": "Proof URLs (when using URL verification method)",
+      "emailTemp": "Email addresses temporarily for verification (deleted after verification)"
+    },
+    "dataRetention": {
+      "title": "Data Retention",
+      "companyData": "Company information, tech stacks, and locations are retained permanently as part of our public directory to serve the Belgian tech community.",
+      "emailData": "Email addresses used for verification are deleted immediately after successful verification completion."
+    },
+    "dataSources": {
+      "title": "Data Sources",
+      "description": "Our company data comes from:",
+      "cbe": "Belgian Central Bank of Enterprises (CBE) for official company information",
+      "nbb": "National Bank of Belgium for employee count data",
+      "community": "Community submissions and updates for tech stack information"
+    },
+    "contact": {
+      "title": "Contact Us",
+      "description": "If you have questions about this privacy policy or want to request deletion of your company's data, please contact us:",
+      "github": "GitHub Repository"
+    },
+    "lastUpdated": "Last updated",
+    "lastUpdatedDate": "January 30, 2026"
   }
 }

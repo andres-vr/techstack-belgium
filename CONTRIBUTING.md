@@ -11,72 +11,19 @@ The easiest way to add a company is through our website:
 1. **Add by CBE Number**: Go to [techstack.be/companies/add](https://techstack.be/companies/add)
    - Enter the company's CBE (enterprise) number
    - Our system will automatically fetch company details
-   - You just need to add the tech stack and proof URLs
+   - You just need to add the tech stack and proof URLs or verify via email
 
 2. **Complete Company**: Go to [techstack.be/companies/complete](https://techstack.be/companies/complete)
    - Complete company details for companies already in our incomplete database
    - Provide proof URLs (job postings, tech blogs, GitHub, etc.)
+   - Verify the submission with proof or via email
 
 3. **Update Existing Company**: Go to [techstack.be/companies/update](https://techstack.be/companies/update)
    - Search for the company
    - Update their tech stack with new technologies
+   - Verify the submission with proof or via email
 
-### 2. Add a New Company (via Pull Request)
-
-For bulk additions or if you prefer working with code:
-
-1. Fork the repository
-2. Add company JSON file to `app/data/companies/complete/` or `app/data/companies/incomplete/`
-3. Follow the company data format (see below)
-4. Submit a pull request
-
-#### Company Data Format
-
-```json
-{
-  "cbe": "0123456789",
-  "name": "Company Name",
-  "site": "https://company.be",
-  "locations": [
-    {
-      "province": "antwerp",
-      "municipality": "antwerp",
-      "address": "Street 123, 2000 Antwerp",
-      "coords": [4.4024, 51.2194]
-    }
-  ],
-  "tech": ["Vue", "Node.js", "PostgreSQL"],
-  "employees": 50,
-  "founded": 2015,
-  "proof": [
-    {
-      "url": "https://company.be/careers",
-      "image": "optional-screenshot.png"
-    }
-  ],
-  "lastUpdated": "2026-01-28T00:00:00.000Z"
-}
-```
-
-#### Valid Province IDs
-
-- `antwerp`
-- `brussels-capital`
-- `east-flanders`
-- `flemish-brabant`
-- `hainaut`
-- `liege`
-- `limburg`
-- `luxembourg`
-- `namur`
-- `walloon-brabant`
-- `west-flanders`
-
-### Valid Municipality IDs
-
-- A list of all municipalities can be found under app/data/municipalities.ts
-
-### 3. Improve the Codebase
+### 2. Improve the Codebase
 
 #### Setting Up Development Environment
 
@@ -103,7 +50,7 @@ npm run dev
 - Use Tailwind CSS for styling
 - Run type checking before submitting: `npx tsc --noEmit`
 
-### 4. Add Translations
+### 3. Add Translations
 
 We support English, Dutch, French, and German. Translation files are in `i18n/locales/`.
 
@@ -114,7 +61,7 @@ To add or improve translations:
 3. Make sure all locale files have the same keys
 4. Submit a pull request
 
-### 5. Report Issues
+### 4. Report Issues
 
 Found a bug or have a suggestion? Please [open an issue](https://github.com/your-org/techstack-belgium/issues) with:
 
