@@ -1056,6 +1056,44 @@
     "lastUpdated": "2026-01-30T11:17:50.731Z"
   },
   {
+    "cbe": "0830.364.144",
+    "name": "Railnova",
+    "site": "https://www.railnova.eu/",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "sint-gillis",
+        "address": "Rue Emile Feron 153 1060 Saint-Gilles BE",
+        "coords": [
+          4.335156,
+          50.830442
+        ]
+      }
+    ],
+    "tech": [
+      "Python",
+      "PostgreSQL",
+      "Django"
+    ],
+    "employees": 28.4,
+    "founded": 2010,
+    "proof": [
+      {
+        "url": "https://www.railnova.eu/products/railfleet/",
+        "image": "https://i.ibb.co/6czPkGyr/railnova-1769983837623-0.png"
+      },
+      {
+        "url": "https://www.railnova.eu/blog/archives/",
+        "image": "https://i.ibb.co/v6d8C7Fd/railnova-1769983845245-1.png"
+      },
+      {
+        "url": "https://www.railnova.eu/internship-and-student-job-program-at-railnova/",
+        "image": "https://i.ibb.co/spFwJFtM/railnova-1769983851913-2.png"
+      }
+    ],
+    "lastUpdated": "2026-02-01T22:10:58.252Z"
+  },
+  {
     "cbe": "0847.240.461",
     "name": "Sparklink",
     "site": "https://sparklink.be",
