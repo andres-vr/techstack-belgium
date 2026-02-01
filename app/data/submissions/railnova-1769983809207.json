@@ -1,0 +1,31 @@
+{
+  "companyName": "Railnova",
+  "website": "https://www.railnova.eu/",
+  "locations": [
+    {
+      "province": "brussels-capital",
+      "municipality": "sint-gillis",
+      "address": "Rue Emile Feron 153 1060 Saint-Gilles BE",
+      "coords": [
+        4.335156,
+        50.830442
+      ]
+    }
+  ],
+  "techStack": [
+    "Python",
+    "PostgreSQL",
+    "Django"
+  ],
+  "proofUrls": [
+    "https://www.railnova.eu/products/railfleet/",
+    "https://www.railnova.eu/blog/archives/",
+    "https://www.railnova.eu/internship-and-student-job-program-at-railnova/"
+  ],
+  "cbe": "0830.364.144",
+  "employees": 28.4,
+  "founded": 2010,
+  "verified": true,
+  "verifiedByEmail": false,
+  "emailVerified": true
+}
