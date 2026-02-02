@@ -1,0 +1,49 @@
+{
+  "companyName": "Eliovp",
+  "website": "https://eliovp.com",
+  "locations": [
+    {
+      "province": "east-flanders",
+      "municipality": "sint-gillis-waas",
+      "address": "Bareel 53 9170 Sint-Gillis-Waas BE",
+      "coords": [
+        4.080228,
+        51.253738
+      ]
+    }
+  ],
+  "techStack": [
+    "React",
+    "Next.js",
+    "Go",
+    "Node.js",
+    "Rust",
+    "TypeScript",
+    "FastAPI",
+    "Python",
+    "Laravel",
+    "WebSockets",
+    "REST",
+    "GraphQL",
+    "PostgreSQL",
+    "Redis",
+    "Ansible",
+    "Docker",
+    "GitHub Actions",
+    "GitLab CI",
+    "Kubernetes",
+    "React Native",
+    "Flask"
+  ],
+  "proofUrls": [
+    "https://ai.eliovp.com",
+    "https://ai.eliovp.com/paiton",
+    "https://eliovp.com/blog"
+  ],
+  "cbe": "0680.470.638",
+  "employees": null,
+  "founded": 2017,
+  "verified": true,
+  "verifiedByEmail": false,
+  "emailVerified": true
+}
