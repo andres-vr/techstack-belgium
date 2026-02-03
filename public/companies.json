@@ -596,6 +596,55 @@
     "lastUpdated": "2026-01-29T20:07:04.933Z"
   },
   {
+    "cbe": "0682.598.007",
+    "name": "Dptechnics",
+    "site": "https://www.dptechnics.com",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "knokke-heist",
+        "address": "Westkapellestraat 396 44 8300 Knokke-Heist BE",
+        "coords": [
+          3.273695,
+          51.322694
+        ]
+      }
+    ],
+    "tech": [
+      "React",
+      "SASS",
+      "Go",
+      "Node.js",
+      "Java",
+      "Python",
+      "Rust",
+      "TypeScript",
+      "REST",
+      "WebSockets",
+      "PostgreSQL",
+      "MariaDB",
+      "SQLite",
+      "MongoDB",
+      "Redis",
+      "Docker",
+      "GitHub Actions",
+      "GitLab CI",
+      "Flutter",
+      "React Native",
+      "Kotlin",
+      "Swift"
+    ],
+    "employees": 5,
+    "founded": 2017,
+    "proof": [
+      {
+        "url": "https://www.dptechnics.com",
+        "image": "https://i.ibb.co/sdgMCvN7/dptechnics-1770101478091-0.png"
+      }
+    ],
+    "lastUpdated": "2026-02-03T06:51:24.748Z"
+  },
+  {
     "cbe": "0895.229.925",
     "name": "Exsertus",
     "site": "https://www.exsertus.be",
@@ -33424,26 +33473,6 @@
     ],
     "tech": [],
     "employees": 7,
-    "founded": 2017,
-    "proof": []
-  },
-  {
-    "cbe": "0682.598.007",
-    "name": "Dptechnics",
-    "site": "",
-    "locations": [
-      {
-        "province": "west-flanders",
-        "municipality": "knokke-heist",
-        "address": "Westkapellestraat 396 44 8300 Knokke-Heist BE",
-        "coords": [
-          3.273695,
-          51.322694
-        ]
-      }
-    ],
-    "tech": [],
-    "employees": 5,
     "founded": 2017,
     "proof": []
   },
