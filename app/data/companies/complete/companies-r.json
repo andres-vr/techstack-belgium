@@ -69,5 +69,53 @@
       }
     ],
     "lastUpdated": "2026-02-01T22:10:58.252Z"
+  },
+  {
+    "cbe": "1005.300.476",
+    "name": "Return",
+    "site": "www.return.be",
+    "locations": [
+      {
+        "province": "antwerp",
+        "municipality": "antwerpen",
+        "address": "Terbekehofdreef 24 4 2610 Antwerpen BE",
+        "coords": [
+          4.375091,
+          51.154631
+        ]
+      }
+    ],
+    "tech": [
+      "C#",
+      "jQuery",
+      "React",
+      "TypeScript",
+      "Node.js",
+      ".NET",
+      "REST",
+      "Kafka",
+      "MySQL",
+      "SQLite",
+      "GitHub Actions",
+      "Azure",
+      "Flutter"
+    ],
+    "employees": null,
+    "founded": 2024,
+    "proof": [
+      {
+        "url": "https://return.be/dynamics-365/",
+        "image": "https://i.ibb.co/XZ370zQ3/return-1770197346825-0.png"
+      },
+      {
+        "url": "https://return.be/microsoft-powerapps/",
+        "image": "https://i.ibb.co/wF0gM1nj/return-1770197354577-1.png"
+      },
+      {
+        "url": "https://return.be/ai-copilot-voor-dynamics-365/",
+        "image": "https://i.ibb.co/hh0Nh44/return-1770197363891-2.png"
+      }
+    ],
+    "lastUpdated": "2026-02-04T09:29:34.893Z"
   }
 ]
