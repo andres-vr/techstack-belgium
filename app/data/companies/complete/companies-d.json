@@ -89,5 +89,47 @@
       }
     ],
     "lastUpdated": "2026-01-29T20:07:04.933Z"
+  },
+  {
+    "cbe": "0682.598.007",
+    "name": "Dptechnics",
+    "site": "https://www.dptechnics.com",
+    "locations": [
+      {
+        "province": "west-flanders",
+        "municipality": "knokke-heist",
+        "address": "Westkapellestraat 396 44 8300 Knokke-Heist BE",
+        "coords": [
+          3.273695,
+          51.322694
+        ]
+      }
+    ],
+    "tech": [
+      "React",
+      "Svelte",
+      "Rust",
+      "Go",
+      "Node.js",
+      "Python",
+      "TypeScript",
+      "Express",
+      "REST",
+      "WebSockets",
+      "PostgreSQL",
+      "MariaDB",
+      "SQLite",
+      "MongoDB",
+      "Redis",
+      "Docker",
+      "GitHub Actions",
+      "GitLab CI",
+      "Flutter",
+      "React Native"
+    ],
+    "employees": 5,
+    "founded": 2017,
+    "proof": [],
+    "lastUpdated": "2026-02-09T20:30:11.422Z"
   }
 ]

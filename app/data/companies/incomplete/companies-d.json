@@ -5905,26 +5905,6 @@
     "proof": []
   },
   {
-    "cbe": "0682.598.007",
-    "name": "Dptechnics",
-    "site": "",
-    "locations": [
-      {
-        "province": "west-flanders",
-        "municipality": "knokke-heist",
-        "address": "Westkapellestraat 396 44 8300 Knokke-Heist BE",
-        "coords": [
-          3.273695,
-          51.322694
-        ]
-      }
-    ],
-    "tech": [],
-    "employees": 5,
-    "founded": 2017,
-    "proof": []
-  },
-  {
     "cbe": "0682.898.212",
     "name": "Dynoprotec Training And Consulting",
     "site": "",
