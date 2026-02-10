@@ -5030,35 +5030,6 @@
     "proof": []
   },
   {
-    "cbe": "0678.407.310",
-    "name": "Bmk Solutions",
-    "site": "www.bmksolutions.be",
-    "locations": [
-      {
-        "province": "limburg",
-        "municipality": "houthalen-helchteren",
-        "address": "Hortelstraat 37 3530 Houthalen-Helchteren BE",
-        "coords": [
-          5.343556,
-          51.038212
-        ]
-      },
-      {
-        "province": "limburg",
-        "municipality": "genk",
-        "address": "Hoogstraat 69 1 3600 Genk BE",
-        "coords": [
-          5.50586,
-          50.959012
-        ]
-      }
-    ],
-    "tech": [],
-    "employees": 3,
-    "founded": 2017,
-    "proof": []
-  },
-  {
     "cbe": "0678.428.787",
     "name": "Blaton & Nakopoulou",
     "site": "",
