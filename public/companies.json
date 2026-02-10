@@ -270,6 +270,51 @@
     "lastUpdated": "2026-01-30T13:14:45.556Z"
   },
   {
+    "cbe": "0678.407.310",
+    "name": "Bmk Solutions",
+    "site": "https://www.bmksolutions.be",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "houthalen-helchteren",
+        "address": "Hortelstraat 37 3530 Houthalen-Helchteren BE",
+        "coords": [
+          5.343556,
+          51.038212
+        ]
+      },
+      {
+        "province": "limburg",
+        "municipality": "genk",
+        "address": "Hoogstraat 69 1 3600 Genk BE",
+        "coords": [
+          5.50586,
+          50.959012
+        ]
+      }
+    ],
+    "tech": [
+      "Vue",
+      "React",
+      "Tailwind CSS",
+      "Bootstrap",
+      "Flutter",
+      "Laravel",
+      "PHP",
+      "C#",
+      "MySQL"
+    ],
+    "employees": 3,
+    "founded": 2017,
+    "proof": [
+      {
+        "url": "https://bmksolutions.be/workflow#bmk-development",
+        "image": "https://i.ibb.co/yBRd0q0F/bmk-solutions-1770744364607-0.png"
+      }
+    ],
+    "lastUpdated": "2026-02-10T17:26:12.596Z"
+  },
+  {
     "cbe": "1011.008.135",
     "name": "Codana",
     "site": "https://www.codana.be",
@@ -16360,35 +16405,6 @@
     ],
     "tech": [],
     "employees": 15,
-    "founded": 2017,
-    "proof": []
-  },
-  {
-    "cbe": "0678.407.310",
-    "name": "Bmk Solutions",
-    "site": "www.bmksolutions.be",
-    "locations": [
-      {
-        "province": "limburg",
-        "municipality": "houthalen-helchteren",
-        "address": "Hortelstraat 37 3530 Houthalen-Helchteren BE",
-        "coords": [
-          5.343556,
-          51.038212
-        ]
-      },
-      {
-        "province": "limburg",
-        "municipality": "genk",
-        "address": "Hoogstraat 69 1 3600 Genk BE",
-        "coords": [
-          5.50586,
-          50.959012
-        ]
-      }
-    ],
-    "tech": [],
-    "employees": 3,
     "founded": 2017,
     "proof": []
   },
