@@ -4534,26 +4534,6 @@
     "proof": []
   },
   {
-    "cbe": "0557.976.959",
-    "name": "Buzzworks",
-    "site": "",
-    "locations": [
-      {
-        "province": "antwerp",
-        "municipality": "kontich",
-        "address": "Veldkant 33A 2550 Kontich BE",
-        "coords": [
-          4.442747,
-          51.142439
-        ]
-      }
-    ],
-    "tech": [],
-    "employees": 19,
-    "founded": 2014,
-    "proof": []
-  },
-  {
     "cbe": "0561.808.954",
     "name": "Brainstorm Consulting",
     "site": "",
