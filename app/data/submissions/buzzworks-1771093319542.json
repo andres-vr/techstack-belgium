@@ -1,0 +1,59 @@
+{
+  "companyName": "Buzzworks",
+  "website": "https://www.buzzworks.be",
+  "locations": [
+    {
+      "province": "antwerp",
+      "municipality": "kontich",
+      "address": "Veldkant 33A 2550 Kontich BE",
+      "coords": [
+        4.442747,
+        51.142439
+      ]
+    },
+    {
+      "province": "antwerp",
+      "municipality": "kontich",
+      "address": "Prins Boudewijnlaan 24, 2550 Kontich, Antwerp, Belgium",
+      "coords": [
+        4.438778,
+        51.140031
+      ]
+    },
+    {
+      "province": "limburg",
+      "municipality": "hasselt",
+      "address": "Kempische Steenweg 311, 3500 Hasselt, Limburg, Belgium",
+      "coords": [
+        5.352192,
+        50.951874
+      ]
+    },
+    {
+      "province": "east-flanders",
+      "municipality": "",
+      "address": "Guldensporenpark 9820, 9820 Merelbeke, East Flanders, Belgium",
+      "coords": [
+        3.755556,
+        51.005449
+      ]
+    }
+  ],
+  "techStack": [
+    "Flutter",
+    "Kotlin",
+    "React Native",
+    "Swift",
+    "Node.js",
+    "Next.js",
+    "React",
+    "TypeScript"
+  ],
+  "proofUrls": [
+    "https://www.cordacampus.com/cordabedrijven/buzzworks/"
+  ],
+  "emailVerified": false,
+  "cbe": "0557.976.959",
+  "employees": 19,
+  "founded": 2014
+}
