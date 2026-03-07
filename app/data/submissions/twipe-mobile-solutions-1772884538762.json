@@ -1,0 +1,31 @@
+{
+  "companyName": "Twipe Mobile Solutions",
+  "website": "https://www.twipemobile.com",
+  "locations": [
+    {
+      "province": "flemish-brabant",
+      "municipality": "leuven",
+      "address": "Gaston Geenslaan 8 3001 Leuven BE",
+      "coords": [
+        4.670758,
+        50.865597
+      ]
+    }
+  ],
+  "techStack": [
+    "React Native",
+    ".NET",
+    "C#",
+    "Terraform",
+    "Python",
+    "AWS",
+    "Docker"
+  ],
+  "proofUrls": [
+    "https://www.twipemobile.com/careers/"
+  ],
+  "emailVerified": false,
+  "cbe": "0838.686.645",
+  "employees": 47,
+  "founded": 2011
+}
