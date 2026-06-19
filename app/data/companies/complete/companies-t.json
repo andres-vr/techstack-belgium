@@ -78,5 +78,34 @@
       }
     ],
     "lastUpdated": "2026-03-07T11:56:15.530Z"
+  },
+  {
+    "cbe": "1031.720.902",
+    "name": "Think-tank",
+    "site": "https://think-tank.io",
+    "locations": [
+      {
+        "province": "flemish-brabant",
+        "municipality": "bertem",
+        "address": "Mezenstraat 80 3061 Bertem BE",
+        "coords": [
+          4.58098,
+          50.85051
+        ]
+      }
+    ],
+    "tech": [
+      "Tailwind CSS",
+      "PHP",
+      "Laravel",
+      "REST",
+      "GraphQL",
+      "Kubernetes",
+      "Terraform"
+    ],
+    "employees": null,
+    "founded": 2025,
+    "proof": [],
+    "lastUpdated": "2026-06-19T21:53:42.373Z"
   }
 ]
