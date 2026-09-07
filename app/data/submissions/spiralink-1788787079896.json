@@ -1,0 +1,32 @@
+{
+  "companyName": "Spiralink",
+  "website": "spiralink.co",
+  "locations": [
+    {
+      "province": "east-flanders",
+      "municipality": "gent",
+      "address": "St.Pietersnwst.115,Kl.Zus.Apost. 11 9000 Gent BE",
+      "coords": [
+        3.744208,
+        51.056229
+      ]
+    }
+  ],
+  "techStack": [
+    "Python",
+    "FastAPI",
+    "WebSockets",
+    "PostgreSQL",
+    "Docker"
+  ],
+  "proofUrls": [
+    "https://docs.google.com/document/d/12U6UZurfz65p2Aiw20EfPEA3EaJUZXTMRzGpb4EVW20/edit?usp=sharing",
+    "https://www.linkedin.com/jobs/view/4464027707/"
+  ],
+  "cbe": "0631.934.214",
+  "employees": null,
+  "founded": 2015,
+  "verified": true,
+  "verifiedByEmail": false,
+  "emailVerified": true
+}
