@@ -41,5 +41,41 @@
       }
     ],
     "lastUpdated": "2026-01-30T10:46:24.044Z"
+  },
+  {
+    "cbe": "0631.934.214",
+    "name": "Spiralink",
+    "site": "spiralink.co",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "gent",
+        "address": "St.Pietersnwst.115,Kl.Zus.Apost. 11 9000 Gent BE",
+        "coords": [
+          3.744208,
+          51.056229
+        ]
+      }
+    ],
+    "tech": [
+      "Python",
+      "FastAPI",
+      "WebSockets",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "employees": null,
+    "founded": 2015,
+    "proof": [
+      {
+        "url": "https://docs.google.com/document/d/12U6UZurfz65p2Aiw20EfPEA3EaJUZXTMRzGpb4EVW20/edit?usp=sharing",
+        "image": "https://i.ibb.co/1t0W0jpW/spiralink-1788787109371-0.png"
+      },
+      {
+        "url": "https://www.linkedin.com/jobs/view/4464027707/",
+        "image": "https://i.ibb.co/GQTLy75v/spiralink-1788787115379-1.png"
+      }
+    ],
+    "lastUpdated": "2026-09-07T13:18:38.865Z"
   }
 ]
