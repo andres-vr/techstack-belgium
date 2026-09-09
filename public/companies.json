@@ -1100,6 +1100,40 @@
     "lastUpdated": "2026-01-28T19:12:43.536Z"
   },
   {
+    "cbe": "0833.942.355",
+    "name": "Mlv Group",
+    "site": "www.mlv.group",
+    "locations": [
+      {
+        "province": "brussels-capital",
+        "municipality": "brussels",
+        "address": "Boulevard Bischoffsheim 39 4 1000 Bruxelles BE",
+        "coords": [
+          4.36652,
+          50.85256
+        ]
+      },
+      {
+        "province": "liege",
+        "municipality": "lincent",
+        "address": "Rue de la Vallée 26 4287 Lincent BE",
+        "coords": [
+          5.020872,
+          50.712629
+        ]
+      }
+    ],
+    "tech": [
+      "Next.js",
+      "PostgreSQL",
+      "Redis"
+    ],
+    "employees": null,
+    "founded": 2011,
+    "proof": [],
+    "lastUpdated": "2026-09-09T08:40:01.191Z"
+  },
+  {
     "cbe": "0694.507.231",
     "name": "Phpro",
     "site": "https://www.phpro.be",
