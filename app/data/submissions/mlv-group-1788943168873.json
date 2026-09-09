@@ -1,0 +1,36 @@
+{
+  "companyName": "Mlv Group",
+  "website": "www.mlv.group",
+  "locations": [
+    {
+      "province": "brussels-capital",
+      "municipality": "brussels",
+      "address": "Boulevard Bischoffsheim 39 4 1000 Bruxelles BE",
+      "coords": [
+        4.36652,
+        50.85256
+      ]
+    },
+    {
+      "province": "liege",
+      "municipality": "lincent",
+      "address": "Rue de la Vallée 26 4287 Lincent BE",
+      "coords": [
+        5.020872,
+        50.712629
+      ]
+    }
+  ],
+  "techStack": [
+    "Next.js",
+    "PostgreSQL",
+    "Redis"
+  ],
+  "proofUrls": [],
+  "cbe": "0833.942.355",
+  "employees": null,
+  "founded": 2011,
+  "verified": true,
+  "verifiedByEmail": true,
+  "emailVerified": true
+}
