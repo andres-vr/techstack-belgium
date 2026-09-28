@@ -1286,6 +1286,33 @@
     "lastUpdated": "2026-01-30T10:46:24.044Z"
   },
   {
+    "cbe": "1016.537.036",
+    "name": "Strategix",
+    "site": "https://zendev.be",
+    "locations": [
+      {
+        "province": "limburg",
+        "municipality": "diepenbeek",
+        "address": "Visserijstraat 4 A 3590 Diepenbeek BE",
+        "coords": [
+          5.445197,
+          50.920248
+        ]
+      }
+    ],
+    "tech": [
+      "Tailwind CSS",
+      "Vue",
+      "PHP",
+      "Symfony",
+      "Nuxt"
+    ],
+    "employees": null,
+    "founded": 2024,
+    "proof": [],
+    "lastUpdated": "2026-09-28T22:32:03.802Z"
+  },
+  {
     "cbe": "0762.706.050",
     "name": "Thoughtworks",
     "site": "https://thoughtlabs.be",
