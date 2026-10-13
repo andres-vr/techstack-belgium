@@ -1100,6 +1100,49 @@
     "lastUpdated": "2026-01-28T19:12:43.536Z"
   },
   {
+    "cbe": "0667.958.628",
+    "name": "Nebulae",
+    "site": "https://nebulae.dev",
+    "locations": [
+      {
+        "province": "east-flanders",
+        "municipality": "wichelen",
+        "address": "Bremenhulstraat 18 9260 Wichelen BE",
+        "coords": [
+          3.928446,
+          50.994539
+        ]
+      }
+    ],
+    "tech": [
+      "Vue",
+      "React",
+      "Angular",
+      "Next.js",
+      "Node.js",
+      "Express",
+      "NestJS",
+      "GraphQL",
+      "PostgreSQL",
+      "MySQL",
+      "MongoDB",
+      "Docker",
+      "GitHub Actions",
+      "Jenkins",
+      "React Native",
+      "Flutter"
+    ],
+    "employees": null,
+    "founded": 2016,
+    "proof": [
+      {
+        "url": "https://nebulae.dev/en/technologies",
+        "image": "https://i.ibb.co/d06ZYMm2/nebulae-1791883875776-0.png"
+      }
+    ],
+    "lastUpdated": "2026-10-13T09:31:21.337Z"
+  },
+  {
     "cbe": "0694.507.231",
     "name": "Phpro",
     "site": "https://www.phpro.be",
